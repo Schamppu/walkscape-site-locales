@@ -1,45 +1,47 @@
 {
-  "meta": {
-    "title": "WalkScape: The Walking Role-Playing Fitness Game",
-    "description": "Walkscape: Grind by Walking!"
-  },
-  "gameSection": {
-    "title": "The Game",
-    "section-1": "WalkScape is a game inspired by some old school MMORPGs. But this game has one major trick up its sleeve: you don't play actively, but instead gain progress by walking.",
-    "section-2": "You can expect a fun and exciting journey through the World of Arenum while also having the motivation to walk!"
-  },
-  "screenshotsSection": {
-    "title": "Screenshots",
-    "description": "Screenshots from the game covering some of the mechanics. You can find more on our Subreddit!"
-  },
-  "supportUsSection": {
-    "title": "Support Us",
-    "section-1": "You can support WalkScape's development via Patreon or Buy me a Coffee. Supporters of the game gain some exclusive benefits that are listed on Patreon and Buy me a Coffee.",
+  "singulars": {
+    "meta": {
+      "title": "WalkScape: The Walking Role-Playing Fitness Game",
+      "description": "Walkscape: Grind by Walking!"
+    },
+    "gameSection": {
+      "title": "The Game",
+      "section-1": "WalkScape is a game inspired by some old school MMORPGs. But this game has one major trick up its sleeve: you don't play actively, but instead gain progress by walking.",
+      "section-2": "You can expect a fun and exciting journey through the World of Arenum while also having the motivation to walk!"
+    },
+    "screenshotsSection": {
+      "title": "Screenshots",
+      "description": "Screenshots from the game covering some of the mechanics. You can find more on our Subreddit!"
+    },
+    "supportUsSection": {
+      "title": "Support Us",
+      "section-1": "You can support WalkScape's development via Patreon or Buy me a Coffee. Supporters of the game gain some exclusive benefits that are listed on Patreon and Buy me a Coffee.",
 
-    "section-2": "WalkScape is completely community funded, and all of the support is very much appreaciated. ❤️"
-  },
-  "downloadSection": {
-    "title": "Download",
-    "section-1": "Nothing here yet. But hopefully sooner than later! WalkScape will be released for both iOS and Android."
-  },
-  "footer": {
-    "copyright": "Copyrights reserved by WalkScape.",
-    "privacy-policy": "Privacy Policy"
-  },
-  "callToAction": {
-    "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!",
-    "waveActive": "We are currently sending out Beta invites!",
-    "waveDefined": "The next closed Beta wave will start in <br/> <2>{{weeks}} weeks!</2>",
-    "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
-  },
-  "statistics": {
-    "steps": "{{value}} total steps taken",
-    "actions": "{{value}} total actions completed",
-    "shrimps": "{{value}} shrimps caught",
-    "wine": "{{value}} bottles of wine found in chests",
-    "ship": "{{value}} ships repaired"
-  },
-  "presskit": {
-    "title": "Press kit"
+      "section-2": "WalkScape is completely community funded, and all of the support is very much appreaciated. ❤️"
+    },
+    "downloadSection": {
+      "title": "Download",
+      "section-1": "Nothing here yet. But hopefully sooner than later! WalkScape will be released for both iOS and Android."
+    },
+    "footer": {
+      "copyright": "Copyrights reserved by WalkScape.",
+      "privacy-policy": "Privacy Policy"
+    },
+    "callToAction": {
+      "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!",
+      "waveActive": "We are currently sending out Beta invites!",
+      "waveDefined": "The next closed Beta wave will start in <br/> <2>{{weeks}} weeks!</2>",
+      "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
+    },
+    "statistics": {
+      "steps": "{{value}} total steps taken",
+      "actions": "{{value}} total actions completed",
+      "shrimps": "{{value}} shrimps caught",
+      "wine": "{{value}} bottles of wine found in chests",
+      "ship": "{{value}} ships repaired"
+    },
+    "presskit": {
+      "title": "Press kit"
+    }
   }
 }
