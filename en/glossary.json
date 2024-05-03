@@ -1,0 +1,12 @@
+{
+    "buttons": {
+        "game": "Start your journey",
+        "download": "Download Game",
+        "support": "Support us",
+        "register": "Register",
+        "newsletter": "Newsletter",
+        "contact": "Contact us",
+        "buyMeACoffee": "Buy me a coffee",
+        "patreon": "Patreon"
+    }
+}

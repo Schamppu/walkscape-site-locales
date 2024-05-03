@@ -1,0 +1,12 @@
+{
+  "buttons" : {
+    "buyMeACoffee" : "Køb en kop kaffe til mig",
+    "contact" : "Kontakt os",
+    "download" : "Download spil",
+    "game" : "Start din rejse",
+    "newsletter" : "Nyhedsbrev",
+    "patreon" : "Patreon",
+    "register" : "Tilmeld dig",
+    "support" : "Støt os"
+  }
+}

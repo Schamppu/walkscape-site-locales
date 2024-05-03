@@ -1,0 +1,50 @@
+{
+  "developmentSupport" : {
+    "answer-section-1" : "Du kan støtte spillet ved at deltage i diskussionerne her på Discord eller på vores subreddit. Det hjælper også at stemme i afstemningerne, give feedback og komme med forslag!",
+    "answer-section-2" : "Hvis du for alvor vil støtte spillet, så spred ordet. At få mere opmærksomhed hjælper os med at blive bemærket af spilmedier, hvilket åbner en masse døre for os.",
+    "answer-section-3" : "Hvis du virkelig elsker spillet og gerne vil støtte det, og du er i stand til det, kan du støtte os via Buy me a Coffee eller Patreon. Hver donation hjælper os med at få mere tid til at arbejde på WalkScape, samtidig med at det gør det muligt for os at dække kommende udgifter og starte en virksomhed.",
+    "question" : "Hvordan kan jeg støtte udviklingen?"
+  },
+  "exerciseSupport" : {
+    "answer-section-1" : "Spillet hedder WalkScape, og det er der en grund til: Spillet giver dig mulighed for at gennemføre alle former for indhold ved bare at gå. Du kan opgradere alle færdigheder og udføre alle aktiviteter ved at gå. Det skyldes, at gang er en aktivitetstype, som de fleste mennesker udfører selv passivt, så selv hvis du bare går hen til en butik eller rundt på dit arbejde, vil du altid gøre fremskridt.",
+    "answer-section-2" : "Senere, når vi begynder at understøtte smarture med spillet, har vi planlagt at tilføje andre træningstyper til spillet. Du vil blive belønnet i spillet baseret på din træningslængde, gennemsnitlige BPM og forbrændte kalorier.",
+    "question" : "Vil spillet understøtte flere motionsformer end bare gang?"
+  },
+  "gameModes" : {
+    "answer-section-1" : "Ja, det er det! Der er i øjeblikket følgende spiltilstande, der er designet til at være tilgængelige:",
+    "answer-section-2" : "Online konkurrence (standardtilstand). En mere stringent spiltilstand, der har anti-cheat-foranstaltninger osv. i spil. Kan ikke tilpasses og kræver onlineforbindelse med jævne mellemrum.",
+    "answer-section-3" : "Afslappet tilstand. Du kan tilpasse spillets sværhedsgrad (f.eks. hvor mange trin du skal bruge pr. handling, kampsværhedsgrad osv.), og det vil indarbejde flere måder at komme videre i spillet på. Kan spilles helt offline.",
+    "answer-section-4" : "Ironman-tilstand. Du kan spille det helt offline, men der er online leaderboards. Du skal stort set være helt selvhjulpen med hensyn til materialer og andre ressourcer, da du ikke kan købe dem fra andre spillere.",
+    "answer-section-5" : "Hardcore mode (ikke verificeret, bare en idé). Svarer til Ironman, men kampens sværhedsgrad er øget. Du kan blive angrebet tilfældigt af monstre, mens du udfører aktiviteter. Hvis du dør i denne tilstand, bliver indholdet i din inventar slettet, og du mister din status som \"ubesejret\".",
+    "question" : "Hvilke spiltilstande vil der være? Kan jeg spille spillet offline?"
+  },
+  "helpOffers" : {
+    "answer-section-1" : "Vi får mange tilbud om at hjælpe med spillet! Jeg håber, at I bliver hængende her, da vi vil skrive her, hvis der dukker noget op, som har brug for specifik hjælp. Du kan sende mig en DM direkte med dine tilbud eller kontakte os via e-mail: contact@walkscape.app",
+    "answer-section-2" : "Hvis du føler dig gavmild, er det mest hjælpsomme lige nu at blive en supporter, så vi kan starte en virksomhed og betale for kommende udgifter. Du kan støtte os på:",
+    "question" : "Kan jeg hjælpe med at teste, eller med noget andet?"
+  },
+  "ideaSuggestions" : {
+    "answer" : "Send venligst forslag til vores Discord-kanals #suggestions-questions Jeg er virkelig åben for forslag og elsker at høre dem. Jeg kan ikke inkludere alle forslag, der bliver postet i spillet, og min førsteprioritet er at få et komplet produkt, så I alle kan begynde at spille det.",
+    "question" : "Jeg har fået en god idé, kan du inkludere den i spillet?"
+  },
+  "monetization" : {
+    "answer-section-1" : "Vi er stadig ikke 100% sikre på indtægtsmulighederne, så de ting, der nævnes her, kan ændre sig, som det er normalt for et spil, der stadig er under udvikling. Vi forsøger at finde måder, hvorpå vi kan tjene penge på spillet så retfærdigt som muligt, så det forbliver overkommeligt. Jeg er meget imod enhver form for rovdrift på indtægtsmulighederne, og vi vil ikke have ting som mikrotransaktioner i spillet af den grund. Personligt synes jeg, at det er moralsk tvivlsomt, da det tilskynder til usunde forbrugsvaner, og mange spillere ender med at betale mere, end de havde tænkt sig.",
+    "answer-section-2" : "Baseret på vores nuværende planer vil vi have et overkommeligt abonnement, som du kan opgradere til, mens du også kan spille spillet gratis. Abonnementet åbner hele spilverdenen for dig, mens F2P-spillere vil være begrænset til visse dele af spilverdenen. Abonnementet vil ikke give nogen unfair fordel som f.eks. buffs til at få XP, mere guld i spillet eller lignende. Det giver dig bare adgang til alt indholdet i spillet. Hvis du ikke er interesseret i spillets onlinefunktioner eller i at betale abonnementet, vil der også være en offline game mode. For at spille offline-spillet skal du kun betale et engangsgebyr.",
+    "answer-section-3" : "Når det er sagt, kan det stadig ændre sig ligesom alt andet for et spil, der ikke er færdigudviklet endnu. Du kan forvente, at vi har en mere solid prissætning efter den lukkede beta, da vi så har mere konkrete data om, hvor meget serveromkostningerne og andre udgifter til spillet vil være. Vi ønsker, at indtægterne skal være så overkommelige som muligt, samtidig med at vi kan drive en bæredygtig forretning.",
+    "question" : "Hvordan vil du tjene penge på det? Hvor meget kommer spillet til at koste?"
+  },
+  "platformSupport" : {
+    "answer" : "Ja, det er det! Spillet bliver udviklet med Flutter, som har en god understøttelse af cross-platform. Det betyder, at det ikke er noget problem at portere spillet til begge operativsystemer, og det kræver ikke meget arbejde.",
+    "question" : "Bliver den udgivet til både Android og iOS?"
+  },
+  "releaseDate" : {
+    "answer" : "Du kan tjekke køreplanen via linket nedenfor. Med vores nuværende estimater vil vi udgive en lukket beta på et tidspunkt mellem juni og august i år.",
+    "button" : "Tjek køreplanen",
+    "question" : "Hvornår udkommer spillet?"
+  },
+  "smartwatchSupport" : {
+    "answer" : "Ja, det gør vi! Smarture vil blive understøttet. Vi vil først have integrationer med Apple Health og Google Fit og derefter tilføje understøttelse af Strava, og måske arbejder vi os derfra til også at inkludere nogle andre producenter. Men hvis dit ur eller armbånd kan synkroniseres med Strava/Fit/Health, er det meget sandsynligt, at du kan bruge det sammen med spillet.",
+    "question" : "Vil smart watches og armbånd blive understøttet?"
+  },
+  "title" : "FAQ"
+}
