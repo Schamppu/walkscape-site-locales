@@ -1,0 +1,24 @@
+{
+  "singulars": {
+    "meta": {
+      "description": "Walkscape: Grind ved at gå!",
+      "title": "WalkScape"
+    },
+    "gameSection": {
+      "title": "Spillet",
+      "section-1": "WalkScape er et spil inspireret af nogle gammeldags MMORPG'er. Men dette spil har et stort trick i ærmet: Du spiller ikke aktivt, men får i stedet fremskridt ved at gå.",
+      "section-2": "Du kan forvente en sjov og spændende rejse gennem Arenums verden, samtidig med at du har motivationen til at gå!"
+    },
+    "features": {
+      "communityFeatures": "Fællesskabsfunktioner, global markedsplads og online leaderboards.",
+      "levelUpSkills": "Opgrader færdigheder ved at gå i det virkelige liv",
+      "numberOfSkills": "Over 15 forskellige færdigheder hvori du kan stige i niveau og mestre",
+      "quests": "Masser af quests, tilfældige møder og en hovedhistorie, der spænder over flere kontinenter.",
+      "title": "Funktioner"
+    },
+    "screenshotsSection": {
+      "title": "Skærmbilleder",
+      "description": "Skærmbilleder fra spillet, der viser nogle af funktionerne. Du kan finde flere i vores Subreddit!"
+    }
+  }
+}

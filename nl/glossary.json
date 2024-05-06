@@ -1,10 +1,18 @@
 {
-  "buttons.buyMeACoffee" : "Buy me a coffee",
-  "buttons.contact" : "Neem contact met ons op",
-  "buttons.download" : "Download Spel",
-  "buttons.game" : "Begin je avontuur",
-  "buttons.newsletter" : "Nieuwsbrief",
-  "buttons.patreon" : "Patreon",
-  "buttons.register" : "Registreer",
-  "buttons.support" : "Steun ons"
+  "singulars": {
+    "buttons": {
+      "buyMeACoffee": "Buy me a coffee",
+      "contact": "Neem contact met ons op",
+      "download": "Download Spel",
+      "game": "Begin je avontuur",
+      "newsletter": "Nieuwsbrief",
+      "patreon": "Patreon",
+      "register": "Registreer",
+      "support": "Steun ons"
+    },
+    "footer": {
+      "copyright": "Copyrights voorbehouden aan WalkScape.",
+      "privacy-policy": "Privacybeleid"
+    }
+  }
 }

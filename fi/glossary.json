@@ -1,10 +1,18 @@
 {
-  "buttons.buyMeACoffee" : "Buy me a Coffee",
-  "buttons.contact" : "Ota yhteyttä",
-  "buttons.download" : "Lataa peli",
-  "buttons.game" : "Aloita matkasi",
-  "buttons.newsletter" : "Uutiskirje",
-  "buttons.patreon" : "Patreon",
-  "buttons.register" : "Rekisteröidy",
-  "buttons.support" : "Tue meitä"
+  "singulars": {
+    "buttons": {
+      "buyMeACoffee": "Buy me a Coffee",
+      "contact": "Ota yhteyttä",
+      "download": "Lataa peli",
+      "game": "Aloita matkasi",
+      "newsletter": "Uutiskirje",
+      "patreon": "Patreon",
+      "register": "Rekisteröidy",
+      "support": "Tue meitä"
+    },
+    "fooer": {
+      "copyright": "Tekijänoikeudet pidätetään WalkScapelle.",
+      "privacy-policy": "Tietosuojakäytäntö"
+    }
+  }
 }
