@@ -1,27 +1,27 @@
 {
-    "singulars": {
-        "buttons": {
-            "buyMeACoffee": "Buy me a Coffee",
-            "contact": "Ota yhteyttä",
-            "download": "Lataa peli",
-            "game": "Aloita matkasi",
-            "newsletter": "Uutiskirje",
-            "patreon": "Patreon",
-            "register": "Rekisteröidy",
-            "support": "Tue meitä"
-        },
-        "fooer": {
-            "copyright": "Tekijänoikeudet pidätetään WalkScapelle.",
-            "privacy-policy": "Tietosuojakäytäntö"
-        },
-        "routes": {
-            "home": "Kotisivu",
-            "support": "Tue meitä",
-            "contact": "Ota yhteyttä",
-            "portal": "Portaali",
-            "register": "Rekisteröidy",
-            "faq": "UKK",
-            "presskit": "Lehdistöpaketti"
-        }
+  "singulars": {
+    "buttons": {
+      "buyMeACoffee": "Buy me a Coffee",
+      "contact": "Ota yhteyttä",
+      "download": "Lataa peli",
+      "game": "Aloita matkasi",
+      "newsletter": "Uutiskirje",
+      "patreon": "Patreon",
+      "register": "Rekisteröidy",
+      "support": "Tue meitä"
+    },
+    "footer": {
+      "copyright": "Tekijänoikeudet pidätetään WalkScapelle.",
+      "privacy-policy": "Tietosuojakäytäntö"
+    },
+    "routes": {
+      "home": "Kotisivu",
+      "support": "Tue meitä",
+      "contact": "Ota yhteyttä",
+      "portal": "Portaali",
+      "register": "Rekisteröidy",
+      "faq": "UKK",
+      "presskit": "Lehdistöpaketti"
     }
+  }
 }
