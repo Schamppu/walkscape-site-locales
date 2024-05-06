@@ -1,1 +1,18 @@
-{}
+{
+    "singulars": {
+        "contents": {
+            "factsheet": {
+                "title": "Yhteenveto"
+            },
+            "title": "Sisältö",
+            "description": {
+                "title": "Kuvaus"
+            }
+        },
+        "meta": {
+            "title": "WalkScape | Lehdistöpaketti",
+            "description": "Liitteitä, tarkennettuja kuvauksia ja kaikkea muuta, mitä WalkScapesta kirjoittamiseen tarvitsee"
+        },
+        "title": "Lehdistöpaketti"
+    }
+}
