@@ -1,1 +1,16 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "title": "WalkScape | Ota yhteyttä",
+            "description": "Yhteystiedot"
+        },
+        "title": "Ota yhteyttä",
+        "body": {
+            "description": "Jos sinulla on kysymyksiä tai tarvitset tukea, ole meihin yhteydessä sähköpostitse osoitteessa <0>contact@walkscape.app</0> tai sosiaalisen median kautta."
+        },
+        "presskit": {
+            "title": "Lehdistöpaketti",
+            "description": "Löydät koko lehdistöpakettimme <0>täältä</0>"
+        }
+    }
+}
