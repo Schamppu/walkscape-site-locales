@@ -5,7 +5,10 @@
       "description": "Walkscape: Grind by Walking!"
     },
     "callToAction": {
-      "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!"
+      "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!",
+      "waveActive": "We are currently sending out Beta invites!",
+      "waveDefined": "The next closed Beta wave will start in <br/> <2>{{weeks}} weeks!</2>",
+      "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
     },
     "news": {
       "title": "News",
@@ -33,51 +36,44 @@
     "statistics": {
       "steps": {
         "zero": "-",
-        "one": "{{value}} step taken",
+        "one": "{{count}} step taken",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{value}} total steps taken"
+        "other": "{{count}} total steps taken"
       },
       "actions": {
         "zero": "-",
-        "one": "{{value}} action completed",
+        "one": "{{count}} action completed",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{value}} total actions completed"
+        "other": "{{count}} total actions completed"
       },
       "shrimps": {
         "zero": "-",
-        "one": "{{value}} shrimp caught",
+        "one": "{{count}} shrimp caught",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{value}} shrimps caught"
+        "other": "{{count}} shrimps caught"
       },
       "wine": {
         "zero": "-",
-        "one": "{{value}} bottle of wine found in chests",
+        "one": "{{count}} bottle of wine found in chests",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{value}} bottles of wine found in chests"
+        "other": "{{count}} bottles of wine found in chests"
       },
       "ship": {
         "zero": "-",
-        "one": "{{value}} ship repaired",
+        "one": "{{count}} ship repaired",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{value}} ships repaired"
+        "other": "{{count}} ships repaired"
       }
-    }
-  },
-  "maps": {
-    "callToAction": {
-      "waveActive": "We are currently sending out Beta invites!",
-      "waveDefined": "The next closed Beta wave will start in <br/> <2>{{weeks}} weeks!</2>",
-      "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
     }
   }
 }
