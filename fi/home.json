@@ -1,8 +1,63 @@
 {
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "-",
+        "many": "-",
+        "one": "Seuraavaan beetakutsujen aaltoon on <br/> <2>{{count}} viikko!</2>",
+        "other": "Seuraavaan beetakutsujen aaltoon on <br/> <2>{{count}} viikkoa!</2>",
+        "two": "-",
+        "zero": "-"
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "-",
+        "many": "-",
+        "one": "Yhteensä {{count}} toiminto suoritettu",
+        "other": "Yhteensä {{count}} toimintoa suoritettu",
+        "two": "-",
+        "zero": "-"
+      },
+      "ship": {
+        "few": "-",
+        "many": "-",
+        "one": "{{count}} laiva korjattu",
+        "other": "{{count}} laivaa korjattu",
+        "two": "-",
+        "zero": "-"
+      },
+      "shrimps": {
+        "few": "-",
+        "many": "-",
+        "one": "{{count}} katkarapu pyydystetty",
+        "other": "{{count}} katkarapua pyydystetty",
+        "two": "-",
+        "zero": "-"
+      },
+      "steps": {
+        "few": "-",
+        "many": "-",
+        "one": "Yhteensä {{count}} otettu askel",
+        "other": "Yhteensä {{count}} otettua askelta",
+        "two": "-",
+        "zero": "-"
+      },
+      "wine": {
+        "few": "-",
+        "many": "-",
+        "one": "{{count}} pullo viiniä löydetty arkuista",
+        "other": "{{count}} pulloa viiniä löydetty arkuista",
+        "two": "-",
+        "zero": "-"
+      }
+    }
+  },
   "singulars": {
     "callToAction": {
       "registerNow": "<0>Rekisteröidy nyt</0> liittyäksesi jonoon tai <1>tue meitä</1> varmistaaksesi pääsyn!",
-      "waveActive": "Beetakutsuja on jaossa!"
+      "waveActive": "Beetakutsuja on jaossa!",
+      "waveUndefined": "Seuraava aalto beetakutsuja on tulossa lähitulevaisuudessa. Tilaa <0>uutiskirje</0> ja seuraa meitä <1>sosiaalisessa mediassa</1> pysyäksesi ajan tasalla!"
     },
     "downloadSection": {
       "section-1": "Täällä ei ole vielä mitään. Mutta toivottavasti ennemmin kuin myöhemmin! WalkScape julkaistaan sekä iOS:lle että Androidille.",
