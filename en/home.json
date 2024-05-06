@@ -7,7 +7,6 @@
     "callToAction": {
       "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!",
       "waveActive": "We are currently sending out Beta invites!",
-      "waveDefined": "The next closed Beta wave will start in <br/> <2>{{weeks}} weeks!</2>",
       "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
     },
     "news": {
@@ -33,6 +32,16 @@
     }
   },
   "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "zero": "-",
+        "one": "The next closed Beta wave will start in <br/> <2>{{count}} week!</2>",
+        "two": "-",
+        "few": "-",
+        "many": "-",
+        "other": "The next closed Beta wave will start in <br/> <2>{{count}} weeks!</2>"
+      }
+    },
     "statistics": {
       "steps": {
         "zero": "-",
