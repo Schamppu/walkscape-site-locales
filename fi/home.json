@@ -1,28 +1,36 @@
 {
-  "singulars": {
-    "downloadSection": {
-      "title": "Lataa",
-      "section-1": "Täällä ei ole vielä mitään. Mutta toivottavasti ennemmin kuin myöhemmin! WalkScape julkaistaan sekä iOS:lle että Androidille."
-    },
-    "gameSection": {
-      "title": "Peli",
-      "section-1": "WalkScape on peli, joka on saanut inspiraationsa vanhoista MMORPG-peleistä. Tällä pelillä on kuitenkin yksi merkittävä ässä hihassa: et pelaa peliä aktiivisesti, vaan edistyt pelissä kävelemällä.",
-      "section-2": "Voit odottaa hauskaa ja jännittävää matkaa Arenumin maailman läpi ja samalla motivaatiota kävelyyn!"
-    },
-    "meta": {
-      "title": "WalkScape: Roolipeli, jossa kävelet ja kuntoilet!",
-      "description": "WalkScapessä edistyt kun kävelet! Seikkaile Arenumissa, kehitä taitoja ja kisaa muiden pelaajien kanssa!"
-    },
-    "screenshotsSection": {
-      "title": "Kuvakaappaukset",
-      "description": "Kuvakaappauksia pelistä, jotka kattavat joitakin pelin mekanismeja. Lisää löydät Subredditistä!"
-    },
-    "features": {
-      "communityFeatures": "Yhteisöominaisuuksia, maailmanlaajuinen esineiden myynti muille pelaajille ja online-pistetaulukot.",
-      "levelUpSkills": "Kehitä hahmosi taitoja kävelemällä oikeassa maailmassa",
-      "numberOfSkills": "Yli 15 erilaista taitoa, joissa voit kehittyä",
-      "quests": "Paljon sivutehtäviä, satunnaisia tapahtumia ja useita maanosia kattava päätehtävä.",
-      "title": "Ominaisuudet"
+    "singulars": {
+        "downloadSection": {
+            "title": "Lataa",
+            "section-1": "Täällä ei ole vielä mitään. Mutta toivottavasti ennemmin kuin myöhemmin! WalkScape julkaistaan sekä iOS:lle että Androidille."
+        },
+        "gameSection": {
+            "title": "Peli",
+            "section-1": "WalkScape on peli, joka on saanut inspiraationsa vanhoista MMORPG-peleistä. Tällä pelillä on kuitenkin yksi merkittävä ässä hihassa: et pelaa peliä aktiivisesti, vaan edistyt pelissä kävelemällä.",
+            "section-2": "Voit odottaa hauskaa ja jännittävää matkaa Arenumin maailman läpi ja samalla motivaatiota kävelyyn!"
+        },
+        "meta": {
+            "title": "WalkScape: Roolipeli, jossa kävelet ja kuntoilet!",
+            "description": "WalkScapessä edistyt kun kävelet! Seikkaile Arenumissa, kehitä taitoja ja kisaa muiden pelaajien kanssa!"
+        },
+        "screenshotsSection": {
+            "title": "Kuvakaappaukset",
+            "description": "Kuvakaappauksia pelistä, jotka kattavat joitakin pelin mekanismeja. Lisää löydät Subredditistä!"
+        },
+        "features": {
+            "communityFeatures": "Yhteisöominaisuuksia, maailmanlaajuinen esineiden myynti muille pelaajille ja online-pistetaulukot.",
+            "levelUpSkills": "Kehitä hahmosi taitoja kävelemällä oikeassa maailmassa",
+            "numberOfSkills": "Yli 15 erilaista taitoa, joissa voit kehittyä",
+            "quests": "Paljon sivutehtäviä, satunnaisia tapahtumia ja useita maanosia kattava päätehtävä.",
+            "title": "Ominaisuudet"
+        },
+        "callToAction": {
+            "registerNow": "<0>Rekisteröidy nyt</0> liittyäksesi jonoon tai <1>tue meitä</1> varmistaaksesi pääsyn!"
+        },
+        "news": {
+            "title": "Uutiset",
+            "readFull": "Lue koko artikkeli",
+            "more": "Näytä enemmän..."
+        }
     }
-  }
 }
