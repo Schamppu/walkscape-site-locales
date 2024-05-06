@@ -1,10 +1,16 @@
 {
-  "meta": {
-    "title": "WalkScape | Contact Us",
-    "description": "Find out how to contact us"
-  },
-  "body": {
+  "singulars": {
+    "meta": {
+      "title": "WalkScape | Contact Us",
+      "description": "Find out how to contact us"
+    },
     "title": "Contact Us",
-    "description": "If you have questions or need support, feel free to contact us via email at <0>contact@walkscape.app</0> or through social media."
+    "body": {
+      "description": "If you have questions or need support, feel free to contact us via email at <0>contact@walkscape.app</0> or through social media."
+    },
+    "presskit": {
+      "title": "Press Kit",
+      "description": "Find our full presskit <0>here</0>"
+    }
   }
 }

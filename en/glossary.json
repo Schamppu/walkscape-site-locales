@@ -1,12 +1,49 @@
 {
+  "singulars": {
     "buttons": {
-        "game": "Start your journey",
-        "download": "Download Game",
-        "support": "Support us",
-        "register": "Register",
-        "newsletter": "Newsletter",
-        "contact": "Contact us",
-        "buyMeACoffee": "Buy me a coffee",
-        "patreon": "Patreon"
+      "game": "Start your journey",
+      "download": "Download Game",
+      "support": "Support us",
+      "register": "Register",
+      "newsletter": "Newsletter",
+      "contact": "Contact us",
+      "buyMeACoffee": "Buy me a coffee",
+      "patreon": "Patreon"
+    },
+    "routes": {
+      "home": "Home",
+      "portal": "Portal",
+      "register": "Register",
+      "support": "Support Us",
+      "faq": "FAQ",
+      "contact": "Contact",
+      "presskit": "Press Kit"
+    },
+    "footer": {
+      "copyright": "Copyrights reserved by WalkScape.",
+      "privacy-policy": "Privacy Policy"
+    },
+    "people": {
+      "master": {
+        "name": "Schamppu",
+        "title": "Not a CEO"
+      },
+      "maxchill": {
+        "name": "maxchill",
+        "title": "Not an Artist"
+      },
+      "sorgo": {
+        "name": "Sorgo",
+        "title": "Not an Intern"
+      },
+      "floursifter": {
+        "name": "floursifter",
+        "title": "Not a Designer"
+      },
+      "slave": {
+        "name": "myzozoz",
+        "title": "Not a Dev"
+      }
     }
+  }
 }

@@ -1,6 +1,13 @@
 {
-  "meta": {
-    "title": "WalkScape | Support Us",
-    "description": "Subscribe to us on Patreon or Buy Me a Coffee to support development of WalkScape"
+  "singulars": {
+    "meta": {
+      "title": "WalkScape | Support Us",
+      "description": "Subscribe to us on Patreon or Buy Me a Coffee to support development of WalkScape"
+    },
+    "main": {
+      "title": "Support Us",
+      "section-1": "You can support WalkScape's development via Patreon or Buy me a Coffee. Supporters of the game gain some exclusive benefits that are listed on Patreon and Buy me a Coffee.",
+      "section-2": "WalkScape is completely community funded, and all of the support is very much appreaciated. ❤️"
+    }
   }
 }

@@ -1,6 +1,45 @@
 {
-  "meta": {
-    "title": "WalkScape | Press kit",
-    "description": "Assets, descriptions and everything else you need to know to write about WalkScape"
+  "singulars": {
+    "meta": {
+      "title": "WalkScape | Press kit",
+      "description": "Assets, descriptions and everything else you need to know to write about WalkScape"
+    },
+    "title": "Press Kit",
+    "contents": {
+      "title": "Contents",
+      "factsheet": {
+        "title": "Factsheet"
+      },
+      "description": {
+        "title": "Description",
+        "content-1": "WalkScape is a mobile fitness RPG, where you make progress by walking in real life. Inspired by old school MMORPGs like RuneScape, it allows you to spend hours and hours grinding for experience, finding legendary items and completing quests in a magical fantasy setting, all the while encouraging a healthier lifestyle.",
+        "content-2": "Unlike many other mobile games that feature walking as a core mechanic, WalkScape does not utilize GPS data at all and does not require the player to actively play during their exercise sessions. This way we respect the player's privacy and allow them to focus on their primary activity. The game saves your steps, so you will never have to worry about losing progress because you wanted to leave your phone in the pocket.",
+        "content-3": "WalkScape started in 2022 as one man's project to create a game that he wanted to play, but which didn't exist yet. After posting some of his ideas and early work-in-progress on Reddit, the project started to quickly gather a community around it. Eventually Patreon and Buy Me a Coffee subscriptions were set up, and now the game is in closed beta with several developers working on it. The project is so far 100% community funded, but will have a subscription fee for all players who want to access online features after launch."
+      },
+      "screenshots": {
+        "title": "Screenshots",
+        "download": "Download screenshots as .zip file"
+      },
+      "videos": {
+        "title": "Videos",
+        "youtube": "Official youtube channel"
+      },
+      "about": {
+        "title": "About the Developer",
+        "content-1": "Not a Cult Oy is a small, Finnish indie game company and definitely not a cult. It was founded in 2023 by Schamppu, the current CEO, shortly after he had begun development on WalkScape. Not A Cult currently employs two full-time developers at their office in Helsinki, with international freelance workers as support.",
+        "content-2": "At Not a Cult we are hardcore game enthusiasts, who believe that games are more than just a product or service. We strive to make our games in an ethically, environmentally and personally sustainable way. Open and honest communication is important to us we pride ourselves on having an involved and active fanbase. We are also not a cult."
+      },
+      "logos": {
+        "title": "Logos",
+        "download": "Download logos as .zip file"
+      },
+      "art": {
+        "title": "Promotional Art",
+        "download": "Download art assets as .zip file"
+      },
+      "credits": {
+        "title": "Credits"
+      }
+    }
   }
 }

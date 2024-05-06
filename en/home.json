@@ -1,0 +1,83 @@
+{
+  "singulars": {
+    "meta": {
+      "title": "WalkScape: The Walking Role-Playing Fitness Game",
+      "description": "Walkscape: Grind by Walking!"
+    },
+    "callToAction": {
+      "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!"
+    },
+    "news": {
+      "title": "News",
+      "readFull": "Read Full Article",
+      "more": "Show more..."
+    },
+    "gameSection": {
+      "title": "The Game",
+      "section-1": "WalkScape is a game inspired by some old school MMORPGs. But this game has one major trick up its sleeve: you don't play actively, but instead gain progress by walking.",
+      "section-2": "You can expect a fun and exciting journey through the World of Arenum while also having the motivation to walk!"
+    },
+    "features": {
+      "title": "Features",
+      "levelUpSkills": "Level up skills by walking in real life",
+      "numberOfSkills": "Over 15 different skills to level up and master",
+      "communityFeatures": "Community features, global marketplace and online leaderboards.",
+      "quests": "Quests, random encounters and a main storyline spanning multiple continents."
+    },
+    "screenshotsSection": {
+      "title": "Screenshots",
+      "description": "Screenshots from the game covering some of the mechanics. You can find more on our Subreddit!"
+    }
+  },
+  "plurals": {
+    "statistics": {
+      "steps": {
+        "zero": "-",
+        "one": "{{value}} step taken",
+        "two": "-",
+        "few": "-",
+        "many": "-",
+        "other": "{{value}} total steps taken"
+      },
+      "actions": {
+        "zero": "-",
+        "one": "{{value}} action completed",
+        "two": "-",
+        "few": "-",
+        "many": "-",
+        "other": "{{value}} total actions completed"
+      },
+      "shrimps": {
+        "zero": "-",
+        "one": "{{value}} shrimp caught",
+        "two": "-",
+        "few": "-",
+        "many": "-",
+        "other": "{{value}} shrimps caught"
+      },
+      "wine": {
+        "zero": "-",
+        "one": "{{value}} bottle of wine found in chests",
+        "two": "-",
+        "few": "-",
+        "many": "-",
+        "other": "{{value}} bottles of wine found in chests"
+      },
+      "ship": {
+        "zero": "-",
+        "one": "{{value}} ship repaired",
+        "two": "-",
+        "few": "-",
+        "many": "-",
+        "other": "{{value}} ships repaired"
+      }
+    }
+  },
+  "maps": {
+    "callToAction": {
+      "waveActive": "We are currently sending out Beta invites!",
+      "waveDefined": "The next closed Beta wave will start in <br/> <2>{{weeks}} weeks!</2>",
+      "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
+    }
+  }
+}
