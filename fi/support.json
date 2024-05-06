@@ -1,9 +1,13 @@
 {
-  "singulars": {
-    "title": "Tue meitä",
-    "body": {
-      "section-1": "Voit tukea WalkScapen kehitystä Patreonin tai Buy me a Coffeen kautta. Pelin kehityksen tukijat saavat eksklusiivisia etuja, jotka on lueteltu Patreon- ja Buy me a Coffee -sivuilla.",
-      "section-2": "WalkScape on täysin yhteisön rahoittama, ja kaikki tuki on erittäin tervetullutta. ❤️"
+    "singulars": {
+        "title": "Tue meitä",
+        "body": {
+            "section-1": "Voit tukea WalkScapen kehitystä Patreonin tai Buy me a Coffeen kautta. Pelin kehityksen tukijat saavat eksklusiivisia etuja, jotka on lueteltu Patreon- ja Buy me a Coffee -sivuilla.",
+            "section-2": "WalkScape on täysin yhteisön rahoittama, ja kaikki tuki on erittäin tervetullutta. ❤️"
+        },
+        "meta": {
+            "title": "WalkScape | Tue meitä",
+            "description": "Ryhdy tilaajaksi Patreonissa tai Buy Me a Coffeessa tukeaksesi WalkScapen kehitystä"
+        }
     }
-  }
 }
