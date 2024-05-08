@@ -9,6 +9,9 @@
       "waveActive": "We are currently sending out Beta invites!",
       "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
     },
+    "howToPlay": {
+      "title": "How to play?"
+    },
     "news": {
       "title": "News",
       "readFull": "Read Full Article",
