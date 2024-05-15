@@ -1,24 +1,24 @@
 {
   "singulars": {
-    "gameSection": {
-      "title": "Het Spel",
-      "section-1": "WalkScape is een spel dat is geïnspireerd door old-school MMORPG's. Met één grote twist: je speelt het niet actief, maar je boekt voortuitgang door te lopen.",
-      "section-2": "Je kunt een leuke en spannende reis door de wereld van Arenum verwachten, terwijl je ook de motivatie hebt om te lopen!"
-    },
-    "meta": {
-      "title": "WalkScape",
-      "description": "WalkScape: Speel Door Te Lopen!"
-    },
-    "screenshotsSection": {
-      "title": "Schermafbeeldingen",
-      "description": "Schermafbeeldingen van het spel die een aantal van de onderdelen laten zien. Je kunt er meer vinden op onze subreddit!"
-    },
     "features": {
       "communityFeatures": "Gemeenschapsfuncties, wereldwijde marktplaats, en online klassementen.",
       "levelUpSkills": "Beoefen vaardigheden door in het echte leven te lopen",
       "numberOfSkills": "Meer dan 15 vaardigheden om te beoefenen",
       "quests": "Vele avonturen, onverwachte ontmoetingen, en een hoofdverhaallijn die zich uitstrekt over meerdere continenten.",
       "title": "Spelonderdelen"
+    },
+    "gameSection": {
+      "section-1": "WalkScape is een spel dat is geïnspireerd door old-school MMORPG's. Met één grote twist: je speelt het niet actief, maar je boekt voortuitgang door te lopen.",
+      "section-2": "Je kunt een leuke en spannende reis door de wereld van Arenum verwachten, terwijl je ook de motivatie hebt om te lopen!",
+      "title": "Het Spel"
+    },
+    "meta": {
+      "description": "WalkScape: Speel Door Te Lopen!",
+      "title": "WalkScape"
+    },
+    "screenshotsSection": {
+      "description": "Schermafbeeldingen van het spel die een aantal van de onderdelen laten zien. Je kunt er meer vinden op onze subreddit!",
+      "title": "Schermafbeeldingen"
     }
   }
 }
