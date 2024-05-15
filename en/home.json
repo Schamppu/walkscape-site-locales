@@ -12,13 +12,16 @@
     "howToPlay": {
       "title": "How to play?"
     },
+    "statistics": {
+      "title": "Statistics"
+    },
     "news": {
       "title": "News",
       "readFull": "Read Full Article",
-      "more": "Show more..."
+      "more": "Show more"
     },
     "gameSection": {
-      "title": "The Game",
+      "title": "What is WalkScape?",
       "section-1": "WalkScape is a game inspired by some old school MMORPGs. But this game has one major trick up its sleeve: you don't play actively, but instead gain progress by walking.",
       "section-2": "You can expect a fun and exciting journey through the World of Arenum while also having the motivation to walk!"
     },
@@ -48,43 +51,43 @@
     "statistics": {
       "steps": {
         "zero": "-",
-        "one": "{{count}} step taken",
+        "one": "step taken",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{count}} total steps taken"
+        "other": "total steps taken"
       },
       "actions": {
         "zero": "-",
-        "one": "{{count}} action completed",
+        "one": "action completed",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{count}} total actions completed"
+        "other": "total actions completed"
       },
       "shrimps": {
         "zero": "-",
-        "one": "{{count}} shrimp caught",
+        "one": "shrimp caught",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{count}} shrimps caught"
+        "other": "shrimps caught"
       },
       "wine": {
         "zero": "-",
-        "one": "{{count}} bottle of wine found in chests",
+        "one": "bottle of wine found in chests",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{count}} bottles of wine found in chests"
+        "other": "bottles of wine found in chests"
       },
       "ship": {
         "zero": "-",
-        "one": "{{count}} ship repaired",
+        "one": "ship repaired",
         "two": "-",
         "few": "-",
         "many": "-",
-        "other": "{{count}} ships repaired"
+        "other": "ships repaired"
       }
     }
   }
