@@ -14,40 +14,40 @@
       "actions": {
         "few": "-",
         "many": "-",
-        "one": "Yhteensä {{count}} toiminto suoritettu",
-        "other": "Yhteensä {{count}} toimintoa suoritettu",
+        "one": "toiminto suoritettu",
+        "other": "toimintoa suoritettu",
         "two": "-",
         "zero": "-"
       },
       "ship": {
         "few": "-",
         "many": "-",
-        "one": "{{count}} laiva korjattu",
-        "other": "{{count}} laivaa korjattu",
+        "one": "laiva korjattu",
+        "other": "laivaa korjattu",
         "two": "-",
         "zero": "-"
       },
       "shrimps": {
         "few": "-",
         "many": "-",
-        "one": "{{count}} katkarapu pyydystetty",
-        "other": "{{count}} katkarapua pyydystetty",
+        "one": "katkarapu pyydystetty",
+        "other": "katkarapua pyydystetty",
         "two": "-",
         "zero": "-"
       },
       "steps": {
         "few": "-",
         "many": "-",
-        "one": "Yhteensä {{count}} otettu askel",
-        "other": "Yhteensä {{count}} otettua askelta",
+        "one": "askel otettu",
+        "other": "askelta otettua",
         "two": "-",
         "zero": "-"
       },
       "wine": {
         "few": "-",
         "many": "-",
-        "one": "{{count}} pullo viiniä löydetty arkuista",
-        "other": "{{count}} pulloa viiniä löydetty arkuista",
+        "one": "pulloa viiniä löydetty arkuista",
+        "other": "pulloa viiniä löydetty arkuista",
         "two": "-",
         "zero": "-"
       }
@@ -75,6 +75,9 @@
       "section-2": "Voit odottaa hauskaa ja jännittävää matkaa Arenumin maailman läpi ja samalla motivaatiota kävelyyn!",
       "title": "Peli"
     },
+    "howToPlay": {
+      "title": "Miten saan pelin?"
+    },
     "meta": {
       "description": "WalkScapessä edistyt kun kävelet! Seikkaile Arenumissa, kehitä taitoja ja kisaa muiden pelaajien kanssa!",
       "title": "WalkScape: Roolipeli, jossa kävelet ja kuntoilet!"
@@ -87,6 +90,9 @@
     "screenshotsSection": {
       "description": "Kuvakaappauksia pelistä, jotka kattavat joitakin pelin mekanismeja. Lisää löydät Subredditistä!",
       "title": "Kuvakaappaukset"
+    },
+    "statistics": {
+      "title": "Tilastot"
     }
   }
 }
