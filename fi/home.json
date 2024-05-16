@@ -38,8 +38,8 @@
       "steps": {
         "few": "-",
         "many": "-",
-        "one": "askel otettu",
-        "other": "askelta otettua",
+        "one": "otettu askel",
+        "other": "otettua askelta",
         "two": "-",
         "zero": "-"
       },
@@ -80,7 +80,7 @@
     },
     "meta": {
       "description": "WalkScapessä edistyt kun kävelet! Seikkaile Arenumissa, kehitä taitoja ja kisaa muiden pelaajien kanssa!",
-      "title": "WalkScape: Roolipeli, jossa kävelet ja kuntoilet!"
+      "title": "WalkScape: Roolipeli, jossa kävelet ja kuntoilet"
     },
     "news": {
       "more": "Näytä enemmän...",
