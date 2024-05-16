@@ -1,0 +1,83 @@
+{
+  "singulars": {
+    "meta": {
+      "title": "WalkScape | Roadmap",
+      "description": "An outline of the development arc of WalkScape, both past and future."
+    },
+    "devStart": {
+      "date": "17th of August, 2022",
+      "title": "Game Development Starts",
+      "content": "The development of WalkScape starts as a hobby project, that Schamppu works on in his free time."
+    },
+    "maxchill": {
+      "date": "4th of December, 2022",
+      "title": "Maxchill Joins the Team",
+      "content": "The project starts to gain popularity online, especially on Reddit, and the need to recruit an artist arises. Maxchill joins the development team."
+    },
+    "originalBeta": {
+      "date": "Summer, 2023",
+      "title": "Original Closed Beta Launch",
+      "content": "The first version of the WalkScape closed beta is scheduled to launch during the Summer of 2023. This proves an unrealistic schedule, and the release has to be delayed until the end of the year."
+    },
+    "floursifter": {
+      "date": "12th of October, 2023",
+      "title": "Floursifter Joins the Team",
+      "content": "Floursifter, a member of the WalkScape community who contributed a lot of his free time to come up with content, in-game formulas and iOS development version testing, joins the team unofficially."
+    },
+    "wave1": {
+      "date": "1st of November, 2023",
+      "title": "Invite Wave 1 for Supporters",
+      "content": "To guarantee access to the first Closed Beta version of the game, players can support the development of WalkScape on Patreon and Buy Me a Coffee."
+    },
+    "launch": {
+      "date": "18th of January, 2024",
+      "title": "Closed Beta is Released",
+      "content": "WalkScape’s first Closed Beta version is released."
+    },
+    "qol": {
+      "date": "16th of February, 2024",
+      "title": "Large QoL Update",
+      "content": "A large quality of life update is released. The whole UI is reworked and navigating and playing the game becomes significantly easier."
+    },
+    "contentUpdate": {
+      "date": "28th of February, 2024",
+      "title": "Major Content Update",
+      "content": "The amount of in-game content is almost doubled by adding collectibles, new items, twice as many activities, and more to prepare for the launch of Wave 2."
+    },
+    "wave2": {
+      "date": "1st of March, 2024",
+      "title": "Invite Wave 2",
+      "content": "The second Wave of Closed Beta invites ends on 31st of March, 2024. Pateron and BMAC supporters and a large amount of players who had applied to the Closed Beta gain access before the cutoff date, 31st of March."
+    },
+    "wave2patch": {
+      "date": "13th of March, 2024",
+      "title": "Post Wave 2 Patch",
+      "content": "An update is released to fix new problems encountered by players who joined in wave 2."
+    },
+    "myzozoz": {
+      "date": "15th of April, 2024",
+      "title": "myzozoz Joins the Team",
+      "content": "In order to speed up development, a search for a second programmer and developer is started. On the 15th of April, myzozoz starts as the first official employee of Not A Cult."
+    },
+    "pedometer": {
+      "date": "26th of April, 2024",
+      "title": "Pedometer Update",
+      "content": "By now the core feature of WalkScape, counting steps, is in need of updating. An update is released fixing a lot of issues people encountered with the pedometer. Progress on fixing the pedometer continues throughout May, 2024."
+    },
+    "wave2point5": {
+      "date": "1st of June, 2024",
+      "title": "Invite Wave 2.5",
+      "content": "As a thank you to all players who have supported the game since the end of invite wave 2, invites will be sent out to everyone who supports the game on Patreon or BMAC before the 14th of June. Invites will start rolling out on the  1st of June."
+    },
+    "syrenthia": {
+      "date": "June-July, 2024",
+      "title": "Syrenthia Update",
+      "content": "Our biggest update yet, adding achievements, realm reputation, consumables, and a new region to the game."
+    },
+    "wave3": {
+      "date": "August-September, 2024",
+      "title": "QoL & Wave 3",
+      "content": "Another large Quality of Life update, adding WalkPedia, travel + action queue, bank & inventory sorting, tabs, and a lot more to make playing the game easier. Shortly after QoL update is released and any issues with it fixed, Wave 3 begins."
+    }
+  }
+}
