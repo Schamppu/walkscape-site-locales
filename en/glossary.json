@@ -18,7 +18,9 @@
       "faq": "FAQ",
       "contact": "Contact",
       "presskit": "Press Kit",
-      "roadmap": "Roadmap"
+      "roadmap": "Roadmap",
+      "store": "Store",
+      "wiki": "Wiki"
     },
     "footer": {
       "copyright": "Copyrights reserved by WalkScape.",
