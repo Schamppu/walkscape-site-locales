@@ -8,6 +8,15 @@
     "body": {
       "section-1": "You can support WalkScape's development via Patreon or Buy me a Coffee. Supporters of the game gain some exclusive benefits that are listed on Patreon and Buy me a Coffee.",
       "section-2": "WalkScape is completely community funded, and all of the support is very much appreaciated. ❤️"
+    },
+    "benefits": {
+      "title": "Supporter Benefits",
+      "invite": "<0>Closed beta invitation</0>. If you have started your membership before March 31st, 2024 you will gain invitation immediately, if you connect your WalkScape account to Patreon on WalkScape Portal. Memberships that have started after the cutoff date will gain access in future waves.",
+      "color": "<0>Exclusive icon and profile color</0> both in-game and in WalkScape Portal. Your icon and profile color will match your active membership tier. You will also gain the same benefit on Discord.",
+      "gameTitle": "An <0>in-game title</0> to show you've supported us before Closed Beta release.",
+      "discord": "Access to <0>exclusive Discord channel</0> with extra sneak peeks and conversations with the devs.",
+      "discordRole": "You will have an <0>exclusive Discord role</0>.",
+      "wip": "<0>Work-in-progress updates</0> (digital)"
     }
   }
 }
