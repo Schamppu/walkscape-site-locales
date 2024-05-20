@@ -11,12 +11,30 @@
     },
     "benefits": {
       "title": "Supporter Benefits",
-      "invite": "<0>Closed beta invitation</0>. If you have started your membership before March 31st, 2024 you will gain invitation immediately, if you connect your WalkScape account to Patreon on WalkScape Portal. Memberships that have started after the cutoff date will gain access in future waves.",
-      "color": "<0>Exclusive icon and profile color</0> both in-game and in WalkScape Portal. Your icon and profile color will match your active membership tier. You will also gain the same benefit on Discord.",
-      "gameTitle": "An <0>in-game title</0> to show you've supported us before Closed Beta release.",
-      "discord": "Access to <0>exclusive Discord channel</0> with extra sneak peeks and conversations with the devs.",
-      "discordRole": "You will have an <0>exclusive Discord role</0>.",
-      "wip": "<0>Work-in-progress updates</0> (digital)"
+      "all": {
+        "first": "After first payment:",
+        "active": "While membership is active:",
+        "title": "All Memberships",
+        "invite": "<0>Closed beta invitation</0>. Invites are sent out in waves. If you've supported between waves, you will receive access at the start of the next wave. If a wave is ongoing, you can immediately access the game.",
+        "color": "<0>Exclusive icon and profile color</0> both in-game and in WalkScape Portal. Your icon and profile color will match your active membership tier. You will also gain the same benefit on Discord.",
+        "gameTitle": "An <0>in-game title</0> to show you've supported us during Closed Beta release.",
+        "discord": "Access to <0>exclusive Discord channel</0> with extra sneak peeks and conversations with the devs.",
+        "discordRole": "You will have an <0>exclusive Discord role</0>."
+      },
+      "walker": {
+        "title": "All Walkers ($3/$6/$25)",
+        "role": "Gain the <0>Supporter</0> role on the WalkScape Discord server."
+      },
+      "follower": {
+        "title": "Cult Follower ($50)",
+        "role": "Gain the <0>Cult Follower</0> role on the WalkScape Discord server.",
+        "character": "For joining this tier, you get to design an <0>in-game character</0> customization option with the development team."
+      },
+      "leader": {
+        "title": "Cult Leader ($100)",
+        "role": "Gain the <0>Cult Leader</0> role on the WalkScape Discord server.",
+        "item": "For joining this tier, you'll get to design an <0>in-game item</0> with the developer team. The item will have your name in its description."
+      }
     }
   }
 }
