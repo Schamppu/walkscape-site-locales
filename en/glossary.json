@@ -25,28 +25,6 @@
     "footer": {
       "copyright": "Copyrights reserved by WalkScape.",
       "privacy-policy": "Privacy Policy"
-    },
-    "people": {
-      "master": {
-        "name": "Schamppu",
-        "title": "Not a CEO"
-      },
-      "maxchill": {
-        "name": "maxchill",
-        "title": "Not an Artist"
-      },
-      "sorgo": {
-        "name": "Sorgo",
-        "title": "Not an Intern"
-      },
-      "floursifter": {
-        "name": "floursifter",
-        "title": "Not a Designer"
-      },
-      "slave": {
-        "name": "myzozoz",
-        "title": "Not a Dev"
-      }
     }
   }
 }
