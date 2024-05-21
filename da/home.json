@@ -1,5 +1,64 @@
 {
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "ship": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "shrimps": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "steps": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "wine": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      }
+    }
+  },
   "singulars": {
+    "callToAction": {
+      "registerNow": "",
+      "waveActive": "",
+      "waveUndefined": ""
+    },
     "features": {
       "communityFeatures": "Fællesskabsfunktioner, global markedsplads og online leaderboards.",
       "levelUpSkills": "Opgrader færdigheder ved at gå i det virkelige liv",
@@ -12,13 +71,32 @@
       "section-2": "Du kan forvente en sjov og spændende rejse gennem Arenums verden, samtidig med at du har motivationen til at gå!",
       "title": "Spillet"
     },
+    "howToPlay": {
+      "ensure": "",
+      "nextWave": "",
+      "subscribe": "",
+      "title": "",
+      "waveDate": "",
+      "waveExplain": ""
+    },
     "meta": {
       "description": "Walkscape: Grind ved at gå!",
       "title": "WalkScape"
     },
+    "news": {
+      "more": "",
+      "readFull": "",
+      "title": ""
+    },
     "screenshotsSection": {
       "description": "Skærmbilleder fra spillet, der viser nogle af funktionerne. Du kan finde flere i vores Subreddit!",
       "title": "Skærmbilleder"
+    },
+    "social": {
+      "follow": ""
+    },
+    "statistics": {
+      "title": ""
     }
   }
 }
