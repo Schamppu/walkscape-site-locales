@@ -7,7 +7,7 @@
     "title": "Support Us",
     "body": {
       "section-1": "You can support WalkScape's development via Patreon or Buy me a Coffee. Supporters of the game gain some exclusive benefits that are listed on Patreon and Buy me a Coffee.",
-      "section-2": "WalkScape is completely community funded, and all of the support is very much appreaciated. ❤️"
+      "section-2": "WalkScape is completely community funded, and all of the support is very much appreciated. ❤️"
     },
     "benefits": {
       "title": "Supporter Benefits",
@@ -22,17 +22,21 @@
         "discordRole": "You will have an <0>exclusive Discord role</0>."
       },
       "walker": {
-        "title": "All Walkers ($3/$6/$25)",
+        "title": "All Walkers",
+        "price": "$3/$6/$25 per month",
         "role": "Gain the <0>Supporter</0> role on the WalkScape Discord server."
       },
       "follower": {
-        "title": "Cult Follower ($50)",
+        "title": "Cult Follower",
         "role": "Gain the <0>Cult Follower</0> role on the WalkScape Discord server.",
+        "price": "$50 per month",
+        "patreon": "Only available on Patreon",
         "character": "For joining this tier, you get to design an <0>in-game character</0> customization option with the development team."
       },
       "leader": {
-        "title": "Cult Leader ($100)",
+        "title": "Cult Leader",
         "role": "Gain the <0>Cult Leader</0> role on the WalkScape Discord server.",
+        "price": "$100 per month",
         "item": "For joining this tier, you'll get to design an <0>in-game item</0> with the developer team. The item will have your name in its description."
       }
     }
