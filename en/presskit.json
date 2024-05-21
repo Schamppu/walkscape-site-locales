@@ -37,6 +37,9 @@
         "title": "Promotional Art",
         "download": "Download art assets as .zip file"
       },
+      "articles": {
+        "title": "Articles"
+      },
       "credits": {
         "title": "Credits"
       }
