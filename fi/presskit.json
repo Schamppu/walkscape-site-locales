@@ -1,45 +1,48 @@
 {
-    "singulars": {
-        "contents": {
-            "factsheet": {
-                "title": "Yhteenveto"
-            },
-            "title": "Sisältö",
-            "description": {
-                "title": "Kuvaus",
-                "content-1": "WalkScape on mobiilialustoilla toimiva liikuntaroolipeli, jossa pelaaja edistyy kävelemällä oikeassa elämässä. WalkScape ottaa inspiraatiota vanhan liiton MMORPG-peleistä, kuten RuneScapesta, ja se tarjoaa pelaajalle mittavan määrän sisältöä hahmon kehittämisen, aarteiden etsimisen ja fantasiamaailmassa seikkailun merkeissä, kannustaen samalla terveellisempiin elämäntapoihin.",
-                "content-2": "WalkScape poikkeaa monista muista kävelypeleistä siinä, ettei se käytä ollenkaan kännykän GPS-paikanninta, vaan ainoastaan askelmittaria, eikä se vaadi aktiivista pelaamista kävelyn aikana. Tällä tavoin kunnioitamme pelaajan yksityisyyttä olemalla keräämättä turhaa tietoa ja kannustamme keskittymään itse asiaan: liikuntaan. Peli tallentaa kaikki pelaajan askeleet ja antaa käyttää niitä myöhemmin, joten kännykän voi huoletta jättää lenkin ajaksi taskuun.",
-                "content-3": "WalkScape alkoi vuonna 2022 yhden miehen projektina, jonka tavoitteena oli kehittää peli, joka saisi hänet itsensä liikkumaan enemmän. Jaettuaan ideoitaan pelin varhaisia kehitysvaiheita Redditissä, rupesi projekti äkkiä keräämään tuulta alleen. Innokkaat fanit rupesivat tukemaan projektia Patreonin ja Buy Me a Coffeen kautta ja nyt peli on suljetussa beetavaiheessa ja sitä työstää useampi kehittäjä. Toistaiseksi WalkScape on sataprosenttisesti yhteisön rahoittama, mutta tulee myöhemmin pyörimään kuukausittaisen tilausmaksun ympärillä."
-            },
-            "about": {
-                "content-1": "Not a Cult Oy on pieni, suomalainen indiepelifirma, eikä se ole kultti. Sen perusti sen nykyinen toimitusjohtaja Schamppu vuonna 2023 hieman sen jälkeen, kun oli aloittanut työskentelyn WalkScapen parissa. Tällä hetkellä Not a Cultin Helsingin toimistolla työskentelee kaksi täysipäivästä kehittäjää ulkomailla asuvien freelancereiden tukemana.",
-                "title": "Kehittäjästä",
-                "content-2": "Not a Cultille me olemme intohimoisia pelinörttejä, jotka uskovat, että videopelit ovat enemmän, kuin pelkkä tuote tai palvelu. Me rakennamme pelejämme eettisesti, ympäristöllisesti ja henkilökohtaisesti kestävälle pohjalle. Uskomme avoimeen ja rehelliseen kommunikaatioon ja olemme erityisen ylpeitä aktiivisesta ja osallistuvasta fanikunnastamme. Emme myöskään ole kultti."
-            },
-            "screenshots": {
-                "title": "Kuvakaappaukset",
-                "download": "Lataa kuvakaappaukset .zip -tiedostona"
-            },
-            "videos": {
-                "title": "Videot",
-                "youtube": "Virallinen youtubekanava"
-            },
-            "logos": {
-                "title": "Logot",
-                "download": "Lataa logot .zip -tiedostona"
-            },
-            "art": {
-                "title": "Markkinointikuvia",
-                "download": "Lataa kuvat .zip -tiedostona"
-            },
-            "credits": {
-                "title": "Tekijät"
-            }
-        },
-        "meta": {
-            "title": "WalkScape | Lehdistöpaketti",
-            "description": "Liitteitä, tarkennettuja kuvauksia ja kaikkea muuta, mitä WalkScapesta kirjoittamiseen tarvitsee"
-        },
-        "title": "Lehdistöpaketti"
-    }
+  "singulars": {
+    "contents": {
+      "about": {
+        "content-1": "Not a Cult Oy on pieni, suomalainen indiepelifirma, eikä se ole kultti. Sen perusti sen nykyinen toimitusjohtaja Schamppu vuonna 2023 hieman sen jälkeen, kun oli aloittanut työskentelyn WalkScapen parissa. Tällä hetkellä Not a Cultin Helsingin toimistolla työskentelee kaksi täysipäivästä kehittäjää ulkomailla asuvien freelancereiden tukemana.",
+        "content-2": "Not a Cultille me olemme intohimoisia pelinörttejä, jotka uskovat, että videopelit ovat enemmän, kuin pelkkä tuote tai palvelu. Me rakennamme pelejämme eettisesti, ympäristöllisesti ja henkilökohtaisesti kestävälle pohjalle. Uskomme avoimeen ja rehelliseen kommunikaatioon ja olemme erityisen ylpeitä aktiivisesta ja osallistuvasta fanikunnastamme. Emme myöskään ole kultti.",
+        "title": "Kehittäjästä"
+      },
+      "art": {
+        "download": "Lataa kuvat .zip -tiedostona",
+        "title": "Markkinointikuvia"
+      },
+      "articles": {
+        "title": "Artikkelit"
+      },
+      "credits": {
+        "title": "Tekijät"
+      },
+      "description": {
+        "content-1": "WalkScape on mobiilialustoilla toimiva liikuntaroolipeli, jossa pelaaja edistyy kävelemällä oikeassa elämässä. WalkScape ottaa inspiraatiota vanhan liiton MMORPG-peleistä, kuten RuneScapesta, ja se tarjoaa pelaajalle mittavan määrän sisältöä hahmon kehittämisen, aarteiden etsimisen ja fantasiamaailmassa seikkailun merkeissä, kannustaen samalla terveellisempiin elämäntapoihin.",
+        "content-2": "WalkScape poikkeaa monista muista kävelypeleistä siinä, ettei se käytä ollenkaan kännykän GPS-paikanninta, vaan ainoastaan askelmittaria, eikä se vaadi aktiivista pelaamista kävelyn aikana. Tällä tavoin kunnioitamme pelaajan yksityisyyttä olemalla keräämättä turhaa tietoa ja kannustamme keskittymään itse asiaan: liikuntaan. Peli tallentaa kaikki pelaajan askeleet ja antaa käyttää niitä myöhemmin, joten kännykän voi huoletta jättää lenkin ajaksi taskuun.",
+        "content-3": "WalkScape alkoi vuonna 2022 yhden miehen projektina, jonka tavoitteena oli kehittää peli, joka saisi hänet itsensä liikkumaan enemmän. Jaettuaan ideoitaan pelin varhaisia kehitysvaiheita Redditissä, rupesi projekti äkkiä keräämään tuulta alleen. Innokkaat fanit rupesivat tukemaan projektia Patreonin ja Buy Me a Coffeen kautta ja nyt peli on suljetussa beetavaiheessa ja sitä työstää useampi kehittäjä. Toistaiseksi WalkScape on sataprosenttisesti yhteisön rahoittama, mutta tulee myöhemmin pyörimään kuukausittaisen tilausmaksun ympärillä.",
+        "title": "Kuvaus"
+      },
+      "factsheet": {
+        "title": "Yhteenveto"
+      },
+      "logos": {
+        "download": "Lataa logot .zip -tiedostona",
+        "title": "Logot"
+      },
+      "screenshots": {
+        "download": "Lataa kuvakaappaukset .zip -tiedostona",
+        "title": "Kuvakaappaukset"
+      },
+      "title": "Sisältö",
+      "videos": {
+        "title": "Videot",
+        "youtube": "Virallinen youtubekanava"
+      }
+    },
+    "meta": {
+      "description": "Liitteitä, tarkennettuja kuvauksia ja kaikkea muuta, mitä WalkScapesta kirjoittamiseen tarvitsee",
+      "title": "WalkScape | Lehdistöpaketti"
+    },
+    "title": "Lehdistöpaketti"
+  }
 }
