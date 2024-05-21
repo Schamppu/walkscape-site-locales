@@ -1,0 +1,62 @@
+{
+  "singulars": {
+    "meta": {
+      "title": "WalkScape | Help",
+      "description": "Find answers to the most frequent problems"
+    },
+    "title": "Help",
+    "getGame": {
+      "title": "How to get the game"
+    },
+    "faq": {
+      "title": "FAQ",
+      "exerciseSupport": {
+        "question": "Will the game support more exercise types than just walking?",
+        "answer-section-1": "The game is called WalkScape and its for a reason: the game will allow you to complete all content by just walking. You can level up all skills and do all activities by walking. Walking is an activity type that most people are doing even passively, so even if you are just walking to a store or walking around at your job, you are always making progress.",
+        "answer-section-2": "Later down the road when we add smart watch support to the game, we have planned to add other exercise type. You will be rewarded in-game based on your exercise length, average BPM and calories burned."
+      },
+      "releaseDate": {
+        "question": "When is the game going to be released?",
+        "answer": "The game is currently in closed beta. Before launch there will most likely be an open beta, but the schedule for both is as of yet undetermined. We want to to scale player amounts in a safe and predictable way, so that we can make sure that players get what they pay for.",
+        "button": "Check the roadmap"
+      },
+      "monetization": {
+        "question": "How will you monetise it? How much will the game cost?",
+        "answer-section-1": "We are not still 100% sure about the monetisation, so things mentioned here are subject to change, as is usual for a game that is still in development. We are trying to find ways that would monetise the game as fairly as possible while keeping it affordable. We are against predatory monetisation practises, and do not want to have things like microtransactions in the game for that reason. We personally find those practises on occasion morally questionable, as they encourage unhealthy spending habits and many players end up paying more than they intended.",
+        "answer-section-2": "Based on our current plans, we will have an affordable subscription that you can upgrade to while you can also play the game for free. The subscription opens the whole game world for you, while F2P players will be limited to certain parts of the in-game world. Subscription would not give any unfair advantage like buffs to experience gain, more in-game gold or things like that. It just gives you access to all of the in-game content. If you are not interested in the online features of the game, or paying the subscription, there will also be an offline game mode. To play the offline game mode you have to only pay a one time fee.",
+        "answer-section-3": "That being said, it's still subject to change just like everything else for a game that is not ready yet. You can expect us to have more concrete information on pricing after the closed beta, as we then have more data on how much the server costs and other expenses for the game will be. We want the monetisation to be as affordable as possible while also enabling us to run a sustainable business."
+      },
+      "helpOffers": {
+        "question": "Can I help with testing? & Can I help with something?",
+        "answer-section-1": "We are getting a lot of offers to help with the game! I hope that you stick around, as we will be posting here if something that needs specific help comes up. You can DM me directly with your offers, or contact us via email: contact@walkscape.app",
+        "answer-section-2": "If you are feeling generous, the most helpful thing right now is to help us cover our business expenses by supporting us on:"
+      },
+      "ideaSuggestions": {
+        "question": "I got this great idea, could you include it in the game?",
+        "answer": "Please, post suggestions on our Discord channel's #suggestions-questions . We are always open for suggestions and love to hear them. We can't include every suggestion that is posted and sometimes we just need to prioritize something else, but our goal is always to make a complete product we can all enjoy."
+      },
+      "platformSupport": {
+        "question": "Is it going to release for both Android & iOS?",
+        "answer": "Yes! The game is developed with Flutter, which has great cross-platform support. This means that porting the game for both operating systems isn't a problem and doesn't require a lot of work."
+      },
+      "gameModes": {
+        "question": "What game modes will there be? Can I play the game offline?",
+        "answer-section-1": "Yes! There are currently following game modes designed to be available: ",
+        "answer-section-2": "Online competitive (default mode). A more strict gameplay mode that has anti-cheat measures etc. in play. Can't be customised and needs online connection periodically.",
+        "answer-section-3": "Casual mode. You can customise the game's difficulty (like how many steps you need per action, combat difficulty etc.) and it will incorporate more ways to progress in the game. Can be played totally offline.",
+        "answer-section-4": "Ironman mode. You can play it completely offline, but there are online leaderboards. You basically need to be totally self-reliant in terms of materials and other resources, as you can't buy them from other players.",
+        "answer-section-5": "Hardcore mode (not verified, just an idea). Similar to ironman, but combat difficutly is increased. You can be attacked randomly by monsters while doing activities. Dying in this mode will wipe your inventory clean and you will lose your \"undefeated\" status."
+      },
+      "developmentSupport": {
+        "question": "How I can support the development?",
+        "answer-section-1": "You can support the game by participating in the discussion on our Discord, subreddit or portal forums. Also voting on the polls, giving feedback and posting suggestions really helps!",
+        "answer-section-2": "If you want to seriously support the game, spread the word. Gaining more attention helps us get noticed by game media, which opens a lot of doors for growth.",
+        "answer-section-3": "If you are very seriously loving the game and would like to support and are in a position to do so, you can support us via Buy me a Coffee or Patreon. Every donation helps us to spend more time working on WalkScape, while it also enables us to cover any running operating costs."
+      },
+      "smartwatchSupport": {
+        "question": "Will smart watches & bands be supported?",
+        "answer": "Yes! Smart watches will be supported. We will first have integrations with Apple Health and Google Fit and then add support to Strava, and might work our way from there to include some other manufacturers as well. But if your watch or band can sync with Strava/Fit/Health it's very likely that you can use it with the game."
+      }
+    }
+  }
+}
