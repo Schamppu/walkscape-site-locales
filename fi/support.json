@@ -1,13 +1,44 @@
 {
-    "singulars": {
-        "title": "Tue meitä",
-        "body": {
-            "section-1": "Voit tukea WalkScapen kehitystä Patreonin tai Buy me a Coffeen kautta. Pelin kehityksen tukijat saavat eksklusiivisia etuja, jotka on lueteltu Patreon- ja Buy me a Coffee -sivuilla.",
-            "section-2": "WalkScape on täysin yhteisön rahoittama, ja kaikki tuki on erittäin tervetullutta. ❤️"
-        },
-        "meta": {
-            "title": "WalkScape | Tue meitä",
-            "description": "Ryhdy tilaajaksi Patreonissa tai Buy Me a Coffeessa tukeaksesi WalkScapen kehitystä"
-        }
-    }
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Jäsenyyden voimassa ollessa:",
+        "color": "<0>Eksklusiivinen ikoni ja profiiliväri</0> sekä pelissä, että WalkScapen portaalissa. Ikoni ja profiilin väri määrittyvät aktiivisen jäsenyyden mukaan. Samat edut pätevät myös Discordissa.",
+        "discord": "Pääsy <0>eksklusiiviselle discordkanavalle</0>, jossa pääsee näkemään kurkistuksia tulevista päivityksistä ja keskustelemaan kehittäjien kanssa.",
+        "discordRole": "Eksklusiivinen <0>discordrooli</0>.",
+        "first": "Ensimmäisen maksun jälkeen:",
+        "gameTitle": "<0>Pelin sisäinen titteli</0>, joka osoittaa, että tuit meitä suljetun beetan aikana.",
+        "invite": "<0>Kutsu suljettuun beetaan</0>. Kutsut lähtevät aalloissa. Jos olet ryhtynyt tukijaksi aaltojen välissä, saat pääsyn seuraavan aallon alkaessa. Jos kutsuaalto on käynnissä, saat välittömän pääsyn peliin.",
+        "title": "Kaikki jäsenyystyypit"
+      },
+      "follower": {
+        "character": "Tämän tason tukijat pääsevät kehittämään oman <0>kosmeettisen valinnan</0> peliin kehitystiimin kanssa.",
+        "patreon": "Saatavissa vain Patreonissa",
+        "price": "$50 kuukaudessa",
+        "role": "<0>Cult Follower</0> -rooli WalkScapen discordpalvelimella.",
+        "title": "Kultin seuraaja"
+      },
+      "leader": {
+        "item": "Tämän tason tukijat pääsevät kehittelemään <0>peliin päätyvän esineen</0> kehittäjätiimin kanssa. Tukijan nimi tulee esineen kuvaustekstiin.",
+        "price": "$100 kuukaudessa",
+        "role": "Tukijalle annetaan <0>Cult Leader</0> -rooli WalkScapen discordpalvelimella.",
+        "title": "Kulttijohtaja"
+      },
+      "title": "Tukijoiden edut",
+      "walker": {
+        "price": "$3/$6/$25 kuukaudessa",
+        "role": "<0>Supporter</0> -rooli WalkScapen discordpalvelimella.",
+        "title": "Kaikki 'Walker'-tasot"
+      }
+    },
+    "body": {
+      "section-1": "Voit tukea WalkScapen kehitystä Patreonin tai Buy me a Coffeen kautta. Pelin kehityksen tukijat saavat eksklusiivisia etuja, jotka on lueteltu Patreon- ja Buy me a Coffee -sivuilla.",
+      "section-2": "WalkScape on täysin yhteisön rahoittama, ja kaikki tuki on erittäin tervetullutta. ❤️"
+    },
+    "meta": {
+      "description": "Ryhdy tilaajaksi Patreonissa tai Buy Me a Coffeessa tukeaksesi WalkScapen kehitystä",
+      "title": "WalkScape | Tue meitä"
+    },
+    "title": "Tue meitä"
+  }
 }
