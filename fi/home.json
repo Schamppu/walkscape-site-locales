@@ -76,12 +76,12 @@
       "title": "Peli"
     },
     "howToPlay": {
-      "ensure": "",
-      "nextWave": "",
-      "subscribe": "",
+      "ensure": "Varmistaaksesi pääsyn peliin mahdollisiman nopeasti",
+      "nextWave": "Seuraava kutsuaalto on",
+      "subscribe": "Tilaa <0>uutiskirjeemme</0> ja seuraa meitä <1>sosiaalisessa mediassa</1> pysyäksesi ajan tasalla!",
       "title": "Miten saan pelin?",
-      "waveDate": "",
-      "waveExplain": ""
+      "waveDate": "1. kesäkuuta - 15. kesäkuuta",
+      "waveExplain": "WalkScape on tällä hetkellä <0>Suljetussa Beetassa</0>. Tämä tarkoittaa sitä, että pelaajat pääsevät peliin hallituissa aalloissa, jotta meille jää niiden välissä aikaa keskittyä pelin kehittämiseen ja jotta voimme skaalata infrastruktuuria taloudellisesti kestävään tahtiin."
     },
     "meta": {
       "description": "WalkScapessä edistyt kun kävelet! Seikkaile Arenumissa, kehitä taitoja ja kisaa muiden pelaajien kanssa!",
@@ -97,7 +97,7 @@
       "title": "Kuvakaappaukset"
     },
     "social": {
-      "follow": ""
+      "follow": "Seuraa meitä sosiaalisessa mediassa"
     },
     "statistics": {
       "title": "Tilastot"
