@@ -1,5 +1,64 @@
 {
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "ship": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "shrimps": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "steps": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      },
+      "wine": {
+        "few": "",
+        "many": "",
+        "one": "",
+        "other": "",
+        "two": "",
+        "zero": ""
+      }
+    }
+  },
   "singulars": {
+    "callToAction": {
+      "registerNow": "",
+      "waveActive": "",
+      "waveUndefined": ""
+    },
     "features": {
       "communityFeatures": "Gemeenschapsfuncties, wereldwijde marktplaats, en online klassementen.",
       "levelUpSkills": "Beoefen vaardigheden door in het echte leven te lopen",
@@ -12,13 +71,32 @@
       "section-2": "Je kunt een leuke en spannende reis door de wereld van Arenum verwachten, terwijl je ook de motivatie hebt om te lopen!",
       "title": "Het Spel"
     },
+    "howToPlay": {
+      "ensure": "",
+      "nextWave": "",
+      "subscribe": "",
+      "title": "",
+      "waveDate": "",
+      "waveExplain": ""
+    },
     "meta": {
       "description": "WalkScape: Speel Door Te Lopen!",
       "title": "WalkScape"
     },
+    "news": {
+      "more": "",
+      "readFull": "",
+      "title": ""
+    },
     "screenshotsSection": {
       "description": "Schermafbeeldingen van het spel die een aantal van de onderdelen laten zien. Je kunt er meer vinden op onze subreddit!",
       "title": "Schermafbeeldingen"
+    },
+    "social": {
+      "follow": ""
+    },
+    "statistics": {
+      "title": ""
     }
   }
 }

@@ -76,7 +76,12 @@
       "title": "Peli"
     },
     "howToPlay": {
-      "title": "Miten saan pelin?"
+      "ensure": "",
+      "nextWave": "",
+      "subscribe": "",
+      "title": "Miten saan pelin?",
+      "waveDate": "",
+      "waveExplain": ""
     },
     "meta": {
       "description": "WalkScapessä edistyt kun kävelet! Seikkaile Arenumissa, kehitä taitoja ja kisaa muiden pelaajien kanssa!",
@@ -90,6 +95,9 @@
     "screenshotsSection": {
       "description": "Kuvakaappauksia pelistä, jotka kattavat joitakin pelin mekanismeja. Lisää löydät Subredditistä!",
       "title": "Kuvakaappaukset"
+    },
+    "social": {
+      "follow": ""
     },
     "statistics": {
       "title": "Tilastot"
