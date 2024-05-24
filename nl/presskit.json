@@ -1,1 +1,8 @@
-{}
+{
+  "singulars": {
+    "meta": {
+      "description": "Bestanden, beschrijvingen, en al het andere wat je moet weten om over WalkScape te schrijven",
+      "title": "WalkScape | Persmap"
+    }
+  }
+}
