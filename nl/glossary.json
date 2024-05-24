@@ -1,7 +1,7 @@
 {
   "singulars": {
     "buttons": {
-      "buyMeACoffee": "Buy me a coffee",
+      "buyMeACoffee": "Buy Me a Coffee",
       "contact": "Neem contact met ons op",
       "download": "Download Spel",
       "game": "Begin je avontuur",
@@ -13,6 +13,18 @@
     "footer": {
       "copyright": "Copyrights voorbehouden aan WalkScape.",
       "privacy-policy": "Privacybeleid"
+    },
+    "routes": {
+      "contact": "Contact",
+      "help": "Help",
+      "home": "Start",
+      "portal": "Portal",
+      "presskit": "Persmap",
+      "register": "Registreer",
+      "roadmap": "Plannen",
+      "store": "Winkel",
+      "support": "Steun Ons",
+      "wiki": "Wiki"
     }
   }
 }
