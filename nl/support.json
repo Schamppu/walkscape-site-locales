@@ -1,11 +1,42 @@
 {
   "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Terwijl lidmaatschap actief is:",
+        "color": "<0>Exclusief icoon en profielkleur</0> zowel in het spel als op de WalkScape Portal. Je icoon en profielkleur zullen overeen komen met je actieve lidmaatschapsniveau. Je krijgt ook dezelfde voordelen op Discord.",
+        "discord": "Toegang tot een <0>exclusief Discord-kanaal</0> met extra voorproefjes en gesprekken met de ontwikkelaars.",
+        "discordRole": "Je krijgt een <0>exclusieve Discord-rol</0>.",
+        "first": "Na eerste betaling:",
+        "gameTitle": "Een <0>titel in het spel</0> om te laten zien dat je ons hebt gesteund tijdens de Gesloten Beta-test release.",
+        "invite": "<0>Uitnodiging voor gesloten beta-test</0>. Uitnodigingen worden gegroepeerd verstuurd. Als je financieel gesteund hebt tussen deze periodes in, zal je bij de volgende keer uitgenodigd worden. Als er momenteel uitnodigingen verstuurd worden, krijg je direct toegang tot het spel.",
+        "title": "Alle Lidmaatschappen"
+      },
+      "follower": {
+        "character": "Voor het steunen op dit niveau, mag je een personalisatie-optie voor <0>spelpersonages</0> ontwerpen met het ontwikkelteam.",
+        "patreon": "Alleen beschikbaar op Patreon",
+        "price": "€48,50 per maand",
+        "role": "Krijg de <0>Cult Follower</0> rol op de WalkScape Discord-server.",
+        "title": "Cult-volger"
+      },
+      "leader": {
+        "item": "Voor het steunen op dit niveau, mag je een <0>spelvoorwerp</0> ontwerpen met het ontwikkelteam. Het voorwerp zal jouw naam in de beschrijving hebben.",
+        "price": "€97 per maand",
+        "role": "Krijg de <0>Cult Leader</0> rol op de WalkScape Discord-server.",
+        "title": "Cult-leider"
+      },
+      "title": "Voordelen Voor Financiële Ondersteuners",
+      "walker": {
+        "price": "€3/€6/€25 per maand",
+        "role": "Krijg de <0>Supporter</0> rol op de WalkScape Discord-server.",
+        "title": "Alle Wandelaars"
+      }
+    },
     "body": {
       "section-1": "Je kunt de ontwikkeling van WalkScape steunen via Patreon of Buy Me A Coffee. Hierdoor kun je een aantal exclusieve voordelen krijgen welke staan vermeld op Patreon en Buy Me A Coffee.",
       "section-2": "WalkScape wordt volledig door de gemeenschap gefinancierd en alle steun wordt enorm gewaardeerd. ❤️"
     },
     "meta": {
-      "description": "Neem een abonnement op Patreon of Buy Me a Coffee om de ontwikkeling van WalkScape te ondersteunen",
+      "description": "Neem een abonnement op Patreon of Buy Me a Coffee om de ontwikkeling van WalkScape te steunen",
       "title": "WalkScape| Steun Ons"
     },
     "title": "Steun Ons"
