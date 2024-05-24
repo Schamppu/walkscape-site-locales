@@ -49,6 +49,9 @@
                 "answer": "Ja! Smartwatches zullen worden ondersteund. We zullen eerst integraties maken met Apple Health en Google Fit en daarna ondersteuning voor Strava toevoegen, en mogelijk ook nog andere fabrikanten. Maar als je horloge of band kan synchroniseren met Strava/Fit/Health is de kans groot dat je het kan gebruiken met het spel.",
                 "question": "Zullen smartwatches en -banden worden ondersteund?"
             }
+        },
+        "meta": {
+            "title": "WalkScape | Help"
         }
     }
 }
