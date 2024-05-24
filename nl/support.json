@@ -1,9 +1,13 @@
 {
   "singulars": {
-    "title": "Steun Ons",
     "body": {
       "section-1": "Je kunt de ontwikkeling van WalkScape steunen via Patreon of Buy Me A Coffee. Hierdoor kun je een aantal exclusieve voordelen krijgen welke staan vermeld op Patreon en Buy Me A Coffee.",
       "section-2": "WalkScape wordt volledig door de gemeenschap gefinancierd en alle steun wordt enorm gewaardeerd. ❤️"
-    }
+    },
+    "meta": {
+      "description": "Neem een abonnement op Patreon of Buy Me a Coffee om de ontwikkeling van WalkScape te ondersteunen",
+      "title": "WalkScape| Steun Ons"
+    },
+    "title": "Steun Ons"
   }
 }
