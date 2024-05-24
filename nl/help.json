@@ -1,7 +1,7 @@
 {
     "singulars": {
         "faq": {
-            "title": "FAQ",
+            "title": "Veelgestelde Vragen",
             "developmentSupport": {
                 "answer-section-1": "Je kunt het spel steunen door deel te nemen aan de discussies hier op Discord of op de subreddit. Ook stemmen op de polls, feedback geven, en suggesties doorgeven helpt echt!",
                 "answer-section-2": "Als je het spel echt wilt steunen, vertel het dan door. Als we meer aandacht krijgen, worden we opgemerkt door game-media, wat veel deuren voor ons opent.",
@@ -14,7 +14,7 @@
                 "question": "Gaat het spel ondersteuning hebben voor meer soorten lichaamsbeweging?"
             },
             "gameModes": {
-                "answer-section-1": "Ja! Momenteel zijn de volgende spelmodi ontworpen:",
+                "answer-section-1": "Ja! Momenteel zijn de volgende spelmodi ontworpen: ",
                 "answer-section-2": "Online competitief (standaardmodus). Een spelmodus die wat strikter is door de anti-valsspeelmaatregelen die nodig zijn. Deze modus kan niet aangepast worden en heeft periodiek een internetverbinding nodig.",
                 "answer-section-3": "Casualmodus. Je kunt de moeilijkheidsgraad van het spel aanpassen (zoals de hoeveelheid stappen die per actie nodig zijn, gevechtsmoeilijkheid, etc.) en er zullen meer mogelijkheden zijn om te vorderen in het spel. Kan volledig offline gespeeld worden.",
                 "answer-section-4": "Ironman-modus. Je kunt volledig offline spelen, maar er zijn wel online klassementen. Je moet in principe volledig zelfvoorzienend zijn wat betreft materialen en andere middelen, want je kunt ze niet kopen van andere spelers.",
@@ -34,7 +34,11 @@
                 "monetization.answer-section-1": "We zijn nog niet 100% zeker over de financieringsmethoden, dus wat hier genoemd wordt is nog onderhevig aan verandering, zoals het ook gebruikelijk is voor een spel dat nog in ontwikkeling is. We zijn op zoek naar manieren om het spel te financieren op een zo eerlijk mogelijke manier waarbij het ook nog betaalbaar is. Ik ben fel tegen uitbuitende financieringsmethoden en dingen als microtransacties zijn daardoor voor ons ongewenst. Persoonlijk vind ik deze praktijken moreel twijfelachtig, omdat ze kwalijke bestedingsgewoonten aanmoedigen waardoor vele spelers uiteindelijk meer betalen dan wat de bedoeling was.",
                 "monetization.answer-section-2": "Op basis van onze huidige plannen, zal er een betaalbaar abonnement zijn waar je naar kunt opwaarderen, maar je kunt het spel ook gratis spelen. Het abonnement geeft toegang tot het volledige spel, terwijl spelers zonder abonnement beperkt zijn tot bepaalde delen van de spelwereld. Het abonnement zal geen oneerlijk voordeel geven zoals bonussen voor ervaringspunten, meer geld in het spel, of andere soortgelijke dingen. Het geeft enkel toegang tot alle spelonderdelen. Als je geen interesse hebt in de online functies van het spel of het betalen van het abonnement, zal er ook een offline spelmodus zijn. Voor de offline spelmodus wordt een eenmalige betaling gevraagd.",
                 "monetization.answer-section-3": "Dat gezegd hebbende, het is nog steeds onderhevig aan veranderingen, net als al het andere voor een spel dat nog niet klaar is. Je kunt van ons een duidelijkere prijsstelling verwachten na de gesloten beta-test, aangezien we dan meer gegevens hebben over hoe hoog de serverkosten en andere uitgaven zullen zijn. We willen dat de financieringsmethoden zo betaalbaar mogelijk zijn, terwijl we ook het bedrijf draaiend moeten kunnen houden.",
-                "monetization.question": "Wat zijn de financieringsmethoden? Hoe veel zal het spel kosten?"
+                "monetization.question": "Wat zijn de financieringsmethoden? Hoe veel zal het spel kosten?",
+                "answer-section-1": "We zijn nog niet 100% zeker over het verdienmodel, dus wat hier genoemd wordt is nog onder voorbehoud, wat gebruikelijk is voor een spel wat nog in ontwikkeling is. We proberen manieren te vinden om het spel te financieren op een zo eerlijk en betaalbaar mogelijke manier. We zijn tegen agressieve verdienmodellen, en willen daarom geen systemen als microtransacties in het spel. We vinden persoonlijk dat deze praktijken vaak onethisch zijn, omdat ze ongezonde uitgavegewoontes aanmoedigen en veel spelers meer zouden gaan betalen dan wat ze oorspronkelijk voor ogen hadden.",
+                "answer-section-2": "Gebaseerd op onze huidige plannen, zullen we een betaalbaar abonnement aanbieden, maar je kunt het spel ook gratis spelen. Het abonnement opent de complete spelwereld voor je, terwijl de gratis spelers gelimiteerd worden tot bepaalde delen van de spelwereld. Het abonnement zal geen oneerlijke voordelen geven zoals het sneller trainen van vaardigheden, meer geld in het spel, of andere dergelijke dingen. Het geeft je alleen toegang tot de complete inhoud van het spel. Als je geen interesse hebt in de online functionaliteiten van het spel, of het betalen van het abonnement, zal er ook een offline spelmodus zijn. Voor het spelen van de offline spelmodus zal slechts een eenmalige betaling nodig zijn.",
+                "question": "Wat is het verdienmodel? Hoeveel zal het spel kosten?",
+                "answer-section-3": "Dat gezegd hebbende, het is nog onder voorbehoud net als al het andere bij een spel wat nog niet klaar is. Je kunt meer concrete informatie betreft kosten van ons verwachten na de gesloten beta-test, aangezien we dan meer gegevens hebben over hoe hoog de serverkosten en andere uitgaves voor het spel zullen zijn. We willen dat het verdienmodel zo betaalbaar mogelijk is terwijl het runnen van een verantwoord bedrijf ook mogelijk moet blijven."
             },
             "platformSupport": {
                 "answer": "Ja! Het spel is ontwikkeld met Flutter, wat goede ondersteuning biedt voor meerdere platformen. Dat betekent dat het niet veel extra werk kost om het op beide platformen beschikbaar te stellen.",
@@ -51,7 +55,12 @@
             }
         },
         "meta": {
-            "title": "WalkScape | Help"
-        }
+            "title": "WalkScape | Help",
+            "description": "Vind oplossingen voor de meestvoorkomende problemen"
+        },
+        "getGame": {
+            "title": "Hoe krijg je het spel"
+        },
+        "title": "Help"
     }
 }
