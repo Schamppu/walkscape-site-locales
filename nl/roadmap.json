@@ -1,7 +1,83 @@
 {
     "singulars": {
         "meta": {
-            "title": "WalkScape | Plannen"
+            "title": "WalkScape | Plannen",
+            "description": "De ontwikkelingsplannen van WalkScape, zowel in het verleden als in de toekomst, in grote lijnen."
+        },
+        "devStart": {
+            "content": "De ontwikkeling van WalkScape begint als een hobbyproject, waar Schamppu in zijn vrije tijd aan werkt.",
+            "date": "17 augustus, 2022",
+            "title": "Spelontwikkeling Begint"
+        },
+        "originalBeta": {
+            "content": "De eerste versie van de WalkScape gesloten beta-testfase staat gepland voor lancering in de zomer van 2023. Dit blijkt een onrealistisch doel te zijn, en de release moet uitgesteld worden tot het einde van het jaar.",
+            "date": "Zomer, 2023",
+            "title": "Originele Lancering van de Gesloten Beta-Test"
+        },
+        "wave1": {
+            "content": "Om gegarandeerd toegang te krijgen tot de eerste Gesloten Beta-testversie van het spel, kunnen spelers de ontwikkeling van het spel steunen via Patreon en Buy Me a Coffee.",
+            "date": "1 november, 2023",
+            "title": "Uitnodiging Groep 1 voor Financiele Steuners"
+        },
+        "pedometer": {
+            "content": "Op dit moment heeft de hoofdfunctionaliteit, het tellen van stappen, een update nodig. Er wordt een update uitgebracht die een hoop problemen met de stappenteller oplost waar mensen tegenaan liepen. Het oplossen van problemen met de stappenteler gaat door gedurende de hele maand mei, 2024.",
+            "date": "26 april, 2024",
+            "title": "Stappenteller-update"
+        },
+        "myzozoz": {
+            "content": "Om de ontwikkeling te versnellen, begint de zoektocht naar een tweede programmeur en ontwikkelaar. Op 15 april wordt myzozoz de eerste officiële werknemer van Not A Cult.",
+            "date": "15 april, 2024",
+            "title": "myzozoz Wordt Lid van het Team"
+        },
+        "wave3": {
+            "content": "Opnieuw een grote handigheids-update, waarbij WalkPedia, reis- en actiewachtrij, bank- en inventarissortering, tabbladen, en nog veel meer wordt toegevoegd om het spelen van het spel gemakkelijker te maken. Groep 3 begint kort nadat de handigheids-update is uitgebracht en de daarmee geïntroduceerde problemen zijn opgelost.",
+            "date": "Augustus-september, 2024",
+            "title": "Handigheids-update & Groep 3"
+        },
+        "maxchill": {
+            "date": "4 december, 2022",
+            "title": "Maxchill Wordt Lid van het Team",
+            "content": "Het project begint online populair te worden, vooral op Reddit, en de noodzaak voor het inhuren van een artiest komt op. Maxchill wordt lid van het ontwikkelteam."
+        },
+        "floursifter": {
+            "date": "12 oktober, 2023",
+            "title": "Floursifter Wordt Lid van het Team",
+            "content": "Floursifter, lid van de WalkScape online gemeenschap, wie veel van zijn vrije tijd heeft besteed aan het bedenken van spelelementen, formules in het spel, en het testen van de iOS versie, wordt officieus lid van het team."
+        },
+        "launch": {
+            "date": "18 januari, 2024",
+            "title": "Gesloten Beta-test is Gelanceerd",
+            "content": "WalkScape's eerste Gesloten-Betaversie is gelanceerd."
+        },
+        "qol": {
+            "date": "16 februari, 2024",
+            "title": "Grote Handigheidsupdate",
+            "content": "Een grote update met handigheidsverbeteringen. De complete UI is opnieuw gemaakt en het navigeren en spelen van het spel wordt veel gemakkelijker."
+        },
+        "contentUpdate": {
+            "date": "28 februari, 2024",
+            "title": "Grote Spelinhoud Update",
+            "content": "De hoeveelheid spelinhoud is bijna verdubbeld met de toevoeging van verzamelobjecten, nieuwe voorwerpen, dubbel zo veel activiteiten, en meer, ter voorbereiding van de lancering van Groep 2."
+        },
+        "wave2": {
+            "date": "1 maart, 2024",
+            "title": "Uitnodiging Groep 2",
+            "content": "De tweede groep Gesloten Beta-uitnodigingen sluit op 31 maart, 2024. Patreon en BMAC-ondersteuners en een grote groep aanmelders voor de Gesloten Beta-test krijgen toegang vóór de einddatum, 31 maart."
+        },
+        "wave2patch": {
+            "date": "13 maart, 2024",
+            "title": "Update Na Groep 2",
+            "content": "Er wordt een update uitgebracht om problemen op te lossen die spelers uit groep 2 tegengekomen zijn."
+        },
+        "wave2point5": {
+            "date": "1 juni, 2024",
+            "title": "Uitnodiging Groep 2.5",
+            "content": "Als een bedankje aan alle spelers die het spel gesteund hebben sinds het einde van groep 2, worden uitnodigingen gestuurd naar iedereen die het spel gesteund heeft op Patreon of BMAC voor 14 juni. Uitnodigingen zullen worden verstuurd vanaf 1 juni."
+        },
+        "syrenthia": {
+            "date": "Juni-juli, 2024",
+            "title": "Syrenthië Update",
+            "content": "Onze grootste update tot dan toe, waarbij prestaties, rijksreputatie, verbruiksvoorwerpen, en een nieuwe regio toegevoegd worden aan het spel."
         }
     }
 }
