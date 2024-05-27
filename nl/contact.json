@@ -1,1 +1,16 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Als je vragen hebt of ondersteuning nodig hebt, neem dan gerust contact met ons op via email op <0>contact@walkscape.app</0> of via social media."
+    },
+    "meta": {
+      "description": "Ontdek hoe we te bereiken zijn",
+      "title": "WalkScape | Neem Contact Op"
+    },
+    "presskit": {
+      "description": "Ontdek onze volledige persmap <0>hier</0>",
+      "title": "Persmap"
+    },
+    "title": "Neem Contact Op"
+  }
+}

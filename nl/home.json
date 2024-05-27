@@ -2,62 +2,62 @@
   "plurals": {
     "callToAction": {
       "waveDefined": {
-        "few": "",
-        "many": "",
-        "one": "",
-        "other": "",
-        "two": "",
-        "zero": ""
+        "few": "-",
+        "many": "-",
+        "one": "De volgende gesloten beta-testgroep begint in <br/> <2>{{count}} week!</2>",
+        "other": "De volgende gesloten beta-testgroep begint in <br/> <2>{{count}} weken!</2>",
+        "two": "-",
+        "zero": "-"
       }
     },
     "statistics": {
       "actions": {
-        "few": "",
-        "many": "",
-        "one": "",
-        "other": "",
-        "two": "",
-        "zero": ""
+        "few": "-",
+        "many": "-",
+        "one": "actie voltooid",
+        "other": "acties voltooid in totaal",
+        "two": "-",
+        "zero": "-"
       },
       "ship": {
-        "few": "",
-        "many": "",
-        "one": "",
-        "other": "",
-        "two": "",
-        "zero": ""
+        "few": "-",
+        "many": "-",
+        "one": "schip gerepareerd",
+        "other": "schepen gerepareerd",
+        "two": "-",
+        "zero": "-"
       },
       "shrimps": {
-        "few": "",
-        "many": "",
-        "one": "",
-        "other": "",
-        "two": "",
-        "zero": ""
+        "few": "-",
+        "many": "-",
+        "one": "garnaal gevangen",
+        "other": "garnalen gevangen",
+        "two": "-",
+        "zero": "-"
       },
       "steps": {
-        "few": "",
-        "many": "",
-        "one": "",
-        "other": "",
-        "two": "",
-        "zero": ""
+        "few": "-",
+        "many": "-",
+        "one": "stap genomen",
+        "other": "stappen genomen in totaal",
+        "two": "-",
+        "zero": "-"
       },
       "wine": {
-        "few": "",
-        "many": "",
-        "one": "",
-        "other": "",
-        "two": "",
-        "zero": ""
+        "few": "-",
+        "many": "-",
+        "one": "fles wijn gevonden in kisten",
+        "other": "flessen wijn gevonden in kisten",
+        "two": "-",
+        "zero": "-"
       }
     }
   },
   "singulars": {
     "callToAction": {
-      "registerNow": "",
-      "waveActive": "",
-      "waveUndefined": ""
+      "registerNow": "<0>Registreer nu</0> om je aan te melden voor een uitnodiging of <1>steun ons</1> om gegarandeerd toegang te krijgen!",
+      "waveActive": "We nodigen momenteel spelers uit voor de beta-test!",
+      "waveUndefined": "De volgende groep uitnodigingen voor de gesloten beta-test worden binnenkort verstuurd! Abonneer op onze <0>nieuwsbrief</0> en volg onze <1>social media<1> om niks te missen!"
     },
     "features": {
       "communityFeatures": "Gemeenschapsfuncties, wereldwijde marktplaats, en online klassementen.",
@@ -69,34 +69,34 @@
     "gameSection": {
       "section-1": "WalkScape is een spel dat is geïnspireerd door old-school MMORPG's. Met één grote twist: je speelt het niet actief, maar je boekt voortuitgang door te lopen.",
       "section-2": "Je kunt een leuke en spannende reis door de wereld van Arenum verwachten, terwijl je ook de motivatie hebt om te lopen!",
-      "title": "Het Spel"
+      "title": "Wat is WalkScape?"
     },
     "howToPlay": {
-      "ensure": "",
-      "nextWave": "",
-      "subscribe": "",
-      "title": "",
-      "waveDate": "",
-      "waveExplain": ""
+      "ensure": "Om zo snel mogelijk toegang te krijgen tot het spel",
+      "nextWave": "Volgende groep beta-test uitnodigingen worden verstuurd rond",
+      "subscribe": "Abonneer je nu op onze <0>nieuwsbrief</0> en volg onze <1>social media</1> om niks te missen!",
+      "title": "Hoe speel je het?",
+      "waveDate": "1 juni - 15 juni",
+      "waveExplain": "WalkScape bevindt zich momenteel in een <0>Gesloten Beta-Testfase</0>. Dit betekent dat spelers gegroepeerd uitgenodigd worden om ons tijd te geven het spel snel met volledige focus te ontwikkelen en om onze serverinfrastructuur op te schalen op een financieel verantwoorde manier."
     },
     "meta": {
-      "description": "WalkScape: Speel Door Te Lopen!",
-      "title": "WalkScape"
+      "description": "WalkScape: Wandelend Spelen!",
+      "title": "WalkScape: Het Wandel-Roleplaying-Fitness-Spel"
     },
     "news": {
-      "more": "",
-      "readFull": "",
-      "title": ""
+      "more": "Meer laten zien",
+      "readFull": "Lees Volledig Artikel",
+      "title": "Nieuws"
     },
     "screenshotsSection": {
       "description": "Schermafbeeldingen van het spel die een aantal van de onderdelen laten zien. Je kunt er meer vinden op onze subreddit!",
       "title": "Schermafbeeldingen"
     },
     "social": {
-      "follow": ""
+      "follow": "Volg ons op social media"
     },
     "statistics": {
-      "title": ""
+      "title": "Statistieken"
     }
   }
 }
