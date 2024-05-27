@@ -1,83 +1,83 @@
 {
-  "singulars": {
-    "devStart": {
-      "date": "18.08.2022",
-      "title": "Pelin kehitys alkaa",
-      "content": "WalkScapen kehitys alkaa harrasteprojektina, jota Schamppu työstää vapaa-ajallaan."
-    },
-    "maxchill": {
-      "date": "4.12.2022",
-      "title": "Maxchill liittyy tiimii",
-      "content": "Projekti alkaa kerätä huomiota verkossa, varsinkin Redditissä, ja tarve palkata artisti muodostuu. Machill liittyy kehitystiimiin."
-    },
-    "originalBeta": {
-      "date": "Kesä, 2023",
-      "title": "Alkuperäinen suljettu beeta",
-      "content": "WalkScapen ensimmäinen suljettu beetaversio on tarkoitus julkaista kesällä 2023. Aikataulu osoittautuu epärealistiseksi ja julkaisu siirtyy myöhemmälle loppuvuodelle."
-    },
-    "floursifter": {
-      "date": "12.10.2023",
-      "title": "Floursifter liittyy tiimiin",
-      "content": "Floursifter, joka on käyttänyt merkittävän määrän vapaa-aikaa keksiäkseen peliin sisältöä ja testatakseen pelin iOS-versiota, liittyy epävirallisesti kehitystiimiin."
-    },
-    "wave1": {
-      "date": "1.11.2023",
-      "title": "Ensimmäinen kutsuaalto tukijoille",
-      "content": "Taatakseen pääsyn pelin ensimmäisen suljettuun beetaversioon, voivat pelaata tukea pelin kehitystä Patreonissa tai Buy Me a Coffeessa."
-    },
-    "launch": {
-      "date": "18.1.2024",
-      "title": "Suljettu beeta julkaistaan",
-      "content": "WalkScapen ensimmäinen suljettu beetaversio julkaistaan."
-    },
-    "qol": {
-      "date": "16.2.2024",
-      "title": "Suuri käyttömukavuuspäivitys",
-      "content": "Suuri käyttömukavuuspäivitys julkaistaan. Koko käyttöliittymä on uusittu, tehden pelin navigoimisesta ja pelaamisesta huomattavasti helpompaa."
-    },
-    "contentUpdate": {
-      "date": "28.2.2024",
-      "content": "Pelisisällön määrä liki tuplaantuu, kun uusi päivitys lisää keräiltävää, esineitä, uusia aktiviteetteja ja muuta toista kutsuaaltoa varten.",
-      "title": "Suuri sisältöpäivitys"
-    },
-    "wave2": {
-      "date": "1.3.2024",
-      "title": "Toinen kutsuaalto",
-      "content": "Suljetun beetan toinen aalto alkaa ja pelaajille lähetetään kutsuja. Ennen maaliskuun loppua monet tukijat, mutta myös muut, saavat pääsyn peliin."
-    },
-    "wave2patch": {
-      "date": "13.3.2024",
-      "title": "Toisen aallon jälkeinen päivitys",
-      "content": "Toisessa aallossa liittyneitä pelaajia vaivanneita ongelmia korjaava päivitys julkaistaan."
-    },
-    "myzozoz": {
-      "date": "15.4.2024",
-      "title": "myzozoz liittyy tiimiin",
-      "content": "Työn nopeuttamiseksi tiimiin haetaan toista kehittäjää. 15.4. myzozoz aloittaa työnsä Not a Cultin ensimmäisenä virallisena työntekijänä."
-    },
-    "pedometer": {
-      "date": "26.4.2024",
-      "title": "Askelmittaripäivitys",
-      "content": "WalkScapen ydintoiminnallisuus, eli askelten laskeminen kaipaa päivittämistä. Päivitys julkaistaan, mikä korjaa ison osan pelaajien kohtaamista mittausongelmista. Korjaaminen kuitenkin jatkuu toukokuun puolelle."
-    },
-    "wave2point5": {
-      "date": "1.6.2024",
-      "title": "Kutsuaalto 2,5",
-      "content": "Kiitoksena kaikille, jotka ovat liittyneet tukijoiksi toisen aallon jälkeen, lähetetään kutsu pelin beetaan. Kutsujen lähettäminen alkaa 1.6. ja päättyy 14.6."
-    },
-    "syrenthia": {
-      "date": "Kesäkuu-Heinäkuu, 2024",
-      "title": "Syrenthia -päivitys",
-      "content": "Toistaiseksi suurin päivityksemme, joka sisältää saavutukset, valtakunnaliset mainemekaniikat, kulutettavia esineitä ja uuden alueen kartalla."
-    },
-    "wave3": {
-      "date": "Elokuu-syyskuu, 2024",
-      "title": "Käyttökokemuspäivitys ja kolmas aalto",
-      "content": "Toinen suuri käyttökokemuspäivitys, jonka myötä lisätään WalkPedia, matkustus- ja toimintajono, pankin ja tavaroiden lajittelua ja paljon muuta, mikä tekee pelaamisesta helpompaa. Kun päivitys on saatu ulos ja hiotuksi, alkaa kolmas kutsuaalto."
-    },
-    "meta": {
-      "title": "WalkScape | Suunnitelma",
-      "description": "WalkScapen kehityksen lyhyt historia ja lähitulevaisuus."
+    "singulars": {
+        "devStart": {
+            "date": "18.08.2022",
+            "title": "Pelin kehitys alkaa",
+            "content": "WalkScapen kehitys alkaa harrasteprojektina, jota Schamppu työstää vapaa-ajallaan."
+        },
+        "maxchill": {
+            "date": "4.12.2022",
+            "title": "Maxchill liittyy tiimii",
+            "content": "Projekti alkaa kerätä huomiota verkossa, varsinkin Redditissä, ja tarve palkata artisti muodostuu. Machill liittyy kehitystiimiin."
+        },
+        "originalBeta": {
+            "date": "Kesä, 2023",
+            "title": "Alkuperäinen suljettu beeta",
+            "content": "WalkScapen ensimmäinen suljettu beetaversio on tarkoitus julkaista kesällä 2023. Aikataulu osoittautuu epärealistiseksi ja julkaisu siirtyy myöhemmälle loppuvuodelle."
+        },
+        "floursifter": {
+            "date": "12.10.2023",
+            "title": "Floursifter liittyy tiimiin",
+            "content": "Floursifter, joka on käyttänyt merkittävän määrän vapaa-aikaa keksiäkseen peliin sisältöä ja testatakseen pelin iOS-versiota, liittyy epävirallisesti kehitystiimiin."
+        },
+        "wave1": {
+            "date": "1.11.2023",
+            "title": "Ensimmäinen kutsuaalto tukijoille",
+            "content": "Taatakseen pääsyn pelin ensimmäisen suljettuun beetaversioon, voivat pelaata tukea pelin kehitystä Patreonissa tai Buy Me a Coffeessa."
+        },
+        "launch": {
+            "date": "18.1.2024",
+            "title": "Suljettu beeta julkaistaan",
+            "content": "WalkScapen ensimmäinen suljettu beetaversio julkaistaan."
+        },
+        "qol": {
+            "date": "16.2.2024",
+            "title": "Suuri käyttömukavuuspäivitys",
+            "content": "Suuri käyttömukavuuspäivitys julkaistaan. Koko käyttöliittymä on uusittu, tehden pelin navigoimisesta ja pelaamisesta huomattavasti helpompaa."
+        },
+        "contentUpdate": {
+            "date": "28.2.2024",
+            "content": "Pelisisällön määrä liki tuplaantuu, kun uusi päivitys lisää keräiltävää, esineitä, uusia aktiviteetteja ja muuta toista kutsuaaltoa varten.",
+            "title": "Suuri sisältöpäivitys"
+        },
+        "wave2": {
+            "date": "1.3.2024",
+            "title": "Toinen kutsuaalto",
+            "content": "Suljetun beetan toinen aalto alkaa ja pelaajille lähetetään kutsuja. Ennen maaliskuun loppua monet tukijat, mutta myös muut, saavat pääsyn peliin."
+        },
+        "wave2patch": {
+            "date": "13.3.2024",
+            "title": "Toisen aallon jälkeinen päivitys",
+            "content": "Toisessa aallossa liittyneitä pelaajia vaivanneita ongelmia korjaava päivitys julkaistaan."
+        },
+        "myzozoz": {
+            "date": "15.4.2024",
+            "title": "myzozoz liittyy tiimiin",
+            "content": "Työn nopeuttamiseksi tiimiin haetaan toista kehittäjää. 15.4. myzozoz aloittaa työnsä Not a Cultin ensimmäisenä virallisena työntekijänä."
+        },
+        "pedometer": {
+            "date": "26.4.2024",
+            "title": "Askelmittaripäivitys",
+            "content": "WalkScapen ydintoiminnallisuus, eli askelten laskeminen kaipaa päivittämistä. Päivitys julkaistaan, mikä korjaa ison osan pelaajien kohtaamista mittausongelmista. Korjaaminen kuitenkin jatkuu toukokuun puolelle."
+        },
+        "wave2point5": {
+            "date": "1.6.2024",
+            "title": "Kutsuaalto 2,5",
+            "content": "Kiitoksena kaikille, jotka ovat liittyneet tukijoiksi toisen aallon jälkeen, lähetetään kutsu pelin beetaan. Kutsujen lähettäminen alkaa 1.6. ja päättyy 15.6, klo 12.00.00 UTC."
+        },
+        "syrenthia": {
+            "date": "Kesäkuu-Heinäkuu, 2024",
+            "title": "Syrenthia -päivitys",
+            "content": "Toistaiseksi suurin päivityksemme, joka sisältää saavutukset, valtakunnaliset mainemekaniikat, kulutettavia esineitä ja uuden alueen kartalla."
+        },
+        "wave3": {
+            "date": "Elokuu-syyskuu, 2024",
+            "title": "Käyttökokemuspäivitys ja kolmas aalto",
+            "content": "Toinen suuri käyttökokemuspäivitys, jonka myötä lisätään WalkPedia, matkustus- ja toimintajono, pankin ja tavaroiden lajittelua ja paljon muuta, mikä tekee pelaamisesta helpompaa. Kun päivitys on saatu ulos ja hiotuksi, alkaa kolmas kutsuaalto."
+        },
+        "meta": {
+            "title": "WalkScape | Suunnitelma",
+            "description": "WalkScapen kehityksen lyhyt historia ja lähitulevaisuus."
+        }
     }
-  }
 }
