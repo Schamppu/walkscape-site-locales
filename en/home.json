@@ -15,7 +15,8 @@
       "waveDate": "1st of June - 15th of June",
       "subscribe": "Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!",
       "ensure": "To ensure access to the game as soon as possible",
-      "waveExplain": "WalkScape is currently in <0>Closed Beta</0>. This means that players will get access to the game in waves to give us time in between waves to develop the game rapidly with full focus, and to scale our server infrastructure in a financially sustainable way."
+      "waveExplain": "WalkScape is currently in <0>Closed Beta</0>. This means that players will get access to the game in waves to give us time in between waves to develop the game rapidly with full focus, and to scale our server infrastructure in a financially sustainable way.",
+      "instructions": "For step-by-step instructions on how to get access, go <0>here</0>!"
     },
     "statistics": {
       "title": "Statistics"
