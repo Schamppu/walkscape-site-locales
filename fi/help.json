@@ -59,7 +59,29 @@
             "description": "Löydä apua yleisimpiin ongelmiin"
         },
         "getGame": {
-            "title": "Näin hankit pelin"
+            "title": "Näin hankit pelin",
+            "free": {
+                "title": "Ilmainen rekisteröityminen:",
+                "note": "Huom",
+                "noteContent": "Kussakin aallossa lähetetään rajoitettu määrä kutsuja, mutta voit varmistaa pääsyn ryhtymällä tukijaksi! Jatka lukemista jos olet jo rekisteröinyt tilin portaaliin ja <0>tukenut peliä</0>.",
+                "instructions-1": "Luo tili <0>WalkScapen portaaliin</0>. Pidä huoli, että vahvistat sähköpostiosoitteesi (joissain tapauksissa vahvistusviestit päätyvät roskapostiin).",
+                "instructions-2": "Navigoi <1>käyttäjätilisivulle</1> ja valitse <2>Hae pääsyä beetaan</2> (Apply for beta access).",
+                "instructions-3": "Odota kutsua. Kutsut lähtevät aalloissa ja voit tarkistaa <3>Kotisivuilta</3> milloin seuraava aalto on tulossa. Kutsutut saavat sähköpostia, jossa on ohjeet pelin asentamiseksi."
+            },
+            "oauth": {
+                "title": "Tilien yhdistäminen OAuthilla (vain Patreon-tukijoille, suositeltu):",
+                "instructions-1": "Siirry <1>käyttäjätilisivulle</1>.",
+                "instructions-2": "Valitse <4>Kirjaudu sisään Patreon-tilillä</4>(Login with Patreon) osiossa <2>Linkkaa Patreon-tili</2>.",
+                "instructions-3": "Sivun tulisi pyytää Patreon-tunnuksiasi. Syötä sen tilin sähköpostiosoite ja salasana, joilla olet tukenut WalkScapea Patreonissa.",
+                "instructions-4": "Jos kaikki menee suunnitellusti, tulisi sivun ilmoittaa onnistumisesta, jolloin tilisi on yhdistetty ja tilauksesi pitäisi olla välittömästi näkyvissä tilisi sivulla. Jos yhdistäminen ei syystä tai toisesta onnistu, voit yrittää linkittää tilejäsi käyttämällä sähköpostia ja kertakäyttöistä koodia alla kuvaillulla tavalla."
+            },
+            "email": {
+                "title": "Tilien yhdistäminen sähköpostilla ja koodilla (Patreon/BMAC):",
+                "instructions-2": "Syötä Patreon/BMAC-tilis sähköpostiosoite asianmukaiseen kenttään ja valitse <4>LÄHETÄ KOODI</4> (GET CODE).",
+                "instructions-3": "Annettuun sähköpostiosoitteeseen lähetetään kertakäyttöinen vahvistuskoodi. Syötä koodi sähköpostiosoitteen alla olevaan kenttään ja valitse <4>YHDISTÄ TILI</4> (LINK ACCOUNT).",
+                "instructions-4": "Enempiä vaiheita ei tarvita ja tilauksesi statuksen pitäisi näkyä tilisivulla. Huomioithan, että joissain tapauksissa tietojen synkronoinnissa voi mennä muutama tunti."
+            },
+            "instructions-finish": "Jos tiedot eivät tule näkyviin neljässä tunnissa tai jos prosessin aikana ilmenee muita ongelmia, voit etsiä ratkaisua allaolevast UKK-osiosta tai <0>olla yhteydessä</0>."
         },
         "title": "Ohjeet"
     }
