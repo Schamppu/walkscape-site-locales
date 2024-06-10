@@ -56,10 +56,32 @@
         },
         "meta": {
             "title": "WalkScape | Help",
-            "description": "Vind oplossingen voor de meestvoorkomende problemen"
+            "description": "Vind oplossingen voor de meest voorkomende problemen"
         },
         "getGame": {
-            "title": "Hoe krijg je het spel"
+            "title": "Hoe krijg je het spel",
+            "instructions-finish": "Echter, als het meer dan 4 uur duurt of je hebt andere problemen met het proces, bekijk dan de FAQ hieronder of <0>Neem Contact Op</0>.",
+            "free": {
+                "title": "Om je gratis aan te melden:",
+                "note": "Let op",
+                "instructions-2": "Navigeer naar de <1>Accountpagina</1> en selecteer <2>Beta-toegang aanvragen</2>.",
+                "instructions-3": "Wacht op een uitnodiging. Uitnodigingen worden in groepen verstuurd en je kunt op de <3>Startpagina</3> zien wanneer de volgende gepland is. Uitgenodigden zullen een email ontvangen waarin uitgelegd wordt hoe je het spel installeert.",
+                "noteContent": "Een beperkt aantal uitnodigingen worden verstuurd in elke groep, maar je kunt toegang garanderen door ons financieel te steunen! Lees verder als je je al geregistreerd hebt op de Portal en <0>het spel gesteund hebt</0>.",
+                "instructions-1": "Maak een account aan op de <0>WalkScape Portal</0>. Zorg ervoor dat je emailadres geverifieerd is (de verificatie-emails komen soms in je spam-inbox terecht)."
+            },
+            "oauth": {
+                "title": "Account verbinden met OAuth (alleen voor Patreon, aanbevolen):",
+                "instructions-1": "Ga naar de <1>Accountpagina</1>.",
+                "instructions-3": "De website zal je vragen om je Patreon-inloggegevens. Voer het emailadres en wachtwoord in van het account dat op Patreon geabonneerd is op WalkScape.",
+                "instructions-2": "Klik op de <4>Login met Patreon</4> knop in het <2>Patreon-account verbinden</2> gedeelte.",
+                "instructions-4": "Als alles goed gaat, zou je een succes-scherm moeten zien, waarna je account verbonden is en je abonnementsstatus direct zichtbaar is op de Accountpagina. Als er iets mis gaat, kun je proberen om het account te verbinden via email en code, zoals hieronder toegelicht wordt."
+            },
+            "email": {
+                "title": "Account verbinden via email en code (Patreon/BMaC):",
+                "instructions-2": "Voer in het bijbehorende invoerveld het emailadres in wat gebruikt is voor je Patreon/BMaC-account en klik op <4>CODE AANVRAGEN</4>.",
+                "instructions-3": "Je zou op het opgegeven adres een email moeten krijgen met een verificatiecode. Voer de code in op de accountpagina en klik op <4>ACCOUNT VERBINDEN</4>.",
+                "instructions-4": "Nu zou het gelukt moeten zijn en zou je abonnementsstatus zichtbaar moeten zijn op de accountpagina. Let op dat het in sommige gevallen een paar uur kan duren voordat het systeem volledig gesynchroniseerd is."
+            }
         },
         "title": "Help"
     }
