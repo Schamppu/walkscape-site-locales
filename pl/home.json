@@ -1,1 +1,103 @@
-{}
+{
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "-",
+        "many": "-",
+        "one": "Następna fala zamkniętej bety rozpocznie się za <br> <2>{{count}} tygodnie!</2>",
+        "other": "Następna fala zamkniętej bety rozpocznie się za <br> <2>{{count}} tygodnie!</2>",
+        "two": "-",
+        "zero": "-"
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "-",
+        "many": "-",
+        "one": "ukończonych akcji",
+        "other": "całkowicie ukończonych akcji",
+        "two": "-",
+        "zero": "-"
+      },
+      "ship": {
+        "few": "-",
+        "many": "-",
+        "one": "naprawiony statek",
+        "other": "naprawionych statków",
+        "two": "-",
+        "zero": "-"
+      },
+      "shrimps": {
+        "few": "-",
+        "many": "-",
+        "one": "złapana krewetka",
+        "other": "złapanych krewetek",
+        "two": "-",
+        "zero": "-"
+      },
+      "steps": {
+        "few": "-",
+        "many": "-",
+        "one": "kroku",
+        "other": "całkowicie kroków",
+        "two": "-",
+        "zero": "-"
+      },
+      "wine": {
+        "few": "-",
+        "many": "-",
+        "one": "butelka wina znaleziona w skrzyni",
+        "other": "butelek wina znalezionych w skrzyniach",
+        "two": "-",
+        "zero": "-"
+      }
+    }
+  },
+  "singulars": {
+    "callToAction": {
+      "registerNow": "<0>Zarejestruj się</0> i zgłoś aplikację do bety lub <1>wspieraj nas</1>, by zagwarantować sobie dostęp!",
+      "waveActive": "Wysyłamy zaproszenia do Bety!",
+      "waveUndefined": "Nowa fala zaproszeń do Bety nadchodzi! Zasubskrybuj <0>newsletter</0> i obserwuj nasze <1>social media</1>, by być na bieżąco!"
+    },
+    "features": {
+      "communityFeatures": "Cechy społecznościowe, globalny rynek oraz rankingi sieciowe.",
+      "levelUpSkills": "Awansuj umiejętności chodząc w realnym życiu",
+      "numberOfSkills": "Ponad 15 różnych umiejętności do awansowania",
+      "quests": "Zadania, losowe wydarzenia oraz główna linia fabularna poprzez wiele kontynentów.",
+      "title": "Cechy"
+    },
+    "gameSection": {
+      "section-1": "WalkScape to gra inspirowana starymi grami MMoRPG. Ale w tej grze jest jeden główny trik, jaki robi robotę: nie grasz w grę aktywnie, a zyskujesz progres chodząc.",
+      "section-2": "Możesz spodziewać się zabawnej i ekscytującej przygody podróżując przez Świat Arenum mając motywację do chodzenia!",
+      "title": "Czym jest WalkScape?"
+    },
+    "howToPlay": {
+      "ensure": "By zapewnić sobie dostęp do gry najszybciej",
+      "instructions": "By uzyskać instrukcje krok-po-kroku, jak zdobyć dostęp, udaj się <0>tutaj</0>!",
+      "nextWave": "Następna fala zaproszeń do bety to",
+      "subscribe": "Subskrybuj nasz <0>newsletter</0> i obserwuj <1>social media</1>, by być na bieżąco!",
+      "title": "Jak zdobyć dostęp?",
+      "waveDate": "Q4 2024",
+      "waveExplain": "WalkScape jest aktualnie w <0>Zamkniętej Becie</0>. To znaczy, że gracze otrzymują dostęp w falach, by zapewnić nam czas na rozwój gry z pełnym skupieniem, a także by dostosować nasze serwery i możliwości finansowe we właściwy sposób."
+    },
+    "meta": {
+      "description": "WalkScape: Grinduj Chodząc!",
+      "title": "WalkScape: Gra Fitness RPG o Chodzeniu"
+    },
+    "news": {
+      "more": "Pokaż więcej",
+      "readFull": "Przeczytaj Cały Artykuł",
+      "title": "Nowości"
+    },
+    "screenshotsSection": {
+      "description": "Zrzuty ekranu z gry ukazujące jej mechaniki. Znajdziesz ich więcej na naszym Subreddit!",
+      "title": "Zrzuty Ekranu"
+    },
+    "social": {
+      "follow": "Obserwuj nas na social mediach"
+    },
+    "statistics": {
+      "title": "Statystyki"
+    }
+  }
+}
