@@ -1,1 +1,16 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Jeżeli masz pytania lub potrzebujesz wsparcia nie wahaj się skontaktować poprzez email <0>contact@walkscape.app</0> lub przez media społecznościowe."
+    },
+    "meta": {
+      "description": "Dowiedz się, jak się z nami skontaktować",
+      "title": "WalkScape | Kontakt"
+    },
+    "presskit": {
+      "description": "Znajdziesz naszą pełną prasówkę <0>tutaj</0>",
+      "title": "Zestaw Prasowy"
+    },
+    "title": "Kontakt"
+  }
+}
