@@ -1,1 +1,13 @@
-{}
+{
+  "singulars": {
+    "contents": {
+      "description": {
+        "title": "Beschreibung"
+      },
+      "title": "Inhalt"
+    },
+    "meta": {
+      "title": "Walkscape | Presse Kit"
+    }
+  }
+}
