@@ -1,1 +1,83 @@
-{}
+{
+    "singulars": {
+        "originalBeta": {
+            "content": "Die erste Version der WalkScape geschlossenen Beta soll im Sommer 2023 veröffentlicht werden. Dies erweist sich als unrealistisches Ziel und die Veröffentlichung wird auf Ende des Jahres verlegt.",
+            "date": "Sommer 2023",
+            "title": "Beginne der geschlossenen Beta"
+        },
+        "launch": {
+            "date": "18. Januar 2024",
+            "content": "WalkScapes erste geschlossene Beta ist veröffentlicht.",
+            "title": "Geschlossene Beta ist veröffentlicht"
+        },
+        "qol": {
+            "content": "Ein großes Quality-of-Life update wird veröffentlicht. Das ganze UI wurde überarbeitet und das Spiel zu bedienen wird um einiges einfacher.",
+            "date": "16. Februar 2024",
+            "title": "Großes QoL Update"
+        },
+        "contentUpdate": {
+            "title": "Großes Inhalts Update",
+            "content": "Der Inhalt des Spiels ist fast verdoppelt durch neue Sammelgegenstände, Gegenstände, doppelt so viele Hauptaktivitäten und mehr um die zweite Welle vorzubereiten.",
+            "date": "28. Februar 2024"
+        },
+        "wave2": {
+            "content": "Die 2. Welle der geschlossenen Beta Einladungen endet am 31. März 2024. Patreon und BMAC Unterstützer und eine große Menge an Spielern, die sich im Voraus beworben haben, bekommen Zugang zu der geschlossenen Beta vor dem Enddatum am 31. März.",
+            "date": "1.März 2024",
+            "title": "Einladung der 2. Welle"
+        },
+        "wave2patch": {
+            "title": "Fehlerbehebungen nach der 2. Welle",
+            "content": "Ein Update wird veröffentlicht um die neuen Probleme zu beheben, die Spieler der 2. Welle gefunden haben.",
+            "date": "13. März 2024"
+        },
+        "myzozoz": {
+            "content": "Um die Entwicklung zu beschleunigen, wird die Suche nach einem zweiten Programmierer gestartet. Am 15. April fängt myzozoz als der erste offizielle Angestellte von Not A Cult an.",
+            "date": "15. April 2024",
+            "title": "myzozoz tritt dem Team bei"
+        },
+        "pedometer": {
+            "content": "Mittlerweile braucht die Kerneigenschaft, Schritte zählen, ein Update. Es wird ein Update veröffentlicht, das die Probleme von vielen Leuten mit dem Schrittzähler behebt. Fortschritte am Schrittzähler werden durch den ganzen Mai 2024 gemacht.",
+            "date": "26. April 2024",
+            "title": "Schrittzähler Update"
+        },
+        "devStart": {
+            "date": "17. August 2022",
+            "title": "Beginn der Entwicklung",
+            "content": "Die Entwicklung von WalkScape als Hobbyprojekt begonnen, an dem Schamppu in seiner Freizeit gearbeitet hat."
+        },
+        "maxchill": {
+            "date": "4. Dezember 2022",
+            "title": "Maxchill ist dem Team beigetreten",
+            "content": "Das Projekt beginnt an Beliebtheit zu gewinnen, besonders auf Reddit und die Suche nach einem Künstler beginnt. Maxchill tritt dem Entwicklerteam bei."
+        },
+        "floursifter": {
+            "date": "12. Oktober 2023",
+            "title": "Floursifter tritt dem Team bei",
+            "content": "Floursifter, ein Mitglied der WalkScape Community das sich in seiner Freizeit damit beschäftigt hat, sich neue Spielinhalte auszudenken und iOS Entwicklerversionen zu testen, tritt dem Team inoffiziell bei."
+        },
+        "wave1": {
+            "date": "1. November 2023",
+            "title": "Einladung der ersten Welle für Unterstützer",
+            "content": "Um garantierten Zugang zu der ersten geschlossenen Beta Version zu erhalten, können Spieler die Entwicklung von WalkScape auf Patreon und Buy Me a Coffee unterstützen."
+        },
+        "wave2point5": {
+            "date": "1. Juni 2024",
+            "title": "Einladung der Welle 2.5",
+            "content": "Als Dankeschön für alle Spieler, die das Spiel seit der Veröffentlichung von Welle 2, werden Einladungen an alle versendet, die das Spiel über Patreon oder BMAC vor dem 15 Juni um 12Uhr Mittags unterstützen. Einladungen werden ab dem 1 Juni versendet."
+        },
+        "syrenthia": {
+            "date": "Juni-Juli 2024",
+            "title": "Syrenthia Update",
+            "content": "Das größte Update bisher, Erfolge, Gebietsruf, Verbrauchsgegenstände und eine neue Region im Spiel werden hinzugefügt."
+        },
+        "wave3": {
+            "date": "August-September 2024",
+            "title": "QoL & Welle 3",
+            "content": "Ein weiteres großes Quality-of-Life Update, das die Walkpedia, Reisen + Aktion Warteschlange, Bank und Inventar Sortierung, Tabs und vieles mehr hinzufügt um das Spiel einfacher zu machen. Kurz nach dem Update und einigen Fehlerbehebungen beginnt Welle 3."
+        },
+        "meta": {
+            "description": "Eine Zusammenfassung der Entwicklung von WalkScape, sowohl Vergangenes als Zukünftiges.",
+            "title": "WalkScape | Roadmap"
+        }
+    }
+}
