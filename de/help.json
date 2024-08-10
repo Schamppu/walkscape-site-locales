@@ -1,1 +1,84 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "title": "WalkScape | Hilfe",
+            "description": "Finde Antworten zu den häufigsten Problemen"
+        },
+        "title": "Hilfe",
+        "getGame": {
+            "title": "Wie kann man das Spiel bekommen",
+            "free": {
+                "title": "Um sich kostenlos anzumelden:",
+                "note": "Bemerkung",
+                "instructions-2": "Gehe zu der <1>Konto</1> Seite und wähle <2>Für Beta Zugang bewerben</2>.",
+                "instructions-1": "Erstelle ein Konto im <0>WalkScape Portal</0>. Versichere dich, deine E-Mail Adresse zu bestätigen (Die bestätigungs E-Mail landet manchmal im Spam Ordner).",
+                "instructions-3": "Warte auf eine Einladung. Einladungen werden in Wellen verschickt und du kannst auf der <3>Home Seite</3> sehen, wann die nächste stattfindet. Eingeladene werden eine E-Mail erhalten, mit einer Anleitung wie man das Spiel installiert.",
+                "noteContent": "Eine begrenzte Menge an Einladungen wir bei jeder Welle versendet, du kannst dir aber Zugang garantieren, wenn du uns unterstütz! Lies weiter, wenn du schon ein Konto im Portal hast und <0>das Spiel unterstützt hast</0>."
+            },
+            "oauth": {
+                "title": "Konto mit OAuth verbinden (nur Patreon, empfohlen):",
+                "instructions-1": "Gehe zur <1>Konto</1> Seite.",
+                "instructions-4": "Wenn alles gut läuft, solltest du einen Erfolgsbildschirm sehen, in diesem Fall ist dein Konto verbunden und dein Unterstützungsstatus sollte sofort in deiner Kontoübersicht sichtbar sein. Wenn etwas schiefläuft, solltest du versuchen, das Konto mit E-Mail und Code zu verbinden, wie unten beschrieben.",
+                "instructions-2": "Wähle den <4>Mit Patreon anmelden</4> Button im <2>Patreon Konto verbinden</2> Teil.",
+                "instructions-3": "Die Seite sollte dich nach deinen Patreon Anmeldedaten fragen. Gib deine E-Mail Adresse und dein Passwort von dem Konto an, mit dem du WalkScape auf Patreon unterstützt."
+            },
+            "email": {
+                "title": "Eine Konto mit E-Mail und Code verbinden (Patreon/BMAC):",
+                "instructions-2": "Gib die E-Mail Adresse die du für dein Patreon/BMAC Konto genutzt hast in dem zugehörigen Feld und drücke <4> CODE BEKOMMEN </4>.",
+                "instructions-3": "Du solltest auf der angegebenen Adresse eine E-Mail mit einem Verifizierungscode bekommen. Gib den Code auf der Kontoseite ein und drücke <4>KONTO VERBINDEN</4>.",
+                "instructions-4": "Damit sollte nun dein Konto verbunden sein und dein Unterstützungsstatus sollte in der Kontoübersicht sichtbar sein. Bitte bedenke, dass es manchmal einige Stunden dauern kann, bis das System sich vollständig synchronisiert hat."
+            },
+            "instructions-finish": "Wenn es jedoch länger als 4 Stunden dauert oder du andere Probleme hast, schaue dir die FAQ Seite unten an oder <0>Kontaktiere uns</0>."
+        },
+        "faq": {
+            "title": "FAQ",
+            "exerciseSupport": {
+                "answer-section-2": "Später werden wir auch Smartwatch Funktionalität hinzufügen und planen auch andere Sportarten aufzunehmen. Man wird im Spiel basierend auf der Übungslänge, durschnittlichem Puls und verbrannten Kalorien belohnt.",
+                "question": "Wird das Spiel noch mehr Sportarten als nur laufen unterstützen?",
+                "answer-section-1": "Das Spiel heißt nicht ohne Grund WalkScape: Das Spiel erlaubt es jeden Inhalt nur durch laufen zu erleben. Du kannst deine Fähigkeiten steigern und alle Aktivitäten durch laufen absolvieren. Laufen ist etwas, das die meisten nebenbei tun, sodass du sogar Fortschritt machst, wenn du durch einen Laden oder bei der Arbeit läufst."
+            },
+            "monetization": {
+                "question": "Wie wird das Spiel monetarisiert? Was wird das Spiel kosten?",
+                "answer-section-1": "Wir sind uns noch nicht 100% sicher, wie wir das Spiel monetarisieren, also kann sich alles was hier steht sich noch ändern, wie es für ein Spiel in der Entwicklung nunmal üblich ist. Wir versuchen einen Weg zu finden das Spiel so fair wie möglich zu monetarisieren, während es auch bezahlbar bleibt. Wir sind gegen räuberische Monetarisierungspraktiken und wollen aus dem Grund keine Mikrotransaktionen in unserem Spiel. Wir persönlich finden solche Praktiken moralisch fraglich, da sie ungesunde Ausgabegewohnheiten anregen und viele Spieler mehr Geld zahlen als sie eigentlich wollen.",
+                "answer-section-2": "Basierend auf unseren Plänen, wird es ein leistbares Abo geben, auf das man upgraden kann, man kann das Spiel aber auch kostenlos spielen. Dieses Abo öffnet die gesamte Spielwelt, während kostenlose Spieler auf bestimmte Teile der Spielwelt limitiert werden. Das Abo wird keine unfairen Vorteile, wie einen Erfahrungsbonus oder mehr Gold geben, es gibt nur Zugriff auf das ganze Spiel. Für diejenigen, die nicht an den Onlinefeatures des Spiels interessiert sind oder daran, ein Abo zu bezahlen, wird es eine Offlineversion geben. Um die Offlineversion zu spielen, wird es eine einmalige Gebühr geben.",
+                "answer-section-3": "Das alles kann sich allerdings, genau wie alles andere in einem unfertigen Spiel, immer noch ändern. Wir erwarten, konkretere Infos zu den kosten zu haben, sobald die geschlossene Beta beendet ist, da wir mehr Daten über die Serverkosten und die kosten des Spiels haben werden. Wir wollen, das die Monetarisierung zu bezahlbar wie möglich bleibt und uns erlaubt, ein tragbares Unternehmen zu führen."
+            },
+            "releaseDate": {
+                "button": "Sieh dir die Roadmap an",
+                "question": "Wann wird das Spiel veröffentlicht?",
+                "answer": "Das Spiel befindet sich aktuell in der geschlossenen Beta. Vor der veröffentlich wird es sehr wahrscheinlich eine offene Beta geben, der Termin für beides ist allerdings noch nicht geplant. Wir wollen die Spielermenge auf eine sichere und vorhersehbare Art erhöhen, damit wir versichern können, das die Spieler bekommen wofür sie bezahlen."
+            },
+            "helpOffers": {
+                "question": "Kann ich beim testen helfen? & Kann ich mit irgendwas helfen?",
+                "answer-section-2": "Wenn du dich großzügig fühlst, ist das Hilfsreichste was du aktuell tun kannst, unsere Unternehmenskosten zu erleichtern indem du uns hier unterstützt:",
+                "answer-section-1": "Wir bekommen viele Angebote für Hilfe bei dem Spiel! Ich hoffe, dass du informiert bleibst, da wir hier veröffentlichen, wenn wir bei etwas bestimmten Hilfe brauchen. Du kannst mir direkt eine Privatnachricht mit deinem Angebot schicken oder uns per E-Mail kontaktieren: contact@walkscape.app"
+            },
+            "ideaSuggestions": {
+                "question": "Ich habe eine tolle Idee, könnt ihr die ins Spiel bringen?",
+                "answer": "Bitte teile uns deine Idee auf unserem Discord Server im Kanal: #suggestions-questions. Wir sind immer offen für neue Vorschläge. Wir können aber nicht immer alle Vorschläge annehmen da wir manchmal bestimmte Dinge priorisieren müssen, am Ende wollen wir aber ein vollständiges Produkt schaffen, das uns allen gefällt."
+            },
+            "platformSupport": {
+                "question": "Wir das Spiel auf Android und iOS veröffentlicht?",
+                "answer": "Ja! Das Spiel wird mit Flutter entwickelt, welches großartige Multi-Plattform Unterstützung hat. Das bedeutet, dass das Spiel auf beiden Systemen rauszubringen kein großes Problem sein wird und kaum Arbeit erfordert."
+            },
+            "gameModes": {
+                "question": "Welche Spielmodi wird es geben? Kann ich das Spiel auch offline spielen?",
+                "answer-section-1": "Ja! Folgende Spielmodi werden aktuell entworfen um sie später zu veröffentlichen: ",
+                "answer-section-3": "Zwangloser Modus. Du kannst die Schwierigkeit des Spiels anpassen (z.B. die benötigten Schritte pro Aktion, Kampfschwierigkeit usw.) und es wird mehr Wege geben, im Spiel fortschritt zu machen. Kann vollständig offline gespielt werden.",
+                "answer-section-4": "Ironman Modus. Kann vollständig offline gespielt werden, es gibt aber online Ranglisten. Man muss sich sozusagen auf sich selbst verlassen, da man keine Ressourcen oder Materialien von anderen Spielern kaufen kann.",
+                "answer-section-2": "Online kompetitiv (Standart Modus). Ein eher strikter Spielmodus mit anti-cheat Maßnahmen usw. im Spiel. Kann nicht personalisiert werden und braucht immer eine Internetverbindung.",
+                "answer-section-5": "Hardcore Modus (bisher nicht bestätigt, nur eine Idee). Ähnlich wie der Ironman Modus, aber die Kampfschwierigkeit ist erhöht. Man wird zufällig von Monstern attackiert, wenn man gerade eine Aktivität macht. Sollte man sterben, wird das gesamte Inventar geleert und man verliert den \"Unbesiegt\" Status."
+            },
+            "developmentSupport": {
+                "question": "Wie kann ich die Entwicklung unterstützen?",
+                "answer-section-1": "Du kannst das Spiel unterstützen, indem du bei den Unterhaltungen im Discord, dem Subreddit oder Portalforen teilnimmst. Auch bei Abstimmungen mitmachen, Feedback geben, sowie Vorschläge machen hilft uns weiter!",
+                "answer-section-2": "Wenn du das Spiel wirklich unterstützen willst, erzähle davon. Mehr Aufmerksamkeit hilft uns dabei von den Medien bemerkt zu werden, was uns viele Türen für das Wachstum öffnen wird.",
+                "answer-section-3": "Wenn du es sehr ernst meinst, das Spiel dir gefällt und die Möglichkeit dazu hast, kannst du uns auch auf Patreon oder Buy Me a Coffee unterstützen. Jede Spende hilft uns dabei, mehr Zeit in die Entwicklung von WalkScape zu stecken und gibt uns die Möglichkeit, die Kosten dafür zu tragen."
+            },
+            "smartwatchSupport": {
+                "question": "Werden Smartwatches und Bänder unterstützt?",
+                "answer": "Ja! Smartwatches werden unterstützt werden. Wir werden zuerst eine Intergration mit Apple Health und Google Fit haben und werden dann Strava unterstützen, dann versuchen wir uns von dort aus an andere Hersteller ranzuarbeiten um auch diese einzuschließen. Wenn deine Uhr oder dein Band sich jedoch mit Strava/Fit/Health verbinden kann, ist es sehr wahrscheinlich, dass sie im Spiel funktioniert."
+            }
+        }
+    }
+}
