@@ -1,0 +1,44 @@
+{
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Während die Mitgliedschaft aktiv ist:",
+        "color": "<0>Exklusives Icon und Profilfarbe</0> sowohl im Spiel als auch im WalkScape Portal. Dein Icon und die Profilfarbe sind anhängig von deiner Mitgliedschaftsstufe. Du bekommst den gleichen Vorteil auch auf Discord.",
+        "discord": "Zugang zu einem <0>exklusiven Discord Channel</0> mit extra Einblicken und Unterhaltungen mit den Entwicklern.",
+        "discordRole": "Du wirst eine <0>exklusive Discord Rolle</0> haben.",
+        "first": "Nach der ersten Zahlung:",
+        "gameTitle": "Ein <0>Titel im Spiel</0> um zu zeigen, dass du uns während der geschlossenen Beta unterstützt hast.",
+        "invite": "<0>Geschlossene Beta Einladungen</0>. Einladungen werden in Wellen versendet. Wenn du uns zwischen den Wellen unterstützt, wirst du zu Beginn der nächsten Welle Zugang zum Spiel bekommen. Wenn bereits eine Welle läuft bekommst du sofort Zugang zum Spiel.",
+        "title": "Alle Mitgliedschaften"
+      },
+      "follower": {
+        "character": "Dieser Stufe beizutreten, gibt dir die Möglichkeit eine <0>in-game Charakter</0> Anpassungsmöglichkeit mit dem Entwicklerteam zu designen.",
+        "patreon": "Nur auf Patreon verfügbar",
+        "price": "48,50€ pro Monat",
+        "role": "Erhalte die <0>Cult Follower</0> Rolle auf dem WalkScape Discord Server.",
+        "title": "Cult Follower"
+      },
+      "leader": {
+        "item": "Dieser Stufe beizutreten, gibt dir die Möglichkeit einen <0>in-game Gegenstand</0> mit dem Entwicklerteam zu designen. Der Gegenstand wird deinen Namen in der Beschreibung haben.",
+        "price": "97€ pro Monat",
+        "role": "Erhalte die <0>Cult Leader</0> Rolle auf dem WalkScape Discord Server.",
+        "title": "Cult Leader"
+      },
+      "title": "Vorteile für Unterstützer",
+      "walker": {
+        "price": "3€/6€/24,50€ pro Monat",
+        "role": "Bekomme die <0>Supporter</0> Rolle auf dem WalkScape Discord Server.",
+        "title": "Alle Walker"
+      }
+    },
+    "body": {
+      "section-1": "Du kannst WalkScapes Entwicklung via Patreon oder Buy Me a Coffee unterstützen. Unterstützer bekommen einige exklusive Vorteile die auf Patreon und Buy Me a Coffee aufgezählt werden.",
+      "section-2": "WalkScape ist vollständig von der Community finanziert und jede Unterstützung sehr geschätzt. ❤️"
+    },
+    "meta": {
+      "description": "Abonniere uns auf Patreon oder Buy Me a Coffee um die Entwicklung von WalkScape zu unterstützen",
+      "title": "WalkScape | Unterstütze uns"
+    },
+    "title": "Unterstütze uns"
+  }
+}

@@ -1,0 +1,84 @@
+{
+    "singulars": {
+        "getGame": {
+            "free": {
+                "noteContent": "Limitowana ilość zaproszeń będzie wysłana do graczy w każdej fali, ale możesz zagwarantować sobie dostęp stając się wspierającym! Czytaj dalej jeżeli już założyłeś konto w Portalu i <0>wspierasz grę</0>.",
+                "instructions-3": "Czekaj na zaproszenie. Te odbywają się w falach, a to kiedy planujemy kolejną możesz zobaczyć na <3>Stronie Głównej</3>. Zaproszeni otrzymają maila z instrukcjami, które prowadzą do instalacji gry.",
+                "title": "Zarejestrować się za darmo:",
+                "note": "Notki",
+                "instructions-1": "Załóż konto na <0>Portalu WalkScape</0>. Upewnij się, że twój adres email został potwierdzony (maile weryfikacyjne czasami lądują w folderze ze spamem).",
+                "instructions-2": "Udaj się do zakładki <1>Konto</1> i wybierz <2>Aplikuj o dostęp do bety</2>."
+            },
+            "title": "Jak zdobyć grę",
+            "oauth": {
+                "title": "Powiązanie konta z OAuth (tylko Patreon, zalecane):",
+                "instructions-1": "Udaj się do zakładki <1>Konto</1>.",
+                "instructions-2": "Wybierz guzik <4>Logowanie Patreon</4> w sekcji <2>Powiązanie konta Patreon</2>.",
+                "instructions-3": "Ta strona powinna poprosić cię o połączenie konta Patreon. Podaj adres email oraz hasło, na jakie zakupiono subskrypcję WalkScape na Patreon.",
+                "instructions-4": "Jeśli wszystko pójdzie dobrze, powinieneś zobaczyć ekran informujący o sukcesie. W takim przypadku twoje konto zostanie połączone, a status subskrypcji powinien być natychmiast widoczny w zakładce Konto. Jeśli coś pójdzie nie tak, możesz spróbować połączyć konto z adresem email i kodem, jak opisano poniżej."
+            },
+            "email": {
+                "title": "Powiązanie konta z adresem email i kodem (Patreon/BMAC):",
+                "instructions-2": "Wpisz adres email użyty na koncie Patreon/BMAC w odpowiednim polu i wciśnij <4>DOSTAŃ KOD</4>.",
+                "instructions-3": "Powinieneś otrzymać email z kodem weryfikacyjnym na podany adres. Wpisz kod na stronie Konto i wciśnij <4>POŁĄCZ KONTO</4>.",
+                "instructions-4": "To powinno wystarczyć, a status twojej subskrypcji powinien być widoczny w zakładce Konto. Należy pamiętać, że w niektórych przypadkach pełna synchronizacja systemu może zająć kilka godzin."
+            },
+            "instructions-finish": "Jeżeli zajmuje to już ponad 4 godziny lub masz inne problemy z tym procesem, spróbuj zapoznać się z sekcją Często Zadawane Pytania (FAQ) poniżej lub <0>Skontaktuj się z nami</0>."
+        },
+        "meta": {
+            "title": "WalkScape | Pomoc",
+            "description": "Odnajdź odpowiedzi na najczęściej spotykane problemy"
+        },
+        "title": "Pomoc",
+        "faq": {
+            "title": "FAQ",
+            "exerciseSupport": {
+                "question": "Czy gra będzie wspierać więcej rodzajów ćwiczeń niż tylko chodzenie?",
+                "answer-section-2": "Później, gdy dodamy do gry obsługę inteligentnych zegarków (smartwatch), planujemy dodać również inne rodzaj ćwiczeń. Zostaniesz nagrodzony w grze na podstawie długości ćwiczeń, średniego BPM i spalonych kalorii.",
+                "answer-section-1": "Gra nazywa się WalkScape i nie bez powodu: ta gra pozwoli ci ukończyć całą zawartość, po prostu chodząc. Możesz podnosić poziom wszystkich umiejętności i wykonywać wszystkie aktywności chodząc. Chodzenie to rodzaj aktywności, którą większość ludzi wykonuje nawet biernie, więc nawet jeśli idziesz po prostu do sklepu lub chodzisz po pracy, zawsze robisz postępy."
+            },
+            "releaseDate": {
+                "question": "Kiedy gra zostanie w wypuszczona?",
+                "answer": "Gra aktualnie znajduje się w Zamkniętej Becie. Przed jej wypuszczeniem najprawdopodobniej uruchomimy Otwartą Betę, ale oba terminy są jeszcze nieustalone. Chcemy mieć pewność, co do ilości graczy w bezpieczny i przewidywalny sposób, by upewnić się, że otrzymają to, za co chcą zapłacić.",
+                "button": "Sprawdź mapę drogową"
+            },
+            "monetization": {
+                "question": "Jak będziecie grę monetyzować? Ile będzie kosztować?",
+                "answer-section-3": "Biorąc to pod uwagę, nadal może to ulec zmianie, podobnie jak wszystko inne w przypadku gry, która nie jest jeszcze gotowa. Możesz oczekiwać, że będziemy mieli bardziej konkretne informacje na temat cen po Zamkniętej Becie, ponieważ będziemy wtedy mieli więcej danych na temat kosztów serwerów i innych wydatków na utrzymanie gry. Chcemy, aby monetyzacja była jak najbardziej przystępna cenowo, a jednocześnie umożliwiała nam prowadzenie zrównoważonego biznesu.",
+                "answer-section-1": "Nie jesteśmy w 100% pewni, co do modelu monetyzacji, więc podane tu informacje mogą ulec zmianie, jak to zazwyczaj bywa w grze, która wciąż jest w produkcji. Chcemy znaleźć takie metody monetyzacji gry, które byłyby najbardziej fair, jak to tylko możliwe zachowując to, by gra była łatwo dostępna. Jesteśmy całkowicie przeciwni drapieżnej monetyzacji i podobnym praktykom i nie chcemy mieć takich rzeczy, jak mikrotransakcje w grze. Osobiście uznajemy, że takie praktyki są moralnie sporne, z racji że zachęcają do niezdrowych nawyków i wielu graczy wydaje więcej niż faktycznie zamierza.",
+                "answer-section-2": "Bazując na naszych aktualnych planach będziemy oferować subskrypcję o odpowiedniej cenie, którą możesz ulepszyć na jakiś, zachowując jednocześnie możliwość gry darmowej. Subskrypcja otworzy ci całą treść gry, kiedy tryb F2P będzie oferować limitowany dostęp do świata. Również subskrypcja nie będzie dawać żadnej niesprawiedliwej przewagi, jak buffy lub więcej doświadczenia albo więcej złota, nic z tych rzeczy. Będzie ci jedynie dawać dostęp do całej treści gry. Jeżeli nie interesuje cię subskrypcja oraz tryby online w grze będzie istnieć opcja gry offline. By zagrać w wersję offline wystarczy jednorazowa opłata za grę."
+            },
+            "helpOffers": {
+                "question": "Czy mogę pomóc w testach? & Czy mogę w czymkolwiek?",
+                "answer-section-1": "Otrzymujemy wiele ofert pomocy w grze! Mamy nadzieję, że zostaniesz tutaj, ponieważ będziemy zamieszczać tutaj posty, jeśli pojawi się coś, co potrzebuje waszej konkretnej pomocy. Możesz wysłać nam wiadomość prywatną ze swoimi ofertami lub skontaktować się z nami poprzez e-mail: contact@walkscape.app",
+                "answer-section-2": "Jeśli czujesz się na tyle hojny, najbardziej pomocną rzeczą jaką możesz zrobić w kwestii pomocy to pomóc pokryć nasze wydatki biznesowe, wspierając nas w następujący sposób:"
+            },
+            "ideaSuggestions": {
+                "question": "Mam świetny pomysł, czy dałoby się go umieścić w grze?",
+                "answer": "Prosimy, napisz swoje sugestie na naszym serwerze Discord na kanale #suggestions-questions . Zawsze jesteśmy otwarci na propozycje i uwielbiamy je słyszeć. Nie możemy umieścić w grze każdej sugestii, jaka jest umieszczona i czasami musimy nadać priorytet innym sprawom, ale naszym celem jest stworzenie najbardziej kompletnego produktu, który cieszyłby wszystkich."
+            },
+            "platformSupport": {
+                "question": "Czy wydanie gry będzie zarówno dla Androida & iOS?",
+                "answer": "Tak! Gra jest rozwijana poprzez Flutter, który oferuje świetne wsparcie cross-platformowe. To znaczy, że przenoszenie gry na oba systemy operacyjne nie jest problemem i nie wymaga dużej ilości pracy."
+            },
+            "gameModes": {
+                "question": "Jakie będą dostępne tryby gry? Czy mogę grać offline?",
+                "answer-section-1": "Tak! Aktualnie następujące tryby gry są zaplanowane: ",
+                "answer-section-2": "Sieciowy oparty o współpracę (podstawowy tryb). Ten posiadać będzie bardziej wymagającą zabawę oraz systemy zapobiegające oszustwom w rozgrywce. Nie posiada zmiennych ustawień i wymaga połączenia z siecią od czasu do czasu.",
+                "answer-section-3": "Tryb zwykły. Możesz ustawić w nim swój stopień trudności (jak ilość kroków na akcję, trudność walki itd.) oraz posiadać będzie więcej opcji do progresji w grze. Może być grany całkowicie offline.",
+                "answer-section-5": "Tryb Hardcore (jeszcze nie zweryfikowany, to tylko pomysł). Podobny do trybu Ironman, ale stopień trudności walki będzie zwiększony. Możesz zostać zaatakowany przez potwory w trakcie swoich aktywności. Śmierć w tym trybie sprawi, że stracisz całkowicie swoje wyposażenie oraz stracisz status \"niepokonanego\".",
+                "answer-section-4": "Tryb Ironman. Możesz grać ten tryb całkowicie offline, ale są w nim również sieciowe rankingi. Musisz być w tym trybie całkowicie zależny od swoich czynności, materiałów, surowców oraz nie możesz ich kupić od innych."
+            },
+            "developmentSupport": {
+                "question": "Jak mogę wspierać rozwój?",
+                "answer-section-2": "Jeżeli chcesz wspierać rozwój gry na poważnie, po prostu mów o niej. Zbieranie większej uwagi wokół gry pozwoli nam na dostrzeżenie przez growe media, które otwierają wiele drzwi do rozwoju.",
+                "answer-section-3": "Jeżeli naprawdę kochasz tę grę i chcesz ją wspierać oraz masz ku temu możliwość, możesz wesprzeć nas poprzez Buy me a Coffee albo Patreon. Każda dotacja pomaga nam poświęcać więcej czasu na pracę nad WalkScape, a również pozwala nam na pokrycie wszystkich kosztów operacyjnych i działalności.",
+                "answer-section-1": "Możesz wspierać grę przez uczestnictwo na naszym Discordzie, Subreddit albo na forum portalu. Również głosowanie w ankietach oraz dostarczanie feedbacku i sugestii naprawdę pomaga!"
+            },
+            "smartwatchSupport": {
+                "question": "Czy Smart watche i opaski będą wspierane?",
+                "answer": "Tak! Smart watche będą wspierane. Najpierw spróbujemy wprowadzić integrację z Apple Health i Google Fit, a następnie dodać wsparcie dla Strava oraz po tym punkcie uda nam się dodać innych producentów i usługi. Jednak jeżeli twoja opaska lub zegarek potrafi synchronizować z Strava/Fit/Health to bardzo prawdopodobne, że będziesz mógł użyć ich w grze."
+            }
+        }
+    }
+}

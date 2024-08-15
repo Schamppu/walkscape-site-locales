@@ -1,0 +1,83 @@
+{
+    "singulars": {
+        "meta": {
+            "title": "WalkScape | Mapa Drogowa",
+            "description": "Zarys tego, w jaki sposób tworzony jest WalkScape, w przeszłości i przyszłości."
+        },
+        "floursifter": {
+            "content": "Floursifter, członek społeczności WalkScape, jaki przyczynił się do rozwoju w dużym stopniu spędził sporo wolnego czasu dodając wiele treści, rozwiązań w grze oraz testowaniu wersji iOS, dołącza do drużyny nieoficjalnie.",
+            "date": "12 października 2023",
+            "title": "Floursifter dołącza do Teamu"
+        },
+        "qol": {
+            "content": "Wielka aktualizacja jakości rozgrywki (QoL) została wydana. Cały interfejs został przebudowany, a poruszanie się i nawigacja po gry stała się zdecydowanie prostsza.",
+            "date": "16 lutego 2024",
+            "title": "Wielka aktualizacja QoL"
+        },
+        "myzozoz": {
+            "content": "By przyspieszyć proces rozwoju gry, rozpoczęły się poszukiwania drugiego programisty i dewelopera. Myzozoz dołącza 15 kwietnia, jako pierwszy oficjalny pracownik Not A Cult.",
+            "date": "15 kwietnia 2024",
+            "title": "myzozoz dołącza do Teamu"
+        },
+        "devStart": {
+            "date": "17 sierpnia 2022",
+            "title": "Rozpoczęcie Tworzenia Gry",
+            "content": "Rozwój WalkScape rozpoczyna się jako projekt hobbystyczny, nad jakim Schamppu pracuje w wolnym czasie."
+        },
+        "maxchill": {
+            "date": "4 grudnia 2022",
+            "title": "Maxchill dołącza do Teamu",
+            "content": "Projekt nabiera popularności w sieci, głównie na Reddit, a także drużyna musi nająć grafików. Maxchill dołącza do drużyny autorów."
+        },
+        "originalBeta": {
+            "date": "Lato 2023",
+            "title": "Pierwsze uruchomienie Zamkniętej Bety",
+            "content": "Pierwsza wersja WalkScape w wersji zamkniętej bety zaplanowana jest na uruchomienie na lato 2023 roku. To okazało się nierealne do wykonania i premierę przełożono na koniec roku."
+        },
+        "wave1": {
+            "date": "1 listopada 2023",
+            "title": "1 fala zaproszeń dla Wspierających",
+            "content": "By zagwarantować sobie dostęp do pierwszej Zamkniętej Bety gracze mogli wspierać rozwój WalkScape na Patreon i Buy Me a Coffee."
+        },
+        "launch": {
+            "date": "18 stycznia 2024",
+            "title": "Zamknięta Beta została uruchomiona",
+            "content": "Pierwsza Zamknięta Beta WalkScape stała się dostępna."
+        },
+        "contentUpdate": {
+            "date": "28 lutego 2024",
+            "title": "Wielka Aktualizacja Treści",
+            "content": "Ilość treści w grze została niemal podwojona przez dodanie rzeczy kolekcjonerskich, nowych przedmiotów, dwukrotnie więcej aktywności, a także trwają przygotowania do drugiej fali."
+        },
+        "wave2": {
+            "date": "1 marca 2024",
+            "title": "Druga Fala Zaproszeń",
+            "content": "Druga fala zaproszeń do Zamkniętej Bety zakończyła się 31 marca 2024 roku. Wspierający przez Patreon i Bmac oraz duża grupa chętnych graczy, którzy złożyli aplikację do Zamkniętej Bety otrzymali dostęp przed zamknięciem fali, 31 Marca."
+        },
+        "wave2patch": {
+            "date": "13 marca 2024",
+            "title": "Aktualizacja po drugiej fali",
+            "content": "Została wydana aktualizacja poprawiająca trochę problemów napotkanych przez graczy, którzy dołączyli w drugiej fali."
+        },
+        "pedometer": {
+            "date": "26 kwietnia 2024",
+            "title": "Aktualizacja Pedometru",
+            "content": "Od teraz główna cecha WalkSCape, liczenie kroków, wymaga aktualizacji. Pojawia się aktualizacja poprawiająca masę problemów, jakie napotkano z pedometrem. Progres oparty o poprawianie pedometru trwa dalej przez maj 2024 roku."
+        },
+        "wave2point5": {
+            "date": "1 czerwca 2024",
+            "title": "Fala Zaproszeń 2.5",
+            "content": "Jako podziękowania dla wszystkich tych, którzy wspierają grę od końca drugiej fali zaproszeń, kolejne zostały rozesłane do wszystkich wspierających na Patreon lub BMAC przed 15 czerwca, 12:00:00 czasu UTC. Zaproszenia były wysyłane od 1 czerwca."
+        },
+        "syrenthia": {
+            "date": "Czerwiec-Lipiec 2024",
+            "title": "Aktualizacja Syrenthia",
+            "content": "Nasza największa aktualizacja do tej pory, dodająca osiągnięcia, system reputacji, przedmiotów zużywalnych oraz dodająca nowy region."
+        },
+        "wave3": {
+            "date": "Sierpień-Wrzesień 2024",
+            "title": "Fala 3 i QoL",
+            "content": "Kolejna wielka porcja ulepszeń w użytkowaniu gry (QoL), dodająca WalkPedię, podróżowanie i system akcji, sortowanie banku i plecaka, zakładki, a także wiele więcej cech ułatwiających rozgrywkę. Krótko po aktualizacji QoL i poprawkach, jakich może wymagać nastąpi trzecia fala zaproszeń."
+        }
+    }
+}
