@@ -1,1 +1,48 @@
-{}
+{
+  "singulars": {
+    "contents": {
+      "about": {
+        "content-1": "Not a Cult Oy es un pequeño estudio de videojuegos finlandés, y definitivamente no es un culto. Fundado en 2023 por Schamppu, el actual director ejecutivo, Not a Cult está compuesto por dos desarrolladores a tiempo completo en su oficina en Helsinki, además de un apoyo internacional de trabajadores independientes.",
+        "content-2": "En Not a Cult somos entusiastas empedernidos por los juegos, y creemos que son más que un producto o servicio. Nos esforzamos para crear nuestros juegos de una manera ética, ambiental y personalmente sostenibles. La comunicación abierta y honesta es importante para nosotros, y nos sentimos orgullosos de tener una base de fans activa e involucrada. Y no somos un culto.",
+        "title": "Sobre el desarrollador"
+      },
+      "art": {
+        "download": "Descargar arte promocional como fichero .zip",
+        "title": "Arte promocional"
+      },
+      "articles": {
+        "title": "Artículos"
+      },
+      "credits": {
+        "title": "Créditos"
+      },
+      "description": {
+        "content-1": "WalkScape es un juego móvil RPG de fitness, en el cual se progresa al andar en la vida real. Inspirado en MMORPGs de la vieja escuela como RuneScape, este juego te permite disfrutar horas y horas con actividades que otorgan experiencia, buscando objetos legendarios y completando misiones en un escenario de fantasía. Todo ello a la vez que alienta a mantener estilo de vida saludable.",
+        "content-2": "A diferencia de otros juegos móviles, en los que la mecánica principal también es andar, WalkScape no utiliza datos del GPS en ningún momento, y no requiere que el jugador esté jugando activamente durante las sesiones de ejercicio. De esta forma, se respeta la privacidad del jugador y permite que éste se centre en la actividad principal. El juego guarda tus pasos, por lo tanto el jugador no necesita preocuparse por posibles perdidas de progreso si el dispositivo se deja en el bolsillo.",
+        "content-3": "La andadura en WalkScape comenzó en 2022 como un proyecto personal, para crear un juego cuya mecánica no existía todavía. Después de mostrar algunas de las ideas y trabajos iniciales en Reddit, el proyecto comenzó a atraer rápidamente a una comunidad a su alrededor. Más adelante, se lanzaron las suscripciones de apoyo en Patreon y Buy Me a Coffee, las cuales permitieron llevar el juego a un estado de Beta cerrada con multiples desarrolladores trabajando en él. Por ahora, el proyecto está 100% financiado colectivamente, pero se prevé la implementación de un sistema de suscripción para todos los jugadores que quieran acceder a las características en linea después de su lanzamiento.",
+        "title": "Descripción"
+      },
+      "factsheet": {
+        "title": "Hoja informativa"
+      },
+      "logos": {
+        "download": "Descargar logotipos como fichero .zip",
+        "title": "Logotipos"
+      },
+      "screenshots": {
+        "download": "Descargar capturas de pantalla como fichero .zip",
+        "title": "Capturas de pantalla"
+      },
+      "title": "Contenido",
+      "videos": {
+        "title": "Vídeos",
+        "youtube": "Canal oficial en YouTube"
+      }
+    },
+    "meta": {
+      "description": "Documentos, descripciones y todo lo que tienes que saber para poder escribir sobre WalkScape",
+      "title": "WalkScape | Notas de prensa"
+    },
+    "title": "Notas de prensa"
+  }
+}
