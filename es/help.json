@@ -1,1 +1,53 @@
-{}
+{
+    "singulars": {
+        "getGame": {
+            "free": {
+                "noteContent": "Se enviaran una cantidad limitada de invitaciones en cada oleada, pero puedes asegurar el acceso ¡convirtiéndote en un afiliado! Continúa leyendo si ya has creado una cuenta en el Portal de WalkScape y <0>apoyado al juego</0>.",
+                "title": "Para registrarse de forma gratuita:",
+                "note": "Nota",
+                "instructions-1": "Crea una cuenta en el <0>Portal de WalkScape</0>. Asegúrate de que verificas tu dirección de correo electrónico (el correo de verificación termina, a veces, en la carpeta de spam).",
+                "instructions-2": "Dirígete a la página de <1>Cuenta</1> y selecciona <2>Solicitar acceso a la Beta</2>.",
+                "instructions-3": "Espera a la invitación. Las invitaciones se envían en oleadas, y puedes comprobar para cuándo está programada la siguiente oleada en la página de <3>Inicio</3>. Los invitados recibirán un correo electrónico con instrucciones sobre como instalar el juego."
+            },
+            "oauth": {
+                "instructions-4": "Si todo funciona correctamente, deberías ver una pantalla de resultado con éxito, en cuyo caso la cuenta ha sido vinculada y el estado de suscripción debería ser visible inmediatamente en la página de Cuenta. Si algo no saliera bien, deberás intentar vincular la cuenta a través de la combinación de correo electrónico y código, como se describe a continuación.",
+                "title": "Vincular cuenta con OAuth (solo Patreon, recomendado):",
+                "instructions-1": "Dirígete a la página de <1>Cuenta</1>.",
+                "instructions-2": "Selecciona la opción <4>Iniciar sesión con Patreon</4>, bajo la sección <2>Vincular una cuenta de Patreon</2>.",
+                "instructions-3": "El sitio debería preguntar por tus credenciales de Patreon. Introduce la dirección de correo electrónico y contraseña de la cuenta que se ha suscrito a WalkScape en Patreon."
+            },
+            "title": "Cómo conseguir el juego",
+            "email": {
+                "title": "Vincular cuenta con correo electrónico y código (Patreon/Buy Me a Coffee):",
+                "instructions-2": "Introduce en el campo correspondiente, la dirección de correo electrónico utilizada en tu cuenta de Patreon/Buy Me a Coffee, y pulsa <4>CONSEGUIR CÓDIGO</4>.",
+                "instructions-3": "Deberías de recibir un correo electrónico con un código de verificación, en la dirección de correo indicada anteriormente. Introduce el código en al pagina de tu cuenta y pulsa <4>VINCULAR CUENTA</4>.",
+                "instructions-4": "Con eso debería de ser suficiente. Tu estado de suscripción estará disponible en la página de Cuenta. Por favor, ten presente que en algunos casos, la sincronización del sistema puede tardar varias horas."
+            },
+            "instructions-finish": "Sin embargo, si la sincronización tarda mas de cuatro horas o has encontrado otros problemas con el proceso, intenta buscar en la sección de preguntas frecuentes o <0>contáctanos</0>."
+        },
+        "faq": {
+            "monetization": {
+                "question": "¿Cómo planeáis monetizar el juego? ¿Cuánto costará?",
+                "answer-section-2": "Basado en nuestros planes actuales, dispondremos de una suscripción asequible a la que se podrá actualizar, a la vez que ofreceremos jugar al juego de forma gratuita. La suscripción dará acceso al mundo completo, mientras que la version gratuita limitara a los jugadores a ciertas partes del mundo del juego. La suscripción no ofrecerá ventajas injustas como beneficios o ganancia de experiencia, oro o cosas así. Simplemente te dará acceso completo al contenido del juego. Si no estás interesado en las características en línea del juego, o en pagar una suscripción, existirá también un modo de juego sin conexión. Para jugar al modo de juego sin conexión, solo deberás realizar un pago único.",
+                "answer-section-3": "Dicho eso, merece la pena recordar que todo esto puede cambiar, como todo lo demás en un juego que aún no está listo. Puedes esperar más información sobre el modelo de precios, después de la fase de Beta cerrada, debido a que dispondremos de más datos que nos permitirán calcular costes de infraestructura y otros gastos. Queremos que la monetización sea lo más asequible posible, a la vez que nos permita sostener el funcionamiento del negocio.",
+                "answer-section-1": "Aún no estamos totalmente seguros sobre la monetización, y por lo tanto la información que presentamos aquí está sujeta a cambios, como todo lo relacionado con un juego en desarrollo. Estamos intentando encontrar formas de monetización que sean lo más justas posible, a la vez que se mantienen asequibles. Nos oponemos a las prácticas de monetización predatorias, y por esta razón no queremos implementar sistemas como micro-transacciones. Personalmente y en ciertas ocasiones, encontramos esas prácticas moralmente cuestionables, debido a que promueven hábitos de gasto no saludables y multitud de jugadores terminan pagando más de lo esperado."
+            },
+            "title": "Preguntas frecuentes",
+            "exerciseSupport": {
+                "question": "¿Soportará el juego otros tipos de ejercicio a parte de caminar?",
+                "answer-section-2": "Más adelante, cuando añadamos soporte para relojes inteligentes, tenemos pensado añadir soporte para otros tipos de ejercicio. Serás recompensado en el juego en base a la duración del ejercicio, media de pulsaciones por minuto, y calorías quemadas.",
+                "answer-section-1": "El juego se llama WalkScape por una razón: el juego te permitirá completar todo su contenido simplemente caminando. Puedes subir el nivel de las habilidades y hacer todas las actividades con solo andar. Andar es un tipo de actividad que la gran mayoría de las personas realiza incluso de forma pasiva. Por ello, incluso si solo caminas al mercado o para ir a trabajar, ya estarás progresando."
+            },
+            "releaseDate": {
+                "question": "¿Cuándo será lanzado el juego?",
+                "answer": "El juego está actualmente en fase de Beta cerrada. Probablemente, antes del lanzamiento, el juego pasará a fase de Beta abierta, pero la programación de esto está aun por determinar. Queremos incrementar la cantidad de jugadores de forma segura y predecible, para poder garantizar que los jugadores obtienen la experiencia de juego por la que han pagado.",
+                "button": "Comprueba la hoja de ruta"
+            }
+        },
+        "meta": {
+            "description": "Encuentra respuestas a los problemas más comunes",
+            "title": "WalkScape | Ayuda"
+        },
+        "title": "Ayuda"
+    }
+}
