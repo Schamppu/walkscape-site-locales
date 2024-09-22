@@ -42,6 +42,37 @@
                 "question": "¿Cuándo será lanzado el juego?",
                 "answer": "El juego está actualmente en fase de Beta cerrada. Probablemente, antes del lanzamiento, el juego pasará a fase de Beta abierta, pero la programación de esto está aun por determinar. Queremos incrementar la cantidad de jugadores de forma segura y predecible, para poder garantizar que los jugadores obtienen la experiencia de juego por la que han pagado.",
                 "button": "Comprueba la hoja de ruta"
+            },
+            "helpOffers": {
+                "question": "¿Puedo ayudar con las pruebas? ¿Puedo ayuda con cualquier otra cosa?",
+                "answer-section-1": "Estamos recibiendo muchas preguntas sobre como podéis ayudar con el juego. Estate pendiente, porque indicaremos aquí si necesitamos algo especifico. Puedes enviarme un mensaje directo con tu propuesta, o contactar a través de correo electrónico: contact@walkscape.app",
+                "answer-section-2": "Si te sientes generoso, lo mas útil ahora mismo sería ayudarnos con los gastos del negocio, apoyándonos en:"
+            },
+            "ideaSuggestions": {
+                "question": "Se me ha ocurrido una gran idea. ¿Podríais incluirla en el juego?",
+                "answer": "Por favor, escribe tus sugerencias en nuestro Discord, en el canal #suggestions-questions. Siempre estamos abiertos a sugerencias, y nos encanta recibirlas. Aunque no podemos incluir todas las peticiones, y algunas veces tenemos que priorizar otras cosas, nuestro objetivo es hacer un producto completo, el cual todos podamos disfrutar."
+            },
+            "platformSupport": {
+                "question": "¿Se lanzará para ambos Android e iOS?",
+                "answer": "¡Sí! El juego esta siendo desarrollado con Flutter, lo que ofrece soporte entre plataformas. Esto significa que convertir el juego para ambos sistemas operativos no es un problema, y no requiere mucho trabajo adicional."
+            },
+            "gameModes": {
+                "question": "¿Qué modos de juego estarán disponibles? ¿Puedo jugar de forma offline?",
+                "answer-section-1": "¡Sí! Por ahora, hemos pensado en disponer de los siguientes modos: ",
+                "answer-section-2": "Competitivo en línea (modo por defecto). Un modo de juego más estricto, el cual incluye medidas anti-trampa, etc. No puede ser personalizado, y necesita una conexión en linea periódicamente.",
+                "answer-section-3": "Modo casual. Puedes personalizar el nivel de dificultad, como por ejemplo el numero de pasos requeridos por acción, dificultad de combates, etc. Además, incorporará más formas de progresión. Puede ser jugado completamente desconectado.",
+                "answer-section-4": "Modo Ironman. Puedes jugarlo completamente desconectado, pero hay tablas de clasificación en línea. Básicamente necesitas ser totalmente autosuficiente en términos de obtención de materiales y otros recursos, porque no podrás comprárselos a otros jugadores.",
+                "answer-section-5": "Modo Hardcore (sin verificar, por ahora una idea). Similar al modo Ironman, pero con un incremento en la dificultad del combate. Puedes ser atacado de forma aleatoria por monstruos mientras haces actividades. Morir en este modo hará que pierdas todo tu inventario, ademas de perder el estado de \"invicto\"."
+            },
+            "developmentSupport": {
+                "question": "¿Cómo puedo apoyar el desarrollo?",
+                "answer-section-1": "Puedes apoyar el desarrollo del juego participando en los debates en Discord, subreddit o en los foros del Portal de WalkScape. También nos puedes ayudar a través de votaciones en las encuestas, aportando comentarios y dándonos tus sugerencias.",
+                "answer-section-2": "Si de verdad quieres apoyarnos con el juego, corre la voz. El hecho de atraer más atención nos ayuda a que los medios se fijen en nosotros, lo cual abre muchas puertas al crecimiento.",
+                "answer-section-3": "Si realmente te está encantando el juego y estás en posición de ofrecer ayuda económica, puedes hacerlo a través de Buy Me a Coffee o Patreon. Cada una de las donaciones nos ayuda para dedicar más tiempo al trabajo en WalkScape, a la vez que nos permite cubrir los gastos operativos."
+            },
+            "smartwatchSupport": {
+                "question": "¿Se ofrecerá soporte para relojes y bandas inteligentes?",
+                "answer": "¡Sí! Los relojes inteligentes serán soportados. Primero integraremos el juego con Apple Health y Google Fit, y después ofreceremos soporte para Strava. A partir de ahí, puede que añadamos soporte para otros fabricantes. Aunque si tu reloj o banda se pueden sincronizar con Strava/Fit/Health, lo más probable es que puedas utilizarlo con el juego."
             }
         },
         "meta": {
