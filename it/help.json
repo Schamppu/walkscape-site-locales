@@ -1,1 +1,52 @@
-{}
+{
+  "singulars": {
+    "developmentSupport": {
+      "answer-section-1": "Puoi supportare il gioco partecipando alle discussioni qui su Discord o sul subreddit. Inoltre, votare nei sondaggi, fornire feedback e mandare suggerimenti ci è di grande aiuto!",
+      "answer-section-2": "Se vuoi davvero supportare il gioco, spargi la voce! Ottenere più visibilità ci aiuta ad essere notati dai media, il che ci apre molte porte.",
+      "answer-section-3": "Se stai amando il gioco e vorresti sostenerlo e sei in grado di farlo, puoi aiutarci tramite Buy Me a Coffee o Patreon. Ogni donazione ci aiuta a dedicare più tempo allo sviluppo di WalkScape, a coprire spese future e ad inserirci nel mercato dei videogiochi.",
+      "question": "Come posso sostenere lo sviluppo del gioco?"
+    },
+    "exerciseSupport": {
+      "answer-section-1": "Il nome WalkScape è stato scelto per un motivo specifico: il gioco ti permetterà di fare tutto semplicemente camminando. Puoi far salire di livello le abilità e completare tutte le attività camminando. Questo perchè camminare è un'attività che la maggior parte delle persone fa passivamente, quindi se stai camminando per andare ad un negozio o cammini mentre lavori otterrai dei progressi in gioco.\n\n",
+      "answer-section-2": "Più avanti, quando inizieremo a supportare gli smart watch nel gioco, abbiamo pianificato di aggiungere altri tipi di esercizi fisici. Si riceveranno ricompense in base alla durata dell'esercizio, ai bpm (battiti cardiaci per minuto) e alle calorie bruciate.",
+      "question": "Il gioco supporterà altri tipi di esercizio oltre alla sola camminata?"
+    },
+    "gameModes": {
+      "answer-section-1": "Sì! Attualmente sono in programma le seguenti modalità di gioco:",
+      "answer-section-2": "Competitiva online (modalità predefinita). Modalità di gioco più rigida che prevede misure anti-cheat ecc. Non può essere personalizzata e necessita periodicamente di una connessione online.",
+      "answer-section-3": "Modalità Casual. È possibile personalizzare la difficoltà del gioco (ad esempio il numero di passi necessari per ogni azione, la difficoltà dei combattimenti, ecc.) e aggiungerà altri modi per progredire. Può essere giocato totalmente offline.",
+      "answer-section-4": "Modalità Ironman. Si può giocare completamente offline, ma ci sono anche classifiche online. È necessario essere totalmente indipendenti nella raccolta di materiali e altre risorse, poiché non è possibile acquistarle da altri giocatori.",
+      "answer-section-5": "Modalità Hardcore (non verificata, solo un'idea). Simile ad Ironman, ma con difficoltà dei combattimenti aumentata. Si può essere attaccati casualmente dai mostri mentre si svolgono le attività. Morire in questa modalità svuota l'inventario e fa perdere lo status di \"imbattuto\".",
+      "question": "Quali modalità di gioco ci saranno? Posso giocare offline?"
+    },
+    "helpOffers": {
+      "answer-section-1": "Stiamo ricevendo molte offerte per aiutarci col gioco! Spero che continuerai a seguirci, perché scriveremo qui se avremo bisogno di aiuto specifico. Puoi anche contattarci per offerte direttamente via e-mail: contact@walkscape.app",
+      "answer-section-2": "Se ti senti generoso, la cosa più utile in questo momento per permetterci di sostenere le spese legate al gioco è diventare nostri sostenitori. Puoi supportarci su:",
+      "question": "Posso aiutare a testare il gioco? Posso aiutare in qualcosa?"
+    },
+    "ideaSuggestions": {
+      "answer": "Per favore, inviate i vostri suggerimenti nel nostro canale Discord in #suggestions-questions. Sono aperto ai suggerimenti e mi piace ascoltarli. Purtroppo però non posso implementare tutti i suggerimenti che ricevo, e la mia priorità al momento è di ottenere un gioco completo in modo che tutti possiate iniziare a giocarci.",
+      "question": "Ho questa fantastica idea, potreste includerla nel gioco?"
+    },
+    "monetization": {
+      "answer-section-1": "Non siamo ancora sicuri al 100% su come attuare la monetizzazione, quindi le cose menzionate qui sono soggette a cambiamenti, come è normale per un gioco ancora in fase di sviluppo. Stiamo cercando un modo per monetizzare il gioco nel modo più onesto possibile, mantenendolo accessibile. Sono molto contrario a qualsiasi forma di monetizzazione predatoria, e per questo motivo non avremo alcuna microtransazione nel gioco. Personalmente trovo queste pratiche moralmente discutibili, in quanto incoraggiano abitudini malsane e molti giocatori finiscono per spendere più di quanto vorrebbero.",
+      "answer-section-2": "In base ai nostri piani attuali, ci sarà un abbonamento abbordabile a cui ci iscriversi, ma si potrà giocare anche gratuitamente; l'iscrizione sbloccherà l'intero mondo di gioco, mentre i giocatori F2P saranno limitati ad alcune parti del mondo. L'abbonamento non darà alcun vantaggio sleale (come ad esempio punti esperienza, soldi o cose del genere), darà solo accesso a tutti i contenuti del gioco. Se non siete interessati alle funzionalità online o a pagare l'abbonamento, ci sarà anche una modalità offline. Per giocare in modalità offline sarà necessario pagare una sola volta.",
+      "answer-section-3": "Detto ciò, è tutto ancora soggetto a cambiamenti, come anche il resto, essendo il gioco ancora in via di sviluppo. Potrete avere un'idea più certa del prezzo solo dopo la closed beta, quando avremo dati più concreti sui costi dei server ed altre spese. Vogliamo che la monetizzazione sia il più abbordabile possibile, e che ci permetta di sostenere la nostra piccola compagnia indie.",
+      "question": "Come lo monetizzerete? Quanto costerà il gioco?"
+    },
+    "platformSupport": {
+      "answer": "Sì! Il gioco sta venendo sviluppato con Flutter, che ha un ottimo supporto multipiattaforma. Ciò significa che il porting del gioco per entrambi i sistemi operativi non è un problema e non richiede molto lavoro.",
+      "question": "Verrà rilasciato sia per Android che per iOS?"
+    },
+    "releaseDate": {
+      "answer": "Puoi consultare la tabella di marcia al link sottostante. Secondo le nostre stime attuali, manderemo un secondo giro di inviti per la Closed Beta a fine febbraio.",
+      "button": "Controlla la tabella di marcia",
+      "question": "Quando uscirà il gioco?"
+    },
+    "smartwatchSupport": {
+      "answer": "Sì! Gli smart watch verranno supportati. Inizialmente integreremo Apple Health e Google Fit, poi aggiungeremo il supporto anche per Strava, e da lì potremmo arrivare ad includere anche altre marche. Ma se il vostro smart watch o smart band può sincronizzarsi con Strava/Fit/Health, è molto probabile che potrete usarlo con il gioco.",
+      "question": "Saranno supportati gli smart watch e smart band?"
+    },
+    "title": "FAQ"
+  }
+}
