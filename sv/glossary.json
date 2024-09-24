@@ -1,0 +1,14 @@
+{
+  "singulars": {
+    "buttons": {
+      "buyMeACoffee": "Buy Me a Coffee",
+      "contact": "Kontakta oss",
+      "download": "Ladda ner spelet",
+      "game": "Börja din resa",
+      "newsletter": "Nyhetsbrev",
+      "patreon": "Patreon",
+      "register": "Registrera",
+      "support": "Stöd oss"
+    }
+  }
+}

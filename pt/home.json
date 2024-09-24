@@ -1,0 +1,30 @@
+{
+  "singulars": {
+    "downloadSection": {
+      "section-1": "Nada aqui por enquanto. Mas esperamos que mais cedo ou mais tarde! WalkScape será lançado tanto para iOS como para Android",
+      "title": "Baixar"
+    },
+    "footer": {
+      "copyright": "Todos os direitos reservados a WalkScape.",
+      "privacy-policy": "Políticas de Privacidade"
+    },
+    "gameSection": {
+      "section-1": "WalkScape é um jogo inspirado por alguns MMORPGs da velha guarda. Porém esse jogo tem um grande truque na manga: você não joga ativamente, mas ao invés você ganha progresso caminhando na vida real.",
+      "section-2": "Viva uma jornada divertida e excitante através do Mundo de Arenum enquanto também se motiva a caminhar!",
+      "title": "O Jogo"
+    },
+    "meta": {
+      "description": "Walkscape: Cresça caminhando!",
+      "title": "WalkScape"
+    },
+    "screenshotsSection": {
+      "description": "Imagens do jogo com algumas mecânicas. Você pode encontrar mais me nosso subreddit!",
+      "title": "Capturas de Tela"
+    },
+    "supportUsSection": {
+      "section-1": "Você pode apoiar o desenvolvimento de WalkScape através do Patreon ou do Buy me a Coffee. Apoiadores do jogo recebem alguns benefícios exclusivos conforme listados no Patreon e Buy me a Coffee.",
+      "section-2": "Walkscape foi fundado inteiramente pela comunidade e todo o apoio é bem vindo. ❤️",
+      "title": "Nos apoie"
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "singulars": {
+    "developmentSupport": {
+      "answer-section-1": "Discord'daki veya subreddit'teki söyleşilere katılarak oyunu destekleyebilirsin. Ayrıca anketlerde oy kullanmanın, geri bildirimde bulunmanın ve öneri göndermenin gerçekten faydası oluyor!",
+      "answer-section-2": "Eğer oyuna ciddi bir destekte bulunmak istiyorsan, hadi, oyunu duymayan kalmasın. Daha fazla dikkat çekmemiz oyun medyası tarafından fark edilmemize yardımcı olur, bu da bize birçok kapı açar.",
+      "answer-section-3": "Hem oyuna bayıldığın için destek olmak istiyorsan hem de bunu yapabilecek imkana sahipsen, Buy Me a Coffee veya Patreon aracılığıyla bize destek olabilirsin. Her bağış, WalkScape üzerinde çalışmak için daha çok zaman ayırabilmemize yardımcı olur, aynı zamanda gelecekte ortaya çıkan masrafları karşılamamızı ve işimizi kurmamızı sağlar.",
+      "question": "Oyunun gelişimini nasıl destekleyebilirim?"
+    },
+    "exerciseSupport": {
+      "answer-section-1": "Oyunda her türlü içeriği tamamlamak için sadece yürümen yeterli. Yürüyerek tüm becerilerin seviyesini yükseltebilir ve tüm faaliyetleri yapabilirsin. Bunun nedeni, yürümenin çoğu insanın kendiliğinden yaptığı bir aktivite olmasıdır. Bu yüzden markete kadar gidecek olsan veya iş yerindeyken yürüsen bile her zaman ilerleme kaydedersin.",
+      "answer-section-2": "İlerleyen zamanlarda akıllı saat desteği eklemeye başladığımızda, oyuna başka egzersiz türleri de eklemeyi planlıyoruz. Egzersiz uzunluğuna, nabız hızına ve yaktığın kaloriye göre oyunda ödüllendirileceksin.",
+      "question": "Oyun yürümekten başka egzersiz türlerini destekleyecek mi?"
+    },
+    "gameModes": {
+      "answer-section-1": "Evet! Şu anda planlanan oyun modları şunlardır:",
+      "answer-section-2": "Çevrimiçi rekabetçi (Varsayılan mod). Hile karşıtı önlemler içeren daha sıkı oyun modu. Özelleştirilemez ve düzenli aralıklarla çevrimiçi bağlantı gerektirir.",
+      "answer-section-3": "Rahat mod. Oyunun zorluğunu özelleştirebilirsin (Eylem başına kaç adım atman gerektiği, savaş zorluğu vb. gibi). Ayrıca oyunda ilerlemek için daha fazla yöntem içerir. Tamamen çevrimdışı oynanabilir.",
+      "answer-section-4": "Ironman modu. Tamamen çevrimdışı oynayabilirsin, ancak çevrimiçi liderlik tabloları bulunuyor. Temel olarak malzeme ve diğer kaynaklar açısından tamamen kendinle baş başa olduğun bir mod, zira bunları diğer oyunculardan satın alamazsın.",
+      "answer-section-5": "Umutsuz mod (Onaylanmış değil, sadece bir fikir). Ironman'e benzer, ancak savaş zorluğu daha yüksek. Aktiviteler yaparken canavarlar tarafından rastgele saldırıya uğrayabilirsin. Bu modda ölmek envanterini boşaltır ve \"yenilmez\" statünü kaybetmene sebep olur.",
+      "question": "Hangi oyun modları olacak? Oyunu çevrimdışı oynayabilir miyim?"
+    },
+    "helpOffers": {
+      "answer-section-1": "Oyuna yardımcı olmak için çok sayıda teklif alıyoruz! Umarım buralardan ayrılmazsın, zira özel yardıma ihtiyaç duyan bir durum ortaya çıkarsa burada yayınlayacağız. Tekliflerin için doğrudan bana özel mesaj gönderebilir veya e-posta yoluyla bizimle iletişime geçebilirsin: contact@walkscape.app",
+      "answer-section-2": "Eğer kendini cömert hissediyorsan, bu işi kurabilmemiz ve gelecekteki masraflarımızı karşılayabilmemiz için şimdilik yapabileceğin en yararlı şey destekçi olmandır. Bize şu adreslerden destek olabilirsin:",
+      "question": "Testlerde yardımcı olabilir miyim? Başka bir konuda yardımcı olabilir miyim?"
+    },
+    "ideaSuggestions": {
+      "answer": "Lütfen, Discord kanalımızın #suggestions-questions bölümüne önerilerini gönder. Önerilere gerçekten açığım ve onları dinlemeyi çok isterim. Gönderilen her öneriyi oyuna dahil edemem. İlk önceliğim hepinizin oynamaya başlayabilmesi için eksiksiz bir ürün ortaya koymak olacak.",
+      "question": "Harika bir fikrim var, oyuna ekleyebilir misiniz?"
+    },
+    "monetization": {
+      "answer-section-1": "Para kazanma konusunda hala %100 emin değiliz, bu nedenle her geliştirilme aşamasındaki oyunda olduğu gibi burada bahsedilenler daha sonra değişebilir. Oyundan mümkün olduğunca adil bir şekilde para kazanmanın ve oyunu makul fiyatlı tutmanın yollarını bulmaya çalışıyoruz. Her türlü fırsatçı para kazanma yöntemine karşı olduğumdan oyunda mikro ödemeler gibi şeylerin olmasını istemiyoruz. Şahsen, bu tür uygulamaları ahlaki açıdan sorgulanabilir buluyorum. Zira sağlıksız harcama alışkanlıklarını teşvik ederek birçok oyuncunun niyet ettiğinden fazla ödeme yapmasına neden oluyorlar.",
+      "answer-section-2": "Mevcut planlarımıza göre, oyunu ücretsiz olarak oynayabileceğiniz gibi satın alabileceğiniz uygun fiyatlı bir aboneliğimiz de olacak. Abonelik size tüm oyun dünyasını açarken, ücretsiz oyunculara oyun içi dünya belirli bölümlerle sınırlı olacak. Abonelik, tecrübe kazanımını artırma, daha fazla oyun içi altın kazanma veya böylesi şeyler gibi herhangi bir haksız avantaj sağlamaz. Sadece tüm oyun içi içeriğe erişim sağlar. Oyunun çevrimiçi özellikleriyle ilgilenmeyenler veya abonelik ücreti ödemek istemeyenler için çevrimdışı bir oyun modu da olacak. Çevrimdışı oyun modunu oynamak için yalnızca bir kere ücret ödemek gerekir.",
+      "answer-section-3": "Bununla birlikte, henüz hazır olmayan bir oyundaki diğer her şey gibi bunlar da değişebilir. Kapalı betadan sonra daha sağlam bir fiyatlandırma yapmamızı bekleyebilirsiniz, zira o zaman sunucu maliyetlerinin ve oyunun diğer masraflarının ne olacağına dair daha somut verilere sahip olacağız. Ücretlendirmenin mümkün olduğunca makul fiyatlı olmasını ve aynı zamanda sürdürülebilir bir iş yürütmemizi sağlamasını istiyoruz.",
+      "question": "Nasıl para kazanacaksınız? Oyunun fiyatı ne olacak?"
+    },
+    "platformSupport": {
+      "answer": "Evet! Oyun, çapraz platform için harika bir desteğe sahip olan Flutter ile geliştiriliyor. Bu da oyunu her iki işletim sistemi için de çıkarmanın sorun olmadığı ve çok fazla çaba gerektirmediği anlamına geliyor.",
+      "question": "Hem Android hem de iOS için çıkacak mı?"
+    },
+    "releaseDate": {
+      "answer": "Yol haritamızı aşağıdaki bağlantıdan kontrol edebilirsin. Oyun kapalı betada test edilmeye çoktan başladı bile.",
+      "button": "Yol haritamızı kontrol et",
+      "question": "Oyun ne zaman yayınlanacak?"
+    },
+    "smartwatchSupport": {
+      "answer": "Evet! Akıllı saat desteği olacak. İlk olarak Apple Health ve Google Fit ile entegrasyonlarımız olacak, daha sonra Strava desteği ekleyeceğiz. Daha da sonra bazı diğer üreticileri dahil etmek için yolumuza devam edebiliriz. Yani saatin veya bilekliğin Strava/Fit/Health ile senkronize olabiliyorsa, büyük olasılıkla oyunla birlikte kullanabileceksin.",
+      "question": "Akıllı saat ve bileklik desteği olacak mı?"
+    },
+    "title": "SSS"
+  }
+}

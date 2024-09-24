@@ -1,0 +1,13 @@
+{
+  "singulars": {
+    "developmentSupport": {
+      "answer-section-1": "Você pode apoiar o jogo participando nas discussões no Discord ou no subreddit. Votar nas enquetes, dar sua opinião e postar sugestões também são muito bem vindas!",
+      "answer-section-2": "Se você quer realmente apoiar o jogo, conte para todo mundo. Ganhando mais atenção nos ajuda a ser noticiado pela mídia de jogos, o que abrem várias portas para nós.",
+      "answer-section-3": "Se você está apaixonado pelo jogo, tem condições e gostaria de apoiar, você pode fazer isso através do Buy me a Coffee ou do Patreon. Cada doação nos ajuda a focar mais tempo no desenvolvimento de WalkScape, enquanto também nos ajuda a cobrir parte dos gastos e a começar um negócio.",
+      "question": "Como eu posso apoiar o desenvolvimento?"
+    },
+    "exerciseSupport": {
+      "question": "O jogo dará suporte a outras atividades além de caminhada?"
+    }
+  }
+}

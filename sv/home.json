@@ -1,0 +1,37 @@
+{
+  "singulars": {
+    "downloadSection": {
+      "section-1": "Inget här ännu. Men förhoppningsvis förr eller senare! WalkScape kommer att släppas för både iOS och Android.",
+      "title": "Ladda ner"
+    },
+    "footer": {
+      "copyright": "Upphovsrätten förbehålls WalkScape.",
+      "privacy-policy": "Integritetspolicy"
+    },
+    "gameSection": {
+      "section-1": "WalkScape är ett spel som inspirerats av några gamla MMORPG-spel. Men det här spelet har ett stort trick i rockärmen: du spelar inte aktivt, utan får istället framsteg genom att gå.",
+      "section-2": "Du kan förvänta dig en rolig och spännande resa genom Arenums värld samtidigt som du får den extra biten motivationen att komma ut och gå!",
+      "title": "Spelet"
+    },
+    "meta": {
+      "description": "WalkScape: Levla genom att gå!",
+      "title": "WalkScape"
+    },
+    "screenshotsSection": {
+      "description": "Skärmdumpar från spelet som visar lite av hur spelet fungerar. Du hittar mer i vår Subreddit!",
+      "title": "Skärmdumpar"
+    },
+    "supportUsSection": {
+      "section-1": "Du kan stödja WalkScapes utveckling via Patreon eller Buy Me a Coffee. De som stödjer spelet får några exklusiva förmåner som listas av på Patreon och Buy me a Coffee.",
+      "section-2": "WalkScape är helt finansierat med hjälp av vår gemenskap, och allt stöd är mycket uppskattat. ❤️",
+      "title": "Stöd oss"
+    },
+    "features": {
+      "communityFeatures": "Gemenskapsfunktioner, global marknadsplats och online-ledartavlor.",
+      "levelUpSkills": "Öka dina färdigheter genom att gå i verkliga livet",
+      "numberOfSkills": "Över 15 olika färdigheter att gå upp i nivå och bemästra",
+      "quests": "Massor av uppdrag, slumpmässiga möten och en huvudberättelse som sträcker sig över flera kontinenter.",
+      "title": "Funktioner"
+    }
+  }
+}

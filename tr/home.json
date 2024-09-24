@@ -1,0 +1,37 @@
+{
+  "singulars": {
+    "downloadSection": {
+      "section-1": "Henüz burada bir şey yok. Fakat umuyoruz ki pek yakında olacak! WalkScape hem iOS hem Android için çıkacak.",
+      "title": "İndir"
+    },
+    "footer": {
+      "copyright": "Telif hakları WalkScape'e aittir.",
+      "privacy-policy": "Gizlilik Politikası"
+    },
+    "gameSection": {
+      "section-1": "WalkScape, eski tarz çok oyunculu rol yapma oyunlarından esinlenilmiş bir oyundur. Ancak bu oyunun büyük bir farkı var: Oyuna sürekli bakman gerekmez, ilerlemek için yürümen yeterli.",
+      "section-2": "Arenum Dünyası'nda eğlenceli ve heyecanlı bir yolculuğun yanı sıra yürüyüş yapma motivasyonu da seni bekliyor olacak!",
+      "title": "Oyun"
+    },
+    "meta": {
+      "description": "WalkScape: Yürüyerek İlerle!",
+      "title": "WalkScape"
+    },
+    "screenshotsSection": {
+      "description": "Bazı oyun mekaniklerini gösteren ekran görüntüleri. Daha fazlasını Subreddit'imizde bulabilirsin!",
+      "title": "Ekran Görüntüleri"
+    },
+    "supportUsSection": {
+      "section-1": "WalkScape'in gelişimine Patreon veya Buy Me a Coffee aracılığıyla destek olabilirsin. Oyunun destekçileri, Patreon ve Buy Me a Coffee'de listelenen bazı özel avantajlar kazanır.",
+      "section-2": "WalkScape tamamen destekçiler tarafından finanse edilmektedir ve her bir desteğiniz için fazlasıyla minnettarız. ❤️",
+      "title": "Bize Destek Ol"
+    }
+  },
+  "features": {
+    "communityFeatures": "Sosyal öğeler, küresel bir pazar yeri ve çevrimiçi liderlik tabloları",
+    "levelUpSkills": "Gerçek hayatta yürüyerek becerilerini geliştir",
+    "numberOfSkills": "Geliştirip ustalaşacak 15'ten fazla farklı beceri",
+    "quests": "Bir sürü görev, rastgele karşılaşmalar ve birden fazla kıtaya yayılan bir ana hikaye",
+    "title": "Özellikler"
+  }
+}

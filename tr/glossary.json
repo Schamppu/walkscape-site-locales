@@ -1,0 +1,14 @@
+{
+  "singulars": {
+    "buttons": {
+      "buyMeACoffee": "Buy Me a Coffee",
+      "contact": "Bize ulaş",
+      "download": "Oyunu İndir",
+      "game": "Macerana Başla",
+      "newsletter": "Haberler",
+      "patreon": "Patreon",
+      "register": "Kaydol",
+      "support": "Bize destek ol"
+    }
+  }
+}
