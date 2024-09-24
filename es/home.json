@@ -1,0 +1,103 @@
+{
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "-",
+        "many": "-",
+        "one": "La siguiente oleada de la Beta cerrada empezará en <br/> <2>{{count}} semana!</2>",
+        "other": "La siguiente oleada de la Beta cerrada empezará en <br/> <2>{{count}} semanas!</2>",
+        "two": "-",
+        "zero": "-"
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "-",
+        "many": "-",
+        "one": "acción completada",
+        "other": "total de acciones completadas",
+        "two": "-",
+        "zero": "-"
+      },
+      "ship": {
+        "few": "-",
+        "many": "-",
+        "one": "barco reparado",
+        "other": "barcos reparados",
+        "two": "-",
+        "zero": "-"
+      },
+      "shrimps": {
+        "few": "-",
+        "many": "-",
+        "one": "gamba capturada",
+        "other": "gambas capturadas",
+        "two": "-",
+        "zero": "-"
+      },
+      "steps": {
+        "few": "-",
+        "many": "-",
+        "one": "paso caminado",
+        "other": "total de pasos caminados",
+        "two": "-",
+        "zero": "-"
+      },
+      "wine": {
+        "few": "-",
+        "many": "-",
+        "one": "botella de vino encontrada en cofres",
+        "other": "botellas de vino encontradas en cofres",
+        "two": "-",
+        "zero": "-"
+      }
+    }
+  },
+  "singulars": {
+    "callToAction": {
+      "registerNow": "¡<0>Regístrate ahora</0> para solicitar una invitación o <1>apóyanos</1> para asegurar el acceso!",
+      "waveActive": "¡Actualmente estamos enviando invitaciones a la Beta!",
+      "waveUndefined": "¡La siguiente oleada de la Beta cerrada se acerca! ¡Suscríbete a nuestro <0>boletín informativo</0> y síguenos en nuestras <1>redes sociales</1> para estar actualizado!"
+    },
+    "features": {
+      "communityFeatures": "Comunidades, mercado global y tablas de clasificación.",
+      "levelUpSkills": "Sube de nivel las habilidades al caminar en la vida real",
+      "numberOfSkills": "Más de 15 habilidades distintas para subir de nivel y dominarlas",
+      "quests": "Misiones, encuentros aleatorios y una historia principal que se expande por multiples continentes.",
+      "title": "Características"
+    },
+    "gameSection": {
+      "section-1": "WalkScape es un juego inspirado por MMORPGs de la vieja escuela. Aunque este juego se guarda un as bajo la manga: no tienes que jugar de forma activa, si no que progresas mientras caminas.",
+      "section-2": "Puedes esperar un camino lleno de diversion y emoción a través del Mundo de Arenum, ¡mientras mantienes la motivación por caminar!",
+      "title": "¿Qué es WalkScape?"
+    },
+    "howToPlay": {
+      "ensure": "Para asegurar el acceso al juego lo antes posible",
+      "instructions": "Para instrucciones paso por paso sobre como conseguir acceso, ¡mira <0>aquí</0>!",
+      "nextWave": "La siguiente oleada de invitaciones para la Beta es",
+      "subscribe": "¡Suscríbete a nuestro <0>boletín informativo</0> y síguenos en nuestras <1>redes sociales</1> para estar actualizado!",
+      "title": "¿Cómo conseguir acceso?",
+      "waveDate": "21 de Agosto, 00:00 UTC - 6 de Octubre, 12:00 UTC",
+      "waveExplain": "WalkScape está actualmente en fase de <0>Beta cerrada</0>. Esto significa que los jugadores obtendrán acceso por oleadas, para darnos tiempo a desarrollar el juego de forma rápida y con completamente centrados, ademas de permitirnos escalar nuestra infraestructura de servidores de una forma financieramente sostenible."
+    },
+    "meta": {
+      "description": "WalkScape: ¡machácalo al caminar!",
+      "title": "WalkScape: el juego de rol y fitness mientras caminas"
+    },
+    "news": {
+      "more": "Mostrar más",
+      "readFull": "Lee el artículo completo",
+      "title": "Noticias"
+    },
+    "screenshotsSection": {
+      "description": "Capturas de pantalla del juego, mostrando algunas de las mecánicas. ¡Puedes encontrar más en nuestro Subreddit!",
+      "title": "Capturas de pantalla"
+    },
+    "social": {
+      "follow": "Síguenos en las redes sociales"
+    },
+    "statistics": {
+      "title": "Estadísticas"
+    }
+  }
+}

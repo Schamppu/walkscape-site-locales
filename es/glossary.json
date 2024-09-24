@@ -1,0 +1,30 @@
+{
+  "singulars": {
+    "buttons": {
+      "buyMeACoffee": "Buy me a coffee",
+      "contact": "Contáctanos",
+      "download": "Descargar juego",
+      "game": "Comienza tu camino",
+      "newsletter": "Boletín informativo",
+      "patreon": "Patreon",
+      "register": "Registrarse",
+      "support": "Apóyanos"
+    },
+    "footer": {
+      "copyright": "Derechos de copia reservados por WalkScape.",
+      "privacy-policy": "Política de privacidad"
+    },
+    "routes": {
+      "contact": "Contacto",
+      "help": "Ayuda",
+      "home": "Inicio",
+      "portal": "Portal",
+      "presskit": "Notas de prensa",
+      "register": "Registrarse",
+      "roadmap": "Hoja de ruta",
+      "store": "Tienda",
+      "support": "Apóyanos",
+      "wiki": "Wiki"
+    }
+  }
+}

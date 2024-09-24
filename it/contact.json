@@ -1,1 +1,12 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Se hai delle domande o hai bisogno di assistenza, contattaci via email all'indirizzo <0>contact@walkscape.app</0> o tramite social media."
+    },
+    "meta": {
+      "description": "Scopri come contattarci",
+      "title": "WalkScape | Contattaci"
+    },
+    "title": "Contattaci"
+  }
+}

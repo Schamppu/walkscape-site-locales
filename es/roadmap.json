@@ -1,0 +1,83 @@
+{
+    "singulars": {
+        "meta": {
+            "title": "WalkScape | Hoja de ruta",
+            "description": "Un esbozo de los planes de desarrollo de WalkScape, tanto pasados como futuros."
+        },
+        "devStart": {
+            "title": "Comienza el desarrollo del juego",
+            "date": "17 de Agosto, 2022",
+            "content": "El desarrollo de WalkScape comienza como un proyecto personal, al cual Schamppu dedica su tiempo libre."
+        },
+        "maxchill": {
+            "date": "4 de Diciembre, 2022",
+            "title": "Maxchill se une al equipo",
+            "content": "El proyecto comienza a ganar popularidad en las redes sociales, sobre todo en Reddit, y se empieza a echar en falta un artista. Maxchill se une al equipo de desarrollo."
+        },
+        "originalBeta": {
+            "date": "Verano, 2023",
+            "title": "Lanzamiento de la Beta cerrada original",
+            "content": "La primera version de la Beta cerrada de WalkScape se programa para el verano de 2023. Al final esto resulta imposible, y el lanzamiento se retrasa hasta finales de año."
+        },
+        "floursifter": {
+            "date": "12 de Octubre, 2023",
+            "title": "Floursifter se une al equipo",
+            "content": "Floursifter, miembro de la comunidad de WalkScape que había contribuido gran cantidad de su tiempo libre en idear contenido, fórmulas para las mecánicas de juego y pruebas de la version de iOS, se une al equipo de forma no oficial."
+        },
+        "wave1": {
+            "date": "1 de Noviembre, 2023",
+            "title": "Invitaciones de la oleada 1 para afiliados",
+            "content": "Para garantizar el acceso a la primera versión de la Beta cerrada del juego, los jugadores pueden apoyar el desarrollo de WalkScape en Patreon y Buy Me a Coffee."
+        },
+        "launch": {
+            "date": "18 de Enero, 2024",
+            "title": "Lanzamiento de la Beta cerrada",
+            "content": "Se lanza la primera versión de la Beta cerrada."
+        },
+        "qol": {
+            "date": "16 de Febrero, 2024",
+            "title": "Gran actualización con mejoras de calidad de vida",
+            "content": "Se lanza una actualización con grandes mejoras en la calidad de vida. La interfaz de usuario es reconstruida y la navegación y jugabilidad del juego se vuelven considerablemente más fáciles."
+        },
+        "contentUpdate": {
+            "date": "28 de Febrero, 2024",
+            "title": "Importante actualización de contenido",
+            "content": "La cantidad de contenido en el juego casi se dobla, con la inclusión de coleccionables, nuevos objetos, el doble de actividades, y más preparaciones para el lanzamiento de la oleada 2."
+        },
+        "wave2": {
+            "date": "1 de Marzo, 2024",
+            "title": "Invitaciones a la oleada 2",
+            "content": "Las invitaciones para la segunda oleada de la Beta cerrada terminan el 31 de Marzo de 2024. Tanto los afiliados en Patreon y Buy Me a Coffee como una cantidad de jugadores que habían solicitado acceso a la Beta cerrada, lo obtienen antes del 31 de Marzo."
+        },
+        "wave2patch": {
+            "date": "13 de Marzo, 2024",
+            "title": "Parche pos-oleada 2",
+            "content": "Se laza una actualización que arregla nuevos problemas encontrados por los jugadores que se unen en la oleada 2."
+        },
+        "myzozoz": {
+            "date": "15 de Abril, 2024",
+            "title": "myzozoz se une al equipo",
+            "content": "Con el objetivo de acelerar el desarrollo, comenzamos a buscar un segundo desarrollador. El 15 de Abril, myzozoz se une a nosotros como el primer empleado oficial de Not a Cult."
+        },
+        "pedometer": {
+            "date": "26 de Abril, 2024",
+            "title": "Actualización del podómetro",
+            "content": "Por ahora, la característica principal de WalkScape, contar pasos, necesitaba actualizarse. Esta actualización arregla una gran cantidad de problemas encontrados con el podómetro. Las actividades para arreglar el podómetro continúan durante Mayo de 2024."
+        },
+        "wave2point5": {
+            "date": "1 de Junio, 2024",
+            "title": "Invitaciones a la oleada 2,5",
+            "content": "Como agradecimiento a todos los jugadores que han apoyado el juego desde el final de las invitaciones a la oleada 2, nuevas invitaciones se enviarían a todos aquellos afiliados en Patreon o Buy Me a Coffee antes del 15 de Junio, 12:00:00 UTC. Las invitaciones comenzarían al recibirse el 1 de Junio."
+        },
+        "syrenthia": {
+            "date": "Junio - Julio, 2024",
+            "title": "Actualización de Sirencia",
+            "content": "Nuestra mayor actualización hasta el momento, añadiendo logros, reputación de reinos, consumibles, y una nueva region."
+        },
+        "wave3": {
+            "date": "Agosto - Septiembre, 2024",
+            "title": "Oleada 3 y mejoras en calidad de vida",
+            "content": "Otra gran actualización con mejoras en la calidad de vida, añadiendo WalkPedia, colas de viaje y acciones, ordenación del banco e inventario, pestañas, y muchas más mejoras para facilitar el juego. Inmediatamente después del lanzamiento y seguimiento de esta actualización, comenzaría la oleada 3."
+        }
+    }
+}

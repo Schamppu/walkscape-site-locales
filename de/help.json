@@ -12,7 +12,7 @@
                 "note": "Bemerkung",
                 "instructions-2": "Gehe zu der <1>Konto</1> Seite und wähle <2>Für Beta Zugang bewerben</2>.",
                 "instructions-1": "Erstelle ein Konto im <0>WalkScape Portal</0>. Versichere dich, deine E-Mail Adresse zu bestätigen (Die bestätigungs E-Mail landet manchmal im Spam Ordner).",
-                "instructions-3": "Warte auf eine Einladung. Einladungen werden in Wellen verschickt und du kannst auf der <3>Home Seite</3> sehen, wann die nächste stattfindet. Eingeladene werden eine E-Mail erhalten, mit einer Anleitung wie man das Spiel installiert.",
+                "instructions-3": "Warte auf eine Einladung. Einladungen werden in Wellen verschickt und du kannst auf der <3>Startseite</3> sehen, wann die nächste stattfindet. Eingeladene werden eine E-Mail erhalten, mit einer Anleitung wie man das Spiel installiert.",
                 "noteContent": "Eine begrenzte Menge an Einladungen wir bei jeder Welle versendet, du kannst dir aber Zugang garantieren, wenn du uns unterstütz! Lies weiter, wenn du schon ein Konto im Portal hast und <0>das Spiel unterstützt hast</0>."
             },
             "oauth": {
@@ -34,7 +34,7 @@
             "title": "FAQ",
             "exerciseSupport": {
                 "answer-section-2": "Später werden wir auch Smartwatch Funktionalität hinzufügen und planen auch andere Sportarten aufzunehmen. Man wird im Spiel basierend auf der Übungslänge, durschnittlichem Puls und verbrannten Kalorien belohnt.",
-                "question": "Wird das Spiel noch mehr Sportarten als nur laufen unterstützen?",
+                "question": "Wird das Spiel noch mehr Sportarten als nur Laufen unterstützen?",
                 "answer-section-1": "Das Spiel heißt nicht ohne Grund WalkScape: Das Spiel erlaubt es jeden Inhalt nur durch laufen zu erleben. Du kannst deine Fähigkeiten steigern und alle Aktivitäten durch laufen absolvieren. Laufen ist etwas, das die meisten nebenbei tun, sodass du sogar Fortschritt machst, wenn du durch einen Laden oder bei der Arbeit läufst."
             },
             "monetization": {
@@ -73,7 +73,7 @@
                 "question": "Wie kann ich die Entwicklung unterstützen?",
                 "answer-section-1": "Du kannst das Spiel unterstützen, indem du bei den Unterhaltungen im Discord, dem Subreddit oder Portalforen teilnimmst. Auch bei Abstimmungen mitmachen, Feedback geben, sowie Vorschläge machen hilft uns weiter!",
                 "answer-section-2": "Wenn du das Spiel wirklich unterstützen willst, erzähle davon. Mehr Aufmerksamkeit hilft uns dabei von den Medien bemerkt zu werden, was uns viele Türen für das Wachstum öffnen wird.",
-                "answer-section-3": "Wenn du es sehr ernst meinst, das Spiel dir gefällt und die Möglichkeit dazu hast, kannst du uns auch auf Patreon oder Buy Me a Coffee unterstützen. Jede Spende hilft uns dabei, mehr Zeit in die Entwicklung von WalkScape zu stecken und gibt uns die Möglichkeit, die Kosten dafür zu tragen."
+                "answer-section-3": "Wenn du es sehr ernst meinst, das Spiel dir gefällt und du die Möglichkeit dazu hast, kannst du uns auch auf Patreon oder Buy Me a Coffee unterstützen. Jede Spende hilft uns dabei, mehr Zeit in die Entwicklung von WalkScape zu stecken und gibt uns die Möglichkeit, die Kosten dafür zu tragen."
             },
             "smartwatchSupport": {
                 "question": "Werden Smartwatches und Bänder unterstützt?",

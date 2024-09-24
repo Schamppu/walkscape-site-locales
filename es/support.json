@@ -1,0 +1,44 @@
+{
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Mientras la membresía esté activa:",
+        "color": "<0>Imagen y color de perfil exclusivos</0>, ambos dentro del juego y en el Portal de WalkScape. Tu imagen y color de perfil coincidirán con el nivel de membresía activa. Los mismos beneficios se aplicarán también en Discord.",
+        "discord": "Acceso a un <0>canal exclusivo en Discord</0>, con adelantos y conversaciones con los desarrolladores.",
+        "discordRole": "Tendrás un <0>rol exclusivo en Discord</0>.",
+        "first": "Después del primer pago:",
+        "gameTitle": "Un <0>título dentro del juego</0>, para mostrar que nos apoyaste durante el lanzamiento de la Beta cerrada.",
+        "invite": "<0>Invitación a la Beta cerrada</0>. Las invitaciones se envían en oleadas. Si te has afiliado en el periodo entre oleadas, recibirás acceso al comienzo de la siguiente. Si una oleada está activa, podrás acceder inmediatamente al juego.",
+        "title": "Todas las membresías"
+      },
+      "follower": {
+        "character": "Por unirte a este nivel de membresía, podrás diseñar, junto con el equipo de desarrollo, una opción de personalización para los personajes dentro del juego.",
+        "patreon": "Solo disponible en Patreon",
+        "price": "48.50€ al mes",
+        "role": "Consigue el rol de <0>Cult Follower</0> en el servidor de WalkScape en Discord.",
+        "title": "Seguidor del culto"
+      },
+      "leader": {
+        "item": "Por unirte a este nivel de membresía, podrás diseñar, junto con el equipo de desarrollo, un objeto dentro del juego. El objeto tendrá tu nombre en su descripción.",
+        "price": "97€ al mes",
+        "role": "Consigue el rol de <0>Cult Leader</0> en el servidor de WalkScape en Discord.",
+        "title": "Líder del culto"
+      },
+      "title": "Beneficios de afiliados",
+      "walker": {
+        "price": "3€/6€/24,50€ al mes",
+        "role": "Consigue el rol de <0>Supporter</0> en el servidor de WalkScape en Discord.",
+        "title": "Todos los caminantes"
+      }
+    },
+    "body": {
+      "section-1": "Puedes apoyar el desarrollo de WalkScape a través de Patreon o Buy Me a Coffee. Los afiliados al juego obtienen beneficios exclusivos, listados en Patreon y Buy Me a Coffee.",
+      "section-2": "WalkScape está financiado completamente por su comunidad, y todo el apoyo es de agradecer ❤️"
+    },
+    "meta": {
+      "description": "Suscríbete a nosotros en Patreon o Buy Me a Coffee para apoyar el desarrollo de WalkScape",
+      "title": "WalkScape | Apóyanos"
+    },
+    "title": "Apóyanos"
+  }
+}

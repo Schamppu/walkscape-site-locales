@@ -1,0 +1,16 @@
+{
+    "singulars": {
+        "meta": {
+            "title": "WalkScape | Pomoć",
+            "description": "Pronađi rješenja za sve česte probleme"
+        },
+        "title": "Pomoć",
+        "getGame": {
+            "title": "Kako nabaviti igru",
+            "free": {
+                "title": "Kako bi se prijavili besplatno:",
+                "note": "Napomena"
+            }
+        }
+    }
+}
