@@ -76,7 +76,7 @@
       "nextWave": "",
       "subscribe": "",
       "title": "",
-      "waveDate": "",
+      "waveDate": "{{start}} - {{end}}",
       "waveExplain": ""
     },
     "meta": {
