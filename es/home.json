@@ -77,7 +77,7 @@
       "nextWave": "La siguiente oleada de invitaciones para la Beta es",
       "subscribe": "¡Suscríbete a nuestro <0>boletín informativo</0> y síguenos en nuestras <1>redes sociales</1> para estar actualizado!",
       "title": "¿Cómo conseguir acceso?",
-      "waveDate": "21 de Agosto, 00:00 UTC - 6 de Octubre, 12:00 UTC",
+      "waveDate": "{{start}} - {{end}}",
       "waveExplain": "WalkScape está actualmente en fase de <0>Beta cerrada</0>. Esto significa que los jugadores obtendrán acceso por oleadas, para darnos tiempo a desarrollar el juego de forma rápida y completamente centrados, ademas de permitirnos escalar nuestra infraestructura de servidores de una forma financieramente sostenible."
     },
     "meta": {
