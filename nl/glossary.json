@@ -1,6 +1,7 @@
 {
   "singulars": {
     "buttons": {
+      "accept": "Accepteren",
       "buyMeACoffee": "Buy Me a Coffee",
       "contact": "Neem contact met ons op",
       "download": "Download Spel",
@@ -8,7 +9,11 @@
       "newsletter": "Nieuwsbrief",
       "patreon": "Patreon",
       "register": "Registreer",
+      "reject": "Afwijzen",
       "support": "Steun ons"
+    },
+    "consent": {
+      "prompt": "Deze website gebruikt cookies om netwerkverkeer te analyzeren. Door op 'Accepteren' te klikken, geef je toestemming voor dit gebruik."
     },
     "footer": {
       "copyright": "Copyrights voorbehouden aan WalkScape.",
