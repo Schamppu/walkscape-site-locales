@@ -1,6 +1,7 @@
 {
   "singulars": {
     "buttons": {
+      "accept": "Accetta",
       "buyMeACoffee": "Buy Me a Coffee",
       "contact": "Contattaci",
       "download": "Scarica il gioco",
@@ -8,7 +9,27 @@
       "newsletter": "Newsletter",
       "patreon": "Patreon",
       "register": "Registrati",
+      "reject": "Rifiuta",
       "support": "Sostienici"
+    },
+    "consent": {
+      "prompt": "Questo sito web utilizza i cookie per analizzare il traffico. Facendo clic su 'Accetta' acconsentirai a questo utilizzo."
+    },
+    "footer": {
+      "copyright": "Tutti i diritti sono riservati da WalkScape.",
+      "privacy-policy": "Informativa sulla privacy"
+    },
+    "routes": {
+      "contact": "Contatti",
+      "help": "Aiuto",
+      "home": "Home",
+      "portal": "Portal",
+      "presskit": "Kit stampa",
+      "register": "Registrati",
+      "roadmap": "In futuro",
+      "store": "Negozio",
+      "support": "Sostienici",
+      "wiki": "Wiki"
     }
   }
 }
