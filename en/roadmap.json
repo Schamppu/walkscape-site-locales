@@ -67,17 +67,72 @@
     "wave2point5": {
       "date": "1st of June, 2024",
       "title": "Invite Wave 2.5",
-      "content": "As a thank you to all players who have supported the game since the end of invite wave 2, invites will be sent out to everyone who supports the game on Patreon or BMAC before the 15th of June, 12:00:00 UTC. Invites will start rolling out on the  1st of June."
+      "content": "As a thank you to all players who supported the game since the end of invite wave 2, invites are sent out to everyone who supported the game on Patreon or BMAC before the 15th of June, 12:00:00 UTC. Invites will start rolling out on the  1st of June."
+    },
+    "achievements": {
+      "date": "10th of July, 2024",
+      "title": "Achievements update released",
+      "content": "Shortly after wave 2.5, a significant content update added achievements to the game. "
     },
     "syrenthia": {
-      "date": "June-July, 2024",
+      "date": "21st of August, 2024",
       "title": "Syrenthia Update",
-      "content": "Our biggest update yet, adding achievements, realm reputation, consumables, and a new region to the game."
+      "content": "Our biggest update yet, adding realm reputation, consumables, and an entirely new region, drops. The team deploys the update remotely from Cologne, Germany, as they are attending Gamescom. The update also marks the start of wave 3."
     },
     "wave3": {
-      "date": "August-September, 2024",
-      "title": "QoL & Wave 3",
-      "content": "Another large Quality of Life update, adding WalkPedia, travel + action queue, bank & inventory sorting, tabs, and a lot more to make playing the game easier. Shortly after QoL update is released and any issues with it fixed, Wave 3 begins."
+      "date": "August-October, 2024",
+      "title": "Wave 3 and PGC",
+      "content": "For the next six and a half weeks the game sees a massive influx of new players, as news of wave 3 reaches more people than ever before. The game is also showcased in various conventions, winning the indie audience choice award at Pocket Gamer Connects Helsinki."
+    },
+    "localization": {
+      "date": "12th of October, 2024",
+      "title": "Wave 3 and PGC",
+      "content": "An update is released, which allows players to change in-game language. Languages supported in the first wave are (in addition to English) German, Spanish, Italian, Dutch, Polish and, of course, Finnish. Most translations are provided by WalkScape's hard working community."
+    },
+    "syrenthiaHotfix": {
+      "date": "16th of October, 2024",
+      "title": "Hotfix After Syrenthia Update",
+      "content": "A patch is released, which fixes most technical problems players experienced after the Syrenthia update"
+    },
+    "qol2": {
+      "date": "November-December, 2024",
+      "title": "Second Large QoL Update",
+      "content": "A quality of life update is planned, addressing inventory management, banking, activity queueing, notifications and many more kinks in the game's UI."
+    },
+    "party": {
+      "date": "December, 2024",
+      "title": "Party System",
+      "content": "The first real multiplayer mechanic, which allows players to party up to reach common goals."
+    },
+    "devTools": {
+      "date": "Turn of the year 2024-2024",
+      "title": "Devtools 2.0",
+      "content": "To massively increase the speed at which new content can be developed, the devtools used by the team internally will receive a complete overhaul."
+    },
+    "gdteUpdate": {
+      "date": "Q1, 2025",
+      "title": "GDTE Update",
+      "content": "Before moving on to new coninents, the Grand Duchy of Trellin-Erdwise will be fleshed out to match the richness of content of Jarvonia and Syrenthia."
+    },
+    "trading": {
+      "date": "Q1, 2025",
+      "title": "Player Trading",
+      "content": "As the next massive multiplayer feature, player trading will be introduced, truly bringing out the 'MMO' in WalkScape's 'MMORPG'."
+    },
+    "combat": {
+      "date": "Q1, 2025",
+      "title": "Combat System",
+      "content": "The first version of the combat system will be released. The team is prepared that the mechanic might need some iteration once testing starts."
+    },
+    "quests": {
+      "date": "Q2, 2025",
+      "title": "Quests",
+      "content": "As the final major feature, Quests will be introduced to give players hand-crafted story content to play through."
+    },
+    "smartWatch": {
+      "date": "Q2, 2025",
+      "title": "Smart Device Support",
+      "content": "Support for smart watches and possibly other wearables will be enabled to allow collecting steps without having the mobile phone in the pocket at all times."
     }
   }
 }
