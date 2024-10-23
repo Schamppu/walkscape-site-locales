@@ -17,7 +17,7 @@
         },
         "contentUpdate": {
             "title": "Großes Inhalts Update",
-            "content": "Der Inhalt des Spiels ist fast verdoppelt durch neue Sammelgegenstände, Gegenstände, doppelt so viele Hauptaktivitäten und mehr um die zweite Welle vorzubereiten.",
+            "content": "Der Spielinhalt wurde ungefähr verdoppelt, da neue Sammelgegenstände, Items, doppelt so viele Hauptaktivitäten und mehr hinzugefügt wurde, um die zweite Welle vorzubereiten.",
             "date": "28. Februar 2024"
         },
         "wave2": {
@@ -78,6 +78,22 @@
         "meta": {
             "description": "Eine Zusammenfassung der Entwicklung von WalkScape, sowohl Vergangenes als Zukünftiges.",
             "title": "WalkScape | Roadmap"
+        },
+        "achievements": {
+            "date": "10. Juli 2024",
+            "title": "Update der Erfolge wurde veröffentlicht"
+        },
+        "devTools": {
+            "content": "Die Entwicklerwerkzeuge werden intern komplett überarbeitet, um eine wesentliche schnellere Entwicklung von neuen Inhalten zu ermöglichen.",
+            "title": "Entwicklerwergzeug 2.0"
+        },
+        "combat": {
+            "date": "Q1, 2025",
+            "title": "Kampfsystem",
+            "content": "Die erste Version des Kampfsystems wird veröffentlicht. Das Team ist darauf vorbereitet, dass die Mechanik mehrere Iterationen benötigt, sobald die Tests starten."
+        },
+        "party": {
+            "content": "Die erste echte Mehrspieler Mechanik, die es Spielern erlaubt, zusammen, gemeinsam Ziele zu erreichen."
         }
     }
 }
