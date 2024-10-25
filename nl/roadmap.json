@@ -30,9 +30,9 @@
             "title": "myzozoz Wordt Lid van het Team"
         },
         "wave3": {
-            "content": "Opnieuw een grote handigheids-update, waarbij WalkPedia, reis- en actiewachtrij, bank- en inventarissortering, tabbladen, en nog veel meer wordt toegevoegd om het spelen van het spel gemakkelijker te maken. Groep 3 begint kort nadat de handigheids-update is uitgebracht en de daarmee geïntroduceerde problemen zijn opgelost.",
-            "date": "Augustus-september, 2024",
-            "title": "Handigheids-update & Groep 3"
+            "content": "Voor de volgende zes en halve week komt er een enorme hoeveelheid nieuwe spelers aan, want groep 3 van beta uitnodigingen bereikt meer mensen dan ooit. Het spel wordt ook getoond op verschillende conventies, en wint de publieksprijs op Pocket Gamers Connects in Helsinki.",
+            "date": "Augustus-Oktober, 2024",
+            "title": "Groep 3 en PGC"
         },
         "maxchill": {
             "date": "4 december, 2022",
@@ -72,12 +72,67 @@
         "wave2point5": {
             "date": "1 juni, 2024",
             "title": "Uitnodiging Groep 2.5",
-            "content": "Als een bedankje aan alle spelers die het spel gesteund hebben sinds het einde van groep 2, worden uitnodigingen gestuurd naar iedereen die het spel gesteund heeft op Patreon of BMAC voor 15 juni 12:00:00 UTC. Uitnodigingen zullen worden verstuurd vanaf 1 juni."
+            "content": "Als een bedankje aan alle spelers die het spel gesteund hebben sinds het einde van groep 2, zijn uitnodigingen gestuurd naar iedereen die het spel gesteund heeft op Patreon of BMAC voor 15 juni 12:00:00 UTC. Uitnodigingen zullen worden verstuurd vanaf 1 juni."
         },
         "syrenthia": {
-            "date": "Juni-juli, 2024",
+            "date": "21 augustus, 2024",
             "title": "Syrenthië Update",
-            "content": "Onze grootste update tot dan toe, waarbij prestaties, rijksreputatie, verbruiksvoorwerpen, en een nieuwe regio toegevoegd worden aan het spel."
+            "content": "Onze grootste update tot dan toe, waarbij rijksreputatie, verbruiksvoorwerpen, en een compleet nieuwe regio toegevoegd worden aan het spel. Het team brengt de update uit vanuit Keulen, Duitsland, omdat ze bij Gamescom aanwezig zijn. Deze update markeert ook de start van groep 3 van uitnodigingen."
+        },
+        "achievements": {
+            "date": "10 juli, 2024",
+            "title": "Prestaties-update uitgebracht",
+            "content": "Kort na groep 2.5 van uitnodigingen, zijn met een grote update prestaties toegevoegd aan het spel. "
+        },
+        "localization": {
+            "date": "12 oktober, 2024",
+            "title": "Uitnodigingsronde 3 en PGC",
+            "content": "Er is een update uitgebracht waardoor spelers de taal van het spel kunnen aanpassen. Talen die in het begin ondersteund worden zijn (naast Engels) Duits, Spaans, Italiaans, Nederlands, Pools, en natuurlijk Fins. De meeste vertalingen zijn verzorgd door de hard werkende community van WalkScape."
+        },
+        "syrenthiaHotfix": {
+            "date": "16 oktober, 2024",
+            "title": "Hotfix Na Syrenthië Update",
+            "content": "Een update is uitgebracht om de meeste technische problemen op te lossen waar spelers tegenaan liepen na de Syrenthië update"
+        },
+        "qol2": {
+            "date": "November-December, 2024",
+            "title": "Tweede Grote Handigheids-Update",
+            "content": "Een update is uitgebracht met handigheidjes voor het beheren van je inventaris en je bank, het instellen van meerdere activiteiten op een rij, notificaties, en het verbeteren van de interface."
+        },
+        "party": {
+            "date": "December, 2024",
+            "title": "Partijensysteem",
+            "content": "De eerste echte multiplayer functionaliteit, waarbij spelers samen een partij kunnen vormen om doelen te halen."
+        },
+        "devTools": {
+            "date": "Jaarwisseling 2024-2025",
+            "title": "Devtools 2.0",
+            "content": "Om een stuk sneller nieuwe inhoud te ontwikkelen, worden de interne devtools die door het ontwikkelaarsteam gebruikt worden compleet hernieuwd."
+        },
+        "gdteUpdate": {
+            "title": "GHTE Update",
+            "date": "1e kwartaal, 2025",
+            "content": "Voordat we verder werken aan andere continenten, wordt Groot Hertogdom van Trellin-Erdwijs meer opgevuld om net zo veel inhoud te krijgen als Jarvonië en Syrenthië."
+        },
+        "trading": {
+            "date": "1e kwartaal, 2025",
+            "title": "Ruilen Tussen Spelers",
+            "content": "Voor de volgende grote multiplayer functionaliteit, wordt het ruilen tussen spelers toegevoegd, waardoor de 'MMO' van WalkScape's 'MMORPG' een realiteit wordt."
+        },
+        "combat": {
+            "date": "1e kwartaal, 2025",
+            "title": "Gevechtensysteem",
+            "content": "De eerste versie van het gevechtensysteem wordt uitgebracht. Het team houdt er rekening mee dat er meerdere iteraties nodig zijn zodra het testen ervan begint."
+        },
+        "quests": {
+            "date": "2e kwartaal, 2025",
+            "title": "Quests",
+            "content": "Als laatste grote feature, worden quests toegevoegd om spelers handgemaakte verhalen te geven om doorheen te spelen."
+        },
+        "smartWatch": {
+            "date": "2e kwartaal, 2025",
+            "title": "Ondersteuning Voor Smart Devices",
+            "content": "Ondersteuning voor smartwatches en wellicht andere wearables wordt toegevoegd, waardoor stappen geregistreerd kunnen worden zonder dat de telefoon altijd meegenomen moet worden."
         }
     }
 }
