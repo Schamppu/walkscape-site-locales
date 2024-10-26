@@ -4,8 +4,8 @@
       "waveDefined": {
         "few": "-",
         "many": "-",
-        "one": "De volgende gesloten beta-testgroep begint in <br/> <2>{{count}} week!</2>",
-        "other": "De volgende gesloten beta-testgroep begint in <br/> <2>{{count}} weken!</2>",
+        "one": "De volgende uitnodigingsronde begint in <br/> <2>{{count}} week!</2>",
+        "other": "De volgende uitnodigingsronde begint in <br/> <2>{{count}} weken!</2>",
         "two": "-",
         "zero": "-"
       }
@@ -57,7 +57,7 @@
     "callToAction": {
       "registerNow": "<0>Registreer nu</0> om je aan te melden voor een uitnodiging of <1>steun ons</1> om gegarandeerd toegang te krijgen!",
       "waveActive": "We nodigen momenteel spelers uit voor de beta-test!",
-      "waveUndefined": "De volgende groep uitnodigingen voor de gesloten beta-test worden binnenkort verstuurd! Abonneer op onze <0>nieuwsbrief</0> en volg onze <1>social media<1> om niks te missen!"
+      "waveUndefined": "De volgende uitnodigingsronde voor de gesloten beta-test begint binnenkort! Abonneer op onze <0>nieuwsbrief</0> en volg onze <1>social media<1> om niks te missen!"
     },
     "features": {
       "communityFeatures": "Gemeenschapsfuncties, wereldwijde marktplaats, en online klassementen.",
@@ -74,12 +74,12 @@
     "howToPlay": {
       "ensure": "Om zo snel mogelijk toegang te krijgen tot het spel",
       "instructions": "Lees <0>hier</0> stap voor stap hoe je toegang krijgt!",
-      "nextWave": "Volgende groep beta-testers krijgt direct toegang op",
+      "nextWave": "Volgende beta-uitnodigingsronde begint op",
       "subscribe": "Abonneer je nu op onze <0>nieuwsbrief</0> en volg onze <1>social media</1> om niks te missen!",
       "tbd": "Onbekend",
       "title": "Hoe krijg je toegang?",
       "waveDate": "{{start}} - {{end}}",
-      "waveExplain": "WalkScape bevindt zich momenteel in een <0>Gesloten Beta-Testfase</0>. Dit betekent dat spelers gegroepeerd uitgenodigd worden, zodat we de tijd hebben om het spel snel met volledige focus te ontwikkelen, en zodat we onze serverinfrastructuur op kunnen schalen op een financieel verantwoorde manier."
+      "waveExplain": "WalkScape bevindt zich momenteel in een <0>Gesloten Beta-Testfase</0>. Dit betekent dat spelers in rondes uitgenodigd worden, zodat we de tijd hebben om het spel snel met volledige focus te ontwikkelen, en zodat we onze serverinfrastructuur op kunnen schalen op een financieel verantwoorde manier."
     },
     "meta": {
       "description": "WalkScape: Stap Voor Stap Trainen!",
