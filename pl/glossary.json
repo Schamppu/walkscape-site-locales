@@ -1,6 +1,7 @@
 {
   "singulars": {
     "buttons": {
+      "accept": "Akceptuj",
       "buyMeACoffee": "By me a Coffee",
       "contact": "Kontakt",
       "download": "Pobierz Grę",
@@ -8,7 +9,11 @@
       "newsletter": "Newsletter",
       "patreon": "Patreon",
       "register": "Zarejestruj",
+      "reject": "Odrzuć",
       "support": "Wspieraj Nas"
+    },
+    "consent": {
+      "prompt": "Ta strona używa plików cookie do analizy ruchu. Klikając \"Akceptuj\" wyrażasz zgodę na ich użycie."
     },
     "footer": {
       "copyright": "Prawa zastrzeżone przez WalkScape.",
