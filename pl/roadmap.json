@@ -78,6 +78,38 @@
             "date": "Sierpień-Wrzesień 2024",
             "title": "Fala 3 i QoL",
             "content": "Kolejna wielka porcja ulepszeń w użytkowaniu gry (QoL), dodająca WalkPedię, podróżowanie i system akcji, sortowanie banku i plecaka, zakładki, a także wiele więcej cech ułatwiających rozgrywkę. Krótko po aktualizacji QoL i poprawkach, jakich może wymagać nastąpi trzecia fala zaproszeń."
+        },
+        "syrenthiaHotfix": {
+            "title": "Hotfix po aktualizacji Syrenthia"
+        },
+        "qol2": {
+            "date": "Listopad-Grudzień 2024"
+        },
+        "party": {
+            "date": "Grudzień 2024",
+            "title": "System Drużynowy"
+        },
+        "devTools": {
+            "title": "Narzędzia deweloperskie 2.0"
+        },
+        "gdteUpdate": {
+            "date": "Q1, 2025",
+            "title": "Aktualizacja GDTE"
+        },
+        "trading": {
+            "date": "Q1, 2025",
+            "title": "Handel Pomiędzy Graczami"
+        },
+        "combat": {
+            "date": "Q1, 2025",
+            "title": "System Walki"
+        },
+        "quests": {
+            "date": "Q2, 2025",
+            "title": "Zadania"
+        },
+        "smartWatch": {
+            "date": "Q2, 2025"
         }
     }
 }
