@@ -1,1 +1,12 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Se tens duvidas ou precisas de suporte, não hesites em contactar-nos via email para <0>contact@walkscape.app</0> ou pelas nossas redes sociais."
+    },
+    "meta": {
+      "description": "Saiba como contactar-nos",
+      "title": "WalkScape | Contacta-nos"
+    },
+    "title": "Contacta-nos"
+  }
+}
