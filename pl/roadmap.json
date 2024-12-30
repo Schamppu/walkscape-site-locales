@@ -1,7 +1,7 @@
 {
     "singulars": {
         "meta": {
-            "title": "WalkScape | Mapa Drogowa",
+            "title": "WalkScape | Roadmap",
             "description": "Zarys tego, w jaki sposób tworzony jest WalkScape, w przeszłości i przyszłości."
         },
         "floursifter": {
@@ -70,49 +70,69 @@
             "content": "Jako podziękowania dla wszystkich tych, którzy wspierają grę od końca drugiej fali zaproszeń, kolejne zostały rozesłane do wszystkich wspierających na Patreon lub BMAC przed 15 czerwca, 12:00:00 czasu UTC. Zaproszenia były wysyłane od 1 czerwca."
         },
         "syrenthia": {
-            "date": "Czerwiec-Lipiec 2024",
+            "date": "21 Wrzesień 2024",
             "title": "Aktualizacja Syrenthia",
-            "content": "Nasza największa aktualizacja do tej pory, dodająca osiągnięcia, system reputacji, przedmiotów zużywalnych oraz dodająca nowy region."
+            "content": "Nasza największa dotychczas aktualizacja, dodająca system reputacji, przedmioty zużywalne i zupełnie nowy region. Zespół wdraża aktualizację zdalnie z Kolonii w Niemczech, ponieważ bierze udział w Gamescom. Aktualizacja oznacza również początek fali 3."
         },
         "wave3": {
-            "date": "Sierpień-Wrzesień 2024",
-            "title": "Fala 3 i QoL",
-            "content": "Kolejna wielka porcja ulepszeń w użytkowaniu gry (QoL), dodająca WalkPedię, podróżowanie i system akcji, sortowanie banku i plecaka, zakładki, a także wiele więcej cech ułatwiających rozgrywkę. Krótko po aktualizacji QoL i poprawkach, jakich może wymagać nastąpi trzecia fala zaproszeń."
+            "date": "Sierpień-Październik 2024",
+            "title": "Fala 3 i PGC",
+            "content": "Przez następne sześć i pół tygodnia gra cieszy się ogromnym napływem nowych graczy, ponieważ wieści o fali 3 docierają do większej liczby osób niż kiedykolwiek wcześniej. Gra jest również prezentowana na różnych konwentach, zdobywając nagrodę indie audience choice na Pocket Gamer Connects Helsinki."
         },
         "syrenthiaHotfix": {
-            "title": "Hotfix po aktualizacji Syrenthia"
+            "title": "Hotfix po aktualizacji Syrenthia",
+            "date": "16 Październik 2024",
+            "content": "Wydana została łatka, która naprawia większość problemów technicznych, jakich doświadczyli gracze po aktualizacji Syrenthia"
         },
         "qol2": {
-            "date": "Listopad-Grudzień 2024"
+            "date": "Listopad-Grudzień 2024",
+            "title": "Druga duża aktualizacja QoL",
+            "content": "Planowana jest aktualizacja jakości życia, która zajmie się zarządzaniem zapasami, bankowością, kolejkowaniem aktywności, powiadomieniami i wieloma innymi niedociągnięciami w interfejsie użytkownika gry."
         },
         "party": {
             "date": "Grudzień 2024",
-            "title": "System Drużynowy"
+            "title": "System Drużynowy",
+            "content": "Pierwsza prawdziwa mechanika wieloosobowa, która pozwala graczom łączyć się w grupy, aby osiągnąć wspólne cele."
         },
         "devTools": {
-            "title": "Narzędzia deweloperskie 2.0"
+            "title": "Narzędzia deweloperskie 2.0",
+            "content": "Aby znacznie zwiększyć szybkość opracowywania nowej zawartości, narzędzia deweloperskie używane wewnętrznie przez zespół zostaną całkowicie zmienione.",
+            "date": "Przełom roku 2024-2025"
         },
         "gdteUpdate": {
             "date": "Q1, 2025",
-            "title": "Aktualizacja GDTE"
+            "title": "Aktualizacja GDTE",
+            "content": "Zanim przejdziemy do nowych kontynentów, Wielkie Księstwo Trellin-Erdwise zostanie rozbudowane, aby dorównać bogactwem zawartości Jarvonii i Syrenthii."
         },
         "trading": {
             "date": "Q1, 2025",
-            "title": "Handel Pomiędzy Graczami"
+            "title": "Handel Pomiędzy Graczami",
+            "content": "Jako kolejna funkcja dla wielu graczy, wprowadzony zostanie handel między graczami, prawdziwie wydobywając \"MMO\" z \"MMORPG\" WalkScape."
         },
         "combat": {
             "date": "Q1, 2025",
-            "title": "System Walki"
+            "title": "System Walki",
+            "content": "Pierwsza wersja systemu walki zostanie wydana. Zespół jest przygotowany na to, że funkcja może wymagać pewnych zmian po rozpoczęciu testów."
         },
         "quests": {
             "date": "Q2, 2025",
-            "title": "Zadania"
+            "title": "Zadania",
+            "content": "Ostatnią ważną funkcją będą zadania, które zapewnią graczom własnoręcznie tworzoną zawartość fabularną."
         },
         "smartWatch": {
-            "date": "Q2, 2025"
+            "date": "Q2, 2025",
+            "title": "Wsparcie dla inteligentnych urządzeń",
+            "content": "Obsługa smartwatchy i ewentualnie innych urządzeń do noszenia zostanie włączona, aby umożliwić zbieranie kroków bez konieczności ciągłego trzymania telefonu komórkowego w kieszeni."
         },
         "achievements": {
-            "date": "10 lipca 2024"
+            "date": "10 lipca 2024",
+            "title": "Aktualizacja osiągnięć została wydana",
+            "content": "Wkrótce po fali 2.5, znacząca aktualizacja zawartości dodała do gry osiągnięcia. "
+        },
+        "localization": {
+            "content": "Wydano aktualizację, która umożliwia graczom zmianę języka w grze. Języki obsługiwane w pierwszej fali to (oprócz Angielskiego) Polski, Niemiecki, Hiszpański, Włoski, Holenderski i oczywiście Fiński. Większość tłumaczeń jest dostarczana przez ciężko pracującą społeczność WalkScape.",
+            "date": "12 Październik 2024",
+            "title": "Fala 3 i PGC"
         }
     }
 }
