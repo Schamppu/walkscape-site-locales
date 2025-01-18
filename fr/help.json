@@ -1,1 +1,84 @@
-{}
+{
+    "singulars": {
+        "getGame": {
+            "oauth": {
+                "instructions-4": "Si tout se passe bien, vous devriez voir un écran de validation, dans ce cas votre compte est lié et votre status d'abonnement devrait être immédiatement visible sur la page Compte. Si quelque chose ne se passe pas comme prévu, il est possible que vous vouliez essayer de lier le compte avec votre e-mail et un code, tel que décrit ci-dessous.",
+                "instructions-2": "Cliquez sur le bouton <4>Se connecter avec Patreon</4> dans la section <2>Lier un compte Patreon</2>.",
+                "title": "Lier le compte via OAuth (Patreon uniquement, recommandé) :",
+                "instructions-1": "Rendez vous sur la page <1>Compte</1>.",
+                "instructions-3": "Le site devrait vous demander vos identifiants Patreon. Saisissez l'e-mail et le mot de passe du compte qui est abonné à WalkScape sur Patreon."
+            },
+            "free": {
+                "noteContent": "Une quantité limitée d'invitations sera envoyée à chaque vague de distribution, mais vous pouvez garantir votre accès en devenant supporter ! Lisez la suite si vous êtes déjà inscrit sur le portail et si vous <0>soutenez le jeu</0>.",
+                "title": "S'inscrire gratuitement :",
+                "note": "Note",
+                "instructions-1": "Créer un compte sur le <0>portail WalkScape</0>. Assurez-vous de vérifier votre adresse e-mail (les e-mails de vérification se trouvent parfois dans les spams).",
+                "instructions-2": "Naviguez vers la page <1>Compte</1> et sélectionnez <2>Postuler à l'accès bêta</2>.",
+                "instructions-3": "Attendez pour recevoir une invitation. Les invitations sont distribuées par vagues et vous pouvez vérifier quand la prochaine vague aura lieu sur la page <3>Accueil</3>. Les invités recevront un e-mail contenant les instructions décrivant comment installer du jeu."
+            },
+            "title": "Comment accéder au jeu",
+            "email": {
+                "title": "Lier le compte avec un e-mail et un code (Patreon/BMAC) :",
+                "instructions-3": "Vous devriez recevoir un e-mail contenant un code de vérification à l'adresse que vous aurez indiquée. Saisissez le code reçu dans le champ correspondant sur la page compte et cliquez sur <4>LIER LE COMPTE</4>.",
+                "instructions-2": "Saisissez l'e-mail utilisé pour votre compte Patreon/BMAC dans le champ de saisie correspondant et cliquez sur <4>OBTENIR UN CODE</4>.",
+                "instructions-4": "Cela devrait fonctionner et votre status d'abonnement devrait être visible sur la page compte. Veuillez noter que dans certains cas il est possible que le système mette quelques heures à se synchroniser complètement."
+            },
+            "instructions-finish": "Cependant, si cela fait plus de 4 heures ou si vous avez rencontré d'autres problèmes durant la procédure, essayer de consulter la section FAQ ci-dessous ou <0>Contactez-nous</0>."
+        },
+        "meta": {
+            "title": "WalkScape | Aide",
+            "description": "Trouvez les réponses aux problèmes les plus fréquents"
+        },
+        "title": "Aide",
+        "faq": {
+            "monetization": {
+                "answer-section-3": "Cela étant dit, cela reste susceptible de changer, comme tout le reste pour un jeu qui n'est pas encore prêt. Vous pouvez vous attendre à ce que nous ayons des informations plus concrètes sur les prix après la bêta fermée, car nous disposerons alors de plus de données sur les coûts des serveurs et d'autres dépenses liées au jeu. Nous souhaitons que la monétisation soit aussi abordable que possible tout en nous permettant de gérer une entreprise durable.",
+                "question": "Comment sera-t-il monétisé ? Combien coûtera le jeu ?",
+                "answer-section-2": "D'après nos plans actuels, nous proposerons un abonnement abordable auquel vous pourrez souscrire, tout en ayant la possibilité de jouer gratuitement au jeu. L'abonnement vous donnera accès à l'intégralité du monde du jeu, tandis que les joueurs F2P (mode gratuit) seront limités à certaines zones du jeu. L'abonnement ne donnera aucun avantage déloyal, comme des bonus pour augmenter le gain d'expérience, plus de pièces d'or ou des choses de ce genre. Il permet simplement d'accéder à tout le contenu du jeu. Si vous n'êtes pas intéressé par les fonctionnalités en ligne du jeu ou par la souscription à l'abonnement, il y aura également un mode de jeu hors ligne. Pour jouer au mode hors-ligne du jeu, il suffira de payer une seule fois.",
+                "answer-section-1": "Nous ne sont pas encore sûr à 100% de la monétisation, donc les éléments mentionnés ici sont susceptibles de changer, comme il est habituel pour un jeu encore en développement. Nous cherchons des moyens de monétiser le jeu de manière aussi équitable que possible tout en le rendant abordable. Nous sommes contre les pratiques de monétisation prédatrices et ne souhaitons pas inclure au jeu d'éléments comme les microtransactions pour cette raison. Personnellement, nous trouvons parfois ces pratiques moralement discutables, car elles encouragent des habitudes de dépense malsaines et de nombreux joueurs finissent par dépenser plus que ce qu'ils avaient prévu."
+            },
+            "title": "FAQ",
+            "exerciseSupport": {
+                "answer-section-2": "A l'avenir, quand nous aurons ajouté au jeu le support des montres intelligentes, nous avons prévu d'ajouter d'autres types d'exercices. Vous serez récompensé en jeu selon la durée de l'exercice, votre moyenne de BPM et les calories brûlées.",
+                "question": "Est-ce que le jeu prendra en compte d'autres types d'exercices que la marche ?",
+                "answer-section-1": "Le jeu a pour nom WalkScape et cela a une raison : le jeu vous permettra de compléter tout le contenu simplement en marchant. Vous pouvez gagner des niveaux et faire toutes les activités en marchant. Marcher est un type d'activité que la plupart des gens font passivement, donc même si vous ne marchez qu'en allant à un magasin ou en vous déplaçant sur votre lieu de travail, vous continuez à progresser."
+            },
+            "releaseDate": {
+                "question": "Quand le jeu sera-t-il disponible ?",
+                "button": "Découvrir la roadmap",
+                "answer": "Le jeu est actuellement en bêta fermée. Avant le lancement il y aura certainement une bêta ouverte, mais leur planification est encore indéterminée. Nous souhaitons nous adapter aux nombres de joueurs de façon sûre et prévisible, de sorte à assurer aux joueurs qu'ils obtiennent ce pour quoi ils paient."
+            },
+            "helpOffers": {
+                "question": "Puis-je aider aux tests ou quoi que ce soit ?",
+                "answer-section-1": "Nous recevons beaucoup de propositions d'aide concernant le jeu ! J'espère que vous resterez dans les parages, puisque nous publierons ici si un besoin particulier venait à se présenter. Vous pouvez m'envoyer directement vos propositions ou nous contacter par e-mail : contact@walkscape.app",
+                "answer-section-2": "Si vous vous sentez généreux, le plus utile pour le moment est de nous aider à financer la croissance du projet en nous soutenant sur :"
+            },
+            "ideaSuggestions": {
+                "question": "J'ai une idée géniale, pourriez-vous l'inclure au jeu ?",
+                "answer": "S'il-vous-plaît, publiez vos suggestions sur notre Discord dans le canal #suggestions-questions. Nous sommes toujours ouverts aux nouvelles idées et adorons les découvrir. Nous ne pouvons pas ajouter chaque suggestion qui est publiée et parfois nous avons seulement besoin de donner la priorité à autre chose, mais notre but reste de créer un produit complet dont nous pouvons tous profiter."
+            },
+            "platformSupport": {
+                "question": "Est-ce-que je jeu sera disponible pour Android et iOS ?",
+                "answer": "Oui ! Le jeu est développé avec Flutter, qui est un très bon support multiplateforme. Cela signifie que le portage du jeu sur les deux systèmes d'exploitation n'est pas un problème et ne requiert pas une grande quantité de travail."
+            },
+            "gameModes": {
+                "question": "Quels modes de jeu y aura-t-il ? Puis-je jouer au jeu sans connexion ?",
+                "answer-section-1": "Oui ! Les modes de jeu suivants sont actuellement prévus : ",
+                "answer-section-5": "Mode hardcore (pas confirmé, une simple idée). Similaire au mode Ironman, mais la difficulté des combats est accrue. Vous pouvez vous faire attaquer de manière aléatoire durant vos activités. Mourir dans ce mode vous fera perdre votre inventaire et vous perdrez le statut \"invaincu\".",
+                "answer-section-2": "En ligne compétitif (mode par défaut). Un mode de jeu plus strict avec des mesures anti-triche en jeu etc. Ne peut pas être personnalisé et requiert une connexion internet régulière.",
+                "answer-section-4": "Mode Ironman. Vous jouez sans fonctionnalité en ligne sauf les classements. En résumé, vous ne pouvez compter que sur vous pour obtenir des matériaux et autres ressources du jeu puisque vous ne pourrez pas échanger avec les autres joueurs.",
+                "answer-section-3": "Mode détente. Vous pouvez personnaliser la difficulté du jeu (par exemple : combien de pas sont requis pour chaque action, la difficulté des combats etc.) et plusieurs façons de progresser dans le jeu seront introduites. Peut être jouer sans aucune connexion internet."
+            },
+            "developmentSupport": {
+                "question": "Comment puis-je soutenir le développement ?",
+                "answer-section-2": "Si vous voulez grandement soutenir le jeu, parlez-en. Obtenir plus de visibilité nous aide à être mis en avant par les médias, ce qui représente beaucoup d'opportunités pour la croissance du projet.",
+                "answer-section-3": "Si vous appréciez très sérieusement le jeu, aimeriez le soutenir et êtes en position de le faire, vous pouvez nous soutenir sur Patreon ou Buy Me a Coffee. Toute donation nous aide à passer plus de temps à travailler sur WalkScape, tout en nous permettant de couvrir les coûts de fonctionnement du système.",
+                "answer-section-1": "Vous pouvez soutenir le jeu en participant aux discussions sur notre Discord, subreddit ou forums du portail. Aussi, voter lors des sondages, nous faire part de vos retours et partager vos suggestions nous aide vraiment !"
+            },
+            "smartwatchSupport": {
+                "question": "Les montres et bracelets intelligents seront-ils pris en charge ?",
+                "answer": "Oui ! Les montres intelligentes seront supportées. Nous commencerons par les intégrations avec Apple Health et Google Fit puis nous ajouterons Strava, et nous pourrions éventuellement étendre notre démarche à d'autres constructeurs. Mais si votre bracelet ou montre peut se synchroniser avec Strava/Fit/Health, il est très probable que vous puissiez vous en servir avec le jeu."
+            }
+        }
+    }
+}
