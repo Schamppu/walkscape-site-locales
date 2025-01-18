@@ -1,1 +1,138 @@
-{}
+{
+    "singulars": {
+        "devStart": {
+            "content": "Le développement de WalkScape commence comme un projet personnel, sur lequel Schamppu travaille pendant son temps libre.",
+            "date": "17 Août 2022",
+            "title": "Le Développement du Jeu Commence"
+        },
+        "myzozoz": {
+            "content": "Afin d'accélérer le développement, la recherche d'un deuxième programmeur développeur a commencé. Le 15 avril, Myzozoz fait ses débuts en tant que premier employé de Not A Cult.",
+            "date": "15 Avril 2024",
+            "title": "Myzozoz Rejoint l'Équipe"
+        },
+        "devTools": {
+            "content": "Afin d'accroître significativement la vitesse à laquelle le contenu peut-être développé, les outils de développement utilisés en interne par l'équipe feront l'objet d'une refonte complète.",
+            "date": "Transition d'Année 2024-2025",
+            "title": "Outils de Développement 2.0"
+        },
+        "wave2patch": {
+            "date": "13 Mars 2024",
+            "title": "Patch d'Après la Vague 2",
+            "content": "Une mise à jour est déployée pour corriger les problèmes rencontrés par les joueurs ayant participé à la vague 2."
+        },
+        "combat": {
+            "content": "La première version du système de combat va être déployée. L'équipe s'est préparée à ce que la mécanique demande plusieurs itération d'ajustements une fois les tests commencés.",
+            "date": "1er Trimestre 2025",
+            "title": "Système de Combat"
+        },
+        "wave1": {
+            "title": "Vague 1 d'Invitations des Supporters",
+            "content": "Pour garantir leur accès à la première Bêta fermée du jeu, les joueurs peuvent soutenir WalkScape sur Patreon et Buy Me a Coffee.",
+            "date": "1er Novembre 2023"
+        },
+        "wave3": {
+            "content": "Durant les prochaines 6 semaines et demi le jeu voit arriver un flux massif de nouveaux joueurs, les nouvelles de la vague 3 atteignant encore plus de personnes qu'auparavant. Le jeu est aussi présenté dans diverses conventions, remportant le indie audience choice award à la Pocket Gamer Connects de Helsinki.",
+            "date": "Août-Octobre 2024",
+            "title": "Vague 3 et Pocket Gamer Connects"
+        },
+        "meta": {
+            "description": "Un résumé de l'arc de développement de WalkScape, passé et futur.",
+            "title": "WalkScape | Roadmap"
+        },
+        "maxchill": {
+            "date": "4 Décembre 2022",
+            "title": "Maxchill Rejoint l'Équipe",
+            "content": "Le projet commence à gagner en popularité sur le net, particulièrement sur Reddit, et le besoin de recruter un artiste s'accentue. Maxchill rejoint l'équipe de développement."
+        },
+        "originalBeta": {
+            "date": "Été 2023",
+            "title": "Lancement de la Première Bêta Fermée",
+            "content": "La première version de la bêta fermée de WalkScape est prévue pour l'Été 2023. La planification s'avère être irréalisable, et le lancement doit être reporté à la fin de l'année."
+        },
+        "floursifter": {
+            "date": "12 Octobre 2023",
+            "title": "Floursifter Rejoint l'Équipe",
+            "content": "Floursifter, un membre de la communauté WalkScape qui a consacré beaucoup de son temps libre à créer du contenu, des formules en jeu et à tester la version de développement iOS, rejoint l'équipe de manière non officielle."
+        },
+        "launch": {
+            "date": "18 Janvier 2024",
+            "title": "Lancement de la Bêta Fermée",
+            "content": "Lancement de la première Bêta fermée de WalkScape."
+        },
+        "qol": {
+            "date": "16 Février 2024",
+            "title": "Mise à Jour Massive du Confort de Jeu",
+            "content": "Une mise à jour massive du confort de jeu est déployée. L'interface utilisateur est entièrement retravaillée ainsi la navigation et la jouabilité sont grandement facilités."
+        },
+        "contentUpdate": {
+            "date": "28 Février 2024",
+            "title": "Mise à jour Majeure du Contenu",
+            "content": "La quantité de contenu en jeu est presque doublée par l'ajout de collectionnables, de nouveaux objets, deux fois plus d'activités, et plus encore à préparer pour le lancement de la Vague 2."
+        },
+        "wave2": {
+            "date": "1er Mars 2024",
+            "title": "Vague 2 d'Invitations",
+            "content": "La seconde vague d'invitations à la bêta fermée se termine le 31 Mars 2024. Les supporters Patreon et Buy Me a Coffee ainsi qu'une quantité massive de joueurs qui avaient envoyé leurs candidatures pour la bêta ont pu obtenir un accès avant la date limite du 31 Mars."
+        },
+        "pedometer": {
+            "date": "26 Avril 2024",
+            "title": "Mise à jour du Podomètre",
+            "content": "Jusqu'à maintenant, la fonctionnalité centrale de WalkScape, qui compte les pas, avait besoin d'une mise à jour. La mise à jour est déployée afin de corriger beaucoup de problèmes rencontrés avec le podomètre. Les progrès sur la correction du podomètre s'étendent jusqu'en Mai 2024."
+        },
+        "wave2point5": {
+            "date": "1er Juin 2024",
+            "title": "Vague 2.5 d'Invitations",
+            "content": "Afin de remercier tous les joueurs qui ont soutenu le jeu depuis la fin de la vague 2, des invitations sont envoyée à tous ceux qui ont soutenu sur Patreon ou Buy Me a Coffee avant le 15 Juin 12:00:00 UTC. Elles commenceront à être envoyées à partir du 1er Juin."
+        },
+        "achievements": {
+            "date": "10 Juillet 2024",
+            "title": "Déploiement de la Mise à Jour des Haut-Faits",
+            "content": "Peu de temps après la vague 2.5, une mise à jour de contenu significative vient ajouter le système de haut-faits au jeu. "
+        },
+        "syrenthia": {
+            "date": "21 Août 2024",
+            "title": "Mise à Jour Syrenthia",
+            "content": "Notre plus grande mise à jour jusqu'alors, ajoutant la réputation de royaume, des consommables, une toute nouvelle région dans son intégralité, des objets lâchés. L'équipe déploie la mise à jour à distance depuis Cologne, en Allemagne, pendant qu'ils sont à la Gamescom. La mise à jour marque aussi le début de la vague 3."
+        },
+        "localization": {
+            "date": "12 Octobre 2024",
+            "title": "Mise à jour de Localisation",
+            "content": "Une mise à jour est déployée, permettant aux joueurs de changer la langue du jeu. Les langues supportées lors de la première vague sont (en plus de l'Anglais) l'Allemand, l'Espagnol, l'Italien, le Danois, le Polonais et bien-sûr, le Finlandais. La plupart des traductions sont fournies par le dur labeur de la communauté WalkScape."
+        },
+        "syrenthiaHotfix": {
+            "date": "16 Octobre 2024",
+            "title": "Hotfix après la Mise à Jour Syrenthia",
+            "content": "Un Patch est déployé, corrigeant la plupart des problèmes techniques rencontrés par les joueurs après la mise à jour Syrenthia"
+        },
+        "qol2": {
+            "date": "Novembre-Décembre 2024",
+            "title": "Seconde Mise à Jour Massive du Confort de Jeu",
+            "content": "Une mise à jour du confort de jeu est prévue, visant la gestion d'inventaire, la banque, la file d'activités en attente, les notifications et bien d'autres problèmes dans l'interface utilisateur du jeu."
+        },
+        "party": {
+            "date": "Décembre 2024",
+            "title": "Mise à Jour Système de Groupe",
+            "content": "La première vraie mécanique multijoueur, permettant aux joueurs de former des groupes pour atteindre des objectifs communs."
+        },
+        "gdteUpdate": {
+            "date": "1er Trimestre 2025",
+            "title": "Mise à Jour Grand-Duché de Trellin-Erdwise",
+            "content": "Avant de travailler sur de nouveaux continents, le Grand-Duché de Trellin-Erdwise sera développé pour correspondre à la richesse de contenu de Jarvonia et Syrenthia."
+        },
+        "trading": {
+            "date": "1er Trimestre 2025",
+            "title": "Échanges Entre Joueurs",
+            "content": "En tant que prochaine fonctionnalité multijoueur massive, l'échange entre les joueurs sera introduit, apportant réellement l'aspect \"MMO\" dans la vision \"MMORPG\" de WalkScape."
+        },
+        "quests": {
+            "date": "2ème Trimestre 2025",
+            "title": "Quêtes",
+            "content": "La dernière fonctionnalité majeure, les quêtes seront introduites pour fournir aux joueurs un contenu narratif élaboré sur mesure à découvrir en jeu."
+        },
+        "smartWatch": {
+            "date": "2ème Trimestre 2025",
+            "title": "Prise en Charge des Appareils Intelligents",
+            "content": "La prise en charge des montres intelligentes et éventuellement d'autres appareils sera mise en place pour permettre d'enregistrer les pas sans avoir à garder son smartphone dans la poche en permanence."
+        }
+    }
+}
