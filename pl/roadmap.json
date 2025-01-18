@@ -76,7 +76,7 @@
         },
         "wave3": {
             "date": "Sierpień-Październik 2024",
-            "title": "Fala 3 i PGC",
+            "title": "Fala 3 i Pocket Gamer Connects",
             "content": "Przez następne sześć i pół tygodnia gra cieszy się ogromnym napływem nowych graczy, ponieważ wieści o fali 3 docierają do większej liczby osób niż kiedykolwiek wcześniej. Gra jest również prezentowana na różnych konwentach, zdobywając nagrodę indie audience choice na Pocket Gamer Connects Helsinki."
         },
         "syrenthiaHotfix": {
@@ -132,7 +132,7 @@
         "localization": {
             "content": "Wydano aktualizację, która umożliwia graczom zmianę języka w grze. Języki obsługiwane w pierwszej fali to (oprócz Angielskiego) Polski, Niemiecki, Hiszpański, Włoski, Holenderski i oczywiście Fiński. Większość tłumaczeń jest dostarczana przez ciężko pracującą społeczność WalkScape.",
             "date": "12 Październik 2024",
-            "title": "Fala 3 i PGC"
+            "title": "Aktualizacja lokalizacji"
         }
     }
 }
