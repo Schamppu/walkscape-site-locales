@@ -1,1 +1,41 @@
-{}
+{
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Lorsque l'abonnement est actif :",
+        "color": "<0>Icône exclusive et couleur de profil</0> aussi bien en jeu que sur le portail WalkScape. Vos icône et couleur de profil correspondront au tier de votre abonnement actif. Vous recevrez le même avantage sur Discord.",
+        "discord": "Accès au<0>canal Discord exclusif</0> avec des aperçus bonus en avant-première et des conversations avec les devs.",
+        "discordRole": "Vous obtiendrez un <0>rôle Discord exclusif</0>.",
+        "first": "Après le premier paiement :",
+        "gameTitle": "Un <0>titre en jeu</0> pour montrer que vous nous avez soutenu durant la Bêta fermée.",
+        "invite": "<0>Invitation à la bêta fermée</0>. Les invitations sont distribuées par vagues. Si vous nous avez soutenu entre deux vagues, vous recevrez votre accès au début de la prochaine vague. Si une vague est en cours, vous pouvez immédiatement accéder au jeu.",
+        "title": "Tous les abonnements"
+      },
+      "follower": {
+        "character": "En rejoignant ce tier, vous avez l'opportunité de créer une option de personnalisation de <0>personnage en jeu</0> avec l'équipe de développement.",
+        "patreon": "Disponible uniquement sur Patreon",
+        "role": "Obtenez le rôle <0>Cult Follower</0> sur le serveur Discord WalkScape.",
+        "title": "Cult Follower"
+      },
+      "leader": {
+        "item": "En rejoignant ce tier, vous avez l'opportunité de créer un <0>objet en jeu</0> avec l'équipe de développement. L'objet aura votre nom dans sa description.",
+        "role": "Obtenez le rôle <0>Cult Leader</0> sur le serveur Discord WalkScape.",
+        "title": "Cult Leader"
+      },
+      "title": "Avantages de supporter",
+      "walker": {
+        "role": "Obtenez le rôle <0>Supporter</0> sur le serveur Discord WalkScape.",
+        "title": "Tous les Walkers"
+      }
+    },
+    "body": {
+      "section-1": "Vous pouvez soutenir le développement de WalkScaoe via Patreon ou Buy Me a Coffee. Les supporters du jeu obtiennent des avantages exclusifs qui sont listés sur Patreon et Buy Me a Coffee.",
+      "section-2": "WalkScape est entièrement financée par la communauté, et tout soutien est grandement apprécié. ❤️"
+    },
+    "meta": {
+      "description": "Abonnez-vous sur notre Patreon ou Buy Me a Coffee pour soutenir le développement de WalkScape",
+      "title": "WalkScape | Nous Soutenir"
+    },
+    "title": "Nous soutenir"
+  }
+}
