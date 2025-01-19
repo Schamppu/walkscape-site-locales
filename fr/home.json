@@ -1,1 +1,104 @@
-{}
+{
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "-",
+        "many": "-",
+        "one": "La prochaine vague de bête fermée commencera dans <br/> <2>{{count}} semaine !</2>",
+        "other": "La prochaine vague de bête fermée commencera dans <br/> <2>{{count}} semaines !</2>",
+        "two": "-",
+        "zero": "-"
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "-",
+        "many": "-",
+        "one": "action complétée",
+        "other": "actions complétées au total",
+        "two": "-",
+        "zero": "-"
+      },
+      "ship": {
+        "few": "-",
+        "many": "-",
+        "one": "navire réparé",
+        "other": "navires réparés",
+        "two": "-",
+        "zero": "-"
+      },
+      "shrimps": {
+        "few": "-",
+        "many": "-",
+        "one": "crevette attrapée",
+        "other": "crevettes attrapées",
+        "two": "-",
+        "zero": "-"
+      },
+      "steps": {
+        "few": "-",
+        "many": "-",
+        "one": "pas effectué",
+        "other": "pas effectués au total",
+        "two": "-",
+        "zero": "-"
+      },
+      "wine": {
+        "few": "-",
+        "many": "-",
+        "one": "bouteille de vin trouvée dans les coffres",
+        "other": "bouteilles de vin trouvées dans les coffres",
+        "two": "-",
+        "zero": "-"
+      }
+    }
+  },
+  "singulars": {
+    "callToAction": {
+      "registerNow": "<0>Inscrivez-vous maintenant</0> pour postuler à la bêta ou <1>soutenez-nous</1> pour garantir votre accès !",
+      "waveActive": "Les invitations à la bêta sont en cours d'envoi !",
+      "waveUndefined": "La prochaine vague de la bêta fermée arrive bientôt ! Abonnez-vous à notre <0>newsletter</0> et suivez nos <1>réseaux sociaux</1> pour rester informé !"
+    },
+    "features": {
+      "communityFeatures": "Fonctionnalités communautaires, marché mondial et classements en ligne.",
+      "levelUpSkills": "Améliorer vos compétences en marchant dans la vraie vie",
+      "numberOfSkills": "Plus de 15 compétences différentes à améliorer et maîtriser",
+      "quests": "Quêtes, rencontres aléatoires et un scénario principal s'étendant sur plusieurs continents.",
+      "title": "Fonctionnalités"
+    },
+    "gameSection": {
+      "section-1": "WalkScape est un jeu inspiré de certains MMORPGs old-school. Mais ce jeu a un atout majeur : vous ne jouez pas activement, mais vous progressez en marchant.",
+      "section-2": "Attendez-vous à une aventure amusante et excitante à travers le Monde d'Arenum tout en ayant la motivation de marcher !",
+      "title": "C'est quoi WalkScape ?"
+    },
+    "howToPlay": {
+      "ensure": "Pour garantir votre accès au jeu dès que possible",
+      "instructions": "Pour des instructions étape par étape sur la façon d'obtenir l'accès, rendez-vous <0>ici</0> !",
+      "nextWave": "La prochaine vague d'invitations à la bêta est",
+      "subscribe": "Abonnez-vous à notre <0>newsletter</0> et suivez nos <1>réseaux sociaux</1> pour rester informé !",
+      "tbd": "À déterminer",
+      "title": "Comment obtenir un accès ?",
+      "waveDate": "{{start}} - {{end}}",
+      "waveExplain": "WalkScape est actuellement en <0>Bêta Fermée</0>. Cela signifie que les joueurs auront accès au jeu par vagues ce qui nous donnera le temps entre chaque vague de développer rapidement le jeu avec une concentration totale, et d'adapter notre infrastructure serveur de manière financièrement durable."
+    },
+    "meta": {
+      "description": "Walkscape : Progressez en marchant !",
+      "title": "WalkScape : Le Jeu de Rôle de Marche Fitness"
+    },
+    "news": {
+      "more": "Voir plus",
+      "readFull": "Lire l'Article Complet",
+      "title": "Actualités"
+    },
+    "screenshotsSection": {
+      "description": "Captures d'écran du jeu présentant quelques mécaniques. Découvrez en plus sur notre Subreddit !",
+      "title": "Captures d'écran"
+    },
+    "social": {
+      "follow": "Suivez-nous sur nos réseaux sociaux"
+    },
+    "statistics": {
+      "title": "Statistiques"
+    }
+  }
+}
