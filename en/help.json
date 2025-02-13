@@ -32,6 +32,61 @@
     },
     "faq": {
       "title": "FAQ",
+      "lastUpdated": "Last updated",
+      "whatIs": {
+        "question": "What is WalkScape?",
+        "answer": "WalkScape is an RPG game inspired by RuneScape and other MMORPGs. However, it has one glaring difference: you don't play it actively. Instead, you gain progress by walking in real life. The game has a massive open-world map with over a hundred locations for the player to explore. The world is filled with lore, NPCs, quests, and activities for the player to engage in, and more! Our goal with the game is to encourage an active lifestyle and promote both mental and physical health."
+      },
+      "howCanIGet": {
+        "question": "How can I get the game?",
+        "answer": "WalkScape is in closed beta status, which means you need to be invited to play. We invite players in waves as we need new testing. At the beginning of and during an invite wave, you are guaranteed an invite to the game if you have supported the project on Patreon or Buy Me a Coffee. During some waves, we also accept general applications, which are free to fill out. Find all details at: <0>https://walkscape.app/help</0>"
+      },
+      "closedBetaEnd": {
+        "question": "When will the game leave closed beta status?",
+        "answer": "WalkScape plans to leave closed beta once we have the following missing features:",
+        "req-1": "Smartwatch support",
+        "req-2": "Trading",
+        "req-3": "Quests",
+        "req-4": "Combat"
+      },
+      "designGoals": {
+        "question": "What are WalkScape’s design goals?",
+        "answer-section-1": "<0>No GPS.</0> Instead, the game utilizes the pedometer built into your smartphone, which enables you to play it on a treadmill or by walking anywhere you choose. Furthermore, the game will track your progress even when it is not open or active.",
+        "answer-section-2": "<0>Distraction-free gameplay.</0> You do not need to have the game opened while exercising. Our game design is geared towards this, meaning you'll only need to open the game when you return home. We balance the game around needing to be opened once every one-thousand to ten-thousand steps, depending on your goals in-game.",
+        "answer-section-3": "<0>Online features.</0> Although not many are in the game today, we plan to offer a plethora of multiplayer features, including a marketplace to sell your items to other players, PvP and PvE combat, a party system, guilds, and more!",
+        "answer-section-4": "<0>Loads of content.</0> The game already boasts hundreds of unique items, dozens of unique locations, nine skills to grind, and plenty of fun activities for players.",
+        "answer-section-5": "<0>No microtransactions or advertisements.</0> We value our players and our community, and are committed to avoiding predatory monetization practices. As such, the game will be offered free-to-play, with options to purchase it one time or pay an affordable subscription fee."
+      },
+      "platforms": {
+        "question": "What platforms is the game available on?",
+        "answer": "The game is available through Google Play Store (Android) and Testflight (iOS)."
+      },
+      "treadmill": {
+        "question": "Can I play the game on a treadmill?",
+        "answer": "Yes. You can play the game stepping in place, walking around your house, on a treadmill, while shopping for groceries. Play where you feel safe."
+      },
+      "smartwatch": {
+        "question": "Are smartwatches supported?",
+        "answer": "Smartwatches are not currently supported in-game. You will need your phone on your person to count the steps you are taking. Support is planned to release before the game is released to open beta."
+      },
+      "futureMonetization": {
+        "question": "What is the future monetization strategy of the game?",
+        "answer-section-1": "<0>Offline mode</0> - One time purchase. You’ll be able to pay once to download the offline mode of the game. You’ll receive future content updates, not have a requirement to be online to open the game, and have a slider that multiplies your steps to reach the game experience that you wish. No multiplayer features.",
+        "answer-section-2": "<0>Online mode</0> - affordable monthly subscription. You’ll need to be online to play the game, but you’ll receive future content updates and all multiplayer features that the game has to offer.",
+        "answer-section-3": "<0>Free to play area</0> - both forms of the game will have a free to play area that can be enjoyed for free."
+      },
+      "ideas": {
+        "question": "I have a cool idea for the game!",
+        "answer": "We’d love to hear it, and the best place to share these is on the <0>⁠suggestions-and-feedback</0> channel on Discord."
+      },
+      "hiring": {
+        "question": "Is Not a Cult hiring or looking for help?",
+        "answer": "Not a Cult is not usually hiring, but we always looking for help. Contact our @floursifter through <0>our Discord</0> to submit a resume or offer to help with a specific facet of the game."
+      },
+      "support": {
+        "question": "I need support or need to contact the team.",
+        "answer": "The best place to contact the team is to email <0>contact@walkscape.app</0>. Please give us up to a week after emailing the contact email if we are not in an active invite wave, we are a small team trying to focus on development. Alternatively, contact @floursifter or @maxchill on <1>our Discord</1>. Feel free to ask in the discord if we can help with your issue or if you should contact the email."
+      },
       "exerciseSupport": {
         "question": "Will the game support more exercise types than just walking?",
         "answer-section-1": "The game is called WalkScape and its for a reason: the game will allow you to complete all content by just walking. You can level up all skills and do all activities by walking. Walking is an activity type that most people are doing even passively, so even if you are just walking to a store or walking around at your job, you are always making progress.",
