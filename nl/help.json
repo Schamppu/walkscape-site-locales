@@ -52,6 +52,61 @@
             "smartwatchSupport": {
                 "answer": "Ja! Smartwatches zullen worden ondersteund. We zullen eerst integraties maken met Apple Health en Google Fit en daarna ondersteuning voor Strava toevoegen, en mogelijk ook nog andere fabrikanten. Maar als je horloge of band kan synchroniseren met Strava/Fit/Health is de kans groot dat je het kan gebruiken met het spel.",
                 "question": "Zullen smartwatches en -banden worden ondersteund?"
+            },
+            "lastUpdated": "Laatst bijgewerkt",
+            "hiring": {
+                "answer": "Not a Cult neemt normaal gesproken geen mensen aan, maar we zijn altijd op zoek naar hulp. Neem contact op met @floursifter via <0>onze Discord</0> om een cv in te sturen, of aan te bieden om te helpen met een specifiek onderdeel van het spel.",
+                "question": "Neemt Not a Cult personeel aan of zijn jullie op zoek naar hulp?"
+            },
+            "designGoals": {
+                "answer-section-2": "<0>Gameplay zonder afleidingen.</0> Je hoeft het spel niet te openen tijdens het sporten. Ons spelontwerp is hierop gericht, wat betekent dat je het spel alleen hoeft te openen als je weer thuis bent. We hebben het spel zo ontworpen dat je het elke duizend tot tienduizend stappen moet openen, afhankelijk van je doelen in het spel.",
+                "answer-section-5": "<0>Geen microtransacties of advertenties.</0> We waarderen onze spelers en community en zijn vastbesloten om roofzuchtige verdienmodellen te vermijden. Het spel wordt daarom free-to-play aangeboden, met opties om het eenmalig te kopen of een betaalbaar abonnement te nemen.",
+                "answer-section-1": "<0>Geen GPS.</0> In plaats daarvan maakt het spel gebruik van de stappenteller die is ingebouwd in je smartphone, waardoor je het kunt spelen op een loopband of door te lopen waar je maar wilt. Bovendien houdt het spel je voortgang bij, zelfs als het niet open of actief is.",
+                "question": "Wat zijn de ontwerpdoelen van WalkScape?",
+                "answer-section-3": "<0>Online functies.</0> Hoewel er op dit moment nog niet veel functies in het spel zitten, zijn we van plan een overvloed aan multiplayer-functies aan te bieden, waaronder een marktplaats om je items aan andere spelers te verkopen, PvP- en PvE-gevechten, een partysysteem, gildes en meer!",
+                "answer-section-4": "<0>Veel content.</0> De game heeft al honderden unieke voorwerpen, tientallen unieke locaties, negen vaardigheden om te grinden en veel leuke activiteiten voor spelers."
+            },
+            "whatIs": {
+                "answer": "WalkScape is een RPG-spel dat is geïnspireerd op RuneScape en andere MMORPG's. Het heeft echter één opvallend verschil: je speelt het niet actief. In plaats daarvan boek je vooruitgang door echte stappen te maken. Het spel heeft een enorme open wereldkaart met meer dan honderd locaties die de speler kan verkennen. De wereld is gevuld met lore, NPC's, missies en activiteiten voor de speler om zich mee bezig te houden, en nog veel meer! Ons doel met het spel is om een actieve levensstijl aan te moedigen en zowel de geestelijke als lichamelijke gezondheid te bevorderen.",
+                "question": "Wat is WalkScape?"
+            },
+            "howCanIGet": {
+                "answer": "WalkScape is in gesloten bèta, wat betekent dat je moet worden uitgenodigd om te spelen. We nodigen spelers uit in (uitnodigings)rondes wanneer we nieuwe testers nodig hebben. Aan het begin van (en tijdens) een uitnodigingsronde krijg je gegarandeerd een uitnodiging als je het project hebt gesteund via Patreon of Buy Me a Coffee. Tijdens sommige (uitnodigings)rondes accepteren we ook algemene aanmeldingen, die je zonder kosten kunt opgeven. Alle details vind je op: <0>https://walkscape.app/help</0>",
+                "question": "Hoe kan ik het spel krijgen?"
+            },
+            "closedBetaEnd": {
+                "question": "Wanneer verlaat het spel de status van gesloten bèta?",
+                "answer": "WalkScape is van plan de gesloten bèta te verlaten zodra we de volgende ontbrekende functies hebben:",
+                "req-1": "Smartwatch-ondersteuning",
+                "req-2": "Handel",
+                "req-3": "Quests",
+                "req-4": "Gevechten"
+            },
+            "futureMonetization": {
+                "answer-section-1": "<0>Offlinemodus</0> - eenmalige aankoop. Je kunt eenmalig betalen om de offline modus van het spel te downloaden. Je ontvangt toekomstige contentupdates, hoeft niet online te zijn om het spel te openen en hebt een optie om stappen te vermenigvuldigen om de spelervaring te bereiken die je wilt. Geen multiplayerfuncties.",
+                "question": "Wat is het toekomstige verdienmodel van het spel?",
+                "answer-section-2": "<0>Onlinemodus</0> - betaalbaar maandabonnement. Je moet online zijn om de game te spelen, maar je ontvangt toekomstige contentupdates en alle multiplayerfuncties die de game te bieden heeft.",
+                "answer-section-3": "<0>Free-to-play speelgebied</0> - beide vormen van het spel hebben een free-to-play speelgebied die je zonder kosten kunt spelen."
+            },
+            "support": {
+                "answer": "Je kunt het beste contact opnemen met het team door een e-mail te sturen naar <0>contact@walkscape.app</0>. Geef ons tot een week na het e-mailen als we niet in een actieve uitnodigingsronde zitten; we zijn een klein team dat zich probeert te concentreren op ontwikkeling. Je kunt ook contact opnemen met @floursifter of @maxchill op <1>onze Discord</1>. Voel je vrij om in de Discord server te vragen of we je kunnen helpen met je probleem of dat je contact moet opnemen via e-mail.",
+                "question": "Ik heb ondersteuning nodig of wil contact opnemen met het team."
+            },
+            "platforms": {
+                "question": "Op welke platforms is het spel beschikbaar?",
+                "answer": "Het spel is verkrijgbaar via Google Play Store (Android) en Testflight (iOS)."
+            },
+            "treadmill": {
+                "question": "Kan ik het spel op een loopband spelen?",
+                "answer": "Ja. Je kunt het spel stationair spelen, lopend door je huis, op een loopband, of terwijl je boodschappen doet. Speel waar je je veilig voelt."
+            },
+            "smartwatch": {
+                "question": "Worden smartwatches ondersteund?",
+                "answer": "Smartwatches worden momenteel niet ondersteund in de game. Je moet je telefoon bij je hebben om de gezette stappen mee te laten tellen. Er is ondersteuning gepland voordat het spel wordt vrijgegeven voor open bèta."
+            },
+            "ideas": {
+                "question": "Ik heb een gaaf idee voor het spel!",
+                "answer": "We horen het graag! De beste plaats om dit te delen is op het <0>suggestions-and-feedback</0>-kanaal op Discord."
             }
         },
         "meta": {
