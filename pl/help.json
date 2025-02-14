@@ -78,6 +78,61 @@
             "smartwatchSupport": {
                 "question": "Czy Smart watche i opaski będą wspierane?",
                 "answer": "Tak! Smart watche będą wspierane. Najpierw spróbujemy wprowadzić integrację z Apple Health i Google Fit, a następnie dodać wsparcie dla Strava oraz po tym punkcie uda nam się dodać innych producentów i usługi. Jednak jeżeli twoja opaska lub zegarek potrafi synchronizować z Strava/Fit/Health to bardzo prawdopodobne, że będziesz mógł użyć ich w grze."
+            },
+            "whatIs": {
+                "answer": "WalkScape to gra RPG inspirowana RuneScape i innymi grami MMORPG. Ma jednak jedną wielką różnicę: nie grasz w nią aktywnie. Zamiast tego zdobywasz postępy, spacerując w prawdziwym życiu. Gra posiada ogromną mapę otwartego świata z ponad setką lokacji do odkrycia przez gracza. Świat jest wypełniony wiedzą, postaciami niezależnymi, zadaniami i aktywnościami, w które gracz może się zaangażować, i nie tylko! Naszym celem w grze jest zachęcanie do aktywnego trybu życia i promowanie zarówno zdrowia psychicznego, jak i fizycznego.",
+                "question": "Czym jest WalkScape?"
+            },
+            "howCanIGet": {
+                "answer": "WalkScape ma status zamkniętej bety, co oznacza, że musisz zostać zaproszony do gry. Zapraszamy graczy w falach, ponieważ potrzebujemy nowych testerów. Na początku i w trakcie fali zaproszeń masz zagwarantowane zaproszenie do gry, jeśli wsparłeś projekt na Patreon lub Buy Me a Coffee. Podczas niektórych fal przyjmujemy również ogólne zgłoszenia, których wypełnienie jest bezpłatne. Wszystkie szczegóły można znaleźć na stronie: <0>https://walkscape.app/help</0>",
+                "question": "Jak mogę pobrać grę?"
+            },
+            "designGoals": {
+                "answer-section-2": "<0> Rozgrywka bez rozpraszania uwagi.</0> Nie musisz mieć otwartej gry podczas ćwiczeń. Nasz projekt gry jest na to nastawiony, co oznacza, że będziesz musiał otworzyć grę dopiero po powrocie do domu. Zrównoważyliśmy grę tak, aby trzeba ją było otwierać raz na tysiąc do dziesięciu tysięcy kroków, w zależności od celów w grze.",
+                "answer-section-3": "<0>Funkcje online.</0> Chociaż obecnie w grze jest ich niewiele, planujemy zaoferować mnóstwo funkcji dla wielu graczy, w tym rynek do sprzedaży przedmiotów innym graczom, walkę PvP i PvE, system imprez, gildie i wiele więcej!",
+                "answer-section-5": "<0>Bez mikrotransakcji i reklam.</0>Cenimy naszych graczy i naszą społeczność i jesteśmy zobowiązani do unikania agresywnych praktyk monetyzacji. W związku z tym gra będzie oferowana w modelu free-to-play, z opcją jednorazowego zakupu lub opłacenia przystępnego abonamentu.",
+                "question": "Jakie są cele projektowe WalkScape?",
+                "answer-section-1": "<0>Bez GPS.</0> Zamiast tego gra wykorzystuje krokomierz wbudowany w smartfon, co pozwala grać na bieżni lub spacerując w dowolnym miejscu. Co więcej, gra będzie śledzić postępy nawet wtedy, gdy nie jest otwarta lub aktywna.",
+                "answer-section-4": "<0>Mnóstwo zawartości.</0> Gra już teraz może pochwalić się setkami unikalnych przedmiotów, dziesiątkami unikalnych lokacji, dziewięcioma umiejętnościami do szlifowania i mnóstwem zabawnych zajęć dla graczy."
+            },
+            "ideas": {
+                "answer": "Chętnie je usłyszymy, a najlepszym miejscem do dzielenia się nimi jest kanał <0>sugestie i opinie</0> na Discordzie.",
+                "question": "Mam fajny pomysł na grę!"
+            },
+            "smartwatch": {
+                "answer": "Smartwatche nie są obecnie obsługiwane w grze. Do liczenia kroków potrzebny będzie telefon. Wsparcie dla smartwatchy ma pojawić się przed udostępnieniem gry w otwartej wersji beta.",
+                "question": "Czy smartwatche są obsługiwane?"
+            },
+            "futureMonetization": {
+                "answer-section-1": "<0>Tryb offline</0> - Jednorazowy zakup. Będziesz mógł zapłacić raz, aby pobrać tryb offline gry. Otrzymasz przyszłe aktualizacje zawartości, nie będziesz musiał być online, aby otworzyć grę i będziesz mieć suwak, który zwielokrotni twoje kroki, aby osiągnąć pożądane wrażenia z gry. Brak funkcji gry wieloosobowej.",
+                "question": "Jaka jest przyszła strategia monetyzacji gry?",
+                "answer-section-2": "<0>Tryb online</0> - przystępna miesięczna subskrypcja. Aby zagrać w grę, musisz być online, ale otrzymasz przyszłe aktualizacje zawartości i wszystkie funkcje dla wielu graczy, które gra ma do zaoferowania.",
+                "answer-section-3": "<0>Obszar free-to-play</0> - obie formy gry będą miały obszar free-to-play, z którego będzie można korzystać za darmo."
+            },
+            "support": {
+                "answer": "Najlepszym miejscem do kontaktu z zespołem jest e-mail <0>contact@walkscape.app</0>. Daj nam do tygodnia od wysłania e-maila kontaktowego, jeśli nie jesteśmy w aktywnej fali zaproszeń, jesteśmy małym zespołem, który stara się skupić na rozwoju. Alternatywnie, skontaktuj się z @floursifter lub @maxchill na <1>naszym Discordzie</1>. Nie krępuj się zapytać na Discordzie, czy możemy pomóc z twoim problemem, czy też powinieneś skontaktować się przez e-mail.",
+                "question": "Potrzebuję wsparcia lub kontaktu z zespołem."
+            },
+            "lastUpdated": "Ostatnia aktualizacja",
+            "closedBetaEnd": {
+                "question": "Kiedy gra opuści status zamkniętej bety?",
+                "answer": "WalkScape planuje opuścić zamkniętą wersję beta, gdy będziemy mieć następujące brakujące funkcje:",
+                "req-1": "Obsługa smartwatchy",
+                "req-2": "Handel",
+                "req-3": "Zadania",
+                "req-4": "System walki"
+            },
+            "platforms": {
+                "question": "Na jakich platformach gra będzie dostępna?",
+                "answer": "Gra jest dostępna w sklepie Google Play (Android) i Testflight (iOS)."
+            },
+            "treadmill": {
+                "question": "Czy mogę grać na bieżni?",
+                "answer": "Tak. Możesz grać w tę grę chodząc w miejscu, spacerując po domu, na bieżni, robiąc zakupy spożywcze. Graj tam, gdzie czujesz się bezpiecznie."
+            },
+            "hiring": {
+                "question": "Czy Not a Cult zatrudnia lub poszukuje pracowników?",
+                "answer": "Not a Cult zazwyczaj nie zatrudnia, ale zawsze szukamy pomocy. Skontaktuj się z naszym @floursifter przez <0>naszego Discorda</0>, aby przesłać CV lub zaoferować pomoc w konkretnym aspekcie gry."
             }
         }
     }
