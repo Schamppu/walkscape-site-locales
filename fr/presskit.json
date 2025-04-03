@@ -6,6 +6,9 @@
         "content-2": "Chez Not a Cult, nous sommes des passionnés de jeux, convaincus que les jeux sont bien plus qu'un simple produit ou service. Nous nous efforçons de créer nos jeux de manière éthique, écologique et personnellement durable. Une communication ouverte et honnête est importante pour nous, et nous sommes fiers d'avoir une base de fans engagée et active. Nous ne sommes pas non plus une secte.",
         "title": "À propos des développeurs"
       },
+      "acknowledgements": {
+        "title": "Remerciements"
+      },
       "art": {
         "download": "Télécharger les ressources artistiques sous fichier .zip",
         "title": "Illustrations promotionnelles"
