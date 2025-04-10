@@ -1,1 +1,32 @@
-{}
+{
+  "singulars": {
+    "buttons": {
+      "accept": "Potvrdit",
+      "buyMeACoffee": "Přispět na kafe",
+      "contact": "Kontaktuj/te nás",
+      "download": "Stáhni hru",
+      "game": "Vyprav se na cestu",
+      "newsletter": "Novinky",
+      "patreon": "Patreon",
+      "register": "Registrace",
+      "reject": "Odmítnout",
+      "support": "Podpoř/te nás"
+    },
+    "footer": {
+      "copyright": "Všechna práva vyhrazena WalkScape.",
+      "privacy-policy": "Zásady ochrany osobních údajů"
+    },
+    "routes": {
+      "contact": "Kontakt",
+      "help": "Nápověda",
+      "home": "Domů",
+      "portal": "Portál",
+      "presskit": "Marketingové informace",
+      "register": "Registrace",
+      "roadmap": "Roadmapa",
+      "store": "Obchod",
+      "support": "Podpoř/te Nás",
+      "wiki": "Wiki"
+    }
+  }
+}
