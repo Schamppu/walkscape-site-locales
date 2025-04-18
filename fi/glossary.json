@@ -1,6 +1,7 @@
 {
   "singulars": {
     "buttons": {
+      "accept": "Hyväksy",
       "buyMeACoffee": "Buy me a Coffee",
       "contact": "Ota yhteyttä",
       "download": "Lataa peli",
@@ -8,7 +9,11 @@
       "newsletter": "Uutiskirje",
       "patreon": "Patreon",
       "register": "Rekisteröidy",
+      "reject": "Hylkää",
       "support": "Tue meitä"
+    },
+    "consent": {
+      "prompt": "Tämä sivuto käyttää evästeitä käyttäjäliikenteen arvioimiseksi. Painamalla 'Hyväksyn' suostut tähän."
     },
     "footer": {
       "copyright": "Tekijänoikeudet pidätetään WalkScapelle.",
