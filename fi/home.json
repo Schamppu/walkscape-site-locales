@@ -73,13 +73,14 @@
     "gameSection": {
       "section-1": "WalkScape on peli, joka on saanut inspiraationsa vanhoista MMORPG-peleistä. Tällä pelillä on kuitenkin yksi merkittävä ässä hihassa: et pelaa peliä aktiivisesti, vaan edistyt pelissä kävelemällä.",
       "section-2": "Voit odottaa hauskaa ja jännittävää matkaa Arenumin maailman läpi ja samalla motivaatiota kävelyyn!",
-      "title": "Peli"
+      "title": "Mikä on WalkScape?"
     },
     "howToPlay": {
       "ensure": "Varmistaaksesi pääsyn peliin mahdollisiman nopeasti",
       "instructions": "Yksityiskohtaisemmat ohjeet pääsyn saamiseksi löytyvät <0>täältä</0>!",
       "nextWave": "Seuraava kutsuaalto on",
       "subscribe": "Tilaa <0>uutiskirjeemme</0> ja seuraa meitä <1>sosiaalisessa mediassa</1> pysyäksesi ajan tasalla!",
+      "tbd": "TBD",
       "title": "Miten pelin saa?",
       "waveDate": "{{start}} - {{end}}",
       "waveExplain": "WalkScape on tällä hetkellä <0>Suljetussa Beetassa</0>. Tämä tarkoittaa sitä, että pelaajat pääsevät peliin hallituissa aalloissa, jotta meille jää niiden välissä aikaa keskittyä pelin kehittämiseen ja jotta voimme skaalata infrastruktuuria taloudellisesti kestävään tahtiin."
@@ -89,7 +90,7 @@
       "title": "WalkScape: Roolipeli, jossa kävelet ja kuntoilet"
     },
     "news": {
-      "more": "Näytä enemmän...",
+      "more": "Näytä enemmän",
       "readFull": "Lue koko artikkeli",
       "title": "Uutiset"
     },
