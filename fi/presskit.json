@@ -6,6 +6,9 @@
         "content-2": "Not a Cultille me olemme intohimoisia pelinörttejä, jotka uskovat, että videopelit ovat enemmän, kuin pelkkä tuote tai palvelu. Me rakennamme pelejämme eettisesti, ympäristöllisesti ja henkilökohtaisesti kestävälle pohjalle. Uskomme avoimeen ja rehelliseen kommunikaatioon ja olemme erityisen ylpeitä aktiivisesta ja osallistuvasta fanikunnastamme. Emme myöskään ole kultti.",
         "title": "Kehittäjästä"
       },
+      "acknowledgements": {
+        "title": "Tunnustukset"
+      },
       "art": {
         "download": "Lataa kuvat .zip -tiedostona",
         "title": "Markkinointikuvia"
