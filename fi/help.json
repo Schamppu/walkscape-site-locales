@@ -52,6 +52,45 @@
             "meta": {
                 "title": "WalkScape | UKK",
                 "description": "Löydä vastaukset useiten kysyttyihin kysymyksiin"
+            },
+            "platforms": {
+                "question": "Millä alustoilla peli on saatavilla?",
+                "answer": "Peli on saatavilla Google Play Storessa (Android) ja Testflight-palvelussa (iOS)."
+            },
+            "smartwatch": {
+                "answer": "Älykelloja ei vielä tueta pelissä. Tulet tarvitsemaan mukana kulkevan puhelimesi askeleiden kerryttämiseksi. Kellotuen julkaiseminen on suunnitteilla ennen avoimeen betaan siirtymistä.",
+                "question": "Ovatko älykellot tuettuja?"
+            },
+            "lastUpdated": "Viimeksi päivitetty",
+            "whatIs": {
+                "question": "Mikä on WalkScape?"
+            },
+            "howCanIGet": {
+                "question": "Miten voin saada pelin?"
+            },
+            "closedBetaEnd": {
+                "question": "Milloin pelin suljettu beta päättyy?",
+                "req-1": "Älykellotuki",
+                "req-2": "Vaihtokauppa",
+                "req-3": "Tehtävät",
+                "req-4": "Taistelu"
+            },
+            "designGoals": {
+                "question": "Mitkä ovat WalkScapen suunnitelmat designin osalta?"
+            },
+            "treadmill": {
+                "question": "Voinko pelata peliä juoksumatolla?",
+                "answer": "Kyllä. Voit pelata peliä kävelemällä vaikkapa paikoillasi, ympäri kotiasi, juoksumatolla tai käymällä kaupassa. Pelaa turvalliselta tuntuvassa paikassa."
+            },
+            "futureMonetization": {
+                "question": "Mikä on pelin rahoitussuunnitelma tulevaisuudessa?"
+            },
+            "ideas": {
+                "question": "Minulla on siisti idea peliin!",
+                "answer": "Haluaisimme kuulla sen! Paras paikka ideoiden jakamiseen on <0>suggestions-and-feedback</0> -niminen kanava Discordissamme."
+            },
+            "support": {
+                "question": "Tarvitsen apua tai yhteyden tiimiin."
             }
         },
         "meta": {
