@@ -78,6 +78,33 @@
             "smartwatchSupport": {
                 "question": "Les montres et bracelets intelligents seront-ils pris en charge ?",
                 "answer": "Oui ! Les montres intelligentes seront supportées. Nous commencerons par les intégrations avec Apple Health et Google Fit puis nous ajouterons Strava, et nous pourrions éventuellement étendre notre démarche à d'autres constructeurs. Mais si votre bracelet ou montre peut se synchroniser avec Strava/Fit/Health, il est très probable que vous puissiez vous en servir avec le jeu."
+            },
+            "whatIs": {
+                "answer": "WalkScape est un jeu RPG inspiré par RuneScape et d'autres MMORPGs. Il possède cependant une particularité unique : vous n'y jouez pas activement. À la place, vous progressez simplement en marchant dans la vie réelle. Le jeu propose un vaste monde ouvert avec plus d'une centaine de lieux à explorer. Cet univers regorge d'histoires, de personnages (PNJ), de quêtes et d'activités à effectuer et plus encore ! Notre objectif est de vous encourager à adopter un mode de vie actif, bénéfique à votre santé physique et mentale.",
+                "question": "C'est quoi Walkscape ?"
+            },
+            "howCanIGet": {
+                "question": "Comment obtenir le jeu ?"
+            },
+            "designGoals": {
+                "question": "Quel sont les objectifs de conception de WalkScape ?",
+                "answer-section-1": "<0>Pas de GPS.</0> À la place the jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou par marcher où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif."
+            },
+            "closedBetaEnd": {
+                "question": "Quand est-ce que le jeu sortira de la beta fermée ?",
+                "answer": "WalkScape prévoit de sortir de la bêta fermée lorsque les fonctionnalités manquantes suivantes seront ajoutées :",
+                "req-1": "Support des montres connectées",
+                "req-2": "Échanges",
+                "req-3": "Quêtes",
+                "req-4": "Combats"
+            },
+            "lastUpdated": "Dernière mise à jour",
+            "treadmill": {
+                "question": "Puis-je jouer au jeu sur un tapis de course ?"
+            },
+            "platforms": {
+                "question": "Sur quel plateforme le jeu est-il disponible ?",
+                "answer": "Le jeu est disponible sur Google Play Store (Android) et Testflight (iOS)."
             }
         }
     }
