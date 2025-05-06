@@ -84,11 +84,13 @@
                 "question": "C'est quoi Walkscape ?"
             },
             "howCanIGet": {
-                "question": "Comment obtenir le jeu ?"
+                "question": "Comment obtenir le jeu ?",
+                "answer": "WalkScape est actuellement en bêta fermée, ce qui signifie qu'une invitation est nécessaire pour jouer. Nous envoyons les invitations par vagues, selon nos besoins en testeurs. Au début et pendant chaque vague d'invitations, vous avez la garantie d'être invité si vous avez soutenu le projet sur Patreon ou Buy Me a Coffee. Lors de certaines vagues, nous acceptons aussi des candidatures ouvertes, gratuites à remplir. Retrouvez tous les détails ici : <0>https://walkscape.app/help</0>"
             },
             "designGoals": {
                 "question": "Quel sont les objectifs de conception de WalkScape ?",
-                "answer-section-1": "<0>Pas de GPS.</0> À la place the jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou par marcher où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif."
+                "answer-section-1": "<0>Pas de GPS.</0> À la place the jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou par marcher où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif.",
+                "answer-section-2": "<0>Jouez sans distraction.</0> Vous n'avez pas besoin de garder le jeu ouvert pendant vos activités physiques. Notre concept de jeu est pensé pour cela : il vous suffit d’ouvrir l'application une fois rentré chez vous. Nous avons conçu le jeu pour être équilibré autour d’une ouverture nécessaire toutes les mille à dix mille pas, selon vos objectifs en jeu."
             },
             "closedBetaEnd": {
                 "question": "Quand est-ce que le jeu sortira de la beta fermée ?",
