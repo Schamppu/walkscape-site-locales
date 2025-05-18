@@ -78,6 +78,24 @@
             "smartwatchSupport": {
                 "question": "Werden Smartwatches und Bänder unterstützt?",
                 "answer": "Ja! Smartwatches werden unterstützt werden. Wir werden zuerst eine Intergration mit Apple Health und Google Fit haben und werden dann Strava unterstützen, dann versuchen wir uns von dort aus an andere Hersteller ranzuarbeiten um auch diese einzuschließen. Wenn deine Uhr oder dein Band sich jedoch mit Strava/Fit/Health verbinden kann, ist es sehr wahrscheinlich, dass sie im Spiel funktioniert."
+            },
+            "platforms": {
+                "question": "Auf welchen Plattformen ist das Spiel erhältlich?"
+            },
+            "lastUpdated": "Zuletzt aktualisiert",
+            "ideas": {
+                "question": "Ich habe eine coole Idee für das Spiel!"
+            },
+            "whatIs": {
+                "question": "Was ist WalkScape?"
+            },
+            "closedBetaEnd": {
+                "req-1": "Smartwatch-Unterstützung",
+                "req-2": "Handeln",
+                "req-3": "Abenteuer"
+            },
+            "treadmill": {
+                "question": "Kann ich das Spiel auf einem Laufband spielen?"
             }
         }
     }
