@@ -12,6 +12,9 @@
       "reject": "Odmítnout",
       "support": "Podpoř/te nás"
     },
+    "consent": {
+      "prompt": "Tato webová stránka používá soubory cookie k analýze návštěvnosti. Kliknutím na tlačítko „Přijmout“ s jejich použitím souhlasíte."
+    },
     "footer": {
       "copyright": "Všechna práva vyhrazena WalkScape.",
       "privacy-policy": "Zásady ochrany osobních údajů"
