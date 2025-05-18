@@ -1,5 +1,42 @@
 {
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "one": "La prossima ondata della Beta inizierà tra <br/> <2>{{count}} settimana!</2>",
+        "other": "La prossima ondata della Beta inizierà tra <br/> <2>{{count}} settimane!</2>",
+        "two": "-",
+        "zero": "-"
+      }
+    },
+    "statistics": {
+      "actions": {
+        "one": "azione completata",
+        "other": "Totale delle azioni completate"
+      },
+      "ship": {
+        "one": "nave riparata",
+        "other": "navi riparate"
+      },
+      "shrimps": {
+        "one": "gambero catturato",
+        "other": "gamberi catturati"
+      },
+      "steps": {
+        "one": "Passi compiuti",
+        "other": "Totale dei passi compiuti"
+      },
+      "wine": {
+        "one": "bottiglia di vino trovata nei forzieri",
+        "other": "bottiglie di vino trovate nei forzieri"
+      }
+    }
+  },
   "singulars": {
+    "callToAction": {
+      "registerNow": "<0>Registrati adesso</0> per candidarti ad un invito o per <1>supportarci</1> garantendoti l'accesso!",
+      "waveActive": "Stiamo mandando adesso gli inviti per la Beta!",
+      "waveUndefined": "La prossima ondata per la Beta ad Accesso Limitato sta arrivando! Iscriviti alla nostra <0>newsletter</0> e seguici sui nostri <1>social media</1> per rimanere aggiornato!"
+    },
     "downloadSection": {
       "section-1": "Ancora nulla, ma speriamo di annunciare presto l'uscita! WalkScape sarà rilasciato sia per iOS che per Android.",
       "title": "Scarica"
@@ -8,28 +45,46 @@
       "communityFeatures": "Funzioni per la community, mercato globale e classifiche online.",
       "levelUpSkills": "Sali di livello camminando nella mondo reale",
       "numberOfSkills": "Più di 15 abilità diverse da usare e padroneggiare",
-      "quests": "Tante missioni, incontri casuali e una campagna principale che si svolge su più continenti.",
-      "title": "Cosa offre il gioco"
+      "quests": "Missioni, incontri casuali e una campagna principale che si svolge su più continenti.",
+      "title": "Particolarità del gioco"
     },
     "footer": {
       "copyright": "Diritti d'autore riservati a WalkScape.",
       "privacy-policy": "Informativa sulla privacy"
     },
     "gameSection": {
-      "section-1": "WalkScape è un gioco ispirato ad alcuni MMORPG di vecchia scuola. Ma questo gioco ha un asso nella manica: non si gioca attivamente, ma si guadagna esperienza camminando.",
-      "section-2": "Puoi aspettarti un divertente ed emozionante viaggio nel mondo di Arenum, ritrovando la voglia di camminare!",
-      "title": "Il Gioco"
+      "section-1": "WalkScape è un gioco ispirato ad alcuni MMORPG vecchia scuola. Ma questo gioco ha un asso nella manica: non si gioca attivamente, ma si guadagna esperienza camminando.",
+      "section-2": "Puoi aspettarti un divertente ed emozionante viaggio per il mondo di Arenum, ritrovando la voglia di camminare!",
+      "title": "Cos'è WalkScape?"
     },
     "howToPlay": {
-      "waveDate": "{{start}} - {{end}}"
+      "ensure": "Per garantire l'accesso al gioco quanto prima possibile",
+      "instructions": "Per istruzioni passo dopo passo per ottenere l'accesso, vai <0>qui</0>!",
+      "nextWave": "La prossima ondata di inviti per la beta è",
+      "subscribe": "Iscriviti alla nostra <0>newsletter</0> e seguici sui nostri <1>social media</1> per rimanere aggiornato!",
+      "tbd": "Da definire",
+      "title": "Come si ottiene l'accesso?",
+      "waveDate": "{{start}} - {{end}}",
+      "waveExplain": "WalkScape è in <0>Beta ad Accesso Limitato</0>. Questo significa che i giocatori riceveranno l'accesso al gioco in ondate, per darci il tempo tra le varie ondate di sviluppare il gioco rapidamente al massimo della concentrazione, e per ingrandire i nostri server progressivamente con spese sostenibili."
     },
     "meta": {
       "description": "WalkScape: Sali di Livello Camminando!",
-      "title": "WalkScape"
+      "title": "WalkScape: Il gioco fitness di Role-Playing per camminare"
+    },
+    "news": {
+      "more": "Mostra di più",
+      "readFull": "Leggi l'Articolo Completo",
+      "title": "Notizie"
     },
     "screenshotsSection": {
       "description": "Screenshot del gioco che illustrano alcune delle meccaniche. Potete trovarne altri nel nostro subreddit!",
-      "title": "Screenshots"
+      "title": "Screenshot"
+    },
+    "social": {
+      "follow": "Seguici sui social"
+    },
+    "statistics": {
+      "title": "Statistiche"
     },
     "supportUsSection": {
       "section-1": "Puoi supportare lo sviluppo di WalkScape tramite Patreon o Buy Me a Coffee (BMaC). I sostenitori del gioco ottengono alcuni vantaggi esclusivi, elencati su Patreon e Buy Me a Coffee.",
