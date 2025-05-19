@@ -2,6 +2,8 @@
   "plurals": {
     "callToAction": {
       "waveDefined": {
+        "few": "-",
+        "many": "-",
         "one": "La prossima ondata della Beta inizierà tra <br/> <2>{{count}} settimana!</2>",
         "other": "La prossima ondata della Beta inizierà tra <br/> <2>{{count}} settimane!</2>",
         "two": "-",
@@ -10,24 +12,44 @@
     },
     "statistics": {
       "actions": {
+        "few": "-",
+        "many": "-",
         "one": "azione completata",
-        "other": "Totale delle azioni completate"
+        "other": "Totale delle azioni completate",
+        "two": "-",
+        "zero": "-"
       },
       "ship": {
+        "few": "-",
+        "many": "-",
         "one": "nave riparata",
-        "other": "navi riparate"
+        "other": "navi riparate",
+        "two": "-",
+        "zero": "-"
       },
       "shrimps": {
+        "few": "-",
+        "many": "-",
         "one": "gambero catturato",
-        "other": "gamberi catturati"
+        "other": "gamberi catturati",
+        "two": "-",
+        "zero": "-"
       },
       "steps": {
+        "few": "-",
+        "many": "-",
         "one": "Passi compiuti",
-        "other": "Totale dei passi compiuti"
+        "other": "Totale dei passi compiuti",
+        "two": "-",
+        "zero": "-"
       },
       "wine": {
+        "few": "-",
+        "many": "-",
         "one": "bottiglia di vino trovata nei forzieri",
-        "other": "bottiglie di vino trovate nei forzieri"
+        "other": "bottiglie di vino trovate nei forzieri",
+        "two": "-",
+        "zero": "-"
       }
     }
   },
