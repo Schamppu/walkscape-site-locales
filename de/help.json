@@ -2,17 +2,17 @@
     "singulars": {
         "meta": {
             "title": "WalkScape | Hilfe",
-            "description": "Finde Antworten zu den häufigsten Problemen"
+            "description": "Finde Antworten auf die häufigsten Probleme"
         },
         "title": "Hilfe",
         "getGame": {
             "title": "Wie kann man das Spiel bekommen",
             "free": {
-                "title": "Um sich kostenlos anzumelden:",
+                "title": "Zur kostenlosen Anmeldung:",
                 "note": "Bemerkung",
-                "instructions-2": "Gehe zu der <1>Konto</1> Seite und wähle <2>Für Beta Zugang bewerben</2>.",
+                "instructions-2": "Klicke auf dein <1>Konto</1> und wähle <2>Für Beta Zugang bewerben</2>.",
                 "instructions-1": "Erstelle ein Konto im <0>WalkScape Portal</0>. Versichere dich, deine E-Mail Adresse zu bestätigen (Die bestätigungs E-Mail landet manchmal im Spam Ordner).",
-                "instructions-3": "Warte auf eine Einladung. Einladungen werden in Wellen verschickt und du kannst auf der <3>Startseite</3> sehen, wann die nächste stattfindet. Eingeladene werden eine E-Mail erhalten, mit einer Anleitung wie man das Spiel installiert.",
+                "instructions-3": "Warte auf eine Einladung. Einladungen werden in Wellen verschickt und du kannst auf der <3>Startseite</3> sehen, wann die nächste stattfindet. Eingeladene erhalten eine E-Mail mit einer Anleitung wie man das Spiel installiert.",
                 "noteContent": "Eine begrenzte Menge an Einladungen wir bei jeder Welle versendet, du kannst dir aber Zugang garantieren, wenn du uns unterstütz! Lies weiter, wenn du schon ein Konto im Portal hast und <0>das Spiel unterstützt hast</0>."
             },
             "oauth": {
