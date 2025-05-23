@@ -63,15 +63,15 @@
         "wave2point5": {
             "date": "1. Juni 2024",
             "title": "Einladung der Welle 2.5",
-            "content": "Als Dankeschön für alle Spieler, die das Spiel seit der Veröffentlichung von Welle 2, werden Einladungen an alle versendet, die das Spiel über Patreon oder BMAC vor dem 15 Juni um 12Uhr Mittags unterstützen. Einladungen werden ab dem 1 Juni versendet."
+            "content": "Als Dankeschön für alle Spieler, die das Spiel bereits seit der Veröffentlichung von Welle 2 unterstützen, werden Einladungen an alle versendet, die das Spiel über Patreon oder BMAC bereits vor dem 15. Juni (12 Uhr UTC) unterstützt haben. Einladungen werden ab dem 1 Juni versendet."
         },
         "syrenthia": {
-            "date": "Juni-Juli 2024",
+            "date": "21. August 2024",
             "title": "Syrenthia Update",
-            "content": "Das größte Update bisher, Erfolge, Gebietsruf, Verbrauchsgegenstände und eine neue Region im Spiel werden hinzugefügt."
+            "content": "Das größte Update bisher - Erfolge, Gebiets-Ansehen, Verbrauchsgegenstände und eine neue Region im Spiel. Das Update wurde remote von unserem Team von der Gamescom aus Köln deployed und markiert den Start von Welle 3."
         },
         "wave3": {
-            "date": "August-September 2024",
+            "date": "August-Oktober 2024",
             "title": "Welle 3 & Pocket Gamer Connects",
             "content": "Ein weiteres großes Quality-of-Life Update, das die Walkpedia, Reisen + Aktion Warteschlange, Bank und Inventar Sortierung, Tabs und vieles mehr hinzufügt um das Spiel einfacher zu machen. Kurz nach dem Update und einigen Fehlerbehebungen beginnt Welle 3."
         },
@@ -81,7 +81,8 @@
         },
         "achievements": {
             "date": "10. Juli 2024",
-            "title": "Update der Erfolge wurde veröffentlicht"
+            "title": "Update der Erfolge wurde veröffentlicht",
+            "content": "Kurz nach Welle 2.5 wurden in einem großen Content-Update Achievements hinzugefügt. "
         },
         "devTools": {
             "content": "Die Entwicklerwerkzeuge werden intern komplett überarbeitet, um eine wesentliche schnellere Entwicklung von neuen Inhalten zu ermöglichen.",
