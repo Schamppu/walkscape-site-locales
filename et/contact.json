@@ -1,1 +1,16 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Kui sul on küsimusi või vajad abi, siis kirjuta meile e-posti teel aadressil <0>contact@walkscape.app</0> või võta ühendust sotsiaalmeedia kaudu."
+    },
+    "meta": {
+      "description": "Uuri, kuidas meiega ühendust võtta",
+      "title": "WalkScape | Võta meiega ühendust"
+    },
+    "presskit": {
+      "description": "Leia meie täielik pressikomplekt <0>siit</0>",
+      "title": "Pressikomplekt"
+    },
+    "title": "Võta meiega ühendust"
+  }
+}
