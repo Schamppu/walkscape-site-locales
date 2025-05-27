@@ -2,8 +2,8 @@
     "singulars": {
         "getGame": {
             "free": {
-                "noteContent": "Limitowana ilość zaproszeń będzie wysłana do graczy w każdej fali, ale możesz zagwarantować sobie dostęp stając się wspierającym! Czytaj dalej jeżeli już założyłeś konto w Portalu i <0>wspierasz grę</0>.",
-                "instructions-3": "Czekaj na zaproszenie. Te odbywają się w falach, a to kiedy planujemy kolejną możesz zobaczyć na <3>Stronie Głównej</3>. Zaproszeni otrzymają maila z instrukcjami, które prowadzą do instalacji gry.",
+                "noteContent": "Limitowana ilość zaproszeń będzie wysłana w tym czasie, ale możesz zagwarantować sobie dostęp stając się wspierającym! Czytaj dalej jeżeli już założyłeś konto w Portalu i <0>wspierasz grę</0>.",
+                "instructions-3": "Czekaj na zaproszenie. Od czasu do czasu wysyłamy zaproszenia, dlatego śledź swoją skrzynkę odbiorczą.",
                 "title": "Zarejestrować się za darmo:",
                 "note": "Notki",
                 "instructions-1": "Załóż konto na <0>Portalu WalkScape</0>. Upewnij się, że twój adres email został potwierdzony (maile weryfikacyjne czasami lądują w folderze ze spamem).",
@@ -11,14 +11,14 @@
             },
             "title": "Jak zdobyć grę",
             "oauth": {
-                "title": "Powiązanie konta z OAuth (tylko Patreon, zalecane):",
+                "title": "Powiązanie konta z OAuth (Patreon):",
                 "instructions-1": "Udaj się do zakładki <1>Konto</1>.",
                 "instructions-2": "Wybierz guzik <4>Logowanie Patreon</4> w sekcji <2>Powiązanie konta Patreon</2>.",
                 "instructions-3": "Ta strona powinna poprosić cię o połączenie konta Patreon. Podaj adres email oraz hasło, na jakie zakupiono subskrypcję WalkScape na Patreon.",
                 "instructions-4": "Jeśli wszystko pójdzie dobrze, powinieneś zobaczyć ekran informujący o sukcesie. W takim przypadku twoje konto zostanie połączone, a status subskrypcji powinien być natychmiast widoczny w zakładce Konto. Jeśli coś pójdzie nie tak, możesz spróbować połączyć konto z adresem email i kodem, jak opisano poniżej."
             },
             "email": {
-                "title": "Powiązanie konta z adresem email i kodem (Patreon/BMAC):",
+                "title": "Powiązanie konta z adresem email i kodem (BMAC):",
                 "instructions-2": "Wpisz adres email użyty na koncie Patreon/BMAC w odpowiednim polu i wciśnij <4>DOSTAŃ KOD</4>.",
                 "instructions-3": "Powinieneś otrzymać email z kodem weryfikacyjnym na podany adres. Wpisz kod na stronie Konto i wciśnij <4>POŁĄCZ KONTO</4>.",
                 "instructions-4": "To powinno wystarczyć, a status twojej subskrypcji powinien być widoczny w zakładce Konto. Należy pamiętać, że w niektórych przypadkach pełna synchronizacja systemu może zająć kilka godzin."
@@ -84,7 +84,7 @@
                 "question": "Czym jest WalkScape?"
             },
             "howCanIGet": {
-                "answer": "WalkScape ma status zamkniętej bety, co oznacza, że musisz zostać zaproszony do gry. Zapraszamy graczy w falach, ponieważ potrzebujemy nowych testerów. Na początku i w trakcie fali zaproszeń masz zagwarantowane zaproszenie do gry, jeśli wsparłeś projekt na Patreon lub Buy Me a Coffee. Podczas niektórych fal przyjmujemy również ogólne zgłoszenia, których wypełnienie jest bezpłatne. Wszystkie szczegóły można znaleźć na stronie: <0>https://walkscape.app/help</0>",
+                "answer": "WalkScape jest zamkniętą betą, co oznacza, że musisz zostać zaproszony do gry. Zapraszamy graczy, którzy wypełnili formularz zgłoszeniowy, ponieważ potrzebujemy nowych testerów. Czas oczekiwania w kolejce jest różny, ale większość graczy otrzymuje zaproszenie po kilku miesiącach. Gwarantujemy natychmiastowe zaproszenie do gry, jeśli wspierałeś projekt na Patreonie lub Buy Me a Coffee.",
                 "question": "Jak mogę pobrać grę?"
             },
             "designGoals": {
@@ -110,7 +110,7 @@
                 "answer-section-3": "<0>Obszar free-to-play</0> - obie formy gry będą miały obszar free-to-play, z którego będzie można korzystać za darmo."
             },
             "support": {
-                "answer": "Najlepszym miejscem do kontaktu z zespołem jest e-mail <0>contact@walkscape.app</0>. Daj nam do tygodnia od wysłania e-maila kontaktowego, jeśli nie jesteśmy w aktywnej fali zaproszeń, jesteśmy małym zespołem, który stara się skupić na rozwoju. Alternatywnie, skontaktuj się z @floursifter lub @maxchill na <1>naszym Discordzie</1>. Nie krępuj się zapytać na Discordzie, czy możemy pomóc z twoim problemem, czy też powinieneś skontaktować się przez e-mail.",
+                "answer": "Najlepszym miejscem do kontaktu z zespołem jest e-mail <0>contact@walkscape.app</0>. Prosimy o cierpliwość, ponieważ jesteśmy małym zespołem, który stara się skupić na rozwoju i odpowiadaniu na prośby o pomoc techniczną w okresach wzmożonego ruchu. Może to potrwać do tygodnia. Alternatywnie, skontaktuj się z @maxchill na <1>naszym Discordzie</1>. Nie krępuj się zapytać na Discordzie, czy możemy pomóc rozwiązać twój problem, czy też powinieneś skontaktować się przez e-mail.",
                 "question": "Potrzebuję wsparcia lub kontaktu z zespołem."
             },
             "lastUpdated": "Ostatnia aktualizacja",
