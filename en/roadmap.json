@@ -94,45 +94,45 @@
       "title": "Hotfix After Syrenthia Update",
       "content": "A patch is released, which fixes most technical problems players experienced after the Syrenthia update"
     },
-    "qol2": {
-      "date": "November-December, 2024",
-      "title": "Second Large QoL Update",
-      "content": "A quality of life update is planned, addressing inventory management, banking, activity queueing, notifications and many more kinks in the game's UI."
+    "engineUpdate": {
+      "date": "29th of January, 2025",
+      "title": "Engine Update & Gear Sets",
+      "content": "During the winter of 2024-2025 the team sits down for their longest updateless period yet. Over the course of over three months large parts of the game engine are rewritten in order to improve performance and stability, and to support a larger set of features. The first feature to take advantage of this fact is the new gear system released at the same time."
+    },
+    "devTools": {
+      "date": "February, 2025",
+      "title": "Devtools 2.0",
+      "content": "After the major engine update, the team quickly follows up with new devtools to enable the content team to work more independently of the programming team."
+    },
+    "smartWatch": {
+      "date": "25th of April, 2025",
+      "title": "Wearable Support for iOS",
+      "content": "After a poll gauging community opinion, the team decides to develop wearable support for iOS devices to pilot the feature and releases the update in April."
+    },
+    "wave4": {
+      "date": "15th of May, 2025",
+      "title": "Wave 4 and Bogged Down",
+      "content": "Wave 4 starts and thousands of new players join the game. Using the new development tools, the team releases a larger content update that expands on the swamp areas of GDTE."
     },
     "party": {
       "date": "December, 2024",
       "title": "Party System",
       "content": "The first real multiplayer mechanic, which allows players to party up to reach common goals."
     },
-    "devTools": {
-      "date": "Turn of the year 2024-2024",
-      "title": "Devtools 2.0",
-      "content": "To massively increase the speed at which new content can be developed, the devtools used by the team internally will receive a complete overhaul."
-    },
-    "gdteUpdate": {
-      "date": "Q1, 2025",
-      "title": "GDTE Update",
-      "content": "Before moving on to new coninents, the Grand Duchy of Trellin-Erdwise will be fleshed out to match the richness of content of Jarvonia and Syrenthia."
-    },
     "trading": {
-      "date": "Q1, 2025",
+      "date": "",
       "title": "Player Trading",
       "content": "As the next massive multiplayer feature, player trading will be introduced, truly bringing out the 'MMO' in WalkScape's 'MMORPG'."
     },
     "combat": {
-      "date": "Q1, 2025",
+      "date": "",
       "title": "Combat System",
-      "content": "The first version of the combat system will be released. The team is prepared that the mechanic might need some iteration once testing starts."
+      "content": "The first version of the combat system will be brought in for testing after trading. The team is prepared that the mechanic might need some iteration once testing starts."
     },
     "quests": {
-      "date": "Q2, 2025",
+      "date": "",
       "title": "Quests",
       "content": "As the final major feature, Quests will be introduced to give players hand-crafted story content to play through."
-    },
-    "smartWatch": {
-      "date": "Q2, 2025",
-      "title": "Smart Device Support",
-      "content": "Support for smart watches and possibly other wearables will be enabled to allow collecting steps without having the mobile phone in the pocket at all times."
     }
   }
 }

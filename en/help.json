@@ -10,20 +10,20 @@
       "free": {
         "title": "To sign up for free:",
         "note": "Note",
-        "noteContent": "A limited amount of invites will be sent out in each wave, but you can ensure access by becoming a supporter! Read on if you've already registered an account in the portal and <0>supported the game</0>.",
+        "noteContent": "A limited amount of invites will be sent out at a time, but you can ensure access by becoming a supporter! Read on if you've already registered an account in the portal and <0>supported the game</0>.",
         "instructions-1": "Create an account in the <0>WalkScape portal</0>. Be sure to verify your email address (the verification emails occasionally end up in the spam folder).",
         "instructions-2": "Navigate to the <1>Account</1> page and select <2>Apply for beta access</2>.",
-        "instructions-3": "Wait for an invite. Invites happen in waves and you can check when the next wave is scheduled on the <3>Home page</3>. Invitees will receive an email with instructions on how to install the game."
+        "instructions-3": "Wait for an invite. We send out invitations from time to time, so keep an eye on youer email inbox."
       },
       "oauth": {
-        "title": "Linking account with OAuth (Patreon only, recommended):",
+        "title": "Linking account with OAuth (Patreon):",
         "instructions-1": "Head over to the <1>Account</1> page.",
         "instructions-2": "Choose the <4>Login with Patreon</4> button in the <2>Link a Patreon account</2> section.",
         "instructions-3": "The site should ask for your Patreon credentials. Enter the email and password of the account that has subscribed to WalkScape on Patreon.",
         "instructions-4": "If everything goes fine, you should see a success screen, in which case your account is linked and your subscription status should be immediately visible on the Account screen. If something goes wrong, you may want to try linking the account with email and code, as described below."
       },
       "email": {
-        "title": "Linking account with email and code (Patreon/BMAC):",
+        "title": "Linking account with email and code (BMAC):",
         "instructions-2": "Enter the email used for your Patreon/BMAC account in the corresponding field and hit <4>GET CODE</4>.",
         "instructions-3": "You should receive an email with a verification code in the provided address. Enter the code on the account page and hit <4>LINK ACCOUNT</4>.",
         "instructions-4": "That should do it and your subscription status should be visible on the account page. Please note that in some cases it might take a few hours for the system to fully synchronize."
@@ -39,7 +39,7 @@
       },
       "howCanIGet": {
         "question": "How can I get the game?",
-        "answer": "WalkScape is in closed beta status, which means you need to be invited to play. We invite players in waves as we need new testing. At the beginning of and during an invite wave, you are guaranteed an invite to the game if you have supported the project on Patreon or Buy Me a Coffee. During some waves, we also accept general applications, which are free to fill out. Find all details at: <0>https://walkscape.app/help</0>"
+        "answer": "WalkScape is in closed beta, which means you need to be invited to play. We invite players who have filled out an application as we need new testers. The queue times vary, but most players get an invite after a few months. You are guaranteed an instant invite to the game if you have supported the project on Patreon or Buy Me a Coffee."
       },
       "closedBetaEnd": {
         "question": "When will the game leave closed beta status?",
@@ -85,7 +85,7 @@
       },
       "support": {
         "question": "I need support or need to contact the team.",
-        "answer": "The best place to contact the team is to email <0>contact@walkscape.app</0>. Please give us up to a week after emailing the contact email if we are not in an active invite wave, we are a small team trying to focus on development. Alternatively, contact @floursifter or @maxchill on <1>our Discord</1>. Feel free to ask in the discord if we can help with your issue or if you should contact the email."
+        "answer": "The best place to contact the team is to email <0>contact@walkscape.app</0>. Please be patient, as we are a small team trying to focus on development and answering support requests during busy times could take up to a week. Alternatively, contact @maxchill on <1>our Discord</1>. Feel free to ask in the discord if we can help with your issue or if you should contact the email."
       },
       "exerciseSupport": {
         "question": "Will the game support more exercise types than just walking?",

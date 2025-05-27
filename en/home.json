@@ -7,16 +7,19 @@
     "callToAction": {
       "registerNow": "<0>Register now</0> to apply for an invite or <1>support us</1> to ensure access!",
       "waveActive": "We are currently sending out Beta invites!",
-      "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!"
+      "waveUndefined": "The next closed Beta wave is coming soon! Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!",
+      "playNow": "Play Now!",
+      "supportToStart": "<0>Patreon</0> and <1>Buy Me a Coffee</1> supporters can now start playing immediately!"
     },
     "howToPlay": {
       "title": "How to get access?",
       "nextWave": "The next wave of beta invites is",
       "waveDate": "{{start}} - {{end}}",
       "tbd": "TBD",
+      "supportNow": "Support now for instant access!",
       "subscribe": "Subscribe to our <0>newsletter</0> and follow our <1>social media</1> to stay up to date!",
-      "ensure": "To ensure access to the game as soon as possible",
-      "waveExplain": "WalkScape is currently in <0>Closed Beta</0>. This means that players will get access to the game in waves to give us time in between waves to develop the game rapidly with full focus, and to scale our server infrastructure in a financially sustainable way.",
+      "ensure": "To ensure instant access to the game, you can also",
+      "waveExplain": "WalkScape is currently in <0>Closed Beta</0>. This means that access is restricted to those who have filled out an application and are invited, or have supported us financially. This allows us to develop the game rapidly and with full focus, and to scale our server infrastructure in a financially sustainable way.",
       "instructions": "For step-by-step instructions on how to get access, go <0>here</0>!"
     },
     "statistics": {
