@@ -96,8 +96,8 @@
         },
         "devTools": {
             "title": "Narzędzia deweloperskie 2.0",
-            "content": "Aby znacznie zwiększyć szybkość opracowywania nowej zawartości, narzędzia deweloperskie używane wewnętrznie przez zespół zostaną całkowicie zmienione.",
-            "date": "Przełom roku 2024-2025"
+            "content": "Po przeprowadzeniu gruntownej aktualizacji silnika gry, zespół szybko pracuje nad nowymi narzędziami programistycznymi, które mają umożliwić zespołowi ds. treści pracę w bardziej niezależny sposób od zespołu programistów.",
+            "date": "Luty 2025"
         },
         "gdteUpdate": {
             "date": "Q1, 2025",
@@ -105,24 +105,24 @@
             "content": "Zanim przejdziemy do nowych kontynentów, Wielkie Księstwo Trellin-Erdwise zostanie rozbudowane, aby dorównać bogactwem zawartości Jarvonii i Syrenthii."
         },
         "trading": {
-            "date": "Q1, 2025",
+            "date": "",
             "title": "Handel Pomiędzy Graczami",
             "content": "Jako kolejna funkcja dla wielu graczy, wprowadzony zostanie handel między graczami, prawdziwie wydobywając \"MMO\" z \"MMORPG\" WalkScape."
         },
         "combat": {
-            "date": "Q1, 2025",
+            "date": "",
             "title": "System Walki",
-            "content": "Pierwsza wersja systemu walki zostanie wydana. Zespół jest przygotowany na to, że funkcja może wymagać pewnych zmian po rozpoczęciu testów."
+            "content": "Pierwsza wersja systemu walki zostanie przetestowana po wprowadzeniu handlu. Zespół jest przygotowany, że mechanika może wymagać pewnej iteracji, gdy tylko rozpoczną się testy."
         },
         "quests": {
-            "date": "Q2, 2025",
+            "date": "",
             "title": "Zadania",
             "content": "Ostatnią ważną funkcją będą zadania, które zapewnią graczom własnoręcznie tworzoną zawartość fabularną."
         },
         "smartWatch": {
-            "date": "Q2, 2025",
-            "title": "Wsparcie dla inteligentnych urządzeń",
-            "content": "Obsługa smartwatchy i ewentualnie innych urządzeń do noszenia zostanie włączona, aby umożliwić zbieranie kroków bez konieczności ciągłego trzymania telefonu komórkowego w kieszeni."
+            "date": "25 kwietnia 2025",
+            "title": "Wsparcie dla urządzeń obsługujących iOS",
+            "content": "Po przeprowadzeniu ankiety mającej na celu zbadanie opinii społeczności, zespół podjął decyzję o opracowaniu obsługi urządzeń przenośnych z systemem iOS, w celu przeprowadzenia pilotażu tej funkcji i udostępnieniu aktualizacji w kwietniu."
         },
         "achievements": {
             "date": "10 lipca 2024",
@@ -133,6 +133,16 @@
             "content": "Wydano aktualizację, która umożliwia graczom zmianę języka w grze. Języki obsługiwane w pierwszej fali to (oprócz Angielskiego) Polski, Niemiecki, Hiszpański, Włoski, Holenderski i oczywiście Fiński. Większość tłumaczeń jest dostarczana przez ciężko pracującą społeczność WalkScape.",
             "date": "12 Październik 2024",
             "title": "Aktualizacja lokalizacji"
+        },
+        "engineUpdate": {
+            "title": "Aktualizacja silnika gry i zestawy setów",
+            "content": "Zimą 2024-2025 zespół zasiada do najdłuższego jak dotąd okresu bez aktualizacji. W ciągu ponad trzech miesięcy duże części silnika gry są przepisywane w celu poprawy wydajności i stabilności oraz obsługi większego zestawu funkcji. Pierwszą funkcją wykorzystującą ten fakt jest nowy system wyposażenia wydany w tym samym czasie.",
+            "date": "29 stycznia 2025"
+        },
+        "wave4": {
+            "date": "15 maja 2025",
+            "title": "Fala 4 ugrzęzła w błocie",
+            "content": "Rozpoczyna się fala 4 i do gry dołączają tysiące nowych graczy. Korzystając z nowych narzędzi programistycznych, zespół wydaje większą aktualizację treści, która rozszerza obszary bagienne GDTE."
         }
     }
 }
