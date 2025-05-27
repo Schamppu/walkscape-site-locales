@@ -55,7 +55,9 @@
   },
   "singulars": {
     "callToAction": {
+      "playNow": "Zagraj teraz!",
       "registerNow": "<0>Zarejestruj się</0> i zgłoś aplikację do bety lub <1>wspieraj nas</1>, by zagwarantować sobie dostęp!",
+      "supportToStart": "Wspierający <0>Patreon</0> i <1>Buy Me a Coffee</1> mogą natychmiast rozpocząć grę!",
       "waveActive": "Wysyłamy zaproszenia do Bety!",
       "waveUndefined": "Nowa fala zaproszeń do Bety nadchodzi! Zasubskrybuj <0>newsletter</0> i obserwuj nasze <1>social media</1>, by być na bieżąco!"
     },
@@ -72,14 +74,15 @@
       "title": "Czym jest WalkScape?"
     },
     "howToPlay": {
-      "ensure": "By zapewnić sobie dostęp do gry najszybciej",
+      "ensure": "By zapewnić sobie natychmiastowy dostęp do gry, ty również możesz",
       "instructions": "By uzyskać instrukcje krok-po-kroku, jak zdobyć dostęp, udaj się <0>tutaj</0>!",
       "nextWave": "Następna fala zaproszeń do bety to",
       "subscribe": "Subskrybuj nasz <0>newsletter</0> i obserwuj <1>social media</1>, by być na bieżąco!",
+      "supportNow": "Wesprzyj nas, aby uzyskać natychmiastowy dostęp!",
       "tbd": "Do ustalenia",
       "title": "Jak zdobyć dostęp?",
       "waveDate": "{{start}} - {{end}}",
-      "waveExplain": "WalkScape jest aktualnie w <0>Zamkniętej Becie</0>. To znaczy, że gracze otrzymują dostęp w falach, by zapewnić nam czas na rozwój gry z pełnym skupieniem, a także by dostosować nasze serwery i możliwości finansowe we właściwy sposób."
+      "waveExplain": "WalkScape jest aktualnie w <0>Zamkniętej Becie</0>. To znaczy, że dostęp mają wyłącznie osoby, które wypełniły wniosek i zostały zaproszone lub które wsparły nas finansowo. Pozwala nam to rozwijać grę szybko i z pełnym skupieniem oraz skalować infrastrukturę naszych serwerów w sposób finansowo zrównoważony."
     },
     "meta": {
       "description": "WalkScape: Grinduj Chodząc!",
