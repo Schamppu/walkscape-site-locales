@@ -25,11 +25,11 @@
       "wiki": "Wiki"
     },
     "footer": {
-      "copyright": "Copyrights reserved by WalkScape.",
+      "copyright": "Copyrights reserved by Not a Cult Oy",
       "privacy-policy": "Privacy Policy"
     },
     "consent": {
-      "prompt": "This website uses cookies to analyze traffic. By clicking 'Accept' you consent to this usage."
+      "prompt": "This website uses cookies. By clicking 'Accept' you consent to this usage. You can read our <0> privacy policy here</0>."
     }
   }
 }
