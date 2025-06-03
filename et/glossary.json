@@ -1,1 +1,35 @@
-{}
+{
+  "singulars": {
+    "buttons": {
+      "accept": "Nõustu",
+      "buyMeACoffee": "Buy me a Coffee",
+      "contact": "Võtke meiega ühendust",
+      "download": "Lae mäng alla",
+      "game": "Alusta oma teekonda",
+      "newsletter": "Uudiskiri",
+      "patreon": "Patreon",
+      "register": "Registreeri",
+      "reject": "Keeldu",
+      "support": "Toeta meid"
+    },
+    "consent": {
+      "prompt": "See veebileht kasutab küpsiseid lehe kasutamise analüüsimiseks. Klõpsates 'Nõustu', annad nõusoleku nende kasutamiseks."
+    },
+    "footer": {
+      "copyright": "Autoriõigused kuuluvad WalkScape'ile.",
+      "privacy-policy": "Privaatsuspoliitika"
+    },
+    "routes": {
+      "contact": "Võtke ühendust",
+      "help": "Abi",
+      "home": "Koduleht",
+      "portal": "Portaal",
+      "presskit": "Pressikomplekt",
+      "register": "Registreeri",
+      "roadmap": "Tulevikuplaan",
+      "store": "Pood",
+      "support": "Toeta Meid",
+      "wiki": "Wiki"
+    }
+  }
+}

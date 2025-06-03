@@ -1,1 +1,96 @@
-{}
+{
+    "singulars": {
+        "getGame": {
+            "free": {
+                "noteContent": "Iga lainega saadetakse välja piiratud arv kutseid, kuid toetajatele on juurdepääs kindlustatud! Loe edasi kui oled portaalis juba konto registreerinud ja <0>mängu toetanud</0>.",
+                "instructions-3": "Oota liitumiskutset. Kutseid saadetakse lainetena ning <3>Kodulehel</3> saad vaadata millal järgmine laine toimub. Liitujatele saadetakse e-kiri juhistega mängu allalaadimiseks.",
+                "title": "Tasuta registreerimine:",
+                "note": "Märkus",
+                "instructions-1": "Loo konto <0>WalkScape portaalis</0> ja kinnita oma e-posti aadress (kinnituskirjad võivad mõnikord sattuda rämpsposti kausta).",
+                "instructions-2": "Navigeeri <1>Konto</1> lehele ja vali <2>Taotle beetatesti ligipääsu</2>."
+            },
+            "instructions-finish": "Kui on möödunud üle nelja tunni või tekib muid probleeme, proovi leida lahendus allolevast FAQ jaotisest või <0>Võta meiega ühendust</0>.",
+            "oauth": {
+                "instructions-4": "Kui kõik läheb hästi, näed kinnitussõnumit ning su konto on ühendatud. Tellimuse staatus peaks Konto lehel koheselt nähtav olema . Kui midagi läheb valesti, proovi konto ühendamist e-posti ja koodiga — juhised leiad allpool.",
+                "title": "Konto ühendamine OAuthi kaudu (soovitatav ainult Patreoni toetajatele):",
+                "instructions-1": "Liigu <1>Konto</1> leheküljele.",
+                "instructions-2": "Vali <4>Logi sisse Patreoniga</4> nupp <2>Patreoni konto ühendamise</2> osas.",
+                "instructions-3": "See lehekülg küsib sinu Patreoni kasutajatunnuseid. Sisesta oma konto e-post ja parool, millega oled WalkScape’i Patreonis tellinud."
+            },
+            "title": "Kuidas mängule ligipääs saada",
+            "email": {
+                "title": "Konto ühendamine e-posti ja koodi abil (Patreon/BMAC):",
+                "instructions-2": "Sisesta oma Patreoni/BMACi e-posti aadress vastavasse lahtrisse ja vajuta<4>SAA KOOD</4>.",
+                "instructions-3": "Kontrollkood saadetakse sisestatud e-posti aadressile. Sisesta kood konto lehel ja vajuta <4>ÜHENDA KONTO</4>.",
+                "instructions-4": "See on kõik! Teie tellimuse staatus peaks konto lehel nähtav olema. Pane tähele, et mõnel juhul võib süsteemi sünkroonimine võtta paar tundi."
+            }
+        },
+        "faq": {
+            "whatIs": {
+                "answer": "WalkScape on rollimäng, mis on inspireeritud RuneScape’ist ja teistest MMORPG-dest, kuid sellel on üks suur erinevus: mängu ei saa mängida arvuti või telefoni taga istudes. Edusamme tehakse päris elus kõndides. Mängul on suur avatud maailmaga kaart, kus on üle saja asukoha, mida mängija saab avastada. Maailm on täidetud lugude, NPC-de, ülesannete ja erinevate tegevustega, milles mängija saab osaleda – ja veelgi enam! Mängu eesmärk on julgustada aktiivset eluviisi ning toetada nii vaimset kui ka füüsilist tervist.",
+                "question": "Mis on WalkScape?"
+            },
+            "howCanIGet": {
+                "answer": "WalkScape on hetkel kinnises beetaversioonis, mis tähendab, et mängimiseks on vaja kutset. Mängijaid kutsutakse lainetena, kui vajame uusi testijaid. Kutsumislaine ajal on ligipääs garanteeritud kui oled projekti Patreonis või Buy Me a Coffee platformil toetanud. Mõne laine ajal võtame vastu ka tasuta tehtud kandideerimisi. Vaata lähemalt: <0>https://walkscape.app/help</0>",
+                "question": "Kuidas mängule juurdepääs saada?"
+            },
+            "futureMonetization": {
+                "answer-section-1": "<0>Offline-režiim</0> – Ühekordne makse. Pakume võimalust sooritada ühekordne ost, mis annab ligipääsu mängu üksi mängimisele. See versioon saab regulaarselt uuendusi, mängu avamiseks pole vaja internetiühendust ning lisame ka slaideri, mille abil saab oma sammudele kordaja lisada, et mängija saaks oma mängukogemust vastavalt soovile kohandada. Mitmikmängu funktsioone selles versioonis ei ole.",
+                "answer-section-2": "<0>Online-režiim</0> – taskukohane kuupõhine tellimus. Mängimiseks on vajalik internetiühendus, ent tellimusega kaasnevad kõik tuleviku uuendused ning saadaval on kõik mitmikmängu funktsioonid, mida mäng pakub.",
+                "question": "Kuidas plaanite tulevikus mängu rahastada?",
+                "answer-section-3": "<0>Tasuta mängijate ala</0> – mõlemal mängu versioonil on tasuta mängijate ala, mida saab vabalt nautida."
+            },
+            "hiring": {
+                "answer": "Not a Cult tavaliselt uusi töötajaid ei otsi, kuid abi on alati teretulnud! Võta ühendust @floursifter-iga <0>meie Discordi serveris</0>, et saata oma CV või pakkuda abi mõne kindla mänguvaldkonnaga.",
+                "question": "Kas Not A Cult vajab uusi töötajaid või muud abi?"
+            },
+            "designGoals": {
+                "answer-section-4": "<0>Tegemist on rohkelt.</0> Juba praegu on mängus sadu unikaalseid esemeid, kümneid huvitavaid asukohti mida avastada, üheksa oskust mida arendada ning palju erinevaid lõbusaid tegevusi milles mängijad saavad osaleda.",
+                "question": "Mis on WalkScape disainiplaanid?",
+                "answer-section-1": "<0>GPS-i ei kasutata.</0> Selle asemel kasutab mäng sinu telefoni sisseehitatud sammulugejat, mis võimaldab mängida nii jooksulindil kui ka igal pool mujal kõndides. Mäng salvestab sinu progressi ka siis, kui see pole avatud ega aktiivne.",
+                "answer-section-2": "<0>Segamatu mängukogemus.</0> Kõndimise ajal ei pea mäng avatud olema. Meie mängudisain on selle mõttega üles ehitatud – mängu on vaja avada vaid siis, kui koju naased. Tasakaalustame mängu nii, et seda oleks vaja avada vaid iga tuhande kuni kümne tuhande sammu järel, olenevalt sinu mängusisestest eesmärkidest.",
+                "answer-section-3": "<0>Online funktsionaalsus.</0> Neid hetkel palju ei ole, aga plaanime tulevikus luua mitmeid uusi võimalusi. Näiteks, turg kus saad müüa teistele mängijatele oma esemeid, PvP ja PvE võitlused, grupisüsteem, gildid ja palju muud!",
+                "answer-section-5": "<0>Reklaame ega mikrotehinguid mängus ei ole.</0> Me hindame oma mängijaid ja kogukonda ning seepärast väldime agressiivseid raha teenimise meetodeid. Mängu saab mängida tasuta, kuid on ka võimalusi rahaliseks toetamiseks – kas ühekordselt või kuupõhiselt."
+            },
+            "support": {
+                "answer": "Parim viis tiimiga ühendust võtta on saata e-kiri aadressile <0>contact@walkscape.app</0>. Vastuse saamiseks palume arvestada kuni nädala pikkuse ooteajaga, kuna meie tiim on väike ning keskendume peamiselt mängu arendamisele. Kiireloomulise mure korral võtke palun ühendust @floursifter-i või @maxchilli-ga <1>meie Discordi serveris</1>. Discordis võite julgelt abi küsida, kui vajate tuge või pole kindel, kas e-kirja saatmine on vajalik.",
+                "question": "Kuhu peaksin pöörduma, kui vajan abi või soovin tiimiga ühendust võtta?"
+            },
+            "treadmill": {
+                "answer": "Jah. Mängu saab mängida koha peal astudes, majas ringi liikudes, jooksulindi peal või toidupoes osteldes – igal pool, kus on turvaline kõndida.",
+                "question": "Kas mängu saab mängida jooksulindil?"
+            },
+            "lastUpdated": "Viimati uuendatud",
+            "closedBetaEnd": {
+                "question": "Millal saab mäng avalikuks?",
+                "answer": "WalkScape plaanib avalikuks minna siis kui järgnevad puuduolevad funktsioonid on loodud:",
+                "req-1": "Nutikellade tugi",
+                "req-2": "Kauplemine",
+                "req-3": "Ülesanded",
+                "req-4": "Võitlemine"
+            },
+            "platforms": {
+                "question": "Millistel platvormidel saab mängu mängida?",
+                "answer": "Mäng on saadaval Google Play poes (Android) ja Testflightis (iOS)."
+            },
+            "smartwatch": {
+                "question": "Kas mängida saab ka nutikella abil?",
+                "answer": "Hetkel nutikella tuge veel ei ole – sammude lugemiseks pead telefoni kaasas kandma. Suletud beetaversiooni lõpuks plaanime nutikella toe lisada."
+            },
+            "ideas": {
+                "question": "Mul mängu jaoks lahe idee!",
+                "answer": "Ootame teie ettepanekuid huviga! Parim koht nende jagamiseks on meie Discordi serveri <0>⁠suggestions-and-feedback</0> kanal."
+            },
+            "exerciseSupport": {
+                "question": "Kas plaanite tulevikus lisada mängule toetust ka teistele tegevustele peale kõndimise?",
+                "answer-section-1": "Mängu nimeks on WalkScape just seetõttu, et kogu tegevus põhineb kõndimisel. Kõndides saab arendada kõiki oskuseid ja osaleda kõigis mängu tegevustes. Kõndimine on tegevus mida enamik inimesi teeb passiivselt, seega isegi kui sa jalutad poodi või liigud tööl olles ringi, siis saavutad alati WalkScape-s midagi."
+            },
+            "title": "Korduma kippuvad küsimused"
+        },
+        "meta": {
+            "title": "WalkScape | Abi",
+            "description": "Leia vastused korduma kippuvatele küsimustele"
+        },
+        "title": "Abi"
+    }
+}
