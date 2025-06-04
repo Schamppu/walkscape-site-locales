@@ -13,10 +13,10 @@
       "support": "Wspieraj Nas"
     },
     "consent": {
-      "prompt": "Ta strona używa plików cookie do analizy ruchu. Klikając \"Akceptuj\" wyrażasz zgodę na ich użycie."
+      "prompt": "Ta strona używa plików cookie. Klikając \"Akceptuj\" wyrażasz zgodę na ich użycie.Możesz przeczytać tutaj naszą <0>politykę prywatności </0>."
     },
     "footer": {
-      "copyright": "Prawa zastrzeżone przez WalkScape.",
+      "copyright": "Prawa zastrzeżone przez Not a Cult Oy.",
       "privacy-policy": "Polityka Prywatności"
     },
     "routes": {
