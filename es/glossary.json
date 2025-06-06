@@ -1,6 +1,7 @@
 {
   "singulars": {
     "buttons": {
+      "accept": "Aceptar",
       "buyMeACoffee": "Buy me a coffee",
       "contact": "Contáctanos",
       "download": "Descargar juego",
@@ -8,10 +9,14 @@
       "newsletter": "Boletín informativo",
       "patreon": "Patreon",
       "register": "Registrarse",
+      "reject": "Rechazar",
       "support": "Apóyanos"
     },
+    "consent": {
+      "prompt": "Esta página utiliza cookies. Al hacer click en «Aceptar» nos autorizas a su uso. Puedes leer nuestra <0>política de privacidad aquí</0>."
+    },
     "footer": {
-      "copyright": "Derechos de copia reservados por WalkScape.",
+      "copyright": "Copyright reservado por Not a Cult Oy",
       "privacy-policy": "Política de privacidad"
     },
     "routes": {
