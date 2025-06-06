@@ -2,23 +2,23 @@
     "singulars": {
         "getGame": {
             "free": {
-                "noteContent": "Se enviaran una cantidad limitada de invitaciones en cada oleada, pero puedes asegurar el acceso ¡convirtiéndote en un afiliado! Continúa leyendo si ya has creado una cuenta en el Portal de WalkScape y <0>apoyado al juego</0>.",
+                "noteContent": "Se enviará una cantidad limitada de invitaciones cada cierto tiempo, ¡pero puedes asegurarte el acceso apoyándonos! Continúa leyendo si ya has creado una cuenta en el portal y <0>apoyado al juego</0>.",
                 "title": "Para registrarse de forma gratuita:",
                 "note": "Nota",
                 "instructions-1": "Crea una cuenta en el <0>Portal de WalkScape</0>. Asegúrate de que verificas tu dirección de correo electrónico (el correo de verificación termina, a veces, en la carpeta de spam).",
                 "instructions-2": "Dirígete a la página de <1>Cuenta</1> y selecciona <2>Solicitar acceso a la Beta</2>.",
-                "instructions-3": "Espera a la invitación. Las invitaciones se envían en oleadas, y puedes comprobar para cuándo está programada la siguiente oleada en la página de <3>Inicio</3>. Los invitados recibirán un correo electrónico con instrucciones sobre como instalar el juego."
+                "instructions-3": "Espera la invitación. Mandamos invitaciones de vez en cuando, así que echa un ojo a tu bandeja de entrada de correo electrónico."
             },
             "oauth": {
                 "instructions-4": "Si todo funciona correctamente, deberías ver una pantalla de resultado con éxito, en cuyo caso la cuenta ha sido vinculada y el estado de suscripción debería ser visible inmediatamente en la página de Cuenta. Si algo no saliera bien, deberás intentar vincular la cuenta a través de la combinación de correo electrónico y código, como se describe a continuación.",
-                "title": "Vincular cuenta con OAuth (solo Patreon, recomendado):",
+                "title": "Vincular cuenta con OAuth (Patreon):",
                 "instructions-1": "Dirígete a la página de <1>Cuenta</1>.",
                 "instructions-2": "Selecciona la opción <4>Iniciar sesión con Patreon</4>, bajo la sección <2>Vincular una cuenta de Patreon</2>.",
                 "instructions-3": "El sitio debería preguntar por tus credenciales de Patreon. Introduce la dirección de correo electrónico y contraseña de la cuenta que se ha suscrito a WalkScape en Patreon."
             },
             "title": "Cómo conseguir el juego",
             "email": {
-                "title": "Vincular cuenta con correo electrónico y código (Patreon/Buy Me a Coffee):",
+                "title": "Vincular cuenta con correo electrónico y código (BMAC):",
                 "instructions-2": "Introduce en el campo correspondiente, la dirección de correo electrónico utilizada en tu cuenta de Patreon/Buy Me a Coffee, y pulsa <4>CONSEGUIR CÓDIGO</4>.",
                 "instructions-3": "Deberías de recibir un correo electrónico con un código de verificación, en la dirección de correo indicada anteriormente. Introduce el código en al pagina de tu cuenta y pulsa <4>VINCULAR CUENTA</4>.",
                 "instructions-4": "Con eso debería de ser suficiente. Tu estado de suscripción estará disponible en la página de Cuenta. Por favor, ten presente que en algunos casos, la sincronización del sistema puede tardar varias horas."
@@ -73,6 +73,47 @@
             "smartwatchSupport": {
                 "question": "¿Se ofrecerá soporte para relojes y bandas inteligentes?",
                 "answer": "¡Sí! Los relojes inteligentes serán soportados. Primero integraremos el juego con Apple Health y Google Fit, y después ofreceremos soporte para Strava. A partir de ahí, puede que añadamos soporte para otros fabricantes. Aunque si tu reloj o banda se pueden sincronizar con Strava/Fit/Health, lo más probable es que puedas utilizarlo con el juego."
+            },
+            "lastUpdated": "Última actualización",
+            "whatIs": {
+                "question": "¿Qué es WalkSpace?",
+                "answer": "WalkSpace en un RPG inspirado en RuneScape y otros MMORPGs. Sin embargo, tiene una differencia evidente: no lo juegas de maner activa. En su lugar, progresas andando en la vida real. El juego tiene un mapa de mundo abierto descomunal con más de cien lugares para que explore el jugador. El juego está lleno de lore, NPCs, misiones y actividades para que el jugador se involucre ¡y más! Nuestra misión con el juego es animar a un estilo de vida activo y promover tanto la salud física como la mental."
+            },
+            "designGoals": {
+                "answer-section-5": "<0>Sin microtransacciones ni anuncios.</0> Valoramos a nuestros jugadores y a nuestra comunidad y estamos comprometidos a evitar las prácticas predatorias de monetización. Por ello, el juego se ofrecerá gratis, con opciones de comprarlo de una vez o pagar una cuota mensual asequible.",
+                "question": "¿Cuáles son los objetidos de diseño de WalkScape?",
+                "answer-section-1": "<0>Nada de GPS.</0> En su lugar, el juego utiliza el podómetro interno de tu smartphone, lo que te permite jugar en una cinta o andando a donde quieras. Además, el juego monitoriza tu progreso aunque no esté abierto o activo.",
+                "answer-section-2": "<0>Juega sin distracciones.</0> No necesitas tener el juego abierto mientras haces deporte. Nuestro diseño de juego está dirigido a esto, lo que hace que solo necesites abrir el juego cuando vuelvas a casa. EL juego está balanceado para que necesites abrirlo cuando alcances de mil a diez mil pasos, dependiendo de tus objetivos dentro del juego.",
+                "answer-section-3": "<0>Funciones online.</0> Aunque no hay muchas en el juego a día de hoy, planeamos ofertar una multitud de funciones multijugador, incluyendo un mercado para vender tus objetos a otros jugadores, combate PvP y PvE, un sistema de fiesta, gremios ¡y más!",
+                "answer-section-4": "<0>Un montón de contenido.</0> El juego ya presume de tener cientos de objetos únicos, docenas de lugares únicos, nueve habilidades que desarrollar y abundantes actividades divertidas para los jugadores."
+            },
+            "futureMonetization": {
+                "answer-section-1": "<0>Modo offline</0> - Compra única. Podrás pagar una sola vez para bajar el modo offline del juego. Recibirás futuras actualizaciones de contenido, no tendrás el requisito de estar online para abrir el juego y tendrás un control deslizante que multiplique tus pasos para alcanzar la experiencia de juego que desees. Sin funciones multijugador.",
+                "question": "¿Cuál es la estrategia a futuro de monetización del juego?"
+            },
+            "howCanIGet": {
+                "question": "¿Cómo puedo conseguir el juego?",
+                "answer": "WalkScape está en beta cerrada, lo que significa que necesitas una invitación para jugar. Invitamos a jugadores que han rellenado una solicitud a medida que necesitamos probadores. Los tiempos de espera varían, pero la mayoría de jugadores consiguen una invitación tras unos meses. Tienes garantizada una invitación instantánea al juego si has apoyado el proyecto en Patreos o Buy Me a Coffee."
+            },
+            "closedBetaEnd": {
+                "question": "¿Cuándo va a dejar el juego de estar en fase de beta cerrada?",
+                "answer": "WalkScape pretende dejar de estar en beta cerrada cuando tengamos las siguientes funciones:",
+                "req-1": "Soporte para relojes inteligentes",
+                "req-2": "Comercio",
+                "req-3": "Misiones",
+                "req-4": "Combate"
+            },
+            "platforms": {
+                "question": "¿En qué plataformas está disponible el juego?",
+                "answer": "El juego está disponible a través de Google Play Store (Android) y Testflight (iOS)."
+            },
+            "treadmill": {
+                "question": "¿Puedo jugar en una cinta de correr?",
+                "answer": "Sí. Puedes jugar andando en el sitio, caminando por tu casa, en una cinta, mientras haces la compra. Juega donde te sientas seguro."
+            },
+            "smartwatch": {
+                "question": "¿Hay soporte para relojes inteligentes?",
+                "answer": "De momento no hay soporte para relojes inteligentes. Necesitarás llevar el teléfono encima para contar los pasos que das. Hay planes de dar soporte antes de que el juego salga a beta abierta."
             }
         },
         "meta": {
