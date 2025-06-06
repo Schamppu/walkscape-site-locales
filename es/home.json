@@ -55,7 +55,9 @@
   },
   "singulars": {
     "callToAction": {
+      "playNow": "¡Juega ahora!",
       "registerNow": "¡<0>Regístrate ahora</0> para solicitar una invitación o <1>apóyanos</1> para asegurar el acceso!",
+      "supportToStart": "¡Los que nos apoyan en <0>Patreon</0> y <1>Buy Me a Coffee</1> pueden jugar inmediatamente!",
       "waveActive": "¡Actualmente estamos enviando invitaciones a la Beta!",
       "waveUndefined": "¡La siguiente oleada de la Beta cerrada se acerca! ¡Suscríbete a nuestro <0>boletín informativo</0> y síguenos en nuestras <1>redes sociales</1> para estar actualizado!"
     },
@@ -72,13 +74,15 @@
       "title": "¿Qué es WalkScape?"
     },
     "howToPlay": {
-      "ensure": "Para asegurar el acceso al juego lo antes posible",
+      "ensure": "Para asegurar el acceso instantáneo al juego también puedes",
       "instructions": "Para instrucciones paso por paso sobre como conseguir acceso, ¡mira <0>aquí</0>!",
       "nextWave": "La siguiente oleada de invitaciones para la Beta es",
       "subscribe": "¡Suscríbete a nuestro <0>boletín informativo</0> y síguenos en nuestras <1>redes sociales</1> para estar actualizado!",
+      "supportNow": "¡Apóyanos y consigue acceso instantáneo!",
+      "tbd": "Por determinarse",
       "title": "¿Cómo conseguir acceso?",
       "waveDate": "{{start}} - {{end}}",
-      "waveExplain": "WalkScape está actualmente en fase de <0>Beta cerrada</0>. Esto significa que los jugadores obtendrán acceso por oleadas, para darnos tiempo a desarrollar el juego de forma rápida y completamente centrados, ademas de permitirnos escalar nuestra infraestructura de servidores de una forma financieramente sostenible."
+      "waveExplain": "WalkScape está actualmente en fase de <0>Beta cerrada</0>. Esto significa que el acceso está restringido a aquellos que hayan rellenado la solicitud y sean invitados, o que nos hayan apoyado económicamente. Esto nos permite desarrollar el juego de forma rápida y completamente centrados, ademas de permitirnos escalar nuestra infraestructura de servidores de una forma financieramente sostenible."
     },
     "meta": {
       "description": "WalkScape: ¡machácalo al caminar!",
