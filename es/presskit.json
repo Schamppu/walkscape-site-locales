@@ -6,6 +6,9 @@
         "content-2": "En Not a Cult somos entusiastas empedernidos por los juegos, y creemos que son más que un producto o servicio. Nos esforzamos para crear nuestros juegos de una manera ética, ambiental y personalmente sostenibles. La comunicación abierta y honesta es importante para nosotros, y nos sentimos orgullosos de tener una base de fans activa e involucrada. Y no somos un culto.",
         "title": "Sobre el desarrollador"
       },
+      "acknowledgements": {
+        "title": "Agradecimientos"
+      },
       "art": {
         "download": "Descargar arte promocional como fichero .zip",
         "title": "Arte promocional"
