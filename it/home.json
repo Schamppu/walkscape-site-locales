@@ -55,7 +55,9 @@
   },
   "singulars": {
     "callToAction": {
+      "playNow": "Gioca Ora!",
       "registerNow": "<0>Registrati adesso</0> per candidarti ad un invito o per <1>supportarci</1> garantendoti l'accesso!",
+      "supportToStart": "I sostenitori di Patreon e Buy Me a Coffee possono ora iniziare a giocare immediatamente!",
       "waveActive": "Stiamo mandando adesso gli inviti per la Beta!",
       "waveUndefined": "La prossima ondata per la Beta ad Accesso Limitato sta arrivando! Iscriviti alla nostra <0>newsletter</0> e seguici sui nostri <1>social media</1> per rimanere aggiornato!"
     },
@@ -80,14 +82,15 @@
       "title": "Cos'è WalkScape?"
     },
     "howToPlay": {
-      "ensure": "Per garantire l'accesso al gioco quanto prima possibile",
+      "ensure": "Per garantire l'accesso immediato al gioco, puoi anche",
       "instructions": "Per istruzioni passo dopo passo per ottenere l'accesso, vai <0>qui</0>!",
       "nextWave": "La prossima ondata di inviti per la beta è",
       "subscribe": "Iscriviti alla nostra <0>newsletter</0> e seguici sui nostri <1>social media</1> per rimanere aggiornato!",
+      "supportNow": "Supportaci ora per un accesso instantaneo!",
       "tbd": "Da definire",
       "title": "Come si ottiene l'accesso?",
       "waveDate": "{{start}} - {{end}}",
-      "waveExplain": "WalkScape è in <0>Beta ad Accesso Limitato</0>. Questo significa che i giocatori riceveranno l'accesso al gioco in ondate, per darci il tempo tra le varie ondate di sviluppare il gioco rapidamente al massimo della concentrazione, e per ingrandire i nostri server progressivamente con spese sostenibili."
+      "waveExplain": "WalkScape è attualmente in <0>Beta chiusa</0>. Ciò significa che l'accesso è limitato a coloro che hanno compilato una domanda e sono stati invitati, o che ci hanno sostenuto finanziariamente. Ciò ci consente di sviluppare il gioco rapidamente e con la massima concentrazione, nonché di ampliare la nostra infrastruttura di server in modo finanziariamente sostenibile."
     },
     "meta": {
       "description": "WalkScape: Sali di Livello Camminando!",
