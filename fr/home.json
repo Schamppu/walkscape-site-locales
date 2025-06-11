@@ -55,6 +55,7 @@
   },
   "singulars": {
     "callToAction": {
+      "playNow": "Jouer Maintenant !",
       "registerNow": "<0>Inscrivez-vous maintenant</0> pour postuler à la bêta ou <1>soutenez-nous</1> pour garantir votre accès !",
       "waveActive": "Les invitations à la bêta sont en cours d'envoi !",
       "waveUndefined": "La prochaine vague de la bêta fermée arrive bientôt ! Abonnez-vous à notre <0>newsletter</0> et suivez nos <1>réseaux sociaux</1> pour rester informé !"
