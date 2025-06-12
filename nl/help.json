@@ -120,12 +120,12 @@
                 "title": "Om je gratis aan te melden:",
                 "note": "Let op",
                 "instructions-2": "Navigeer naar de <1>Accountpagina</1> en selecteer <2>Beta-toegang aanvragen</2>.",
-                "instructions-3": "Wacht op een uitnodiging. Uitnodigingen worden in groepen verstuurd en je kunt op de <3>Startpagina</3> zien wanneer de volgende gepland is. Uitgenodigden zullen een email ontvangen waarin uitgelegd wordt hoe je het spel installeert.",
-                "noteContent": "Een beperkt aantal uitnodigingen worden verstuurd in elke groep, maar je kunt toegang garanderen door ons financieel te steunen! Lees verder als je je al geregistreerd hebt op de Portal en <0>het spel gesteund hebt</0>.",
+                "instructions-3": "Wacht op een uitnodiging. We versturen periodiek uitnodigingen, dus houd de inbox van je e-mail in de gaten.",
+                "noteContent": "Een beperkt aantal uitnodigingen wordt verstuurd per keer, maar je krijgt gegarandeerd direct toegang door ons financieel te steunen! Lees verder als je je al geregistreerd hebt op de Portal en <0>het spel gesteund hebt</0>.",
                 "instructions-1": "Maak een account aan op de <0>WalkScape Portal</0>. Zorg ervoor dat je emailadres geverifieerd is (de verificatie-emails komen soms in je spam-inbox terecht)."
             },
             "oauth": {
-                "title": "Account verbinden met OAuth (alleen voor Patreon, aanbevolen):",
+                "title": "Account verbinden met OAuth (Patreon):",
                 "instructions-1": "Ga naar de <1>Accountpagina</1>.",
                 "instructions-3": "De website zal je vragen om je Patreon-inloggegevens. Voer het emailadres en wachtwoord in van het account dat op Patreon geabonneerd is op WalkScape.",
                 "instructions-2": "Klik op de <4>Login met Patreon</4> knop in het <2>Patreon-account verbinden</2> gedeelte.",
