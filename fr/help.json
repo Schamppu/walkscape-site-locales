@@ -4,7 +4,7 @@
             "oauth": {
                 "instructions-4": "Si tout se passe bien, vous devriez voir un écran de validation, dans ce cas votre compte est lié et votre status d'abonnement devrait être immédiatement visible sur la page Compte. Si quelque chose ne se passe pas comme prévu, il est possible que vous vouliez essayer de lier le compte avec votre e-mail et un code, tel que décrit ci-dessous.",
                 "instructions-2": "Cliquez sur le bouton <4>Se connecter avec Patreon</4> dans la section <2>Lier un compte Patreon</2>.",
-                "title": "Lier le compte via OAuth (Patreon uniquement, recommandé) :",
+                "title": "Lier votre compte via OAuth (Patreon) :",
                 "instructions-1": "Rendez vous sur la page <1>Compte</1>.",
                 "instructions-3": "Le site devrait vous demander vos identifiants Patreon. Saisissez l'e-mail et le mot de passe du compte qui est abonné à WalkScape sur Patreon."
             },
@@ -14,11 +14,11 @@
                 "note": "Note",
                 "instructions-1": "Créer un compte sur le <0>portail WalkScape</0>. Assurez-vous de vérifier votre adresse e-mail (les e-mails de vérification se trouvent parfois dans les spams).",
                 "instructions-2": "Naviguez vers la page <1>Compte</1> et sélectionnez <2>Postuler à l'accès bêta</2>.",
-                "instructions-3": "Attendez pour recevoir une invitation. Les invitations sont distribuées par vagues et vous pouvez vérifier quand la prochaine vague aura lieu sur la page <3>Accueil</3>. Les invités recevront un e-mail contenant les instructions décrivant comment installer du jeu."
+                "instructions-3": "Patientez pour recevoir une invitation. Nous envoyons des invitations régulièrement, donc gardez un œil sur votre boite mail."
             },
             "title": "Comment accéder au jeu",
             "email": {
-                "title": "Lier le compte avec un e-mail et un code (Patreon/BMAC) :",
+                "title": "Lier votre compte avec un e-mail et un code (BMAC) :",
                 "instructions-3": "Vous devriez recevoir un e-mail contenant un code de vérification à l'adresse que vous aurez indiquée. Saisissez le code reçu dans le champ correspondant sur la page compte et cliquez sur <4>LIER LE COMPTE</4>.",
                 "instructions-2": "Saisissez l'e-mail utilisé pour votre compte Patreon/BMAC dans le champ de saisie correspondant et cliquez sur <4>OBTENIR UN CODE</4>.",
                 "instructions-4": "Cela devrait fonctionner et votre status d'abonnement devrait être visible sur la page compte. Veuillez noter que dans certains cas il est possible que le système mette quelques heures à se synchroniser complètement."
@@ -85,12 +85,14 @@
             },
             "howCanIGet": {
                 "question": "Comment obtenir le jeu ?",
-                "answer": "WalkScape est actuellement en bêta fermée, ce qui signifie qu'une invitation est nécessaire pour jouer. Nous envoyons les invitations par vagues, selon nos besoins en testeurs. Au début et pendant chaque vague d'invitations, vous avez la garantie d'être invité si vous avez soutenu le projet sur Patreon ou Buy Me a Coffee. Lors de certaines vagues, nous acceptons aussi des candidatures ouvertes, gratuites à remplir. Retrouvez tous les détails ici : <0>https://walkscape.app/help</0>"
+                "answer": "WalkScape est actuellement en bêta fermée, ce qui signifie qu'une invitation est nécessaire pour jouer. Nous invitons les joueurs qui se sont inscrits à mesure que nous avons besoin de nouveaux testeurs. Le délai d'attente est variable, mais la plupart des joueurs reçoivent une invitations après quelques mois. Vous recevrez une invitation instantanée garantie si vous avez supporté le projet sur Patreon ou Buy Me a Coffee."
             },
             "designGoals": {
                 "question": "Quel sont les objectifs de conception de WalkScape ?",
                 "answer-section-1": "<0>Pas de GPS.</0> À la place the jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou par marcher où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif.",
-                "answer-section-2": "<0>Jouez sans distraction.</0> Vous n'avez pas besoin de garder le jeu ouvert pendant vos activités physiques. Notre concept de jeu est pensé pour cela : il vous suffit d’ouvrir l'application une fois rentré chez vous. Nous avons conçu le jeu pour être équilibré autour d’une ouverture nécessaire toutes les mille à dix mille pas, selon vos objectifs en jeu."
+                "answer-section-2": "<0>Jouez sans distraction.</0> Vous n'avez pas besoin de garder le jeu ouvert pendant vos activités physiques. Notre concept de jeu est pensé pour cela : il vous suffit d’ouvrir l'application une fois rentré chez vous. Nous avons conçu le jeu pour être équilibré autour d’une ouverture nécessaire toutes les mille à dix mille pas, selon vos objectifs en jeu.",
+                "answer-section-4": "<0>Enormément de contenu.</0> Le jeu contient déjà des centaines d'objets uniques, des douzaines de lieux, neuf compétences à améliorer, et des tas d'activités amusantes pour les joueurs.",
+                "answer-section-3": "<0>Fonctionnalités en ligne.</0> Bien que peu d'entre elles soit actuellement en jeu, nous prévoyons d'offrir une pléthore de fonctionnalités multi-joueurs, comprenant un marché où vendre vos objets aux autres joueurs, des combats JcJ et JcE, un système de groupe, des guildes et plus encore !"
             },
             "closedBetaEnd": {
                 "question": "Quand est-ce que le jeu sortira de la beta fermée ?",
