@@ -55,7 +55,9 @@
   },
   "singulars": {
     "callToAction": {
+      "playNow": "Speel nu!",
       "registerNow": "<0>Registreer nu</0> om je aan te melden voor een uitnodiging of <1>steun ons</1> om gegarandeerd toegang te krijgen!",
+      "supportToStart": "Door te steunen op <0>Patreon</0) of <1>Buy Me a Coffee</1> kan je nu direct beginnen met spelen!",
       "waveActive": "We nodigen momenteel spelers uit voor de beta-test!",
       "waveUndefined": "De volgende uitnodigingsronde voor de gesloten beta-test begint binnenkort! Abonneer op onze <0>nieuwsbrief</0> en volg onze <1>social media<1> om niks te missen!"
     },
@@ -72,10 +74,11 @@
       "title": "Wat is WalkScape?"
     },
     "howToPlay": {
-      "ensure": "Om zo snel mogelijk toegang te krijgen tot het spel",
+      "ensure": "Om direct toegang te krijgen tot het spel, kun je ook",
       "instructions": "Lees <0>hier</0> stap voor stap hoe je toegang krijgt!",
       "nextWave": "Volgende beta-uitnodigingsronde begint op",
       "subscribe": "Abonneer je nu op onze <0>nieuwsbrief</0> en volg onze <1>social media</1> om niks te missen!",
+      "supportNow": "Nu steunen om direct toegang te krijgen!",
       "tbd": "Onbekend",
       "title": "Hoe krijg je toegang?",
       "waveDate": "{{start}} - {{end}}",
