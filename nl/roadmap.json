@@ -105,9 +105,9 @@
             "content": "De eerste echte multiplayer functionaliteit, waarbij spelers samen een partij kunnen vormen om doelen te halen."
         },
         "devTools": {
-            "date": "Jaarwisseling 2024-2025",
+            "date": "Februari, 2025",
             "title": "Devtools 2.0",
-            "content": "Om een stuk sneller nieuwe inhoud te ontwikkelen, worden de interne devtools die door het ontwikkelaarsteam gebruikt worden compleet hernieuwd."
+            "content": "Na de grote engine update komt het team al gauw met nieuwe devtools, waardoor het content-team onafhankelijker van het programmeerteam kan werken."
         },
         "gdteUpdate": {
             "title": "GHTE Update",
@@ -115,24 +115,34 @@
             "content": "Voordat we verder werken aan andere continenten, wordt Groot Hertogdom van Trellin-Erdwijs meer opgevuld om net zo veel inhoud te krijgen als Jarvonië en Syrenthië."
         },
         "trading": {
-            "date": "1e kwartaal, 2025",
+            "date": "",
             "title": "Ruilen Tussen Spelers",
             "content": "Voor de volgende grote multiplayer functionaliteit, wordt het ruilen tussen spelers toegevoegd, waardoor de 'MMO' van WalkScape's 'MMORPG' een realiteit wordt."
         },
         "combat": {
-            "date": "1e kwartaal, 2025",
+            "date": "",
             "title": "Gevechtensysteem",
-            "content": "De eerste versie van het gevechtensysteem wordt uitgebracht. Het team houdt er rekening mee dat er meerdere iteraties nodig zijn zodra het testen ervan begint."
+            "content": "De eerste versie van het gevechtensysteem wordt uitgebracht om te testen na de ruilfunctie. Het team houdt er rekening mee dat er meerdere iteraties nodig zijn zodra het testen ervan begint."
         },
         "quests": {
-            "date": "2e kwartaal, 2025",
+            "date": "",
             "title": "Quests",
             "content": "Als laatste grote feature, worden quests toegevoegd om spelers handgemaakte verhalen te geven om doorheen te spelen."
         },
         "smartWatch": {
-            "date": "2e kwartaal, 2025",
-            "title": "Ondersteuning Voor Smart Devices",
-            "content": "Ondersteuning voor smartwatches en wellicht andere wearables wordt toegevoegd, waardoor stappen geregistreerd kunnen worden zonder dat de telefoon altijd meegenomen moet worden."
+            "date": "25 april, 2025",
+            "title": "Ondersteuning van Wearables voor iOS",
+            "content": "Na via een poll interesse te peilen bij de community, besluit het team ondersteuning van wearables voor iOS toestellen te ontwikkelen als proef van de functionaliteit, wat in april uitgebracht wordt."
+        },
+        "engineUpdate": {
+            "date": "29 januari, 2025",
+            "title": "Engine Update & Uitrustingssets",
+            "content": "Tijdens de winter van 2024-2025 ervaart het team de langste periode zonder updates tot dan toe. Drie maanden lang worden grote delen van de engine herschreven om performance en stabiliteit te verbeteren, en om een groter aantal functionaliteiten te ondersteunen. De eerste functie die hier gebruikt van maakt, zijn uitrustingssets, wat op hetzelfde moment uitgebracht wordt."
+        },
+        "wave4": {
+            "date": "15 mei, 2025",
+            "title": "Groep 4 en Drassigheid",
+            "content": "Uitnodigingen worden gestuurd naar de 4e groep en duizenden nieuwe spelers beginnen te spelen. Met de nieuwe ontwikkelaarstools brengt het team een grotere update uit die het moerasgedeelte van GDTE uitbreid."
         }
     }
 }
