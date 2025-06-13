@@ -71,7 +71,7 @@
                 "question": "Wat is WalkScape?"
             },
             "howCanIGet": {
-                "answer": "WalkScape is in gesloten bèta, wat betekent dat je moet worden uitgenodigd om te spelen. We nodigen spelers uit in (uitnodigings)rondes wanneer we nieuwe testers nodig hebben. Aan het begin van (en tijdens) een uitnodigingsronde krijg je gegarandeerd een uitnodiging als je het project hebt gesteund via Patreon of Buy Me a Coffee. Tijdens sommige (uitnodigings)rondes accepteren we ook algemene aanmeldingen, die je zonder kosten kunt opgeven. Alle details vind je op: <0>https://walkscape.app/help</0>",
+                "answer": "WalkScape is in gesloten bèta, wat betekent dat je moet worden uitgenodigd om te spelen. We nodigen spelers uit die een aanvraag hebben ingediend wanneer we nieuwe testers nodig hebben. De wachttijd variëert, maar de meeste spelers krijgen binnen een paar maanden een uitnodiging. Je kunt ook gegarandeerd direct een uitnodiging krijgen als je het project steunt op Patreon of Buy Me a Coffee.",
                 "question": "Hoe kan ik het spel krijgen?"
             },
             "closedBetaEnd": {
@@ -89,7 +89,7 @@
                 "answer-section-3": "<0>Free-to-play speelgebied</0> - beide vormen van het spel hebben een free-to-play speelgebied die je zonder kosten kunt spelen."
             },
             "support": {
-                "answer": "Je kunt het beste contact opnemen met het team door een e-mail te sturen naar <0>contact@walkscape.app</0>. Geef ons tot een week na het e-mailen als we niet in een actieve uitnodigingsronde zitten; we zijn een klein team dat zich probeert te concentreren op ontwikkeling. Je kunt ook contact opnemen met @floursifter of @maxchill op <1>onze Discord</1>. Voel je vrij om in de Discord server te vragen of we je kunnen helpen met je probleem of dat je contact moet opnemen via e-mail.",
+                "answer": "Je kunt het beste contact opnemen met het team door een e-mail te sturen naar <0>contact@walkscape.app</0>. We verzoeken je vriendelijk geduld te hebben, omdat we een klein team zijn en proberen te focussen op de ontwikkeling van het spel, waardoor het op drukke periodes tot een week kan duren voordat je een reactie krijgt. Je kunt ook contact opnemen met @maxchill op <1>onze Discord</1>. Voel je vrij om in de Discord server te vragen of we je kunnen helpen met je probleem of dat je contact moet opnemen via e-mail.",
                 "question": "Ik heb ondersteuning nodig of wil contact opnemen met het team."
             },
             "platforms": {
@@ -132,7 +132,7 @@
                 "instructions-4": "Als alles goed gaat, zou je een succes-scherm moeten zien, waarna je account verbonden is en je abonnementsstatus direct zichtbaar is op de Accountpagina. Als er iets mis gaat, kun je proberen om het account te verbinden via email en code, zoals hieronder toegelicht wordt."
             },
             "email": {
-                "title": "Account verbinden via email en code (Patreon/BMaC):",
+                "title": "Account verbinden via email en code (BMaC):",
                 "instructions-2": "Voer in het bijbehorende invoerveld het emailadres in wat gebruikt is voor je Patreon/BMaC-account en klik op <4>CODE AANVRAGEN</4>.",
                 "instructions-3": "Je zou op het opgegeven adres een email moeten krijgen met een verificatiecode. Voer de code in op de accountpagina en klik op <4>ACCOUNT VERBINDEN</4>.",
                 "instructions-4": "Nu zou het gelukt moeten zijn en zou je abonnementsstatus zichtbaar moeten zijn op de accountpagina. Let op dat het in sommige gevallen een paar uur kan duren voordat het systeem volledig gesynchroniseerd is."
