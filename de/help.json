@@ -106,7 +106,8 @@
                 "answer": "WalkScape befindet sich in der geschlossenen Beta-Phase, was bedeutet, dass zum Spielen eine Einladung notwendig ist. Da stetig neue Tester benötigt werden, laden wir Spieler ein, die eine Bewerbung ausgefüllt haben. Die Wartezeiten sind unterschiedlich, aber die meisten Spieler erhalten nach ein paar Monaten eine Einladung. Eine sofortige Einladung zum Spiel ist dir garantiert, wenn du das Projekt auf Patreon oder Buy Me a Coffee unterstützt hast."
             },
             "designGoals": {
-                "answer-section-1": "<0>Kein GPS.</0> Stattdessen verwendet das Spiel den Schrittzähler des Smartphones, sodass es möglich ist, auch auf einem Laufband oder einem anderen beliuebigen Ort zu spielen. Außerdem werden die Schritte somit auch dann gezählt, wenn das Spiel nicht geöffnet oder aktiv im Vordergrund ausgeführt wird."
+                "answer-section-1": "<0>Kein GPS.</0> Stattdessen verwendet das Spiel den Schrittzähler des Smartphones, sodass es möglich ist, auch auf einem Laufband oder einem anderen beliuebigen Ort zu spielen. Außerdem werden die Schritte somit auch dann gezählt, wenn das Spiel nicht geöffnet oder aktiv im Vordergrund ausgeführt wird.",
+                "question": "Was sind WalkScape's Designziele?"
             }
         }
     }
