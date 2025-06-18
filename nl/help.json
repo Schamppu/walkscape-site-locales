@@ -56,7 +56,9 @@
             "lastUpdated": "Laatst bijgewerkt",
             "hiring": {
                 "answer": "Not a Cult neemt normaal gesproken geen mensen aan, maar we zijn altijd op zoek naar hulp. Neem contact op met @floursifter via <0>onze Discord</0> om een cv in te sturen, of aan te bieden om te helpen met een specifiek onderdeel van het spel.",
-                "question": "Neemt Not a Cult personeel aan of zijn jullie op zoek naar hulp?"
+                "question": "Neemt Not a Cult personeel aan of zijn jullie op zoek naar hulp?",
+                "answer-section-1": "Not a Cult is normaliter geen personeel aan het werven, maar we kunnen altijd hulp gebruiken. Vooral vertalers zijn zeer welkom, aangezien het project voor 100% door de community wordt vertaald. Meer informatie over vertalingen kan gevonden worden op de <0>Wiki<0>",
+                "answer-section-2": "Als er iets anders is waarmee je denkt te kunnen helpen, kun je ons bereiken op <0>contact@walkscape.app</0>"
             },
             "designGoals": {
                 "answer-section-2": "<0>Gameplay zonder afleidingen.</0> Je hoeft het spel niet te openen tijdens het sporten. Ons spelontwerp is hierop gericht, wat betekent dat je het spel alleen hoeft te openen als je weer thuis bent. We hebben het spel zo ontworpen dat je het elke duizend tot tienduizend stappen moet openen, afhankelijk van je doelen in het spel.",
@@ -102,7 +104,7 @@
             },
             "smartwatch": {
                 "question": "Worden smartwatches ondersteund?",
-                "answer": "Smartwatches worden momenteel niet ondersteund in de game. Je moet je telefoon bij je hebben om de gezette stappen mee te laten tellen. Er is ondersteuning gepland voordat het spel wordt vrijgegeven voor open bèta."
+                "answer": "De iOS versie van het spel ondersteunt smartwatches al, maar ondersteuning voor Android is nog in ontwikkeling."
             },
             "ideas": {
                 "question": "Ik heb een gaaf idee voor het spel!",
