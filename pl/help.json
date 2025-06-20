@@ -100,7 +100,7 @@
                 "question": "Mam fajny pomysł na grę!"
             },
             "smartwatch": {
-                "answer": "Smartwatche nie są obecnie obsługiwane w grze. Do liczenia kroków potrzebny będzie telefon. Wsparcie dla smartwatchy ma pojawić się przed udostępnieniem gry w otwartej wersji beta.",
+                "answer": "Wersja gry na iOS-a już obsługuje smartwatche, ale prace nad wsparciem dla systemu Android są jeszcze w toku.",
                 "question": "Czy smartwatche są obsługiwane?"
             },
             "futureMonetization": {
@@ -132,7 +132,9 @@
             },
             "hiring": {
                 "question": "Czy Not a Cult zatrudnia lub poszukuje pracowników?",
-                "answer": "Not a Cult zazwyczaj nie zatrudnia, ale zawsze szukamy pomocy. Skontaktuj się z naszym @floursifter przez <0>naszego Discorda</0>, aby przesłać CV lub zaoferować pomoc w konkretnym aspekcie gry."
+                "answer": "Not a Cult zazwyczaj nie zatrudnia, ale zawsze szukamy pomocy. Skontaktuj się z naszym @floursifter przez <0>naszego Discorda</0>, aby przesłać CV lub zaoferować pomoc w konkretnym aspekcie gry.",
+                "answer-section-1": "Not a Cult zazwyczaj nie zatrudnia, ale zawsze szukamy pomocy. Szczególnie doceniamy tłumaczy, ponieważ projekt jest w 100% tłumaczony przez społeczność. Więcej informacji na temat tłumaczeń można znaleźć na <0>Wiki<0>",
+                "answer-section-2": "Jeśli jest jakiś inny obszar, w którym uważasz, że możesz okazać się szczególnie pomocny, możesz się z nami skontaktować pod adresem <0>contact@walkscape.app</0>"
             }
         }
     }
