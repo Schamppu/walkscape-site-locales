@@ -13,10 +13,10 @@
       "support": "Podpoř/te nás"
     },
     "consent": {
-      "prompt": "Tato webová stránka používá soubory cookie k analýze návštěvnosti. Kliknutím na tlačítko „Přijmout“ s jejich použitím souhlasíte."
+      "prompt": "Tyto webové stránky používají soubory cookie. Kliknutím na tlačítko „Přijmout“ souhlasíte s jejich používáním. Naše <0> zásady ochrany osobních údajů si můžete přečíst zde</0>."
     },
     "footer": {
-      "copyright": "Všechna práva vyhrazena WalkScape.",
+      "copyright": "Autorská práva vyhrazena organizací Not a Cult Ltd",
       "privacy-policy": "Zásady ochrany osobních údajů"
     },
     "routes": {
@@ -26,7 +26,7 @@
       "portal": "Portál",
       "presskit": "Marketingové informace",
       "register": "Registrace",
-      "roadmap": "Roadmapa",
+      "roadmap": "Plán do budoucna",
       "store": "Obchod",
       "support": "Podpoř/te Nás",
       "wiki": "Wiki"
