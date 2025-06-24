@@ -13,10 +13,10 @@
       "support": "Toeta meid"
     },
     "consent": {
-      "prompt": "See veebileht kasutab küpsiseid lehe kasutamise analüüsimiseks. Klõpsates 'Nõustu', annad nõusoleku nende kasutamiseks."
+      "prompt": "See veebileht kasutab küpsiseid lehe kasutamise analüüsimiseks. Klõpsates 'Nõustu', annad nõusoleku nende kasutamiseks. Saad meie privaatsuspoliitikat lugeda <0>siit</0>."
     },
     "footer": {
-      "copyright": "Autoriõigused kuuluvad WalkScape'ile.",
+      "copyright": "Autoriõigused kuuluvad Not a Cult Oy'le",
       "privacy-policy": "Privaatsuspoliitika"
     },
     "routes": {
