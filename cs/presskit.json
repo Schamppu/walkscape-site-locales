@@ -1,1 +1,51 @@
-{}
+{
+  "singulars": {
+    "contents": {
+      "about": {
+        "content-1": "Not a Cult Oy je malá finská nezávislá herní společnost a rozhodně ne not a cult. Byla založena v roce 2023 Schamppuem, současným generálním ředitelem, krátce poté, co zahájil vývoj hry WalkScape. Not A Cult v současné době zaměstnává ve své kanceláři v Helsinkách dva vývojáře na plný úvazek a podporují je mezinárodní freelanceři.",
+        "content-2": "V Not a Cult jsme skalní herní nadšenci, kteří věří, že hry jsou víc než jen produkt nebo služba. Snažíme se vytvářet naše hry eticky, environmentálně a osobně udržitelným způsobem. Otevřená a upřímná komunikace je pro nás důležitá a jsme hrdí na to, že máme angažovanou a aktivní fanouškovskou základnu. Jsme také not a cult.",
+        "title": "O vývojářích"
+      },
+      "acknowledgements": {
+        "title": "Poděkování"
+      },
+      "art": {
+        "download": "Stáhnout propagační obrázky jako soubor .zip",
+        "title": "Propagační Obrázky"
+      },
+      "articles": {
+        "title": "články"
+      },
+      "credits": {
+        "title": "Autoři"
+      },
+      "description": {
+        "content-1": "WalkScape je mobilní fitness RPG, kde se zlepšujete chůzí v reálném životě. Inspirováno starými MMORPG hrami, jako je RuneScape, vám umožňuje strávit hodiny a hodiny získáváním zkušeností, hledáním legendárních předmětů a plněním úkolů v magickém fantasy prostředí a zároveň podporovat zdravější životní styl.",
+        "content-2": "Na rozdíl od mnoha jiných mobilních her WalkScape, kde je chůze základní mechanikou, vůbec nevyužívá GPS data a nevyžaduje, aby hráč během cvičení aktivně hrál. Tímto způsobem respektujeme soukromí hráče a umožňujeme mu soustředit se na jeho hlavní aktivitu. Hra ukládá vaše kroky, takže se nikdy nebudete muset bát, že ztratíte svůj postup, protože jste si chtěli nechat telefon v kapse.",
+        "content-3": "WalkScape vznikl v roce 2022 jako projekt jednoho muže, jehož cílem bylo vytvořit hru, kterou si chtěl zahrát, ale která ještě neexistovala. Poté, co zveřejnil některé ze svých nápadů a raných rozpracovaných prací na Redditu, si projekt začal rychle budovat komunitu. Nakonec bylo zřízeno předplatné Patreonu a Buy Me a Coffee a nyní je hra v uzavřené beta verzi, na které pracuje několik vývojářů. Projekt je zatím 100% financován komunitou, ale po spuštění bude mít předplatné pro všechny hráče, kteří budou chtít mít přístup k online funkcím.",
+        "title": "Popis"
+      },
+      "factsheet": {
+        "title": "Informační list"
+      },
+      "logos": {
+        "download": "Stáhnout loga jako soubor .zip",
+        "title": "Loga"
+      },
+      "screenshots": {
+        "download": "Stáhněte si snímky obrazovky jako soubor .zip",
+        "title": "Snímky obrazovky"
+      },
+      "title": "Obsah",
+      "videos": {
+        "title": "Videa",
+        "youtube": "Oficiální youtube kanál"
+      }
+    },
+    "meta": {
+      "description": "Materiály, popisy a vše ostatní, co potřebujete vědět, abyste mohli psát o WalkScape",
+      "title": "WalkScape | Tiskové materiály"
+    },
+    "title": "Tiskové materiály"
+  }
+}
