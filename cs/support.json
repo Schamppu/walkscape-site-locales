@@ -1,1 +1,44 @@
-{}
+{
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Když je členství aktivní:",
+        "color": "<0>Exkluzivní ikona a barva profilu</0> ve hře i na portálu WalkScape. Barva vaší ikony a profilu bude odpovídat vaší aktivní úrovni členství. Stejnou výhodu získáte i na Discordu.",
+        "discord": "Přístup k <0>exkluzivnímu Discordu kanálu</0> s extra ukázkami a konverzacemi s vývojáři.",
+        "discordRole": "Budete mít <0>exkluzivní Role na Discordu</0>.",
+        "first": "Po první platbě:",
+        "gameTitle": "<0>Herní titul</0>, kterým vyjádříte svou podporu během beta verze s omezeným přístupem.",
+        "invite": "<0>Pozvánka do uzavřené bety</0>. Podpořte nás a můžete přeskočit čekací listinu a začít hrát okamžitě.",
+        "title": "Všechna členství"
+      },
+      "follower": {
+        "character": "Podporovatelé na této úrovni si mohou s vývojovým týmem vyvinout vlastní <0>kosmetické úpravy</0> pro hru.",
+        "patreon": "K dispozici pouze na Patreonu",
+        "price": "50 dolarů za měsíc",
+        "role": "Získejte roli <0>Cult Follower</0> na Discord serveru WalkScape.",
+        "title": "Cult Follower"
+      },
+      "leader": {
+        "item": "Pro vstup do této úrovně si budete moci s vývojářským týmem navrhnout <0>herní předmět</0>. Předmět bude mít vaše jméno v popisu.",
+        "price": "100 dolarů měsíčně",
+        "role": "Získejte roli <0>Cult Leader</O> na Discord serveru WalkScape.",
+        "title": "Cult Leader"
+      },
+      "title": "Výhody pro podporovatele",
+      "walker": {
+        "price": "4,50–25 dolarů měsíčně",
+        "role": "Získejte roli <0>Podpůrce</0> na Discord serveru WalkScape.",
+        "title": "Všechny úrovně „Chodce“"
+      }
+    },
+    "body": {
+      "section-1": "Vývoj WalkScape můžete podpořit přes Patreon nebo Buy me a Coffee. Příznivci hry získají exkluzivní výhody, které jsou uvedeny na Patreonu a v sekci Buy me a Coffee.",
+      "section-2": "WalkScape je kompletně financován komunitou a veškerá podpora je velmi ceněna. ❤️"
+    },
+    "meta": {
+      "description": "Přihlaste se k odběru na Patreonu nebo přispějte na kávu na podporu vývoje WalkScape",
+      "title": "WalkScape | Podpořte nás"
+    },
+    "title": "Podpořte nás"
+  }
+}
