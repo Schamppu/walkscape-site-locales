@@ -1,1 +1,16 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Pokud máte dotazy nebo potřebujete podporu, neváhejte nás kontaktovat e-mailem na adrese <0>contact@walkscape.app</0> nebo prostřednictvím sociálních sítí."
+    },
+    "meta": {
+      "description": "Zjistěte, jak nás kontaktovat",
+      "title": "WalkScape | Kontaktujte nás"
+    },
+    "presskit": {
+      "description": "Kompletní tiskovou dokumentaci naleznete <0>zde</0>",
+      "title": "Tiskové materiály"
+    },
+    "title": "Kontaktujte nás"
+  }
+}
