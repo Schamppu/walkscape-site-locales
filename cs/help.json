@@ -70,14 +70,23 @@
                 "answer": "Verze hry pro iOS již podporuje chytré hodinky, ale podpora pro Android je stále ve vývoji."
             },
             "futureMonetization": {
-                "question": "Jaká je budoucí strategie monetizace hry?"
+                "question": "Jaká je budoucí strategie monetizace hry?",
+                "answer-section-1": "<0>Offline režim</0> – Jednorázová platba. Nabízíme možnost jednorázového nákupu, který vám umožní hrát hru samostatně. Tato verze bude dostávat pravidelné aktualizace, k otevření hry není nutné připojení k internetu a také jsme přidali posuvník, který vám umožní přidat multiplikátor k vašim krokům, aby si hráč mohl přizpůsobit herní zážitek podle svého přání. V této verzi nejsou žádné funkce pro více hráčů.",
+                "answer-section-2": "<0>Online režim</0> – cenově dostupné měsíční předplatné. Pro hraní hry budete muset být online, ale budete dostávat budoucí aktualizace obsahu a všechny funkce pro více hráčů, které hra nabízí.",
+                "answer-section-3": "<0>Hraní zdarma</0> – obě verze hry budou mít bezplatnou oblast, kterou si budete moci užít zdarma."
             },
             "ideas": {
                 "answer": "Rádi bychom si to přečetli a nejlepším místem pro sdílení je kanál <0>návrhy a zpětná vazba(⁠suggestions-and-feedback)</0> na Discordu.",
                 "question": "Mám skvělý nápad do hry!"
             },
             "support": {
-                "answer": "Nejlepším místem pro kontaktování týmu je e-mail na adrese <0>contact@walkscape.app</O>. Prosíme o trpělivost, protože jsme malý tým, který se snaží soustředit na vývoj, a vyřizování požadavků, podpora v rušných časech může trvat až týden. Případně kontaktujte @maxchill na <1>našem Discordu</1>. Neváhejte se zeptat na Discordu, zda vám můžeme s vaším problémem pomoci, nebo zda byste měli kontaktovat e-mail."
+                "answer": "Nejlepším místem pro kontaktování týmu je e-mail na adrese <0>contact@walkscape.app</O>. Prosíme o trpělivost, protože jsme malý tým, který se snaží soustředit na vývoj, a vyřizování požadavků, podpora v rušných časech může trvat až týden. Případně kontaktujte @maxchill na <1>našem Discordu</1>. Neváhejte se zeptat na Discordu, zda vám můžeme s vaším problémem pomoci, nebo zda byste měli kontaktovat e-mail.",
+                "question": "Potřebuji podporu nebo kontaktovat tým."
+            },
+            "hiring": {
+                "question": "Hledá Not a Cult zaměstnance nebo pomoc?",
+                "answer-section-1": "Not a Cult obvykle nenajímá nové zaměstnance, ale vždy hledáme pomoc. Obzvláště vítáme překladatele, protože projekt je 100% přeložen komunitou. Více informací o překladech naleznete na <0>Wiki<0>",
+                "answer-section-2": "Pokud existuje nějaká jiná oblast, kde si myslíte, že byste mohli být obzvláště užiteční, můžete nás kontaktovat na adrese <0>contact@walkscape.app</0>"
             }
         }
     }
