@@ -1,1 +1,84 @@
-{}
+{
+    "singulars": {
+        "meta": {
+            "description": "Najděte odpovědi na nejčastější problémy",
+            "title": "WalkScape | Pomoc"
+        },
+        "title": "Pomoc",
+        "getGame": {
+            "title": "Jak získat přístup ke hře",
+            "free": {
+                "note": "Poznámka",
+                "instructions-1": "Vytvořte si účet na <0>portálu WalkScape</0>. Nezapomeňte ověřit svou e-mailovou adresu (ověřovací e-maily občas končí ve složce se spamem).",
+                "instructions-2": "Přejděte na stránku <1>Účet</1> a vyberte <2>Požádat o přístup k beta verzi</2>.",
+                "instructions-3": "Počkejte na pozvánku. Pozvánky čas od času rozesíláme, proto sledujte svou e-mailovou schránku.",
+                "title": "Chcete-li se zdarma zaregistrovat:",
+                "noteContent": "Najednou bude rozeslán omezený počet pozvánek, ale přístup si můžete zajistit tím, že se stanete podporovatelem! Čtěte dál, pokud jste si již zaregistrovali účet na portálu a <0>hru podpořili</0>."
+            },
+            "oauth": {
+                "title": "Propojení účtu s OAuth (Patreon):",
+                "instructions-1": "Přejděte na stranu <1>Účet</1>.",
+                "instructions-3": "Stránka by se měla zeptat na vaše přihlašovací údaje k Patreonu. Zadejte e-mail a heslo účtu, kterým jste se přihlásili k odběru WalkScape na Patreonu.",
+                "instructions-2": "Klikněte na tlačítko <4>Připojit se k Patreonu</4> v sekci <2>Propojit účet Patreon</2>.",
+                "instructions-4": "Pokud vše proběhne v pořádku, měla by se zobrazit obrazovka s potvrzením o úspěšném propojení. V takovém případě je váš účet propojen a stav vašeho předplatného by se měl okamžitě zobrazit na obrazovce Účet. Pokud se něco pokazí, můžete zkusit propojit účet pomocí e-mailu a kódu, jak je popsáno níže."
+            },
+            "email": {
+                "title": "Propojení účtu s e-mailem a kódem (BMAC):",
+                "instructions-2": "Zadejte e-mailovou adresu používanou pro váš účet Patreon/BMAC do příslušného pole a klikněte na <4>ZÍSKAT KÓD</4>.",
+                "instructions-3": "Na uvedenou adresu byste měli obdržet e-mail s ověřovacím kódem. Zadejte kód na stránce účtu a klikněte na <4>PROPOJIT ÚČET</4>.",
+                "instructions-4": "Tím by mělo být vše hotovo a stav vašeho předplatného by měl být viditelný na stránce účtu. Upozorňujeme, že v některých případech může úplná synchronizace systému trvat i několik hodin."
+            },
+            "instructions-finish": "Pokud to však trvalo déle než 4 hodiny nebo máte s procesem jakékoli jiné problémy, zkuste se podívat na sekci Často kladené otázky níže nebo nás <0>kontaktujte</0>."
+        },
+        "faq": {
+            "title": "Často kladené otázky",
+            "lastUpdated": "Naposledy aktualizováno",
+            "whatIs": {
+                "question": "Co je WalkScape?",
+                "answer": "WalkScape je RPG hra inspirováno RuneScape a dalšími MMORPG. Má však jeden do očí bijící rozdíl: nehrajete ji aktivně. Místo toho postupujete chůzí v reálném životě. Hra má rozsáhlou mapu otevřeného světa s více než stovkou lokací, které může hráč prozkoumávat. Svět je plný příběhů, NPC postav, úkolů a aktivit, do kterých se hráč může zapojit, a mnohem více! Naším cílem ve hře je podporovat aktivní životní styl a podporovat duševní i fyzické zdraví."
+            },
+            "howCanIGet": {
+                "question": "Jak můžu hru získat?",
+                "answer": "WalkScape je v uzavřené beta verzi, což znamená, že do hry musíte být pozváni. Zveme hráče, kteří vyplnili přihlášku, protože potřebujeme nové testery. Doby čekání se liší, ale většina hráčů pozvánku dostane po několika měsících. Pokud jste projekt podpořili na Patreonu nebo Přispěli na kafe, máte zaručenou okamžitou pozvánku do hry."
+            },
+            "closedBetaEnd": {
+                "question": "Kdy hra opustí status uzavřené bety?",
+                "answer": "WalkScape plánuje ukončit uzavřenou beta verzi, jakmile budou přidány následující chybějící funkce:",
+                "req-1": "Podpora chytrých hodinek",
+                "req-2": "Obchodování",
+                "req-3": "Úkoly",
+                "req-4": "Boje"
+            },
+            "designGoals": {
+                "question": "Jaké jsou designové cíle WalkScape?",
+                "answer-section-1": "<0>Žádná GPS.</O> Hra místo toho využívá krokoměr zabudovaný ve vašem smartphonu, který vám umožňuje hrát na běžeckém pásu nebo chůzí kdekoli si vyberete. Hra navíc bude sledovat váš pokrok, i když není otevřená nebo aktivní.",
+                "answer-section-3": "<0>Online funkce.</O> Ačkoli jich dnes ve hře není mnoho, plánujeme nabídnout nepřeberné množství funkcí pro více hráčů, včetně tržiště pro prodej vašich předmětů ostatním hráčům, PvP a PvE soubojů, systému skupin, cechů a dalších!",
+                "answer-section-5": "<0>Žádné mikrotransakce ani reklamy.</0> Vážíme si našich hráčů a naší komunity a zavázali jsme se vyhýbat predátorským praktikám monetizace. Hra bude proto nabízena zdarma s možností jednorázového zakoupení nebo zaplacení dostupného předplatného.",
+                "answer-section-2": "<0>Hraní bez rušivých vlivů.</0> Během cvičení nemusíte mít hru otevřenou. Náš herní design je na to zaměřený, což znamená, že hru budete muset otevřít pouze po návratu domů. Hru jsme vyvážili tak, aby ji bylo nutné otevírat jednou za tisíc až deset tisíc kroků, v závislosti na vašich herních cílech.",
+                "answer-section-4": "<0>Spousta obsahu.</0> Hra se již může pochlubit stovkami unikátních předmětů, desítkami unikátních lokací, devíti dovednostmi k procvičování a spoustou zábavných aktivit pro hráče."
+            },
+            "platforms": {
+                "question": "Na jakých platformách je hra dostupná?",
+                "answer": "Hra je k dispozici v Obchodě Google Play (Android) a Testflight (iOS)."
+            },
+            "treadmill": {
+                "question": "Mohu hrát hru na běžeckém pásu?",
+                "answer": "Ano. Hru můžete hrát kdekoliv, při procházce, po domě, na běžeckém pásu nebo při nakupování potravin. Hrajte tam, kde se cítíte bezpečně."
+            },
+            "smartwatch": {
+                "question": "Jsou podporovány chytré hodinky?",
+                "answer": "Verze hry pro iOS již podporuje chytré hodinky, ale podpora pro Android je stále ve vývoji."
+            },
+            "futureMonetization": {
+                "question": "Jaká je budoucí strategie monetizace hry?"
+            },
+            "ideas": {
+                "answer": "Rádi bychom si to přečetli a nejlepším místem pro sdílení je kanál <0>návrhy a zpětná vazba(⁠suggestions-and-feedback)</0> na Discordu.",
+                "question": "Mám skvělý nápad do hry!"
+            },
+            "support": {
+                "answer": "Nejlepším místem pro kontaktování týmu je e-mail na adrese <0>contact@walkscape.app</O>. Prosíme o trpělivost, protože jsme malý tým, který se snaží soustředit na vývoj, a vyřizování požadavků, podpora v rušných časech může trvat až týden. Případně kontaktujte @maxchill na <1>našem Discordu</1>. Neváhejte se zeptat na Discordu, zda vám můžeme s vaším problémem pomoci, nebo zda byste měli kontaktovat e-mail."
+            }
+        }
+    }
+}
