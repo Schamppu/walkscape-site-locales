@@ -1,1 +1,46 @@
-{}
+{
+    "singulars": {
+        "devStart": {
+            "date": "17. srpna 2022",
+            "title": "Spuštění vývoje hry"
+        },
+        "meta": {
+            "description": "Přehled rozvojových plánů WalkScape, minulých i budoucích.",
+            "title": "WalkScape | Plán"
+        },
+        "originalBeta": {
+            "date": "Léto, 2023",
+            "title": "První spuštění uzavřené beta verze",
+            "content": "První verze uzavřené bety WalkScape by měla být spuštěna v létě 2023. To se ukazuje jako nerealistický harmonogram a vydání muselo být odloženo až do konce roku."
+        },
+        "floursifter": {
+            "date": "12. října 2023",
+            "title": "Floursifter se připojuje k týmu",
+            "content": "Floursifter, člen komunity WalkScape, který věnoval spoustu svého volného času tvorbě obsahu, herním vzorcům a testování vývojových verzí pro iOS, se k týmu připojuje neoficiálně."
+        },
+        "wave1": {
+            "date": "1. listopadu 2023",
+            "title": "Pozvánka na 1. vlnu pro podporovatele",
+            "content": "Aby si hráči zajistili přístup k první uzavřené beta verzi hry, mohou podpořit vývoj WalkScape na Patreonu a přispět na kávu."
+        },
+        "launch": {
+            "date": "18. ledna 2024",
+            "title": "Uzavřená beta je uvolněna",
+            "content": "První uzavřená beta verze WalkScape je vydána."
+        },
+        "qol": {
+            "date": "16. února 2024",
+            "title": "Velká aktualizace QoL",
+            "content": "Přichází rozsáhlá aktualizace hratelnosti. Uživatelské rozhraní bylo kompletně přepracováno, takže navigace a hraní je mnohem snazší."
+        },
+        "contentUpdate": {
+            "date": "28. února 2024",
+            "title": "Hlavní aktualizace obsahu",
+            "content": "Množství herního obsahu se téměř zdvojnásobilo přidáním sběratelských předmětů, nových předmětů, dvojnásobného počtu aktivit a dalších prvků v rámci přípravy na spuštění 2. vlny."
+        },
+        "wave2": {
+            "date": "1. března 2024",
+            "title": "2. vlna pozvánek"
+        }
+    }
+}
