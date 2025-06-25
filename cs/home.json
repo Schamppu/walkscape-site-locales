@@ -1,1 +1,107 @@
-{}
+{
+  "plurals": {
+    "callToAction": {
+      "waveDefined": {
+        "few": "-",
+        "many": "-",
+        "one": "Další uzavřená beta vlna začíná za <br/> <2>{{count}} týden!</2>",
+        "other": "Další uzavřená beta vlna začíná za <br/> <2>{{count}} týdnů!</2>",
+        "two": "-",
+        "zero": "-"
+      }
+    },
+    "statistics": {
+      "actions": {
+        "few": "-",
+        "many": "-",
+        "one": "dokončené akce",
+        "other": "celkový počet dokončených akcí",
+        "two": "-",
+        "zero": "-"
+      },
+      "ship": {
+        "few": "-",
+        "many": "-",
+        "one": "opravená loď",
+        "other": "opravené lodě",
+        "two": "-",
+        "zero": "-"
+      },
+      "shrimps": {
+        "few": "-",
+        "many": "-",
+        "one": "ulovená kreveta",
+        "other": "ulovené krevety",
+        "two": "-",
+        "zero": "-"
+      },
+      "steps": {
+        "few": "-",
+        "many": "-",
+        "one": "Provedené kroky",
+        "other": "celkem ušlých kroků",
+        "two": "-",
+        "zero": "-"
+      },
+      "wine": {
+        "few": "-",
+        "many": "-",
+        "one": "lahev vína nalezená v truhlách",
+        "other": "lahve vína nalezené v truhlách",
+        "two": "-",
+        "zero": "-"
+      }
+    }
+  },
+  "singulars": {
+    "callToAction": {
+      "playNow": "Hrajte nyní!",
+      "registerNow": "<0>Zaregistrujte se nyní</0> a požádejte o pozvánku nebo <1>nás podpořte</1> a zajistěte si přístup!",
+      "supportToStart": "0>Patreon</0> a <1>Buy me a coffee</1> nyní mohou okamžitě začít hrát!",
+      "waveActive": "Právě rozesíláme pozvánky na betaverzi!",
+      "waveUndefined": "Další vlna uzavřené bety se blíží! Přihlaste se k odběru našich <0>novinek</O> a sledujte naše <1>sociální sítě</1>, abyste byli v obraze!"
+    },
+    "features": {
+      "communityFeatures": "Funkce komunity, globální tržiště a online žebříčky.",
+      "levelUpSkills": "Zvyšte si dovednosti chůzí v reálném životě",
+      "numberOfSkills": "Více než 15 různých dovedností k rozvoji",
+      "quests": "Úkoly, náhodná setkání a hlavní dějová linie zahrnující několik kontinentů.",
+      "title": "Funkce"
+    },
+    "gameSection": {
+      "section-1": "WalkScape je hra inspirovaná některými starými MMORPG. Tato hra má ale v rukávu jeden velký trik: nehrajete aktivně, ale místo toho postupujete chůzí.",
+      "section-2": "Čeká vás zábavná a vzrušující cesta Světem Arenum a zároveň motivace k procházce!",
+      "title": "Co je WalkScape?"
+    },
+    "howToPlay": {
+      "ensure": "Pro zajištění okamžitého přístupu ke hře můžete také",
+      "instructions": "Podrobné pokyny k získání přístupu naleznete <0>zde</O>!",
+      "nextWave": "Další vlna pozvánek k beta testování je",
+      "subscribe": "Přihlaste se k odběru našich <0>novinek</0> a sledujte naše <1>sociální sítě</1>, abyste byli v obraze!",
+      "supportNow": "Podpořte nás a získejte okamžitý přístup!",
+      "tbd": "Bude určeno",
+      "title": "Jak získat přístup?",
+      "waveDate": "{{start}} - {{end}}",
+      "waveExplain": "WalkScape je momentálně v <0>uzavřené beta verzi</0>. To znamená, že přístup je omezen na ty, kteří vyplnili přihlášku a byli pozváni, nebo nás finančně podpořili. To nám umožňuje hru vyvíjet rychle a plně soustředěně a škálovat naši serverovou infrastrukturu finančně udržitelným způsobem."
+    },
+    "meta": {
+      "description": "WalkScape: Zvyšujte úroveň chůzí!",
+      "title": "WalkScape: RPG fitness hra založena na chůzi v realném životě"
+    },
+    "news": {
+      "more": "Zobrazit více",
+      "readFull": "Přečtěte si celý článek",
+      "title": "Zprávy"
+    },
+    "screenshotsSection": {
+      "description": "Snímky obrazovky ze hry, které pokrývají některé herní mechaniky. Více najdete na našem Subredditu!",
+      "title": "Snímky obrazovky"
+    },
+    "social": {
+      "follow": "Sledujte nás na sociálních sítích"
+    },
+    "statistics": {
+      "title": "Statistika"
+    }
+  }
+}
