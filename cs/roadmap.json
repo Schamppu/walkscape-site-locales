@@ -2,7 +2,8 @@
     "singulars": {
         "devStart": {
             "date": "17. srpna 2022",
-            "title": "Spuštění vývoje hry"
+            "title": "Spuštění vývoje hry",
+            "content": "Vývoj WalkScape začal jako koníček, na kterém Schamppu pracuje ve svém volném čase."
         },
         "meta": {
             "description": "Přehled rozvojových plánů WalkScape, minulých i budoucích.",
@@ -21,7 +22,7 @@
         "wave1": {
             "date": "1. listopadu 2023",
             "title": "Pozvánka na 1. vlnu pro podporovatele",
-            "content": "Aby si hráči zajistili přístup k první uzavřené beta verzi hry, mohou podpořit vývoj WalkScape na Patreonu a přispět na kávu."
+            "content": "Aby si hráči zajistili přístup k první uzavřené beta verzi hry, mohou podpořit vývoj WalkScape na Patreonu a Buy me a coffee."
         },
         "launch": {
             "date": "18. ledna 2024",
@@ -40,7 +41,98 @@
         },
         "wave2": {
             "date": "1. března 2024",
-            "title": "2. vlna pozvánek"
+            "title": "2. vlna pozvánek",
+            "content": "Druhá vlna pozvánek do uzavřené bety končí 31. března 2024. Příznivci Pateronu a BMAC a velké množství hráčů, kteří se přihlásili do uzavřené bety, získají přístup před uzávěrkou, tedy 31. března."
+        },
+        "maxchill": {
+            "date": "4. prosince 2022",
+            "title": "Maxchill se připojuje k týmu",
+            "content": "Projekt začíná získávat na popularitě online, zejména na Redditu, a vzniká potřeba najmout umělce. Maxchill se připojuje k vývojovému týmu."
+        },
+        "wave2patch": {
+            "date": "13. března 2024",
+            "title": "Aktualizace po 2. vlně",
+            "content": "Byla vydána aktualizace, která opravuje nové problémy, se kterými se setkali hráči, kteří se připojili ve 2. vlně."
+        },
+        "myzozoz": {
+            "date": "15. dubna 2024",
+            "title": "myzozoz se připojuje k týmu",
+            "content": "Aby se urychlil vývoj, začal se hledat druhý programátor a vývojář. 15. dubna nastoupil myzozoz jako první oficiální zaměstnanec Not A Cult."
+        },
+        "pedometer": {
+            "date": "26. dubna 2024",
+            "title": "Aktualizace krokoměru",
+            "content": "Hlavní funkce WalkScape, počítání kroků, nyní potřebuje aktualizaci. Byla vydána aktualizace, která opravuje mnoho problémů, s nimiž se lidé s krokoměrem setkávali. Práce na opravě krokoměru pokračuje po celý květen 2024."
+        },
+        "wave2point5": {
+            "title": "Pozvánka na vlnu 2.5",
+            "date": "1. června 2024",
+            "content": "Abychom poděkovali všem hráčům, kteří hru podporovali od konce 2. vlny, rozesíláme pozvánky všem, kteří hru podpořili na Patreonu nebo Buy Me a Coffee do 15. června 12:00:00 UTC. Rozesílání začne   1. června."
+        },
+        "achievements": {
+            "date": "10. července 2024",
+            "title": "Vydána aktualizace úspěchů",
+            "content": "Krátce po vlně 2.5 byly v rámci velké aktualizace obsahu přidány úspěchy. "
+        },
+        "syrenthia": {
+            "date": "21. srpna 2024",
+            "title": "Aktualizace Syrenthie",
+            "content": "Naše dosud největší aktualizace, která přidává mechanismy reputace, spotřební předměty a zcela nový region, přichází. Tým aktualizaci nasazuje vzdáleně z Kolína nad Rýnem v Německu, protože se účastní Gamescomu. Aktualizace také označuje začátek 3. vlny."
+        },
+        "wave3": {
+            "date": "Srpen-Říjen 2024",
+            "title": "Vlna 3 a PGC",
+            "content": "Během následujících šesti a půl týdne hra zažívá masivní příliv nových hráčů, protože zprávy o třetí vlně se dostávají k více lidem než kdy dříve. Hra je také prezentována na různých konferencích a na Pocket Gamer Connects Helsinki získala cenu diváků v nezávislém žebříčku."
+        },
+        "localization": {
+            "date": "12. října 2024",
+            "title": "Vlna 3 a PGC",
+            "content": "Byla vydána aktualizace, která hráčům umožňuje změnit jazyk ve hře. V první vlně byly podporovány (kromě angličtiny) také němčina, španělština, italština, holandština, polština a samozřejmě finština. Většinu překladů zajišťuje pilná komunita WalkScape."
+        },
+        "syrenthiaHotfix": {
+            "date": "16. října 2024",
+            "title": "Hotfix po aktualizaci Syrenthie",
+            "content": "Byla vydána aktualizace, která opravuje většinu technických problémů, se kterými se hráči potýkali po aktualizaci Syrenthie"
+        },
+        "engineUpdate": {
+            "date": "29. ledna 2025",
+            "title": "Aktualizace enginu & sad vybavení",
+            "content": "Během zimy 2024-2025 si tým usedne na nejdelší období bez aktualizací. Během více než tří měsíců jsou velké části herního enginu přepsány, aby se zlepšil výkon a stabilita a aby se podpořila širší sada funkcí. První funkcí, která tuto skutečnost využila, je nový systém výstroje vydaný ve stejnou dobu."
+        },
+        "devTools": {
+            "date": "Únor 2025",
+            "title": "Vývojářské nástroje 2.0",
+            "content": "Po velké aktualizaci enginu tým rychle přichází s novými vývojářskými nástroji, které umožní obsahovému týmu pracovat nezávisleji na programátorském týmu."
+        },
+        "smartWatch": {
+            "date": "25. dubna 2025",
+            "title": "Podpora nositelných zařízení pro iOS",
+            "content": "Po průzkumu zaměřeném na zjištění názorů komunity se tým rozhodl vyvinout podporu pro nositelná zařízení iOS, aby tuto funkci pilotně otestoval, a aktualizaci vydává v dubnu."
+        },
+        "wave4": {
+            "date": "15. května 2025",
+            "content": "Začíná 4. vlna a do hry se připojují tisíce nových hráčů. S využitím nových vývojářských nástrojů tým vydává rozsáhlejší aktualizaci obsahu, která rozšiřuje bažinaté oblasti GDTE.",
+            "title": "Vlna 4 a bažiny"
+        },
+        "party": {
+            "date": "Prosinec 2024",
+            "title": "Týmový systém",
+            "content": "První skutečná mechanika pro více hráčů, která umožňuje hráčům sdružovat se do skupin, aby dosáhli společných cílů."
+        },
+        "trading": {
+            "title": "Obchodování s hráči",
+            "content": "Jako další masivní multiplayerová funkce bude zavedeno obchodování s hráči, které skutečně vynese na povrch „MMO“ v „MMORPG“ ve WalkScape.",
+            "date": "1. čtvrtletí 2025"
+        },
+        "combat": {
+            "title": "Bojový systém",
+            "date": "1. čtvrtletí 2025",
+            "content": "První verze bojového systému bude brzy nasazena. Tým je připraven na to, že mechanika bude po zahájení testování vyžadovat několik úprav."
+        },
+        "quests": {
+            "title": "Úkoly",
+            "content": "Jako poslední hlavní prvek budou představeny úkoly, které hráčům poskytnou ručně vytvořený příběhový obsah k hrání.",
+            "date": "2. čtvrtletí 2025"
         }
     }
 }
