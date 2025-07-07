@@ -1,1 +1,16 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "description": "Če imaš kakšno vprašanje ali potrebuješ pomoč, nas lahko kontaktiraš preko e-pošte <0>contact@walkscape.app</0> ali socialnih omrežij."
+    },
+    "meta": {
+      "description": "Preveri, kako nas lahko kontaktiraš",
+      "title": "WalkScape | Kontaktiraj nas"
+    },
+    "presskit": {
+      "description": "Poglej si naš celoten promocijski material <0>tukaj</0>",
+      "title": "Promocijski material"
+    },
+    "title": "Kontaktiraj nas"
+  }
+}
