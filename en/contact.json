@@ -6,7 +6,8 @@
     },
     "title": "Contact Us",
     "body": {
-      "description": "If you have questions or need support, feel free to contact us via email at <0>contact@walkscape.app</0> or through social media."
+      "support": "If you have problems with the game, your account or the subscription process, feel free to contact us via email at <0>support@walkscape.app</0> or through social media.",
+      "contact": "Media and business related inquiries should be sent over to <0>contact@walkscape.app</0>"
     },
     "presskit": {
       "title": "Press Kit",

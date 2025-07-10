@@ -86,7 +86,8 @@
       },
       "support": {
         "question": "I need support or need to contact the team.",
-        "answer": "The best place to contact the team is to email <0>contact@walkscape.app</0>. Please be patient, as we are a small team trying to focus on development and answering support requests during busy times could take up to a week. Alternatively, contact @maxchill on <1>our Discord</1>. Feel free to ask in the discord if we can help with your issue or if you should contact the email."
+        "answer-section-1": "If you have problems with the game, account creation or with payments, you should contact us at <0>support@walkscape.app</0>. Alternatively, contact @maxchill on <1>our Discord</1>. The Discord is also a good place to ask our helpful community for support on common issues, as the dev team is small and cannot guarantee that emails are answered within the same day.",
+        "answer-section-2": "If you're part of the media or need to contact the team on behalf of other official business, send us an email at <0>contact@walkscape.app</0>."
       }
     }
   }
