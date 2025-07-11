@@ -111,7 +111,9 @@
             },
             "support": {
                 "answer": "Najlepszym miejscem do kontaktu z zespołem jest e-mail <0>contact@walkscape.app</0>. Prosimy o cierpliwość, ponieważ jesteśmy małym zespołem, który stara się skupić na rozwoju i odpowiadaniu na prośby o pomoc techniczną w okresach wzmożonego ruchu. Może to potrwać do tygodnia. Alternatywnie, skontaktuj się z @maxchill na <1>naszym Discordzie</1>. Nie krępuj się zapytać na Discordzie, czy możemy pomóc rozwiązać twój problem, czy też powinieneś skontaktować się przez e-mail.",
-                "question": "Potrzebuję wsparcia lub kontaktu z zespołem."
+                "question": "Potrzebuję wsparcia lub kontaktu z zespołem.",
+                "answer-section-1": "W razie problemów z grą, utworzeniem konta lub płatnościami, prosimy o kontakt pod adresem <0>support@walkscape.app</0>. Można również skontaktować się z użytkownikiem @maxchill na <1>naszym Discordzie</1>. Discord to również dobre miejsce, aby poprosić naszą pomocną społeczność o pomoc w przypadku typowych problemów, ponieważ zespół deweloperów jest niewielki i nie gwarantuje, że na e-maile odpowiemy tego samego dnia.",
+                "answer-section-2": "Jeśli jesteś przedstawicielem mediów lub chcesz skontaktować się z zespołem w innej oficjalnej sprawie, wyślij nam wiadomość e-mail na adres <0>contact@walkscape.app</0>."
             },
             "lastUpdated": "Ostatnia aktualizacja",
             "closedBetaEnd": {
