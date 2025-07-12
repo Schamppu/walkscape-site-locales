@@ -1,7 +1,9 @@
 {
   "singulars": {
     "body": {
-      "description": "Pokud máte dotazy nebo potřebujete podporu, neváhejte nás kontaktovat e-mailem na adrese <0>contact@walkscape.app</0> nebo prostřednictvím sociálních sítí."
+      "contact": "Dotazy médií a obchodních záležitostí zasílejte na adresu <0>contact@walkscape.app</0>",
+      "description": "Pokud máte dotazy nebo potřebujete podporu, neváhejte nás kontaktovat e-mailem na adrese <0>contact@walkscape.app</0> nebo prostřednictvím sociálních sítí.",
+      "support": "Pokud máte problémy s hrou, vaším účtem nebo procesem předplatného, neváhejte nás kontaktovat e-mailem na adrese <0>support@walkscape.app</0> nebo prostřednictvím sociálních médií."
     },
     "meta": {
       "description": "Zjistěte, jak nás kontaktovat",
