@@ -1,7 +1,9 @@
 {
   "singulars": {
     "body": {
-      "description": "Jeżeli masz pytania lub potrzebujesz wsparcia nie wahaj się skontaktować poprzez email <0>contact@walkscape.app</0> lub przez media społecznościowe."
+      "contact": "Zapytania dotyczące mediów i biznesu należy kierować na adres <0>contact@walkscape.app</0>",
+      "description": "Jeżeli masz pytania lub potrzebujesz wsparcia nie wahaj się skontaktować poprzez email <0>contact@walkscape.app</0> lub przez media społecznościowe.",
+      "support": "Jeśli masz problemy z grą, kontem lub procesem subskrypcji, możesz skontaktować się z nami przez e-mail pod adresem <0>support@walkscape.app</0> lub za pośrednictwem mediów społecznościowych."
     },
     "meta": {
       "description": "Dowiedz się, jak się z nami skontaktować",
