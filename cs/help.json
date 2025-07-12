@@ -81,7 +81,9 @@
             },
             "support": {
                 "answer": "Nejlepším místem pro kontaktování týmu je e-mail na adrese <0>contact@walkscape.app</O>. Prosíme o trpělivost, protože jsme malý tým, který se snaží soustředit na vývoj, a vyřizování požadavků, podpora v rušných časech může trvat až týden. Případně kontaktujte @maxchill na <1>našem Discordu</1>. Neváhejte se zeptat na Discordu, zda vám můžeme s vaším problémem pomoci, nebo zda byste měli kontaktovat e-mail.",
-                "question": "Potřebuji podporu nebo kontaktovat tým."
+                "question": "Potřebuji podporu nebo kontaktovat tým.",
+                "answer-section-1": "Pokud máte problémy s hrou, vytvořením účtu nebo s platbami, kontaktujte nás na adrese <0>support@walkscape.app</0>. Případně kontaktujte @maxchill na <1>našem Discordu</1>. Discord je také dobrým místem, kde můžete požádat naši ochotnou komunitu o podporu s běžnými problémy, protože vývojářský tým je malý a nemůže zaručit, že e-maily budou zodpovězeny ve stejný den.",
+                "answer-section-2": "Pokud jste součástí médií nebo potřebujete kontaktovat tým jménem jiné oficiální záležitosti, pošlete nám e-mail na adresu <0>contact@walkscape.app</0>."
             },
             "hiring": {
                 "question": "Hledá Not a Cult zaměstnance nebo pomoc?",
