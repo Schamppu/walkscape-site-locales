@@ -1,1 +1,17 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "contact": "Ar plašsaziņas līdzekļiem un uzņēmējdarbību saistīti jautājumi jānosūta uz <0>contact@walkscape.app</0>",
+      "support": "Ja rodas problēmas ar spēli, kontu vai abonēšanas procesu, sazinieties ar mums pa e-pastu <0>support@walkscape.app</0> vai sociālajos tīklos."
+    },
+    "meta": {
+      "description": "Uzziniet, kā ar mums sazināties",
+      "title": "WalkScape | Sazinieties ar mums"
+    },
+    "presskit": {
+      "description": "Visus preses materiālus atradīsiet <0>šeit</0>",
+      "title": "Preses materiāli"
+    },
+    "title": "Sazinieties ar mums"
+  }
+}
