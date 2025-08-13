@@ -88,11 +88,12 @@
                 "answer": "WalkScape est actuellement en bêta fermée, ce qui signifie qu'une invitation est nécessaire pour jouer. Nous invitons les joueurs qui se sont inscrits à mesure que nous avons besoin de nouveaux testeurs. Le délai d'attente est variable, mais la plupart des joueurs reçoivent une invitations après quelques mois. Vous recevrez une invitation instantanée garantie si vous avez supporté le projet sur Patreon ou Buy Me a Coffee."
             },
             "designGoals": {
-                "question": "Quel sont les objectifs de conception de WalkScape ?",
-                "answer-section-1": "<0>Pas de GPS.</0> À la place the jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou par marcher où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif.",
+                "question": "Quels sont les objectifs de conception de WalkScape ?",
+                "answer-section-1": "<0>Pas de GPS.</0> À la place le jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou en marchant où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif.",
                 "answer-section-2": "<0>Jouez sans distraction.</0> Vous n'avez pas besoin de garder le jeu ouvert pendant vos activités physiques. Notre concept de jeu est pensé pour cela : il vous suffit d’ouvrir l'application une fois rentré chez vous. Nous avons conçu le jeu pour être équilibré autour d’une ouverture nécessaire toutes les mille à dix mille pas, selon vos objectifs en jeu.",
                 "answer-section-4": "<0>Enormément de contenu.</0> Le jeu contient déjà des centaines d'objets uniques, des douzaines de lieux, neuf compétences à améliorer, et des tas d'activités amusantes pour les joueurs.",
-                "answer-section-3": "<0>Fonctionnalités en ligne.</0> Bien que peu d'entre elles soit actuellement en jeu, nous prévoyons d'offrir une pléthore de fonctionnalités multi-joueurs, comprenant un marché où vendre vos objets aux autres joueurs, des combats JcJ et JcE, un système de groupe, des guildes et plus encore !"
+                "answer-section-3": "<0>Fonctionnalités en ligne.</0> Bien que peu d'entre elles soit actuellement en jeu, nous prévoyons d'offrir une pléthore de fonctionnalités multi-joueurs, comprenant un marché où vendre vos objets aux autres joueurs, des combats JcJ et JcE, un système de groupe, des guildes et plus encore !",
+                "answer-section-5": "<0>Aucune microtransaction ni publicité.</0> Nous accordons de l'importance à nos joueurs et à notre communauté, et nous nous engageons à éviter les pratiques de monétisation peu scrupuleuses. Ainsi, le jeu sera jouable gratuitement, avec des options pour l'acheter une fois ou pour payer un abonnement raisonnable."
             },
             "closedBetaEnd": {
                 "question": "Quand est-ce que le jeu sortira de la beta fermée ?",
@@ -104,11 +105,19 @@
             },
             "lastUpdated": "Dernière mise à jour",
             "treadmill": {
-                "question": "Puis-je jouer au jeu sur un tapis de course ?"
+                "question": "Puis-je jouer au jeu sur un tapis de course ?",
+                "answer": "Oui. Vous pouvez jouer en marchant sur place, dans votre maison, sur un tapis de course, en faisant vos courses. Jouez où bon vous semble."
             },
             "platforms": {
                 "question": "Sur quel plateforme le jeu est-il disponible ?",
                 "answer": "Le jeu est disponible sur Google Play Store (Android) et Testflight (iOS)."
+            },
+            "smartwatch": {
+                "question": "Est-ce que les montres connectées sont prises en charge ?",
+                "answer": "La version du jeu sur iOS prend déjà les montres connectées en charge, mais la prise en charge sur Android est toujours en cours de développement."
+            },
+            "ideas": {
+                "question": "J'ai une bonne idée pour le jeu !"
             }
         }
     }
