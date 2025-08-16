@@ -80,7 +80,7 @@
       "tbd": "À déterminer",
       "title": "Comment obtenir un accès ?",
       "waveDate": "{{start}} - {{end}}",
-      "waveExplain": "WalkScape est actuellement en <0>Bêta Fermée</0>. Cela signifie que les joueurs auront accès au jeu par vagues ce qui nous donnera le temps entre chaque vague de développer rapidement le jeu avec une concentration totale, et d'adapter notre infrastructure serveur de manière financièrement durable."
+      "waveExplain": "WalkScape est actuellement en <0>Bêta Fermée</0>. Cela signifie que l'accès est restreint à ceux qui ont rempli un formulaire et ont été invités, ou à ceux qui nous ont aidés financièrement. Cela nous permet de développer le jeu rapidement et avec une concentration totale, et d'adapter notre infrastructure serveur de manière financièrement durable."
     },
     "meta": {
       "description": "Walkscape : Progressez en marchant !",
