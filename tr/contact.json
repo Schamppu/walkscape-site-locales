@@ -1,1 +1,12 @@
-{}
+{
+  "singulars": {
+    "body": {
+      "support": "Oyunla, hesabınla ya da abonelik sürecinle bir sıkıntı yaşıyorsan, bize <0>support@walkscape.app</0> üzerinden veya sosyal medya aracılığıyla ulaşmaktan çekinme."
+    },
+    "meta": {
+      "description": "Bize nasıl ulaşabileceğini öğren",
+      "title": "WalkScape | Bize Ulaşın"
+    },
+    "title": "Bize Ulaşın"
+  }
+}
