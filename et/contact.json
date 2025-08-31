@@ -1,7 +1,9 @@
 {
   "singulars": {
     "body": {
-      "description": "Kui sul on küsimusi või vajad abi, siis kirjuta meile e-posti teel aadressil <0>contact@walkscape.app</0> või võta ühendust sotsiaalmeedia kaudu."
+      "contact": "Meedia ja ärialased päringud palume saata aadressile <0>contact@walkscape.app</0>",
+      "description": "Kui sul on küsimusi või vajad abi, siis kirjuta meile e-posti teel aadressil <0>contact@walkscape.app</0> või võta ühendust sotsiaalmeedia kaudu.",
+      "support": "Kui sul on probleeme mängu, oma konto või tellimustega, võta meiega kontakti emailil <0>support@walkscape.app</0> või läbi sotsiaalmeedia."
     },
     "meta": {
       "description": "Uuri, kuidas meiega ühendust võtta",
