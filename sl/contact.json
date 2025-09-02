@@ -1,7 +1,9 @@
 {
   "singulars": {
     "body": {
-      "description": "Če imaš kakšno vprašanje ali potrebuješ pomoč, nas lahko kontaktiraš preko e-pošte <0>contact@walkscape.app</0> ali socialnih omrežij."
+      "contact": "Medijsko in poslovno povpraševanje se lahko pošlje na <0>contact@walkscape.app</0>",
+      "description": "Če imaš kakšno vprašanje ali potrebuješ pomoč, nas lahko kontaktiraš preko e-pošte <0>contact@walkscape.app</0> ali socialnih omrežij.",
+      "support": "Če imaš težave z igro, računom ali s postopkom naročnine, nas brez težav kontaktiraj preko e-pošte <0>support@walkscape.app</0> ali preko socialnih medijev."
     },
     "meta": {
       "description": "Preveri, kako nas lahko kontaktiraš",
