@@ -3,7 +3,7 @@
     "benefits": {
       "all": {
         "active": "Während die Mitgliedschaft aktiv ist:",
-        "color": "<0>Exklusives Icon und Profilfarbe</0> sowohl im Spiel als auch im WalkScape Portal. Dein Icon und die Profilfarbe sind anhängig von deiner Mitgliedschaftsstufe. Du bekommst den gleichen Vorteil auch auf Discord.",
+        "color": "<0>Exklusives Icon und Profilfarbe</0> sowohl im Spiel als auch im WalkScape Portal. Dein Icon und die Profilfarbe sind abhängig von deiner Mitgliedschaftsstufe. Du bekommst den gleichen Vorteil auch auf Discord.",
         "discord": "Zugang zu einem <0>exklusiven Discord Channel</0> mit extra Einblicken und Unterhaltungen mit den Entwicklern.",
         "discordRole": "Du wirst eine <0>exklusive Discord Rolle</0> haben.",
         "first": "Nach der ersten Zahlung:",
@@ -26,7 +26,7 @@
       },
       "title": "Vorteile für Unterstützer",
       "walker": {
-        "price": "3€/6€/24,50€ pro Monat",
+        "price": "$4.50-$25 pro Monat",
         "role": "Bekomme die <0>Supporter</0> Rolle auf dem WalkScape Discord Server.",
         "title": "Alle Walker"
       }
