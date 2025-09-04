@@ -73,7 +73,7 @@
         "wave3": {
             "date": "August-Oktober 2024",
             "title": "Welle 3 & Pocket Gamer Connects",
-            "content": "Ein weiteres großes Quality-of-Life Update, das die Walkpedia, Reisen + Aktion Warteschlange, Bank und Inventar Sortierung, Tabs und vieles mehr hinzufügt um das Spiel einfacher zu machen. Kurz nach dem Update und einigen Fehlerbehebungen beginnt Welle 3."
+            "content": "In den nächsten sechseinhalb Wochen erlebt das Spiel einen massiven Zustrom neuer Spieler, da die Nachricht über Welle 3 mehr Menschen erreicht als je zuvor. Außerdem wird das Spiel auf verschiedenen Messen vorgestellt und gewinnt den Indie-Publikumspreis bei den Pocket Gamer Connects in Helsinki."
         },
         "meta": {
             "description": "Eine Zusammenfassung der Entwicklung von WalkScape, sowohl Vergangenes als Zukünftiges.",
@@ -95,6 +95,20 @@
         },
         "party": {
             "content": "Die erste echte Mehrspieler Mechanik, die es Spielern erlaubt, zusammen, gemeinsam Ziele zu erreichen."
+        },
+        "engineUpdate": {
+            "date": "29. Jänner, 2025",
+            "title": "Engine Update & Gear Sets"
+        },
+        "localization": {
+            "date": "12. Oktober, 2024",
+            "title": "Welle 3 und PGC",
+            "content": "Ein Update wird veröffentlicht, das es den Spielern ermöglicht, die In-Game-Sprache zu ändern. In der ersten Welle werden neben Englisch auch Deutsch, Spanisch, Italienisch, Niederländisch, Polnisch und natürlich Finnisch unterstützt. Die meisten Übersetzungen stammen von WalkScapes fleißiger Community."
+        },
+        "syrenthiaHotfix": {
+            "date": "16. Oktober, 2024",
+            "title": "Hotfix nach dem Syrenthien-Update",
+            "content": "Ein Patch wird veröffentlicht, der die meisten technischen Probleme behebt, die Spieler nach dem Syrenthien-Update erlebt haben"
         }
     }
 }
