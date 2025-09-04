@@ -55,7 +55,9 @@
   },
   "singulars": {
     "callToAction": {
+      "playNow": "Jetzt spielen!",
       "registerNow": "<0>Jetzt registrieren</0> um sich für eine Einladung zu bewerben oder <1>unterstütze uns</1> um dir den Zugang zu sichern!",
+      "supportToStart": "Unterstützer auf <0>Patreon</0> und <1>Buy Me a Coffee</1> können jetzt sofort mit dem Spielen beginnen!",
       "waveActive": "Wir versenden aktuell Beta Einladungen!",
       "waveUndefined": "Die nächste geschlossene Betawelle beginnt bald! Abonniere unseren <0>Newsletter</0> und folge uns auf <1>social Media</1> um nichts zu verpassen!"
     },
@@ -72,13 +74,15 @@
       "title": "Was ist WalkScape?"
     },
     "howToPlay": {
-      "ensure": "Um dir so früh wie möglich Zugriff auf das Spiel zu sichern",
+      "ensure": "Um sofortigen Zugang zum Spiel zu erhalten, kannst du auch",
       "instructions": "Für Schritt-für-Schritt Anleitungen wie man Zugriff bekommt, gehe <0>hierhin</0>!",
       "nextWave": "Die nächste Welle für Beta Einladungen ist",
       "subscribe": "Abonniere unseren <0>Newsletter</0> und folge uns auf <1>social Media</1> um nichts zu verpassen!",
+      "supportNow": "Unterstütze jetzt für sofortigen Zugang!",
+      "tbd": "TBD",
       "title": "Wie kann ich Zugriff bekommen?",
       "waveDate": "{{start}} - {{end}}",
-      "waveExplain": "WalkScape befindet sich aktuell in der <0>geschlossenen Beta</0>. Das bedeutet, dass Spieler in Wellen Zugriff auf das Spiel bekommen, damit wir Zeit haben, mit voller Konzentration an dem Spiel zu arbeiten und unsere Server Infrastruktur auf eine finanziell angemessene Art anzupassen."
+      "waveExplain": "WalkScape befindet sich derzeit in der <0>Geschlossenen Beta</0>. Das bedeutet, dass der Zugang auf diejenigen beschränkt ist, die eine Bewerbung ausgefüllt und eine Einladung erhalten haben oder uns finanziell unterstützen. Dadurch können wir das Spiel schnell und mit voller Konzentration weiterentwickeln und gleichzeitig unsere Serverinfrastruktur finanziell nachhaltig skalieren."
     },
     "meta": {
       "description": "WalkScape: Laufe um zu Grinden!",
