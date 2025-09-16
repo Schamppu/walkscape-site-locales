@@ -1,6 +1,7 @@
 {
   "singulars": {
     "buttons": {
+      "accept": "Kabul edin",
       "buyMeACoffee": "Buy Me a Coffee",
       "contact": "Bize ulaş",
       "download": "Oyunu İndir",
@@ -8,7 +9,26 @@
       "newsletter": "Haberler",
       "patreon": "Patreon",
       "register": "Kaydol",
+      "reject": "Reddedin",
       "support": "Bize destek ol"
+    },
+    "consent": {
+      "prompt": "Bu site çerezler kullanıyor. “Kabul Et”e tıklayarak bunu onaylamış oluyorsunuz. <0>Gizlilik politikamızı buradan</0> okuyabilirsiniz."
+    },
+    "footer": {
+      "copyright": "Telif hakları Not a Cult Oy'a aittir",
+      "privacy-policy": "Gizlilik Politikası"
+    },
+    "routes": {
+      "contact": "İletişim",
+      "help": "Yardım",
+      "home": "Ev",
+      "portal": "Portal",
+      "register": "Kaydolmak",
+      "roadmap": "Yol haritası",
+      "store": "Mağaza",
+      "support": "Bize destek olun",
+      "wiki": "Wiki"
     }
   }
 }
