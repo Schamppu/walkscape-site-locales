@@ -57,7 +57,7 @@
     "callToAction": {
       "playNow": "Hrajte nyní!",
       "registerNow": "<0>Zaregistrujte se nyní</0> a požádejte o pozvánku nebo <1>nás podpořte</1> a zajistěte si přístup!",
-      "supportToStart": "0>Patreon</0> a <1>Buy me a coffee</1> nyní mohou okamžitě začít hrát!",
+      "supportToStart": "<0>Patreon</0> a <1>Buy Me a Coffee</1> nyní mohou okamžitě začít hrát!",
       "waveActive": "Právě rozesíláme pozvánky na betaverzi!",
       "waveUndefined": "Další vlna uzavřené bety se blíží! Přihlaste se k odběru našich <0>novinek</O> a sledujte naše <1>sociální sítě</1>, abyste byli v obraze!"
     },
