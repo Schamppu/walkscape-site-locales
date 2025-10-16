@@ -42,7 +42,9 @@
             },
             "hiring": {
                 "answer": "Not a Cult tavaliselt uusi töötajaid ei otsi, kuid abi on alati teretulnud! Võta ühendust @floursifter-iga <0>meie Discordi serveris</0>, et saata oma CV või pakkuda abi mõne kindla mänguvaldkonnaga.",
-                "question": "Kas Not A Cult vajab uusi töötajaid või muud abi?"
+                "question": "Kas Not A Cult vajab uusi töötajaid või muud abi?",
+                "answer-section-1": "Not a Cult ei ole tavaliselt värbamas, aga otsime alati abi. Eelkõige on oodatud tõlkijad, sest projekt on 100% kogukonna poolt tõlgitud. Rohkem infot tõlkimise kohta leiate <0>Wikist<0>",
+                "answer-section-2": "Kui on mõni muu ala, kus usud et võid olla eriliseks abiks, võid võtta meiega kontakti: <0>contact@walkscape.app</0>"
             },
             "designGoals": {
                 "answer-section-4": "<0>Tegevust jätkub!</0> Juba praegu on mängus sadu unikaalseid esemeid, tosinaid huvitavaid asukohti mida avastada, kümme oskust mida arendada ning palju eri lõbusaid tegevusi milles osaleda.",
@@ -55,7 +57,7 @@
             "support": {
                 "answer": "Parim viis tiimiga ühendust võtta on saata e-kiri aadressile <0>contact@walkscape.app</0>. Vastuse saamiseks palume arvestada kuni nädala pikkuse ooteajaga, kuna meie tiim on väike ning keskendume peamiselt mängu arendamisele. Kiireloomulise mure korral võtke palun ühendust @floursifter-i või @maxchilli-ga <1>meie Discordi serveris</1>. Discordis võite julgelt abi küsida, kui vajate tuge või pole kindel, kas e-kirja saatmine on vajalik.",
                 "question": "Vajan abi või võtta tiimiga kontakti.",
-                "answer-section-2": "Kui oled osa meediast või on vaja võtta kontakti tiimiga seoses ametialaste teemadega, saada meile email: <0>contact@walkscape.app</0>",
+                "answer-section-2": "Kui oled osa meediast või on vaja võtta kontakti tiimiga seoses ametialaste teemadega, saada meile email: <0>contact@walkscape.app</0>.",
                 "answer-section-1": "Kui sul on probleeme mängu, konto loomise või maksetega, võta meiega ühendust: <0>support@walkscape.app</0>. Alternatiivselt kontakteeru kasutajaga @maxchill <1>meie Discordis</1>. Discord on ka hea koht, et küsida tuge meie abivalmilt kogukonnalt seoses tavaliste probleemidega, sest meie arendajate meeskond on väike ning me ei saa garanteerida, et vastame e-mailidele samal päeval."
             },
             "treadmill": {
