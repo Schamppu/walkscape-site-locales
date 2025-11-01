@@ -1,1 +1,32 @@
-{}
+{
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Kol narystė yra aktyvi:",
+        "first": "Po pirmo mokėjimo:",
+        "title": "Visos Narystės"
+      },
+      "follower": {
+        "patreon": "Prieinama tik Patreon",
+        "price": "$50 per mėnesį",
+        "title": "Kulto Sekėjas"
+      },
+      "leader": {
+        "price": "$100 per mėnesį",
+        "title": "Kulto Lyderis"
+      },
+      "title": "Remėjų Privalumai",
+      "walker": {
+        "price": "$4.50-$25 per mėnesį",
+        "title": "Visi Vaikščiotojai"
+      }
+    },
+    "body": {
+      "section-1": "Jūs galite paremti WalkScape vystymą per Patreon arba Buy me a Coffee. Žaidimo remėjai gauna išskirtinių privalumų, kurie yra nurodyti Patreon ir Buy me a Coffee."
+    },
+    "meta": {
+      "title": "WalkScape | Paremkite Mus"
+    },
+    "title": "Paremkite Mus"
+  }
+}
