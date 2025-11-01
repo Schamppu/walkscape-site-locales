@@ -1,1 +1,20 @@
-{}
+{
+  "singulars": {
+    "callToAction": {
+      "playNow": "Žaisk Dabar!",
+      "supportToStart": "<0>Patreon</0> ir <1>Buy Me a Coffee</1> remėjai dabar gali pradėti žaisti iš karto!"
+    },
+    "howToPlay": {
+      "title": "Kaip gauti prieigą?"
+    },
+    "news": {
+      "title": "Naujienos"
+    },
+    "social": {
+      "follow": "Sekite mus socialinėje medijoje"
+    },
+    "statistics": {
+      "title": "Statistika"
+    }
+  }
+}
