@@ -1,1 +1,24 @@
-{}
+{
+  "singulars": {
+    "contents": {
+      "about": {
+        "title": "Apie Kurėjus"
+      },
+      "articles": {
+        "title": "Straipsniai"
+      },
+      "logos": {
+        "download": "Atsisiųsti logotipus kaip .zip failą",
+        "title": "Logotipai"
+      },
+      "title": "Turinys",
+      "videos": {
+        "youtube": "Oficialus youtube kanalas"
+      }
+    },
+    "meta": {
+      "title": "WalkScape | Pranešimai Spaudai"
+    },
+    "title": "Pranešimai Spaudai"
+  }
+}
