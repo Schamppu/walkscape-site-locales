@@ -1,1 +1,90 @@
-{}
+{
+    "singulars": {
+        "devStart": {
+            "date": "Rugpjūčio 17, 2022"
+        },
+        "maxchill": {
+            "date": "Gruodžio 4, 2022",
+            "title": "Maxchill Prisijungia prie Komandos"
+        },
+        "originalBeta": {
+            "date": "Vasara, 2023"
+        },
+        "qol": {
+            "date": "Vasario 16, 2024"
+        },
+        "pedometer": {
+            "date": "Balandžio 26, 2024",
+            "title": "Žingsniamačio Atnaujinimas"
+        },
+        "syrenthia": {
+            "date": "Rugpjūčio 21, 2024",
+            "title": "Sirentijos Atnaujinimas"
+        },
+        "floursifter": {
+            "title": "Floursifter Prisijungia prie Komandos",
+            "date": "Spalio 12, 2023"
+        },
+        "wave1": {
+            "date": "Lapkričio 1, 2023"
+        },
+        "launch": {
+            "date": "Sausio 10, 2024"
+        },
+        "contentUpdate": {
+            "date": "Vasario 28, 2024"
+        },
+        "wave2": {
+            "date": "Kovo 1, 2024"
+        },
+        "wave2patch": {
+            "date": "Kovo 13, 2024"
+        },
+        "myzozoz": {
+            "date": "Balandžio 15, 2024",
+            "title": "myzozoz Prisijungia prie Komandos"
+        },
+        "wave2point5": {
+            "date": "Birželio 1, 2024"
+        },
+        "achievements": {
+            "date": "Liepos 10, 2024"
+        },
+        "wave3": {
+            "date": "Rugpjūtis-Spalis, 2024"
+        },
+        "syrenthiaHotfix": {
+            "date": "Spalio 16, 2024"
+        },
+        "devTools": {
+            "date": "Vasaris, 2025"
+        },
+        "wave4": {
+            "date": "Gegužės 15, 2025"
+        },
+        "party": {
+            "date": "Gruodis, 2024"
+        },
+        "trading": {
+            "title": "Keitimasis Tarp Žaidėjų"
+        },
+        "combat": {
+            "title": "Kovojimo Sistema"
+        },
+        "quests": {
+            "title": "Užduotys"
+        },
+        "meta": {
+            "title": "WalkScape | Veiksmų Planas"
+        },
+        "localization": {
+            "date": "Spalio 12, 2024"
+        },
+        "engineUpdate": {
+            "date": "Sausio 29, 2025"
+        },
+        "smartWatch": {
+            "date": "Balandžio 25, 2025"
+        }
+    }
+}
