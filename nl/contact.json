@@ -1,7 +1,9 @@
 {
   "singulars": {
     "body": {
-      "description": "Als je vragen hebt of ondersteuning nodig hebt, neem dan gerust contact met ons op via email op <0>contact@walkscape.app</0> of via social media."
+      "contact": "Media en zakelijke vragen kunnen gestuurd worden naar <0>contact@walkscape.app</0>",
+      "description": "Als je vragen hebt of ondersteuning nodig hebt, neem dan gerust contact met ons op via email op <0>contact@walkscape.app</0> of via social media.",
+      "support": "Als je problemen hebt met het spel, je account, of het aanmeldingsproces, neem dan gerust contact met ons op via <0>support@walkscape.app</0> of via social media."
     },
     "meta": {
       "description": "Bekijk hoe we te bereiken zijn",
