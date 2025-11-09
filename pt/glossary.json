@@ -1,1 +1,35 @@
-{}
+{
+  "singulars": {
+    "buttons": {
+      "accept": "Aceitar",
+      "buyMeACoffee": "Buy me a coffee",
+      "contact": "Contacta-nos",
+      "download": "Descarrega o Jogo",
+      "game": "Começa a tua jornada",
+      "newsletter": "Boletim Informativo",
+      "patreon": "Patreon",
+      "register": "Registar",
+      "reject": "Rejeitar",
+      "support": "Apoia-nos"
+    },
+    "consent": {
+      "prompt": "Este website utiliza cookies. Ao selecionares ‘aceitar’ estás a consentir a sua utilização. Podes ler a nossa <0> política de privacidade aqui</0>"
+    },
+    "footer": {
+      "copyright": "Direitos de autor reservados por Not a Cult Oy",
+      "privacy-policy": "Política de Privacidade"
+    },
+    "routes": {
+      "contact": "Contactos",
+      "help": "Ajuda",
+      "home": "Início",
+      "portal": "Portal",
+      "presskit": "Kit de Imprensa",
+      "register": "Registar",
+      "roadmap": "Roteiro",
+      "store": "Loja",
+      "support": "Apoia-nos",
+      "wiki": "Wiki"
+    }
+  }
+}
