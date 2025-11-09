@@ -1,11 +1,16 @@
 {
   "singulars": {
     "body": {
-      "description": "Se tens duvidas ou precisas de suporte, não hesites em contactar-nos via email para <0>contact@walkscape.app</0> ou pelas nossas redes sociais."
+      "description": "Se tens duvidas ou precisas de suporte, não hesites em contactar-nos via email para <0>contact@walkscape.app</0> ou pelas nossas redes sociais.",
+      "support": "Se tiveres problemas com o jogo, a tua conta ou o processo de subscrição, contacta-nos via email <0>support@walkscape.app</0> ou através das nossas redes sociais."
     },
     "meta": {
       "description": "Saiba como contactar-nos",
       "title": "WalkScape | Contacta-nos"
+    },
+    "presskit": {
+      "description": "Descobre todo o nosso Kit de Impressa <0>aqui</0>",
+      "title": "Kit de Imprensa"
     },
     "title": "Contacta-nos"
   }
