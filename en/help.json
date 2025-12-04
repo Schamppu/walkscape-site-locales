@@ -82,7 +82,8 @@
       "hiring": {
         "question": "Is Not a Cult hiring or looking for help?",
         "answer-section-1": "Not a Cult is not usually hiring, but we are always looking for help. Especially translators are appreciated, as the project is 100% community translated. More info on translations can be found on the <0>Wiki<0>",
-        "answer-section-2": "If there is some other area, where you think you could be of special help, you can contact us at <0>contact@walkscape.app</0>"
+        "answer-section-2": "If there is some other area, where you think you could be of special help, you can contact us at <0>contact@walkscape.app</0>",
+        "answer-section-3": "If you want to submit an open job application, you can do so at <0>hiring@walkscape.app</0>"
       },
       "support": {
         "question": "I need support or need to contact the team.",
