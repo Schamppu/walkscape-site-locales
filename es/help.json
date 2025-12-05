@@ -89,7 +89,9 @@
             },
             "futureMonetization": {
                 "answer-section-1": "<0>Modo offline</0> - Compra única. Podrás pagar una sola vez para bajar el modo offline del juego. Recibirás futuras actualizaciones de contenido, no tendrás el requisito de estar online para abrir el juego y tendrás un control deslizante que multiplique tus pasos para alcanzar la experiencia de juego que desees. Sin funciones multijugador.",
-                "question": "¿Cuál es la estrategia a futuro de monetización del juego?"
+                "question": "¿Cuál es la estrategia a futuro de monetización del juego?",
+                "answer-section-2": "<0>Online mode</0> - suscripción mensual asequible. Necesitarás estar conectado para jugar, pero recibirás futuras actualizaciones de contenido y todas las funciones multijugador que ofrece el juego.",
+                "answer-section-3": "<0>Free to play area</0> - ambas modalidades del juego contarán con un área de juego libre que se podrá disfrutar de forma gratuita."
             },
             "howCanIGet": {
                 "question": "¿Cómo puedo conseguir el juego?",
@@ -113,7 +115,22 @@
             },
             "smartwatch": {
                 "question": "¿Hay soporte para relojes inteligentes?",
-                "answer": "De momento no hay soporte para relojes inteligentes. Necesitarás llevar el teléfono encima para contar los pasos que das. Hay planes de dar soporte antes de que el juego salga a beta abierta."
+                "answer": "La versión iOS del juego ya es compatible con relojes inteligentes, pero la compatibilidad con Android aún está en desarrollo."
+            },
+            "support": {
+                "answer-section-2": "Si forma parte de los medios de comunicación o necesita ponerse en contacto con el equipo en nombre de otros asuntos oficiales, envíenos un correo electrónico a <0>contact@walkscape.app</0>.",
+                "answer-section-1": "Si tienes problemas con el juego, la creación de tu cuenta o con los pagos, contáctanos a <0>support@walkscape.app</0>. También puedes contactar con @maxchill en <1>our Discord</1>. En Discord también es un buen lugar para pedir ayuda a nuestra comunidad sobre problemas comunes, ya que el equipo de desarrollo es pequeño y no podemos garantizar que los correos electrónicos se respondan el mismo día.",
+                "question": "Necesito ayuda o necesito contactar al equipo."
+            },
+            "hiring": {
+                "answer-section-3": "Si desea enviar una solicitud de empleo abierta, puede hacerlo en <0>hiring@walkscape.app</0>",
+                "question": "¿Not a Cult está contratando o buscando ayuda?",
+                "answer-section-1": "Not a Cult no suele contratar personal, pero siempre buscamos ayuda. Agradecemos especialmente a los traductores, ya que el proyecto se traduce 100% a través de la comunidad. Puedes encontrar más información sobre las traducciones en la <0>Wiki<0>",
+                "answer-section-2": "Si hay alguna otra área en la que crees que podrías ser de especial ayuda, puedes contactarnos en <0>contact@walkscape.app</0>"
+            },
+            "ideas": {
+                "question": "¡Tengo una idea genial para el juego!",
+                "answer": "Nos encantaría escucharlo, y el mejor lugar para compartirlo es en el canal <0>⁠suggestions-and-feedback</0> en Discord."
             }
         },
         "meta": {
