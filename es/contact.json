@@ -1,7 +1,10 @@
 {
   "singulars": {
     "body": {
-      "description": "Si tienes preguntas o necesitas ayuda, no dudes en contactarnos a través del correo electrónico <0>contact@walkscape.app</0> o a través de las redes sociales."
+      "contact": "Las consultas relacionadas con los medios y negocios deben enviarse a <0>contact@walkscape.app</0>.",
+      "description": "Si tienes preguntas o necesitas ayuda, no dudes en contactarnos a través del correo electrónico <0>contact@walkscape.app</0> o a través de las redes sociales.",
+      "hiring": "Las solicitudes de empleo y las preguntas sobre reclutamiento deben enviarse a <0>hiring@walkscape.app</0>.",
+      "support": "Si tienes problemas con el juego, tu cuenta o el proceso de suscripción, no dudes en contactarnos por correo electrónico a <0>support@walkscape.app</0> o a través de nuestras redes sociales."
     },
     "meta": {
       "description": "Descubre cómo contactar con nosotros",
