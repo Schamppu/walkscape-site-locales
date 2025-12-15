@@ -85,20 +85,24 @@
             "content": "Kurz nach Welle 2.5 wurden in einem großen Content-Update Achievements hinzugefügt. "
         },
         "devTools": {
-            "content": "Die Entwicklerwerkzeuge werden intern komplett überarbeitet, um eine wesentliche schnellere Entwicklung von neuen Inhalten zu ermöglichen.",
-            "title": "Entwicklerwergzeug 2.0"
+            "content": "Nach dem großen Engine Update folgen schnell neue Devtools, damit das Content-Team unabhängig vom Programmierteam arbeiten kann.",
+            "title": "Entwicklerwergzeug 2.0",
+            "date": "Februar 2025"
         },
         "combat": {
-            "date": "Q1, 2025",
+            "date": "1. Quartal 2025",
             "title": "Kampfsystem",
-            "content": "Die erste Version des Kampfsystems wird veröffentlicht. Das Team ist darauf vorbereitet, dass die Mechanik mehrere Iterationen benötigt, sobald die Tests starten."
+            "content": "Die erste Version des Kampfsystems wird nach dem Handel zum Testen bereitgestellt. Das Team ist darauf vorbereitet, dass die Mechanik mehrere Überarbeitungen benötigt, sobald die Tests starten."
         },
         "party": {
-            "content": "Die erste echte Mehrspieler Mechanik, die es Spielern erlaubt, zusammen, gemeinsam Ziele zu erreichen."
+            "content": "Die erste echte Mehrspieler Mechanik, die es Spielern erlaubt, zusammen, gemeinsam Ziele zu erreichen.",
+            "date": "Dezember 2024",
+            "title": "Gruppensystem"
         },
         "engineUpdate": {
             "date": "29. Jänner, 2025",
-            "title": "Engine Update & Gear Sets"
+            "title": "Engine Update & Gear Sets",
+            "content": "Im Winter 2024-2025 befindet sich das Team in seiner bislang längsten Phase ohne Updates. Über mehr als drei Monate hinweg wurden große Teile der Game Engine neugeschrieben, um die Leistung und Stabilität zu verbessern und eine größere Anzahl von Features zu unterstützen. Das erste Feature, das davon profitiert hat, ist das neue Ausrüstungssystem, welches zeitgleich released wurde."
         },
         "localization": {
             "date": "12. Oktober, 2024",
@@ -109,6 +113,26 @@
             "date": "16. Oktober, 2024",
             "title": "Hotfix nach dem Syrenthien-Update",
             "content": "Ein Patch wird veröffentlicht, der die meisten technischen Probleme behebt, die Spieler nach dem Syrenthien-Update erlebt haben"
+        },
+        "wave4": {
+            "date": "15. Mai 2025",
+            "title": "4. Welle & feststecken",
+            "content": "Die 4. Welle startet und tausende neue Spieler kommen ins Spiel. Mit Hilfe der neuen DevTools, veröffentlicht das Team ein größeres Content Update, welches das Sumpfgebiet von GDTE erweitert."
+        },
+        "quests": {
+            "content": "Als letzte wichtige Neuerung werden Quests eingeführt, die den Spielern handgefertigte Story-Inhalte zum Durchspielen bieten.",
+            "title": "Quests",
+            "date": "2. Quartal 2025"
+        },
+        "smartWatch": {
+            "title": "Wearable Support für iOS",
+            "date": "25. April 2025",
+            "content": "Nach einer Umfrage zur Meinung der Community beschließt das Team den Wearable Support für iOS Geräte zu entwickeln, um die Funktion zu testen und veröffentlicht dieses Update im April."
+        },
+        "trading": {
+            "date": "1. Quartal 2025",
+            "title": "Spieler-Handel",
+            "content": "Als nächstes großes Multiplayer Feature wird Spieler-Handel eingeführt, welches das 'MMO' in WalkScapes's 'MMORPG' nochmal bestärkt."
         }
     }
 }
