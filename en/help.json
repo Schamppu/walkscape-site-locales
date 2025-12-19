@@ -44,7 +44,6 @@
       "closedBetaEnd": {
         "question": "When will the game leave closed beta status?",
         "answer": "WalkScape plans to leave closed beta once we have the following missing features:",
-        "req-1": "Smartwatch support",
         "req-2": "Trading",
         "req-3": "Quests",
         "req-4": "Combat"
