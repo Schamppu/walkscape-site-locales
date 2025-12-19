@@ -72,9 +72,14 @@
       "transfer": {
         "question": "I've got a new phone, how can I transfer my progress?",
         "answer": "By default, your characters and progress are saved to the cloud, but it's a good idea to check that your progress is saved before moving over. Playing the game on two devices is also against the rules, so to make sure that you're not flagged by anti-cheat, you should delete the game on your old device, before opening it on the new one. Here are the steps to do that:",
-        "step-1": "<0>Open the game</0> on your old device. Head on over to the <0>leaderboards</0>. This should force a sync and you can check that your progress locally matches that stored on the server.",
+        "step-1": "<0>Open the game</0> on your old device. If you head over to the <0>leaderboards</0> and your stats match the ones on your skill screen, you know that progress has been saved to the cloud.",
         "step-2": "<0>Close the game</0> and <0>uninstall</0> it.",
-        "step-3": "<0>Install the game</0> on the new device using the same instructions as before. Login with your Portal credentials."
+        "step-3": "<0>Install the game</0> on the new device using the same instructions as before. Login with your Portal credentials.",
+        "note": "<0>Note</0>: iOS and some Android distributions provide automatic app transfers, but WalkScape isn't yet compatible with these and will require a reinstall in most cases."
+      },
+      "openGame": {
+        "question": "How often do I need to open the game to not lose steps?",
+        "answer": "A good rule of thumb is to open the game <0>every 7 days</0>. Depending on your platform, step source (wearable vs phone) and other factors beyond our control, steps can be loaded from 10-30 days in the past, but these can vary. Opening the game once every week should prevent you from losing any steps, though."
       },
       "futureMonetization": {
         "question": "What is the future monetization strategy of the game?",
