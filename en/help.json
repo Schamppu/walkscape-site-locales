@@ -67,7 +67,7 @@
       },
       "smartwatch": {
         "question": "Are smartwatches supported?",
-        "answer": "The iOS version of the game already supports smartwatches, but support on Android is still in development."
+        "answer": "Yes! Smartwatches are supported on both Android and iOS. However, not all devices and vendors are supported, but you can check the <0>Wiki page</0> for a list of known device support."
       },
       "futureMonetization": {
         "question": "What is the future monetization strategy of the game?",
