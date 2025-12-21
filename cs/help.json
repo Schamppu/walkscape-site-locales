@@ -67,7 +67,7 @@
             },
             "smartwatch": {
                 "question": "Jsou podporovány chytré hodinky?",
-                "answer": "Verze hry pro iOS již podporuje chytré hodinky, ale podpora pro Android je stále ve vývoji."
+                "answer": "Ano! Chytré hodinky jsou podporovány v systémech Android i iOS. Ne všechna zařízení a dodavatelé jsou však podporováni, seznam podporovaných zařízení naleznete na <0>Wiki stránce</0>."
             },
             "futureMonetization": {
                 "question": "Jaká je budoucí strategie monetizace hry?",
@@ -88,7 +88,20 @@
             "hiring": {
                 "question": "Hledá Not a Cult zaměstnance nebo pomoc?",
                 "answer-section-1": "Not a Cult obvykle nenajímá nové zaměstnance, ale vždy hledáme pomoc. Obzvláště vítáme překladatele, protože projekt je 100% přeložen komunitou. Více informací o překladech naleznete na <0>Wiki<0>",
-                "answer-section-2": "Pokud existuje nějaká jiná oblast, kde si myslíte, že byste mohli být obzvláště užiteční, můžete nás kontaktovat na adrese <0>contact@walkscape.app</0>"
+                "answer-section-2": "Pokud existuje nějaká jiná oblast, kde si myslíte, že byste mohli být obzvláště užiteční, můžete nás kontaktovat na adrese <0>contact@walkscape.app</0>",
+                "answer-section-3": "Pokud chcete podat žádost o volné pracovní místo, můžete tak učinit na adrese <0>hiring@walkscape.app</0>"
+            },
+            "transfer": {
+                "question": "Mám nový telefon, jak mohu přenést svůj postup?",
+                "step-2": "<0>Zavřete hru</0> a <0>odinstalujte</o> ji.",
+                "step-1": "<0>Otevřete hru</0> na svém starém zařízení. Pokud přejdete na <0>žebříčky</0> a vaše statistiky se shodují s těmi na obrazovce dovedností, víte, že váš postup byl uložen do cloudu.",
+                "note": "<0>Poznámka</0>: iOS a některé distribuce Androidu poskytují automatický přenos aplikací, ale WalkScape s nimi zatím není kompatibilní a ve většině případů bude vyžadovat přeinstalaci.",
+                "answer": "Ve výchozím nastavení se vaše postavy a postup ukládají do cloudu, ale před přechodem je dobré zkontrolovat, zda je váš postup uložen. Hraní hry na dvou zařízeních je také proti pravidlům, takže abyste se ujistili, že nebudete nahlášeni anti-cheatem, měli byste hru smazat na starém zařízení a poté ji otevřít na novém. Postupujte takto:",
+                "step-3": "<0>Nainstalujte hru</0> na nové zařízení podle stejných pokynů jako předtím. Přihlaste se pomocí svých přihlašovacích údajů k portálu."
+            },
+            "openGame": {
+                "question": "Jak často musím hru otevírat, abych neztratil kroky?",
+                "answer": "Dobrým pravidlem je otevírat hru <0>každých 7 dní</0>. V závislosti na vaší platformě, zdroji kroků (nositelné zařízení vs. telefon) a dalších faktorech, které nemůžeme ovlivnit, se kroky mohou načítat 10–30 dní zpět, ale tyto hodnoty se mohou lišit. Otevření hry jednou týdně by vám však mělo zabránit ve ztrátě kroků."
             }
         }
     }
