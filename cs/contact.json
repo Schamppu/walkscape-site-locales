@@ -1,8 +1,9 @@
 {
   "singulars": {
     "body": {
-      "contact": "Dotazy médií a obchodních záležitostí zasílejte na adresu <0>contact@walkscape.app</0>",
+      "contact": "Dotazy médií a obchodních záležitostí zasílejte na adresu <0>contact@walkscape.app</0>.",
       "description": "Pokud máte dotazy nebo potřebujete podporu, neváhejte nás kontaktovat e-mailem na adrese <0>contact@walkscape.app</0> nebo prostřednictvím sociálních sítí.",
+      "hiring": "Žádosti o zaměstnání a dotazy ohledně náboru zasílejte na <0>hiring@walkscape.app</0>.",
       "support": "Pokud máte problémy s hrou, vaším účtem nebo procesem předplatného, neváhejte nás kontaktovat e-mailem na adrese <0>support@walkscape.app</0> nebo prostřednictvím sociálních médií."
     },
     "meta": {
