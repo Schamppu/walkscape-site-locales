@@ -107,11 +107,23 @@
             },
             "smartwatch": {
                 "question": "Worden smartwatches ondersteund?",
-                "answer": "De iOS versie van het spel ondersteunt smartwatches al, maar ondersteuning voor Android is nog in ontwikkeling."
+                "answer": "Ja! Smartwatches worden ondersteund op zowel Android als iOS. Echter worden niet alle toestellen en merken ondersteund, maar je kunt de <0>Wiki-pagina</0> bezoeken voor een lijst van bekende apparaten die wel ondersteund worden."
             },
             "ideas": {
                 "question": "Ik heb een gaaf idee voor het spel!",
                 "answer": "We horen het graag! De beste plaats om dit te delen is op het <0>suggestions-and-feedback</0>-kanaal op Discord."
+            },
+            "transfer": {
+                "answer": "Normaal gesproken worden je personages en voortgang opgeslagen in de cloud, maar het wordt aangeraden om te controleren of je voortgang is opgeslagen voordat je overstapt. Het spel spelen op twee toestellen tegelijk is ook tegen de regels, dus om zeker te zijn dat je niet door het anti-valsspeelsysteem wordt getroffen, moet je eerst het spel op je oude toestel verwijderen voordat je het opent op je nieuwe toestel. Dat kan op deze manier:",
+                "question": "Ik heb een nieuwe telefoon, hoe zet ik mijn voortgang over?",
+                "step-2": "<0>Sluit het spel</0> en <0>verwijder</0> het.",
+                "step-3": "<0>Installeer het spel</0> op het nieuwe toestel volgens dezelfde instructies als eerder. Log in met je Portal-inloggegevens.",
+                "step-1": "<0>Open het spel</0> op je oude toestel. Open vervolgens de <0>klassementen</0> om te controleren of je statistieken overeenkomen met de statistieken op je vaardighedenoverzicht. Als dat zo is, is je voortgang opgeslagen in de cloud.",
+                "note": "<0>Pas op</0>: iOS en sommige Android distributies bieden automatische systemen aan om apps over te zetten, maar WalkScape is hier nog niet compatibel mee. In de meeste gevallen zul je het spel opnieuw moeten installeren."
+            },
+            "openGame": {
+                "question": "Hoe vaak moet ik het spel openen om geen stappen te verliezen?",
+                "answer": "Een goede leidraad is om het spel <0>elke 7 dagen</0> te openen. Afhankelijk van je platform, stappenbron (smartwatch of telefoon) en andere factoren waar we geen controle over hebben, kunnen stappen geladen worden van 10 tot 30 dagen in het verleden, maar hier zit variatie in. Voor de zekerheid kun je het beste één keer per week het spel openen om geen stappen te verliezen."
             }
         },
         "meta": {
