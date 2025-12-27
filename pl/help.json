@@ -100,7 +100,7 @@
                 "question": "Mam fajny pomysł na grę!"
             },
             "smartwatch": {
-                "answer": "Wersja gry na iOS-a już obsługuje smartwatche, ale prace nad wsparciem dla systemu Android są jeszcze w toku.",
+                "answer": "Tak! Smartwatche są obsługiwane zarówno na Androidzie oraz iOS. Nie wszystkie urządzenia i producenci są jednak obsługiwani, listę obsługiwanych urządzeń można znaleźć na stronie <0>Wiki</0>.",
                 "question": "Czy smartwatche są obsługiwane?"
             },
             "futureMonetization": {
@@ -140,7 +140,11 @@
                 "answer-section-3": "Jeśli chcesz złożyć otwartą aplikację o pracę, możesz to zrobić pisząc na adres <0>hiring@walkscape.app</0>"
             },
             "transfer": {
-                "question": "Mam nowy telefon. Jak mogę przenieść swoje postępy?"
+                "question": "Mam nowy telefon. Jak mogę przenieść swoje postępy?",
+                "answer": "Domyślnie Twoje postacie i postępy są zapisywane w chmurze, ale warto sprawdzić, czy postępy na pewno są zapisywane przed przeniesieniem. Granie na dwóch urządzeniach również jest niezgodne z zasadami gry, więc należ upewnić się, że nie zostaniesz nieprawidłowo oznaczony przez program anty-cheat, usuń grę ze starego urządzenia, zanim uruchomisz ją na nowym. Oto kroki, aby to zrobić:",
+                "step-1": "<0>Otwórz grę</0> na swoim starym urządzeniu. Jeśli przejdziesz do <0>tabel wyników</0> i Twoje statystyki będą się zgadzać z tymi na ekranie umiejętności, będziesz wiedzieć, że postęp został zapisany w chmurze.",
+                "step-2": "<0>Zamknij grę</0> i ją<0>odinstaluj</0>.",
+                "step-3": "<0>Zainstaluj grę</0> na nowym urządzeniu, postępując zgodnie z tymi samymi instrukcjami, co poprzednio. Zaloguj się przy użyciu danych logowania do portalu."
             }
         }
     }
