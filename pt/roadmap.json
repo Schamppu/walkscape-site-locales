@@ -1,1 +1,42 @@
-{}
+{
+    "singulars": {
+        "devStart": {
+            "date": "17 de agosto de 2022",
+            "title": "O desenvolvimento do jogo começa",
+            "content": "O desenvolvimento do WalkScape começou como um projeto de hobby, no qual Schamppu trabalhava no seu tempo livre."
+        },
+        "maxchill": {
+            "date": "4 de dezembro de 2022",
+            "title": "Maxchill entra para a equipa",
+            "content": "O projeto começa a ganhar popularidade online, especialmente no Reddit, e surge a necessidade de recrutar um artista. Maxchill junta-se à equipa de desenvolvimento."
+        },
+        "originalBeta": {
+            "date": "Verão de 2023",
+            "title": "Lançamento original do Beta Fechado",
+            "content": "A primeira versão beta fechada do WalkScape estava prevista ser lançada durante o verão de 2023. Isto revelou-se um calendário irrealista, e o lançamento teve de ser adiado para o final do ano."
+        },
+        "floursifter": {
+            "date": "12 de outubro de 2023",
+            "title": "Floursifter entra para a equipa",
+            "content": "Floursifter, membro da comunidade WalkScape que dedicou muito do seu tempo livre à criação de conteúdos, fórmulas para o jogo e testes da versão de desenvolvimento para iOS, junta-se à equipa de forma não oficial."
+        },
+        "wave1": {
+            "date": "1 de novembro de 2023",
+            "content": "Para garantir o acesso à primeira versão Beta Fechada do jogo, os jogadores podem apoiar o desenvolvimento do WalkScape no Patreon e no Buy Me a Coffee."
+        },
+        "launch": {
+            "date": "18 de janeiro de 2024",
+            "title": "A versão beta fechada foi lançada",
+            "content": "Foi lançada a primeira versão beta fechada do WalkScape."
+        },
+        "qol": {
+            "date": "16 de fevereiro de 2024"
+        },
+        "meta": {
+            "description": "Um esboço da trajetória de desenvolvimento do WalkScape, tanto no passado como no futuro."
+        },
+        "contentUpdate": {
+            "date": "28 de fevereiro de 2024"
+        }
+    }
+}
