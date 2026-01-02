@@ -1,7 +1,9 @@
 {
   "singulars": {
     "body": {
+      "contact": "Contacto sobre media e negócios devem ser enviadas para <0>contact@walkscape.app</0>.",
       "description": "Se tens duvidas ou precisas de suporte, não hesites em contactar-nos via email para <0>contact@walkscape.app</0> ou pelas nossas redes sociais.",
+      "hiring": "As candidaturas de emprego e as questões sobre recrutamento devem ser enviadas para <0>hiring@walkscape.app</0>.",
       "support": "Se tiveres problemas com o jogo, a tua conta ou o processo de subscrição, contacta-nos via email <0>support@walkscape.app</0> ou através das nossas redes sociais."
     },
     "meta": {
