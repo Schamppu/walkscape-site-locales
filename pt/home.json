@@ -1,4 +1,29 @@
 {
+  "plurals": {
+    "statistics": {
+      "ship": {
+        "few": "-",
+        "many": "-",
+        "one": "Barcos reparados",
+        "other": "Barcos reparados",
+        "two": "-",
+        "zero": "-"
+      },
+      "shrimps": {
+        "few": "-",
+        "many": "-",
+        "other": "Camarões capturados"
+      },
+      "wine": {
+        "few": "-",
+        "many": "-",
+        "one": "Garrafas de vinho encontrados em baús",
+        "other": "Garrafas de vinho encontrados em baús",
+        "two": "-",
+        "zero": "-"
+      }
+    }
+  },
   "singulars": {
     "downloadSection": {
       "section-1": "Nada aqui por enquanto. Mas esperamos que mais cedo ou mais tarde! WalkScape será lançado tanto para iOS como para Android",
