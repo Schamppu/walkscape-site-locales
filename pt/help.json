@@ -10,7 +10,106 @@
             "question": "O jogo dará suporte a outras atividades além de caminhada?"
         },
         "meta": {
-            "title": "WalkScape | Ajuda"
+            "title": "WalkScape | Ajuda",
+            "description": "Encontra as respostas para os problemas mais frequentes."
+        },
+        "title": "Ajuda",
+        "getGame": {
+            "title": "Como obter o jogo",
+            "free": {
+                "title": "Para se inscrever gratuitamente:",
+                "note": "Nota",
+                "instructions-2": "Navegue até à página <1>Conta</1> e selecione <2>Solicitar acesso beta</2>.",
+                "noteContent": "Um número limitado de convites será enviado de cada vez, mas pode garantir o acesso tornando-se um apoiante! Continue a ler se já registou uma conta no portal e <0>apoiou o jogo</0>.",
+                "instructions-3": "Aguarde o convite. Enviamos convites periodicamente, por isso, fique atento à sua caixa de entrada de e-mail.",
+                "instructions-1": "Crie uma conta no portal <0>WalkScape</0>. Certifique-se de verificar o seu endereço de e-mail (os e-mails de verificação acabam por vezes na pasta de spam)."
+            },
+            "oauth": {
+                "instructions-1": "Aceda à página <1>Conta</1>.",
+                "instructions-2": "Selecione o botão <4>Entrar com o Patreon</4> na secção <2>Ligar uma conta do Patreon</2>.",
+                "title": "Ligar a conta ao OAuth (Patreon):",
+                "instructions-4": "Se tudo correr bem, verá um ecrã de sucesso. Nesse caso, a sua conta estará vinculada e o estado da sua subscrição será imediatamente visível no ecrã da conta. Se algo correr mal, pode tentar ligar a conta com e-mail e código, conforme descrito abaixo.",
+                "instructions-3": "O site deverá solicitar as suas credenciais ao Patreon. Introduza o e-mail e a palavra-passe da conta que está registada no WalkScape no Patreon."
+            },
+            "email": {
+                "instructions-2": "Introduza o e-mail utilizado para a sua conta Patreon/BMAC no campo correspondente e clique em <4>OBTER CÓDIGO</4>.",
+                "instructions-3": "Deverá receber um e-mail com um código de verificação no endereço fornecido. Introduza o código na página da conta e clique em <4>VINCULAR CONTA</4>.",
+                "instructions-4": "Isto deverá resolver o problema e o estado da sua assinatura deverá estar visível na página da sua conta. Note que, em alguns casos, a sincronização completa do sistema pode demorar algumas horas.",
+                "title": "Vinculação da conta com e-mail e código (BMAC):"
+            },
+            "instructions-finish": "No entanto, se o processo demorar mais de 4 horas ou se tiver qualquer outro problema, consulte a secção de Perguntas Frequentes abaixo ou entre em <0>contacto connosco</0>."
+        },
+        "faq": {
+            "title": "FAQ",
+            "transfer": {
+                "question": "Comprei um telemóvel novo, como faço para transferir o meu progresso?",
+                "answer": "Por defeito, as suas personagens e progresso são guardados na nuvem, mas é uma boa ideia verificar se o seu progresso foi guardado antes de transferir o jogo. Jogar em dois dispositivos em simultâneo também é contra as regras, por isso, para garantir que não é detectado pelo sistema anti-cheat, deve apagar o jogo do seu dispositivo antigo antes de o abrir no novo. Veja como o fazer:",
+                "step-1": "<0>Abra o jogo</0> no seu dispositivo antigo. Se aceder aos <0>placar de líderes</0> e as suas estatísticas corresponderem às do seu ecrã de competências, saberá que o seu progresso foi guardado na nuvem.",
+                "step-2": "<0>Feche o jogo</0> e <0>desinstale-o</0>.",
+                "step-3": "<0>Instale o jogo</0> no novo dispositivo seguindo as mesmas instruções anteriores. Faça login com as suas credenciais do Portal.",
+                "note": "<0>Nota</0>: O iOS e algumas distribuições Android oferecem a transferência automática de aplicações, mas o WalkScape ainda não é compatível com elas e, na maioria dos casos, exigirá uma reinstalação."
+            },
+            "openGame": {
+                "question": "Com que frequência preciso de abrir o jogo para não perder passos?",
+                "answer": "Uma boa regra geral é abrir o jogo a <0>cada 7 dias</0>. Dependendo da sua plataforma, da fonte de passos (dispositivo wearable ou telemóvel) e de outros fatores fora do nosso controlo, os passos podem ser registados há 10 a 30 dias, mas isto pode variar. Abrir o jogo uma vez por semana deve evitar que perca passos."
+            },
+            "futureMonetization": {
+                "answer-section-1": "<0>Modo offline</0> - Compra única. Poderá pagar uma única vez para descarregar o modo offline do jogo. Receberá futuras atualizações de conteúdo, não precisará de estar online para abrir o jogo e terá um slider que multiplica os seus passos para alcançar a experiência de jogo desejada. Sem funcionalidades multijogador.",
+                "answer-section-3": "<0>Área de jogo gratuita</0> - ambas as versões do jogo terão uma área de jogo gratuita que poderá ser usufruída sem custos.",
+                "question": "Qual é a estratégia futura de monetização do jogo?",
+                "answer-section-2": "<0>Modo online</0> - subscrição mensal acessível. Terá de estar online para jogar, mas receberá futuras atualizações de conteúdo e todas as características multijogador que o jogo oferece."
+            },
+            "ideas": {
+                "question": "Tenho uma ideia genial para o jogo!",
+                "answer": "Adoraríamos ouvir a sua opinião, e o melhor local para a partilhar é no canal <0>⁠sugestões-e-feedback</0> no Discord."
+            },
+            "hiring": {
+                "question": "A organização \"Not a Cult\" está a contratar ou à procura de colaboradores?",
+                "answer-section-3": "Se pretende submeter uma candidatura a uma vaga de emprego, pode fazê-lo através do endereço <0>hiring@walkscape.app</0>",
+                "answer-section-1": "O Not a Cult normalmente não está a contratar, mas estamos sempre à procura de ajuda. Os tradutores são especialmente bem-vindos, uma vez que o projeto é 100% traduzido pela comunidade. Mais informações sobre traduções podem ser encontradas na <0>Wiki<0>",
+                "answer-section-2": "Se houver mais alguma área em que acredite poder ser de especial ajuda, por favor contacte-nos através do endereço <0>contact@walkscape.app</0>"
+            },
+            "support": {
+                "question": "Preciso de ajuda ou preciso de entrar em contacto com a equipa.",
+                "answer-section-2": "Se faz parte dos meios de comunicação social ou precisa de contactar a equipa em nome de outros assuntos oficiais, envie um e-mail para <0>contact@walkscape.app</0>.",
+                "answer-section-1": "Se tiver problemas com o jogo, criação de conta ou pagamentos, por favor contacte-nos através do endereço <0>support@walkscape.app</0>. Em alternativa, contacte @maxchill através do <1>nosso Discord</1>. O Discord é também um bom local para pedir ajuda à nossa comunidade para resolver problemas comuns, uma vez que a equipa de desenvolvimento é pequena e não pode garantir que os e-mails sejam respondidos no mesmo dia."
+            },
+            "closedBetaEnd": {
+                "req-3": "Missões",
+                "req-4": "Combate",
+                "question": "Quando é que o jogo deixará o estado de beta fechado?",
+                "answer": "O WalkScape planeia sair da versão beta fechada assim que tivermos as seguintes funcionalidades em falta:",
+                "req-2": "Negociação"
+            },
+            "designGoals": {
+                "question": "Quais são os objetivos de design da WalkScape?",
+                "answer-section-2": "<0>Jogabilidade sem distrações.</0> Não precisa de manter o jogo aberto enquanto se exercita. O nosso design foi pensado para isso, o que significa que só terá de abri-lo quando chegar a casa. O jogo está equilibrado para que só precise de o abrir uma vez a cada mil a dez mil passos, dependendo dos seus objetivos dentro do jogo.",
+                "answer-section-3": "<0>Características online.</0> Embora ainda não existam muitas no jogo, planeamos oferecer uma variedade de funcionalidades multijogador, incluindo um mercado para vender os seus artigos a outros jogadores, combate PvP e PvE, um sistema de grupos, guildas e muito mais!",
+                "answer-section-4": "<0>Muito conteúdo.</0> O jogo conta já com centenas de itens únicos, dezenas de locais únicos, nove habilidades para melhorar e muitas atividades divertidas para os jogadores.",
+                "answer-section-5": "<0>Sem microtransações ou anúncios.</0> Valorizamos os nossos jogadores e a nossa comunidade e estamos empenhados em evitar práticas de monetização predatórias. Assim sendo, o jogo será oferecido gratuitamente, com opções de compra única ou pagamento de uma taxa de subscrição acessível.",
+                "answer-section-1": "<0>Sem GPS.</0> Em vez disso, o jogo utiliza o pedómetro integrado no seu smartphone, permitindo-lhe jogar numa passadeira ou a caminhar para onde preferir. Além disso, o jogo regista o seu progresso mesmo quando não está aberto ou em utilização."
+            },
+            "whatIs": {
+                "question": "O que é o WalkScape?",
+                "answer": "WalkScape é um RPG inspirado em RuneScape e outros MMORPGs. No entanto, tem uma diferença marcante: não se joga ativamente. Em vez disso, progride caminhando na vida real. O jogo possui um enorme mapa de mundo aberto com mais de cem locais para o jogador explorar. O mundo está repleto de história, NPCs, missões e atividades para o jogador participar, e muito mais! O nosso objetivo com o jogo é incentivar um estilo de vida ativo e promover a saúde física e mental."
+            },
+            "howCanIGet": {
+                "question": "Como posso obter o jogo?",
+                "answer": "O WalkScape está em beta fechada, o que significa que tem de ser convidado para jogar. Convidámos jogadores que preencheram um formulário de inscrição, pois precisamos de novos testadores. O tempo de espera na fila varia, mas a maioria dos jogadores recebe um convite após alguns meses. É garantido que receberá um convite instantâneo para o jogo se tiver apoiado o projeto no Patreon ou no Buy Me a Coffee."
+            },
+            "platforms": {
+                "question": "Em que plataformas está disponível o jogo?",
+                "answer": "O jogo está disponível na Google Play Store (Android) e no Testflight (iOS)."
+            },
+            "treadmill": {
+                "question": "Posso jogar este jogo na passadeira?",
+                "answer": "Sim. Pode jogar o jogo parado no mesmo local, a passear pela casa, na passadeira, enquanto faz compras no supermercado. Jogue onde se sentir seguro."
+            },
+            "smartwatch": {
+                "question": "Os relógios inteligentes são compatíveis?",
+                "answer": "Sim! Os smartwatches são compatíveis com Android e iOS. No entanto, nem todos os dispositivos e fabricantes são compatíveis, mas pode consultar a <0>página Wiki</0> para obter uma lista dos dispositivos compatíveis."
+            },
+            "lastUpdated": "Última atualização"
         }
     }
 }
