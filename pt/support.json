@@ -1,1 +1,44 @@
-{}
+{
+  "singulars": {
+    "benefits": {
+      "all": {
+        "active": "Enquanto a sua adesão estiver ativa:",
+        "color": "<0>Ícone e cor de perfil únicos</0> tanto no jogo como no Portal WalkScape. O seu ícone e cor de perfil corresponderão ao seu nível de assinatura ativo. Terá também o mesmo benefício no Discord.",
+        "discord": "Acesso a um canal exclusivo no Discord com antevisões exclusivas e conversas com os programadores.",
+        "discordRole": "Terá um cargo <0>exclusivo no Discord</0>.",
+        "first": "Após o primeiro pagamento:",
+        "gameTitle": "Um <0>título no jogo</0> para mostrar que nos apoiou durante o lançamento do Beta Fechado.",
+        "invite": "<0>Convite para o beta fechado</0>. Ao apoiar-nos, pode saltar a lista de espera e começar a jogar imediatamente.",
+        "title": "Todas as Associações"
+      },
+      "follower": {
+        "character": "Ao juntar-se a este nível, terá a oportunidade de criar uma opção de personalização de personagens no jogo com a equipa de desenvolvimento.",
+        "patreon": "Disponível apenas no Patreon",
+        "price": "45€ por mês",
+        "role": "Obtém o cargo de <0>Cult Follower</0> no servidor Discord do WalkScape.",
+        "title": "Seguidor do \"culto\""
+      },
+      "leader": {
+        "item": "Ao aderir a este nível, poderá criar um <0>item de jogo</0> com a equipa de desenvolvimento. O artigo terá o seu nome na descrição.",
+        "price": "89,50€ por mês",
+        "role": "Obtém o cargo de <0>Cult Leader</0> no servidor Discord do WalkScape.",
+        "title": "Líder do \"culto\""
+      },
+      "title": "Benefícios para os apoiantes",
+      "walker": {
+        "price": "4,50€-22,50€ por mês",
+        "role": "Obtenha o cargo de <0>Supporter</0> no servidor Discord do WalkScape.",
+        "title": "Todos os Caminhantes"
+      }
+    },
+    "body": {
+      "section-1": "Pode apoiar o desenvolvimento do WalkScape através do Patreon ou do Buy me a Coffee. Os apoiantes do jogo recebem benefícios exclusivos, que estão listados no Patreon e no Buy me a Coffee.",
+      "section-2": "O WalkScape é totalmente financiado pela comunidade, e todo o apoio é muito apreciado. ❤️"
+    },
+    "meta": {
+      "description": "Inscreva-se no nosso Patreon ou Buy Me a Coffee para apoiar o desenvolvimento do WalkScape.",
+      "title": "WalkScape | Apoie-nos"
+    },
+    "title": "Apoie-nos"
+  }
+}
