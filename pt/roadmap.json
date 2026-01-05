@@ -22,7 +22,8 @@
         },
         "wave1": {
             "date": "1 de novembro de 2023",
-            "content": "Para garantir o acesso à primeira versão Beta Fechada do jogo, os jogadores podem apoiar o desenvolvimento do WalkScape no Patreon e no Buy Me a Coffee."
+            "content": "Para garantir o acesso à primeira versão Beta Fechada do jogo, os jogadores podem apoiar o desenvolvimento do WalkScape no Patreon e no Buy Me a Coffee.",
+            "title": "Convite para a primeira leva de apoiantes"
         },
         "launch": {
             "date": "18 de janeiro de 2024",
@@ -30,13 +31,105 @@
             "content": "Foi lançada a primeira versão beta fechada do WalkScape."
         },
         "qol": {
-            "date": "16 de fevereiro de 2024"
+            "date": "16 de fevereiro de 2024",
+            "title": "Grande atualização da qualidade de vida",
+            "content": "Uma grande atualização de qualidade de vida foi lançada. Toda a interface do utilizador foi reformulada e navegar e jogar tornou-se significativamente mais fácil."
         },
         "meta": {
-            "description": "Um esboço da trajetória de desenvolvimento do WalkScape, tanto no passado como no futuro."
+            "description": "Um esboço da trajetória de desenvolvimento do WalkScape, tanto no passado como no futuro.",
+            "title": "WalkScape | Roteiro"
         },
         "contentUpdate": {
-            "date": "28 de fevereiro de 2024"
+            "date": "28 de fevereiro de 2024",
+            "title": "Atualização importante de conteúdos",
+            "content": "A quantidade de conteúdo no jogo foi quase duplicada com a adição de colecionáveis, novos itens, o dobro das atividades e muito mais, em preparação para o lançamento da Onda 2."
+        },
+        "wave2": {
+            "date": "1 de março de 2024",
+            "title": "Convite para a Onda 2",
+            "content": "A segunda leva de convites para o Beta Fechado termina a 31 de março de 2024. Os apoiantes do Patreon e do BMAC, bem como um grande número de jogadores que se inscreveram para o Beta Fechado, terão acesso antes do prazo final, 31 de março."
+        },
+        "wave2patch": {
+            "date": "13 de março de 2024",
+            "title": "Atualização pós-Onda 2",
+            "content": "Foi lançada uma atualização para corrigir novos problemas encontrados pelos jogadores que entraram na segunda vaga."
+        },
+        "myzozoz": {
+            "date": "15 de abril de 2024",
+            "title": "myzozoz entra para a equipa",
+            "content": "Para acelerar o desenvolvimento, inicia-se a procura de um segundo programador e desenvolvedor. No dia 15 de abril, myzozoz inicia as suas atividades como primeiro funcionário oficial da Not A Cult."
+        },
+        "pedometer": {
+            "date": "26 de abril de 2024",
+            "title": "Atualização do pedómetro",
+            "content": "A funcionalidade principal do WalkScape, a contagem de passos, necessita de uma atualização. Foi lançada uma atualização corrigindo vários problemas encontrados pelos utilizadores com o pedómetro. O trabalho de correção do pedómetro continua ao longo de maio de 2024."
+        },
+        "wave2point5": {
+            "date": "1 de junho de 2024",
+            "title": "Convite Onda 2.5",
+            "content": "Como forma de agradecimento a todos os jogadores que apoiaram o jogo desde o final da segunda leva de convites, os convites serão enviados a todos os que apoiaram o jogo no Patreon ou BMAC antes do dia 15 de junho, às 12:00:00 UTC. Os convites começarão a ser enviados a partir de 1 de junho."
+        },
+        "achievements": {
+            "date": "10 de julho de 2024",
+            "title": "Atualização de conquistas lançada",
+            "content": "Pouco depois da onda 2.5, uma atualização de conteúdo significativa adicionou conquistas ao jogo. "
+        },
+        "syrenthia": {
+            "date": "21 de agosto de 2024",
+            "title": "Atualização Syrenthia",
+            "content": "A nossa maior atualização até agora, adicionando reputação de reino, consumíveis e uma região totalmente nova, já está disponível. A equipa está a implementar a atualização remotamente a partir de Colónia, na Alemanha, enquanto participa na Gamescom. A atualização marca também o início da onda 3."
+        },
+        "wave3": {
+            "date": "Agosto-Outubro de 2024",
+            "title": "Onda 3 e PGC",
+            "content": "Durante as seis semanas e meia seguintes, o jogo recebe um fluxo maciço de novos jogadores, à medida que a notícia da terceira vaga chega a mais pessoas do que nunca. O jogo é também apresentado em diversas convenções, ganhando o prémio de escolha do público indie no Pocket Gamer Connects Helsinki."
+        },
+        "localization": {
+            "date": "12 de outubro de 2024",
+            "title": "Onda 3 e PGC",
+            "content": "Foi lançada uma atualização, permitindo aos jogadores alterar o idioma do jogo. Os idiomas suportados nesta primeira leva são (para além do inglês) o alemão, o espanhol, o italiano, o holandês, o polaco e, claro, o finlandês. A maioria das traduções é fornecida pela dedicada comunidade de WalkScape."
+        },
+        "syrenthiaHotfix": {
+            "date": "16 de outubro de 2024",
+            "title": "Correção após a atualização Syrenthia",
+            "content": "Foi lançado um patch que corrige a maioria dos problemas técnicos que os jogadores enfrentaram após a atualização Syrenthia"
+        },
+        "engineUpdate": {
+            "date": "29 de janeiro de 2025",
+            "title": "Atualização do motor e dos conjuntos de engrenagens",
+            "content": "Durante o inverno de 2024-2025, a equipa entra num hiato de mais longo do que nunca, com o maior período sem atualizações até então. Ao longo de mais de três meses, grandes partes do motor de jogo são reescritas para melhorar o desempenho e a estabilidade, além de suportar um conjunto maior de funcionalidades. A primeira funcionalidade a beneficiar disso é o novo sistema de equipamento, lançado simultaneamente."
+        },
+        "devTools": {
+            "date": "Fevereiro de 2025",
+            "title": "Ferramentas de desenvolvimento 2.0",
+            "content": "Após a grande atualização do motor gráfico, a equipa lançou rapidamente novas ferramentas de desenvolvimento para permitir que a equipa de conteúdos trabalhasse de forma mais independente da equipa de programação."
+        },
+        "smartWatch": {
+            "date": "25 de abril de 2025",
+            "content": "Após um inquérito para avaliar a opinião da comunidade, a equipa decide desenvolver suporte para dispositivos wearable no iOS para testar a funcionalidade e lança a atualização em abril.",
+            "title": "Suporte para dispositivos wearable no iOS"
+        },
+        "wave4": {
+            "date": "15 de maio de 2025",
+            "title": "Onda 4 e Atolado",
+            "content": "A quarta vaga começa e milhares de novos jogadores entram no jogo. Utilizando as novas ferramentas de desenvolvimento, a equipa lança uma atualização de conteúdo maior que expande as áreas pantanosas de GDTE."
+        },
+        "party": {
+            "date": "Dezembro de 2024",
+            "title": "Sistema partidário",
+            "content": "A primeira mecânica multijogador real, que permite aos jogadores formar grupos para alcançar objetivos comuns."
+        },
+        "trading": {
+            "title": "Negociação de Jogadores",
+            "content": "Como próxima funcionalidade multijogador massiva, será introduzida a troca de jogadores, trazendo à tona o verdadeiro \"MMO\" no \"MMORPG\" de WalkScape."
+        },
+        "combat": {
+            "title": "Sistema de Combate",
+            "content": "A primeira versão do sistema de combate será testada após a fase de negociações. A equipa está preparada para a possibilidade de a mecânica necessitar de alguns ajustes após o início dos testes."
+        },
+        "quests": {
+            "title": "Missões",
+            "content": "Como último grande recurso, as Missões serão introduzidas para oferecer aos jogadores conteúdo de história cuidadosamente elaborado para jogar."
         }
     }
 }
