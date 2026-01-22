@@ -90,9 +90,9 @@
             "designGoals": {
                 "question": "Quels sont les objectifs de conception de WalkScape ?",
                 "answer-section-1": "<0>Pas de GPS.</0> À la place le jeu utilise le podomètre intégré à votre téléphone, ce qui permet d'y jouer sur un tapis de course ou en marchant où vous le souhaitez. De plus, le jeu suit votre progression même quand il n'est pas ouvert ou actif.",
-                "answer-section-2": "<0>Jouez sans distraction.</0> Vous n'avez pas besoin de garder le jeu ouvert pendant vos activités physiques. Notre concept de jeu est pensé pour cela : il vous suffit d’ouvrir l'application une fois rentré chez vous. Nous avons conçu le jeu pour être équilibré autour d’une ouverture nécessaire toutes les mille à dix mille pas, selon vos objectifs en jeu.",
+                "answer-section-2": "<0>Jouez sans distraction.</0> Vous n'avez pas besoin de garder le jeu ouvert pendant vos activités physiques. Notre concept de jeu est pensé pour cela : il vous suffit d’ouvrir l'application une fois rentré chez vous. Nous avons conçu le jeu pour qu'il soit ouvert tous les mille à dix mille pas, selon vos objectifs en jeu.",
                 "answer-section-4": "<0>Enormément de contenu.</0> Le jeu contient déjà des centaines d'objets uniques, des douzaines de lieux, neuf compétences à améliorer, et des tas d'activités amusantes pour les joueurs.",
-                "answer-section-3": "<0>Fonctionnalités en ligne.</0> Bien que peu d'entre elles soit actuellement en jeu, nous prévoyons d'offrir une pléthore de fonctionnalités multi-joueurs, comprenant un marché où vendre vos objets aux autres joueurs, des combats JcJ et JcE, un système de groupe, des guildes et plus encore !",
+                "answer-section-3": "<0>Fonctionnalités en ligne.</0> Bien que peu d'entre elles soient actuellement en jeu, nous prévoyons d'offrir une pléthore de fonctionnalités multijoueurs, telles qu'un marché où vendre vos objets aux autres joueurs, des combats JcJ et JcE, un système de groupe, des guildes et plus encore !",
                 "answer-section-5": "<0>Aucune microtransaction ni publicité.</0> Nous accordons de l'importance à nos joueurs et à notre communauté, et nous nous engageons à éviter les pratiques de monétisation peu scrupuleuses. Ainsi, le jeu sera jouable gratuitement, avec des options pour l'acheter une fois ou pour payer un abonnement raisonnable."
             },
             "closedBetaEnd": {
@@ -109,15 +109,19 @@
                 "answer": "Oui. Vous pouvez jouer en marchant sur place, dans votre maison, sur un tapis de course, en faisant vos courses. Jouez où bon vous semble."
             },
             "platforms": {
-                "question": "Sur quel plateforme le jeu est-il disponible ?",
+                "question": "Sur quelles plateformes le jeu est-il disponible ?",
                 "answer": "Le jeu est disponible sur Google Play Store (Android) et Testflight (iOS)."
             },
             "smartwatch": {
                 "question": "Est-ce que les montres connectées sont prises en charge ?",
-                "answer": "La version du jeu sur iOS prend déjà les montres connectées en charge, mais la prise en charge sur Android est toujours en cours de développement."
+                "answer": "Oui ! Les montres connectées sont prises en charge sur Android et iOS. Cependant, tous les appareils et marques ne sont pas compatibles, mais vous pouvez vérifier la liste des appareils pris en charge sur la <0>page Wiki</0>."
             },
             "ideas": {
                 "question": "J'ai une bonne idée pour le jeu !"
+            },
+            "transfer": {
+                "answer": "Par défaut, vos personnages et votre progression sont sauvés dans le cloud, mais cela peut être une bonne idée de vérifier que la progressions est sauvée avant de changer d'appareil. De plus, les règles du jeu interdisent de jouer sur deux appareils à la fois, donc vous devriez supprimer le jeu de votre ancien appareil afin éviter d'être repéré par le système anti-triche. Voici les étapes à suivre pour cela :",
+                "question": "J'ai un nouveau téléphone, comment puis-je transférer ma progression ?"
             }
         }
     }
