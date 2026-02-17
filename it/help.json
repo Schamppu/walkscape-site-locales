@@ -86,7 +86,9 @@
             },
             "support": {
                 "answer": "Il modo migliore per contattare il team è inviare un'e-mail a <0>contact@walkscape.app</0>. Si prega di avere pazienza, poiché siamo un piccolo team che cerca di concentrarsi sullo sviluppo e rispondere alle richieste di supporto durante i periodi di maggiore attività potrebbe richiedere fino a una settimana. In alternativa, contatta @maxchill sul <1>our Discord</1>. Non esitate a chiedere su Discord se possiamo aiutarvi con il vostro problema o se dovete contattare l'indirizzo email.",
-                "question": "Ho bisogno di supporto o di contattare il team."
+                "question": "Ho bisogno di supporto o di contattare il team.",
+                "answer-section-1": "Se hai problemi con il gioco, la creazione dell'account o i pagamenti, contattaci all'indirizzo <0>support@walkscape.app</0>. In alternativa, contatta @maxchill sul <1>nostro Discord</1>. Il Discord è anche un ottimo posto dove chiedere supporto alla nostra community per questioni comuni, dato che il team di sviluppo è piccolo e non può garantire che le email ricevano risposta entro lo stesso giorno.",
+                "answer-section-2": "Se fai parte dei media o hai bisogno di contattare il team per motivi di lavoro ufficiali, inviaci un'e-mail all'indirizzo <0>contact@walkscape.app</0>."
             },
             "monetization": {
                 "answer-section-3": "Detto questo, è comunque soggetto a cambiamenti, come qualsiasi altra cosa per un gioco non ancora pronto. Potete aspettarvi informazioni più concrete sui prezzi dopo la closed beta, poiché avremo più dati sui costi del server e sulle altre spese del gioco. Vogliamo che la monetizzazione sia il più accessibile possibile, consentendoci al contempo di gestire un'attività sostenibile.",
@@ -109,7 +111,7 @@
                 "question": "Posso giocare su di un tapis roulant?"
             },
             "smartwatch": {
-                "answer": "Gli smartwatch non sono attualmente supportati nel gioco. Per contare i passi, è necessario avere con sé il telefono. Il supporto è previsto prima del rilascio della open beta del gioco.",
+                "answer": "Sì! Gli smartwatch sono supportati sia su Android che su iOS. Tuttavia, non tutti i dispositivi e i fornitori sono supportati, ma è possibile consultare la <0>pagina Wiki</0> per un elenco dei dispositivi supportati.",
                 "question": "Gli smartwatch sono supportati?"
             },
             "designGoals": {
@@ -136,7 +138,10 @@
             },
             "hiring": {
                 "answer": "Not a Cult non assume solitamente, ma siamo sempre alla ricerca di aiuto. Contatta il nostro @floursifter tramite <0>our Discord</0> per inviare un curriculum o offrirti di aiutare con un aspetto specifico del gioco.",
-                "question": "Is Not a Cult sta assumendo o cercando aiuto?"
+                "question": "Is Not a Cult sta assumendo o cercando aiuto?",
+                "answer-section-3": "Se desideri inviare una candidatura spontanea, puoi farlo all'indirizzo <0>hiring@walkscape.app</0>",
+                "answer-section-2": "Se c'è qualche altro ambito in cui pensi di poter essere di particolare aiuto, puoi contattarci all'indirizzo <0>contact@walkscape.app</0>",
+                "answer-section-1": "Not a Cult non assume personale, ma siamo sempre alla ricerca di collaboratori. Apprezziamo in particolare i traduttori, poiché il progetto è tradotto al 100% dalla comunità. Maggiori informazioni sulle traduzioni sono disponibili su <0>Wiki<0>"
             },
             "futureMonetization": {
                 "answer-section-1": "<0>Offline mode</0> - Acquisto una tantum. Potrai pagare una sola volta per scaricare la modalità offline del gioco. Riceverai futuri aggiornamenti dei contenuti, non dovrai essere online per aprire il gioco e avrai a disposizione un cursore che moltiplica i tuoi passi per raggiungere l'esperienza di gioco desiderata. Nessuna funzionalità multigiocatore.",
@@ -176,6 +181,18 @@
             "platformSupport": {
                 "question": "Sarà disponibile sia per Android che per iOS?",
                 "answer": "Sì! Il gioco è sviluppato con Flutter, che offre un ottimo supporto multipiattaforma. Questo significa che il porting del gioco per entrambi i sistemi operativi non è un problema e non richiede molto lavoro."
+            },
+            "transfer": {
+                "answer": "Per impostazione predefinita, i tuoi personaggi e i tuoi progressi vengono salvati sul cloud, ma è buona norma verificare che i tuoi progressi siano stati salvati prima di passare al nuovo dispositivo. Giocare su due dispositivi è contro le regole, quindi per assicurarti di non essere segnalato dal sistema anti-cheat, dovresti eliminare il gioco dal tuo vecchio dispositivo prima di aprirlo su quello nuovo. Ecco i passaggi da seguire:",
+                "question": "Ho un nuovo telefono, come posso trasferire i miei progressi?",
+                "step-2": "<0>Chiudi il gioco</0> e <0>disinstallalo</0>.",
+                "step-3": "<0>Installa il gioco</0> sul nuovo dispositivo seguendo le stesse istruzioni di prima. Accedi con le tue credenziali del Portale.",
+                "step-1": "<0>Apri il gioco</0> sul tuo vecchio dispositivo. Se vai alla sezione <0>classifiche</0> e le tue statistiche corrispondono a quelle nella schermata delle abilità, significa che i tuoi progressi sono stati salvati sul cloud.",
+                "note": "<0>Nota</0>: iOS e alcune distribuzioni Android consentono il trasferimento automatico delle app, ma WalkScape non è ancora compatibile con tali sistemi e nella maggior parte dei casi sarà necessario reinstallarlo."
+            },
+            "openGame": {
+                "answer": "Una buona regola generale è quella di aprire il gioco <0>ogni 7 giorni</0>. A seconda della piattaforma, della fonte dei passi (dispositivo indossabile o telefono) e di altri fattori al di fuori del nostro controllo, i passi possono essere caricati da 10 a 30 giorni prima, ma questi tempi possono variare. Tuttavia, aprendo il gioco una volta alla settimana dovresti evitare di perdere i tuoi passi.",
+                "question": "Con quale frequenza devo aprire il gioco per non perdere i passi?"
             }
         },
         "meta": {
