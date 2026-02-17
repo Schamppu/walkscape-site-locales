@@ -1,1 +1,33 @@
-{}
+{
+    "singulars": {
+        "originalBeta": {
+            "content": "Il lancio della prima versione della closed beta di WalkScape è previsto per l'estate del 2023. Si tratta di una tempistica irrealistica e il rilascio dovrà essere posticipato alla fine dell'anno.",
+            "date": "Estate 2023",
+            "title": "Lancio della closed beta originale"
+        },
+        "floursifter": {
+            "content": "Floursifter, membro della comunità WalkScape che ha dedicato gran parte del suo tempo libero alla creazione di contenuti, formule di gioco e test della versione di sviluppo iOS, entra a far parte del team in modo non ufficiale.",
+            "date": "12 ottobre 2023",
+            "title": "Floursifter entra a far parte del team"
+        },
+        "meta": {
+            "title": "WalkScape | Tabella di marcia",
+            "description": "Una panoramica dell'evoluzione di WalkScape, sia passata che futura."
+        },
+        "devStart": {
+            "date": "17 agosto 2022",
+            "title": "Inizio dello sviluppo del gioco",
+            "content": "Lo sviluppo di WalkScape nasce come progetto amatoriale, a cui Schamppu lavora nel tempo libero."
+        },
+        "maxchill": {
+            "date": "4 dicembre 2022",
+            "title": "Maxchill entra a far parte del team",
+            "content": "Il progetto inizia a guadagnare popolarità online, specialmente su Reddit, e nasce l'esigenza di reclutare un artista. Maxchill entra a far parte del team di sviluppo."
+        },
+        "wave1": {
+            "date": "1 novembre 2023",
+            "title": "Invita l'Ondata 1 per i sostenitori",
+            "content": "Per garantire l'accesso alla prima versione Closed Beta del gioco, i giocatori possono supportare lo sviluppo di WalkScape su Patreon e Buy Me a Coffee."
+        }
+    }
+}
