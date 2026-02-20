@@ -28,6 +28,111 @@
             "date": "1 novembre 2023",
             "title": "Invita l'Ondata 1 per i sostenitori",
             "content": "Per garantire l'accesso alla prima versione Closed Beta del gioco, i giocatori possono supportare lo sviluppo di WalkScape su Patreon e Buy Me a Coffee."
+        },
+        "engineUpdate": {
+            "date": "29 gennaio 2025",
+            "title": "Aggiornamento del motore e set di equipaggiamento",
+            "content": "Durante l'inverno 2024-2025, il team si ritrova a dover affrontare il periodo più lungo senza aggiornamenti di sempre. Nel corso di oltre tre mesi, ampie parti del motore di gioco vengono riscritte per migliorare prestazioni e stabilità e per supportare un set più ampio di funzionalità. La prima funzionalità a trarre vantaggio da questa novità è il nuovo sistema di equipaggiamento, rilasciato contemporaneamente."
+        },
+        "smartWatch": {
+            "date": "25 aprile 2025",
+            "title": "Supporto indossabile per iOS",
+            "content": "Dopo un sondaggio per sondare l'opinione della comunità, il team decide di sviluppare un supporto indossabile per i dispositivi iOS per testare la funzionalità e rilascia l'aggiornamento ad aprile."
+        },
+        "wave4": {
+            "date": "15 maggio 2025",
+            "title": "Ondata #4 e Aggiornamento Palude",
+            "content": "Inizia l'Ondata #4 e migliaia di nuovi giocatori si uniscono al gioco. Utilizzando i nuovi strumenti di sviluppo, il team rilascia un aggiornamento di contenuti più ampio che si espande nelle aree paludose di GDTE."
+        },
+        "party": {
+            "content": "La prima vera meccanica multigiocatore, che consente ai giocatori di unirsi in gruppo per raggiungere obiettivi comuni.",
+            "title": "Sistema di Gruppo",
+            "date": "Dicembre 2024"
+        },
+        "trading": {
+            "title": "Scambio tra giocatori",
+            "content": "Come prossima funzionalità multigiocatore di massa, verrà introdotto lo scambio di giocatori, facendo emergere davvero il concetto di \"MMO\" nel \"MMORPG\" di WalkScape.",
+            "date": "?"
+        },
+        "combat": {
+            "title": "Sistema di combattimento",
+            "date": "?",
+            "content": "La prima versione del sistema di combattimento verrà testata dopo la fase di trading. Il team è consapevole che la meccanica potrebbe richiedere qualche iterazione una volta iniziati i test."
+        },
+        "quests": {
+            "title": "Missioni",
+            "content": "Come ultima importante caratteristica, verranno introdotte le missioni, che offriranno ai giocatori contenuti narrativi creati a mano da affrontare.",
+            "date": "?"
+        },
+        "launch": {
+            "date": "18 gennaio 2024",
+            "title": "È stata rilasciata la versione beta chiusa",
+            "content": "Viene rilasciata la prima versione Closed Beta di WalkScape."
+        },
+        "qol": {
+            "date": "16 febbraio 2024",
+            "title": "Grande aggiornamento del QoL",
+            "content": "È stato rilasciato un importante aggiornamento che ha migliorato la qualità della vita. L'intera interfaccia utente è stata rielaborata e la navigazione e il gioco sono diventati notevolmente più semplici."
+        },
+        "contentUpdate": {
+            "date": "28 febbraio 2024",
+            "title": "Importante aggiornamento dei contenuti",
+            "content": "La quantità di contenuti di gioco è quasi raddoppiata aggiungendo oggetti collezionabili, nuovi oggetti, il doppio delle attività e altro ancora per prepararsi al lancio della Ondata #2."
+        },
+        "wave2": {
+            "date": "1 marzo 2024",
+            "title": "Invito a Ondata #2",
+            "content": "La seconda Ondata di inviti alla Closed Beta termina il 31 marzo 2024. I sostenitori di Pateron e BMAC e un gran numero di giocatori che hanno fatto domanda per la Closed Beta avranno accesso prima della data limite, il 31 marzo."
+        },
+        "wave2patch": {
+            "date": "13 marzo 2024",
+            "title": "Patch post-Ondata #2",
+            "content": "È stato rilasciato un aggiornamento per risolvere i nuovi problemi riscontrati dai giocatori che si sono uniti all'Ondata #2."
+        },
+        "myzozoz": {
+            "date": "15 aprile 2024",
+            "title": "myzozoz si unisce al team",
+            "content": "Per accelerare lo sviluppo, viene avviata la ricerca di un secondo programmatore e sviluppatore. Il 15 aprile, myzozoz inizia a lavorare come primo dipendente ufficiale di Not A Cult."
+        },
+        "pedometer": {
+            "date": "26 aprile 2024",
+            "title": "Aggiornamento contapassi",
+            "content": "Ormai la funzionalità principale di WalkScape, il conteggio dei passi, necessita di un aggiornamento. È stato rilasciato un aggiornamento che risolve molti problemi riscontrati dagli utenti con il contapassi. I lavori di miglioramento del contapassi proseguono per tutto maggio 2024."
+        },
+        "wave2point5": {
+            "date": "1 giugno 2024",
+            "title": "Invito all'Ondata #2.5",
+            "content": "Per ringraziare tutti i giocatori che hanno supportato il gioco dalla fine della seconda ondata di inviti, gli inviti vengono inviati a tutti coloro che hanno supportato il gioco su Patreon o BMAC entro il 15 giugno alle 12:00:00 UTC. Gli inviti inizieranno a essere distribuiti il 1° giugno."
+        },
+        "achievements": {
+            "date": "10 luglio 2024",
+            "title": "Rilasciato l'aggiornamento degli obiettivi",
+            "content": "Poco dopo l'Ondata #2.5, un importante aggiornamento dei contenuti ha aggiunto obiettivi al gioco. "
+        },
+        "syrenthia": {
+            "date": "21 agosto 2024",
+            "title": "Aggiornamento Syrenthia",
+            "content": "Il nostro più grande aggiornamento finora, che aggiunge reputazione di regno, consumabili e una regione completamente nuova, è disponibile. Il team distribuisce l'aggiornamento da remoto da Colonia, in Germania, mentre è presente alla Gamescom. L'aggiornamento segna anche l'inizio della Ondata #3."
+        },
+        "wave3": {
+            "date": "Agosto-Ottobre 2024",
+            "title": "Ondata #3 e PGC",
+            "content": "Per le successive sei settimane e mezzo, il gioco registra un massiccio afflusso di nuovi giocatori, poiché la notizia della Ondata #3 raggiunge più persone che mai. Il gioco viene anche presentato in diverse convention, vincendo il premio del pubblico indipendente al Pocket Gamer Connects di Helsinki."
+        },
+        "localization": {
+            "date": "12 ottobre 2024",
+            "title": "Ondata #3 e PGC",
+            "content": "È stato rilasciato un aggiornamento che consente ai giocatori di cambiare la lingua di gioco. Le lingue supportate nella prima ondata sono (oltre all'inglese) tedesco, spagnolo, italiano, olandese, polacco e, naturalmente, finlandese. La maggior parte delle traduzioni è fornita dalla laboriosa community di WalkScape."
+        },
+        "syrenthiaHotfix": {
+            "date": "16 ottobre 2024",
+            "title": "Hotfix dopo l'aggiornamento di Syrenthia",
+            "content": "È stata rilasciata una patch che risolve la maggior parte dei problemi tecnici riscontrati dai giocatori dopo l'aggiornamento di Syrenthia"
+        },
+        "devTools": {
+            "date": "Febbraio 2025",
+            "content": "Dopo l'importante aggiornamento del motore, il team ha rapidamente implementato nuovi strumenti di sviluppo per consentire al team dei contenuti di lavorare in modo più indipendente dal team di programmazione.",
+            "title": "Strumenti di sviluppo 2.0"
         }
     }
 }
