@@ -15,7 +15,7 @@
                 "title": "Konto ühendamine OAuthi kaudu (Patreon):",
                 "instructions-1": "Liigu <1>Konto</1> leheküljele.",
                 "instructions-2": "Vali <4>Logi sisse Patreoniga</4> nupp <2>Patreoni konto ühendamise</2> osas.",
-                "instructions-3": "See lehekülg küsib sinu Patreoni kasutajatunnuseid. Sisesta oma konto e-post ja parool, millega oled WalkScape’i Patreonis tellinud."
+                "instructions-3": "See lehekülg küsib teie Patreoni kasutajatunnust ja parooli. Sisestage konto e-post ja parool, millega olete Patreonis WalkScape’i tellinud."
             },
             "title": "Kuidas mängule ligipääs saada",
             "email": {
@@ -50,7 +50,7 @@
             "designGoals": {
                 "answer-section-4": "<0>Tegevust jätkub!</0> Juba praegu on mängus sadu unikaalseid esemeid, tosinaid huvitavaid asukohti mida avastada, kümme oskust mida arendada ning palju eri lõbusaid tegevusi milles osaleda.",
                 "question": "Mis on WalkScape'i disaini eesmärgid?",
-                "answer-section-1": "<0>GPS-i ei kasutata.</0> Selle asemel kasutab mäng sinu telefoni sisseehitatud sammulugejat, mis võimaldab mängida nii jooksulindil kui ka igal pool mujal kõndides. Mäng salvestab sinu edenemist ka siis, kui see pole avatud ega aktiivne.",
+                "answer-section-1": "<0>GPS-i ei kasutata.</0> Selle asemel kasutab mäng teie telefoni sisseehitatud sammulugejat, mis võimaldab mängida nii jooksulindil kui ka mujal kõndides. Mäng salvestab teie edenemist ka siis, kui see pole lahti ega aktiivne.",
                 "answer-section-2": "<0>Segamatu mängukogemus.</0> Kõndimise ajal ei pea mäng avatud olema. Meie mängudisain on selle mõttega üles ehitatud – mängu on vaja avada vaid siis, kui koju naased. Tasakaalustame mängu nii, et seda oleks vaja avada vaid iga tuhande kuni kümne tuhande sammu järel, olenevalt sinu mängusisestest eesmärkidest.",
                 "answer-section-3": "<0>Online funktsionaalsus.</0> Neid hetkel palju ei ole, aga plaanime tulevikus luua mitmeid uusi võimalusi. Näiteks turg, kus saad müüa teistele mängijatele oma esemeid, PvP ja PvE võitlus, grupisüsteem, gildid ja palju muud!",
                 "answer-section-5": "<0>Reklaame ega mikrotehinguid mängus ei ole.</0> Me hindame oma mängijaid ja kogukonda ning seepärast väldime agressiivseid raha teenimise meetodeid. Mängu saab mängida tasuta, kuid on ka võimalusi rahaliseks toetamiseks – kas ühekordselt või kuupõhiselt."
