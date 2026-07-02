@@ -1,1 +1,8 @@
-{}
+{
+  "singulars": {
+    "meta": {
+      "description": "聯絡方法"
+    },
+    "title": "聯絡我們"
+  }
+}
