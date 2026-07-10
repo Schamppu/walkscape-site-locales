@@ -119,6 +119,51 @@
       "title": "Party System",
       "content": "The first real multiplayer mechanic, which allows players to party up to reach common goals."
     },
+    "adventurersGuild": {
+      "date": "12th of June, 2025",
+      "title": "New Players & Adventurer's' Guild Update",
+      "content": "Two updates were released that added content aimed to improve early game experience, quality of life improvements, and various enhancements to the existing Adventurers' Guild."
+    },
+    "travelplus1": {
+      "date": "7th of July, 2025",
+      "title": "Travel +1 Update",
+      "content": "Major server rework, rumors mechanic, and a lot of minor feature additions.  But most importantly, added the ability to queue activities to reduce tedious micromanagement."
+    },
+    "factionChest": {
+      "date": "22nd of August, 2025",
+      "title": "Faction Chest Update",
+      "content": "New mechanics related to faction reputation and a lot of new items, jobs, and content related to the existing Factions in the game."
+    },
+    "ota": {
+      "date": "27th of November, 2025",
+      "title": "OTA Update",
+      "content": "In a more technical update, content distribution is moved from built-in assets to dynamic, over-the-air (OTA) downloads, allowing for faster content development and deployment."
+    },
+    "goingSouth": {
+      "date": "16th of December, 2025",
+      "title": "Going South Update",
+      "content": "A major content udpate, powered by the new OTA system drops and introduces a large amount of new locations to the game, alongside pets, the mysterious merchant and much more!"
+    },
+    "crushy": {
+      "date": "1st of February, 2026",
+      "title": "Crushy joins the team",
+      "content": "After a laborious recruitment process, our team expands with another person: Crushy!"
+    },
+    "huntingTailoring": {
+      "date": "18th of March, 2026",
+      "title": "Hunting & Tailoring Update",
+      "content": "The Hunting and Tailoring update is released, adding two new skills, and a lot of new content to the game."
+    },
+    "worldMap": {
+      "date": "6th of May, 2026",
+      "title": "World Map Update",
+      "content": "Crushy's first major contribution is released in the form of a completely overhauled world map. Over subsequent minor patches maxchill is finally able to replace the last of the AI generated placeholder assets with fully handcrafted images."
+    },
+    "releaseOfTheBeast": {
+      "date": "1st of July, 2026",
+      "title": "Release of the Beast Update",
+      "content": "The Release of the Beast update is released, celebrating build number +666 of the game. Highlights of the update include the new mailbox system and expanded achievement track rewards"
+    },
     "trading": {
       "date": "",
       "title": "Player Trading",
