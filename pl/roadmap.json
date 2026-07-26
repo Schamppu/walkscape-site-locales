@@ -143,6 +143,51 @@
             "date": "15 maja 2025",
             "title": "Fala 4 § Bagna",
             "content": "Rozpoczyna się fala 4 i do gry dołączają tysiące nowych graczy. Korzystając z nowych narzędzi programistycznych, zespół wydaje większą aktualizację treści, która rozszerza obszary bagienne GDTE."
+        },
+        "adventurersGuild": {
+            "date": "12 czerwca 2025",
+            "title": "Aktualizacja dla nowych graczy & Gildia Poszukiwaczy Przygód",
+            "content": "Wydano dwie aktualizacje wprowadzające zawartość mającą na celu poprawę wrażeń z początkowego etapu gry, udogodnienia zwiększające komfort rozgrywki oraz szereg ulepszeń istniejącej Gildii Poszukiwaczy Przygód."
+        },
+        "travelplus1": {
+            "date": "7 lipca 2025",
+            "title": "Aktualizacja Podróżowania + 1",
+            "content": "Gruntowna przebudowa serwera, mechanika plotek oraz wiele drobnych usprawnień. Co jednak najważniejsze – dodano możliwość kolejkowania czynności, co ogranicza uciążliwe mikrozarządzanie."
+        },
+        "factionChest": {
+            "date": "22 sierpnia 2025",
+            "title": "Skrzynie Frakcyjne",
+            "content": "Nowe mechaniki związane z reputacją u frakcji oraz mnóstwo nowych przedmiotów, zadań i zawartości dotyczącej istniejących w grze frakcji."
+        },
+        "ota": {
+            "title": "Aktualizacja OTA",
+            "date": "27 listopada 2025",
+            "content": "W ramach aktualizacji o charakterze technicznym dystrybucję zawartości przeniesiono z zasobów wbudowanych na dynamiczne pobieranie drogą bezprzewodową (OTA), co umożliwia szybsze tworzenie i wdrażanie treści."
+        },
+        "crushy": {
+            "date": "1 lutego 2026",
+            "title": "Crushy dołącza do zespołu",
+            "content": "Po żmudnym procesie rekrutacji nasz zespół powiększa się o kolejną osobę: Crushy!"
+        },
+        "goingSouth": {
+            "date": "16 grudnia 2025",
+            "title": "Podróż Na Południe",
+            "content": "Nadchodzi duża aktualizacja zawartości, obsługiwana przez nowy system OTA, która wprowadza do gry mnóstwo nowych lokacji, a także zwierzaki, tajemniczego kupca i wiele więcej!"
+        },
+        "huntingTailoring": {
+            "date": "18 marca 2026",
+            "title": "Myślistwo & Krawiectwo",
+            "content": "„Myślistwo i Krawiectwo” – udostępniono aktualizację wprowadzającą do gry dwie nowe umiejętności oraz mnóstwo nowej zawartości."
+        },
+        "worldMap": {
+            "date": "6 maja 2026",
+            "title": "Aktualizacja Mapy Świata",
+            "content": "Pierwszy istotny wkład Crushy’ego to całkowicie przebudowana mapa świata. Dzięki kolejnym, mniejszym aktualizacjom Maxchill może wreszcie zastąpić ostatnie elementy zastępcze wygenerowane przez sztuczną inteligencję grafikami w pełni wykonanymi ręcznie."
+        },
+        "releaseOfTheBeast": {
+            "date": "1 lipca 2026",
+            "title": "Aktualizacja \"Bestia\"",
+            "content": "Ukazała się aktualizacja \"Bestia\", świętująca osiągnięcie przez grę numeru kompilacji +666. Do najważniejszych nowości należą nowy system poczty oraz rozszerzone nagrody za zdobywanie osiągnięć"
         }
     }
 }
