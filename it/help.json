@@ -51,7 +51,7 @@
         "getGame": {
             "free": {
                 "instructions-3": "Attendi un invito. Ogni tanto inviamo inviti, quindi tieni d'occhio la tua casella di posta elettronica.",
-                "noteContent": "Verrà inviato un numero limitato di inviti alla volta, ma puoi assicurarti l'accesso diventando un sostenitore! Continua a leggere se hai già registrato un account sul portale e <0>support the game</0>.",
+                "noteContent": "Verrà inviato un numero limitato di inviti alla volta, ma puoi assicurarti l'accesso diventando un sostenitore! Continua a leggere se hai già registrato un account sul Portal e <0>sostenuto il gioco</0>.",
                 "title": "Per registrarsi gratuitamente:",
                 "note": "Nota",
                 "instructions-1": "Crea un profilo sul <0>WalkScape Portal</0>. Assicurati di verificare il tuo indirizzo email (l'email di verifica a volte finisce nella cartella di spam).",
@@ -75,13 +75,13 @@
         },
         "faq": {
             "whatIs": {
-                "answer": "WalkScape è un gioco RPG ispirato da RuneScape e altri MMORPG, Però, ha una sorprendente differenza: non giochi attivamente. Piuttosto, progredisci nel gioco camminando nel mondo reale. Il gioco ha una vasta mappa open-world con oltre cento punti di interesse da esplorare. Il mondo è ricco di storie, PNG, missioni, e attività su cui svagarsi, e molto altro! Il nostro obbiettivo con il gioco è incoraggiare uno stile di vita attivo e promuovere una salute sia fisica che mentale.",
+                "answer": "WalkScape è un gioco RPG ispirato da RuneScape e altri MMORPG. Però ha una sorprendente differenza: non giochi attivamente. Piuttosto, progredisci nel gioco camminando nel mondo reale. Il gioco ha una vasta mappa open-world con oltre cento punti di interesse da esplorare. Il mondo è ricco di storie, PNG, missioni, e attività su cui svagarsi, e molto altro! Il nostro obbiettivo con il gioco è incoraggiare uno stile di vita attivo e promuovere una salute sia fisica che mentale.",
                 "question": "Cos'è WalkScape?"
             },
             "title": "FAQ",
             "lastUpdated": "Ultimo Aggiornamento",
             "howCanIGet": {
-                "answer": "WalkScape è in versione beta chiusa, il che significa che è necessario essere invitati per giocare. Invitiamo i giocatori che hanno compilato una domanda di iscrizione, poiché abbiamo bisogno di nuovi tester. I tempi di attesa variano, ma la maggior parte dei giocatori riceve un invito in pochi mesi. Ti verrà garantito un invito immediato al gioco se hai supportato il progetto su Patreon o Buy Me a Coffee.",
+                "answer": "WalkScape è in Closed Beta, il che significa che è necessario essere invitati per giocare. Invitiamo i giocatori che hanno compilato una domanda di iscrizione, poiché abbiamo bisogno di nuovi tester. I tempi di attesa variano, ma la maggior parte dei giocatori riceve un invito in pochi mesi. Ti verrà garantito un invito immediato al gioco se hai supportato il progetto su Patreon o Buy Me a Coffee.",
                 "question": "Come posso ottenere il gioco?"
             },
             "support": {
@@ -154,12 +154,12 @@
                 "question": "Saranno supportati gli smartwatch e i braccialetti intelligenti?"
             },
             "closedBetaEnd": {
-                "question": "Quando uscirà il gioco dallo stato di closed beta?",
-                "answer": "WalkScape prevede di abbandonare la versione beta chiusa non appena avremo le seguenti funzionalità mancanti:",
+                "question": "Quando il gioco uscirà dalla Closed Beta?",
+                "answer": "WalkScape prevede di uscire dalla Closed Beta non appena avremo le seguenti funzionalità mancanti:",
                 "req-1": "Supporto per dispositivi smartwatch",
                 "req-3": "Missioni",
-                "req-4": "Combattimenti",
-                "req-2": "Commercio"
+                "req-4": "Sistema di combattimento",
+                "req-2": "Scambi tra giocatori"
             },
             "platforms": {
                 "question": "Su quali piattaforme è disponibile il gioco?",
@@ -186,7 +186,7 @@
                 "answer": "Per impostazione predefinita, i tuoi personaggi e i tuoi progressi vengono salvati sul cloud, ma è buona norma verificare che i tuoi progressi siano stati salvati prima di passare al nuovo dispositivo. Giocare su due dispositivi è contro le regole, quindi per assicurarti di non essere segnalato dal sistema anti-cheat, dovresti eliminare il gioco dal tuo vecchio dispositivo prima di aprirlo su quello nuovo. Ecco i passaggi da seguire:",
                 "question": "Ho un nuovo telefono, come posso trasferire i miei progressi?",
                 "step-2": "<0>Chiudi il gioco</0> e <0>disinstallalo</0>.",
-                "step-3": "<0>Installa il gioco</0> sul nuovo dispositivo seguendo le stesse istruzioni di prima. Accedi con le tue credenziali del Portale.",
+                "step-3": "<0>Installa il gioco</0> sul nuovo dispositivo seguendo le stesse istruzioni di prima. Accedi con le tue credenziali del Portal.",
                 "step-1": "<0>Apri il gioco</0> sul tuo vecchio dispositivo. Se vai alla sezione <0>classifiche</0> e le tue statistiche corrispondono a quelle nella schermata delle abilità, significa che i tuoi progressi sono stati salvati sul cloud.",
                 "note": "<0>Nota</0>: iOS e alcune distribuzioni Android consentono il trasferimento automatico delle app, ma WalkScape non è ancora compatibile con tali sistemi e nella maggior parte dei casi sarà necessario reinstallarlo."
             },
