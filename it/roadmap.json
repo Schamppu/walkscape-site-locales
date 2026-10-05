@@ -1,9 +1,9 @@
 {
     "singulars": {
         "originalBeta": {
-            "content": "Il lancio della prima versione della closed beta di WalkScape è previsto per l'estate del 2023. Si tratta di una tempistica irrealistica e il rilascio dovrà essere posticipato alla fine dell'anno.",
+            "content": "Il lancio della prima versione della Closed Beta di WalkScape è previsto per l'estate del 2023. Si tratta di una tempistica irrealistica e il rilascio dovrà essere posticipato alla fine dell'anno.",
             "date": "Estate 2023",
-            "title": "Lancio della closed beta originale"
+            "title": "Lancio della Closed Beta originale"
         },
         "floursifter": {
             "content": "Floursifter, membro della comunità WalkScape che ha dedicato gran parte del suo tempo libero alla creazione di contenuti, formule di gioco e test della versione di sviluppo iOS, entra a far parte del team in modo non ufficiale.",
@@ -26,7 +26,7 @@
         },
         "wave1": {
             "date": "1 novembre 2023",
-            "title": "Invita l'Ondata 1 per i sostenitori",
+            "title": "Ondata di inviti #1 per i sostenitori",
             "content": "Per garantire l'accesso alla prima versione Closed Beta del gioco, i giocatori possono supportare lo sviluppo di WalkScape su Patreon e Buy Me a Coffee."
         },
         "engineUpdate": {
@@ -36,7 +36,7 @@
         },
         "smartWatch": {
             "date": "25 aprile 2025",
-            "title": "Supporto indossabile per iOS",
+            "title": "Supporto ai dispositivi indossabili per iOS",
             "content": "Dopo un sondaggio per sondare l'opinione della comunità, il team decide di sviluppare un supporto indossabile per i dispositivi iOS per testare la funzionalità e rilascia l'aggiornamento ad aprile."
         },
         "wave4": {
@@ -51,13 +51,13 @@
         },
         "trading": {
             "title": "Scambio tra giocatori",
-            "content": "Come prossima funzionalità multigiocatore di massa, verrà introdotto lo scambio di giocatori, facendo emergere davvero il concetto di \"MMO\" nel \"MMORPG\" di WalkScape.",
+            "content": "Come prossima funzionalità multigiocatore di massa, verrà introdotto lo scambio tra giocatori, facendo emergere davvero il concetto di \"MMO\" nel \"MMORPG\" di WalkScape.",
             "date": "?"
         },
         "combat": {
             "title": "Sistema di combattimento",
             "date": "?",
-            "content": "La prima versione del sistema di combattimento verrà testata dopo la fase di trading. Il team è consapevole che la meccanica potrebbe richiedere qualche iterazione una volta iniziati i test."
+            "content": "La prima versione del sistema di combattimento verrà testata dopo l'introduzione degli scambi tra giocatori. Il team è consapevole che la meccanica potrebbe richiedere qualche iterazione una volta iniziati i test."
         },
         "quests": {
             "title": "Missioni",
@@ -66,12 +66,12 @@
         },
         "launch": {
             "date": "18 gennaio 2024",
-            "title": "È stata rilasciata la versione beta chiusa",
+            "title": "Rilascio della Closed Beta",
             "content": "Viene rilasciata la prima versione Closed Beta di WalkScape."
         },
         "qol": {
             "date": "16 febbraio 2024",
-            "title": "Grande aggiornamento del QoL",
+            "title": "Grande aggiornamento di qualità della vita",
             "content": "È stato rilasciato un importante aggiornamento che ha migliorato la qualità della vita. L'intera interfaccia utente è stata rielaborata e la navigazione e il gioco sono diventati notevolmente più semplici."
         },
         "contentUpdate": {
@@ -133,6 +133,51 @@
             "date": "Febbraio 2025",
             "content": "Dopo l'importante aggiornamento del motore, il team ha rapidamente implementato nuovi strumenti di sviluppo per consentire al team dei contenuti di lavorare in modo più indipendente dal team di programmazione.",
             "title": "Strumenti di sviluppo 2.0"
+        },
+        "huntingTailoring": {
+            "content": "Viene rilasciato l'aggiornamento Caccia e Sartoria, che aggiunge due nuove abilità e moltissimi nuovi contenuti al gioco.",
+            "date": "18 marzo 2026",
+            "title": "Aggiornamento Caccia e Sartoria"
+        },
+        "ota": {
+            "content": "Un aggiornamento più tecnico: la distribuzione dei contenuti passa dalle risorse integrate nell'app a download dinamici over-the-air (OTA), che permettono di sviluppare e pubblicare i contenuti più rapidamente.",
+            "date": "27 novembre 2025",
+            "title": "Aggiornamento OTA"
+        },
+        "adventurersGuild": {
+            "date": "12 giugno 2025",
+            "title": "Aggiornamento Nuovi giocatori e Gilda degli Avventurieri",
+            "content": "Sono stati rilasciati due aggiornamenti che hanno aggiunto contenuti pensati per migliorare l'esperienza iniziale di gioco, miglioramenti della qualità della vita e vari potenziamenti alla Gilda degli Avventurieri."
+        },
+        "travelplus1": {
+            "date": "7 luglio 2025",
+            "title": "Aggiornamento Viaggio +1",
+            "content": "Importante revisione dei server, la meccanica delle voci e molte piccole funzionalità aggiuntive. Ma soprattutto, è stata aggiunta la possibilità di mettere in coda le attività per ridurre la noiosa microgestione."
+        },
+        "factionChest": {
+            "date": "22 agosto 2025",
+            "title": "Aggiornamento Forziere di fazione",
+            "content": "Nuove meccaniche legate alla reputazione di fazione e molti nuovi oggetti, incarichi e contenuti legati alle fazioni già presenti nel gioco."
+        },
+        "goingSouth": {
+            "date": "16 dicembre 2025",
+            "title": "Aggiornamento Verso Sud",
+            "content": "Un importante aggiornamento dei contenuti, reso possibile dal nuovo sistema OTA, che introduce nel gioco moltissimi nuovi luoghi, insieme agli animali domestici, al Mercante Misterioso e molto altro!"
+        },
+        "crushy": {
+            "date": "1 febbraio 2026",
+            "title": "Crushy entra a far parte del team",
+            "content": "Dopo un lungo processo di selezione, il nostro team si allarga con un'altra persona: Crushy!"
+        },
+        "worldMap": {
+            "date": "6 maggio 2026",
+            "title": "Aggiornamento Mappa del mondo",
+            "content": "Viene rilasciato il primo grande contributo di Crushy: una mappa del mondo completamente rinnovata. Con le successive patch minori, maxchill riesce finalmente a sostituire le ultime immagini provvisorie generate dall'IA con immagini interamente disegnate a mano."
+        },
+        "releaseOfTheBeast": {
+            "date": "1 luglio 2026",
+            "title": "Aggiornamento Il Rilascio della Bestia",
+            "content": "Viene rilasciato l'aggiornamento Il Rilascio della Bestia, che celebra la build numero +666 del gioco. Tra le novità principali ci sono il nuovo sistema della casella di posta e le ricompense ampliate del percorso degli obiettivi."
         }
     }
 }
