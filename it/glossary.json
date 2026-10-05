@@ -13,7 +13,7 @@
       "support": "Sostienici"
     },
     "consent": {
-      "prompt": "Questo sito web utilizza i cookie. Facendo clic su 'Accetta' acconsentirai a questo utilizzo. Puoi leggere la nostra informativa sulla privacy qui."
+      "prompt": "Questo sito web utilizza i cookie. Facendo clic su 'Accetta' acconsentirai a questo utilizzo. Puoi leggere la nostra <0>informativa sulla privacy qui</0>."
     },
     "footer": {
       "copyright": "Tutti i diritti sono riservati da Not a Cult Oy",
@@ -26,7 +26,7 @@
       "portal": "Portal",
       "presskit": "Kit Stampa",
       "register": "Registrati",
-      "roadmap": "In futuro",
+      "roadmap": "Tabella di marcia",
       "store": "Negozio",
       "support": "Sostienici",
       "wiki": "Wiki"
