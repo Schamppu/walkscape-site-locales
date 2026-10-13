@@ -57,7 +57,7 @@
     "callToAction": {
       "playNow": "Gioca Ora!",
       "registerNow": "<0>Registrati adesso</0> per candidarti ad un invito o per <1>supportarci</1> garantendoti l'accesso!",
-      "supportToStart": "I sostenitori di Patreon e Buy Me a Coffee possono ora iniziare a giocare immediatamente!",
+      "supportToStart": "I sostenitori di <0>Patreon</0> e <1>Buy Me a Coffee</1> possono iniziare a giocare subito!",
       "waveActive": "Stiamo mandando adesso gli inviti per la Beta!",
       "waveUndefined": "La prossima ondata della Closed Beta sta arrivando! Iscriviti alla nostra <0>newsletter</0> e seguici sui nostri <1>social media</1> per rimanere aggiornato!"
     },
